@@ -2351,20 +2351,6 @@
         },
         {
           "node_type": "item",
-          "title": "Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic Adaptation. [PUB",
-          "description": "] [CODE]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-14T14:51:40Z",
-            "owner": "MoratalYang",
-            "repo": "FedDDA",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning. [PUB",
           "description": "] [CODE]",
           "children": [],
@@ -2374,6 +2360,20 @@
             "last_commit": "2025-06-19T07:19:20Z",
             "owner": "Hongyao-Chen",
             "repo": "HybridBN",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic Adaptation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-14T14:51:40Z",
+            "owner": "MoratalYang",
+            "repo": "FedDDA",
             "stars": 9
           }
         },
@@ -3970,7 +3970,7 @@
             "last_commit": "2024-08-10T04:52:35Z",
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1540
+            "stars": 1541
           }
         },
         {
@@ -5075,7 +5075,7 @@
             "last_commit": "2023-05-09T02:40:06Z",
             "owner": "akhilmathurs",
             "repo": "orchestra",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -6377,7 +6377,7 @@
             "last_commit": "2025-10-28T12:44:12Z",
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4054
+            "stars": 4056
           }
         },
         {
@@ -6827,7 +6827,7 @@
             "last_commit": "2024-08-10T04:52:35Z",
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1540
+            "stars": 1541
           }
         },
         {
@@ -6992,7 +6992,7 @@
             "last_commit": "2024-08-10T04:52:35Z",
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1540
+            "stars": 1541
           }
         },
         {
@@ -7157,7 +7157,7 @@
             "last_commit": "2024-08-10T04:52:35Z",
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1540
+            "stars": 1541
           }
         },
         {
@@ -7171,7 +7171,7 @@
             "last_commit": "2024-08-10T04:52:35Z",
             "owner": "alibaba",
             "repo": "FederatedScope",
-            "stars": 1540
+            "stars": 1541
           }
         },
         {
@@ -8720,7 +8720,7 @@
             "last_commit": "2024-07-16T12:17:49Z",
             "owner": "XeniaLLL",
             "repo": "FedU2",
-            "stars": 11
+            "stars": 10
           }
         },
         {
@@ -8884,10 +8884,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:26:11Z",
+            "last_commit": "2026-08-14T04:22:44Z",
             "owner": "NVIDIA",
             "repo": "NVFlare",
-            "stars": 955
+            "stars": 956
           }
         },
         {
@@ -9335,7 +9335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:00:44.190Z",
+    "last_updated": "2026-08-14T11:58:10.611Z",
     "original_repository": "youngfish42/Awesome-FL",
     "original_repository_sha": "34b4ddca1fbf9a61023011ea805efe0b1b7aa9eb",
     "enhanced_repository": "enhansome/enhansome-Awesome-FL",
