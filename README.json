@@ -1083,7 +1083,7 @@
             "last_commit": "2024-11-11T07:26:26Z",
             "owner": "TsingZ0",
             "repo": "FedALA",
-            "stars": 150
+            "stars": 149
           }
         },
         {
@@ -1628,7 +1628,7 @@
             "last_commit": "2023-05-27T03:42:46Z",
             "owner": "dawenzi098",
             "repo": "SFL-Structural-Federated-Learning",
-            "stars": 58
+            "stars": 57
           }
         },
         {
@@ -5047,7 +5047,7 @@
             "last_commit": "2023-04-01T03:36:05Z",
             "owner": "jhcknzzm",
             "repo": "Federated-Learning-Backdoor",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -5754,7 +5754,7 @@
             "last_commit": "2024-10-31T22:12:13Z",
             "owner": "zhuangdizhu",
             "repo": "FedGen",
-            "stars": 263
+            "stars": 261
           }
         },
         {
@@ -6032,7 +6032,7 @@
             "last_commit": "2021-12-29T06:46:18Z",
             "owner": "ml-postech",
             "repo": "gradient-inversion-generative-image-prior",
-            "stars": 50
+            "stars": 49
           }
         },
         {
@@ -6046,7 +6046,7 @@
             "last_commit": "2023-06-08T00:08:08Z",
             "owner": "Oxfordblue7",
             "repo": "GCFL",
-            "stars": 46
+            "stars": 45
           }
         },
         {
@@ -6060,7 +6060,7 @@
             "last_commit": "2021-10-29T19:11:03Z",
             "owner": "jeremy313",
             "repo": "FL-WBC",
-            "stars": 44
+            "stars": 43
           }
         },
         {
@@ -6107,20 +6107,6 @@
         },
         {
           "node_type": "item",
-          "title": "CAFE: Catastrophic Data Leakage in Vertical Federated Learning. [PUB",
-          "description": "] [CODE]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-25T06:11:02Z",
-            "owner": "DeRafael",
-            "repo": "CAFE",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Optimality and Stability in Federated Learning: A Game-theoretic Approach. [PUB",
           "description": "] [PDF] [CODE]",
           "children": [],
@@ -6145,6 +6131,20 @@
             "owner": "cuis15",
             "repo": "FCFL",
             "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAFE: Catastrophic Data Leakage in Vertical Federated Learning. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-25T06:11:02Z",
+            "owner": "DeRafael",
+            "repo": "CAFE",
+            "stars": 20
           }
         },
         {
@@ -6377,7 +6377,7 @@
             "last_commit": "2025-10-28T12:44:12Z",
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4056
+            "stars": 4058
           }
         },
         {
@@ -6447,7 +6447,7 @@
             "last_commit": "2022-12-23T10:02:16Z",
             "owner": "epfml",
             "repo": "federated-learning-public-code",
-            "stars": 164
+            "stars": 162
           }
         },
         {
@@ -7076,7 +7076,7 @@
             "last_commit": "2024-05-17T01:50:39Z",
             "owner": "deu30303",
             "repo": "FedDefender",
-            "stars": 15
+            "stars": 14
           }
         },
         {
@@ -7726,7 +7726,7 @@
             "last_commit": "2024-10-26T09:46:58Z",
             "owner": "wenzhu23333",
             "repo": "Differential-Privacy-Based-Federated-Learning",
-            "stars": 425
+            "stars": 424
           }
         },
         {
@@ -8884,7 +8884,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:22:44Z",
+            "last_commit": "2026-08-14T23:40:51Z",
             "owner": "NVIDIA",
             "repo": "NVFlare",
             "stars": 956
@@ -9335,7 +9335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:58:10.611Z",
+    "last_updated": "2026-08-15T11:34:28.305Z",
     "original_repository": "youngfish42/Awesome-FL",
     "original_repository_sha": "34b4ddca1fbf9a61023011ea805efe0b1b7aa9eb",
     "enhanced_repository": "enhansome/enhansome-Awesome-FL",
