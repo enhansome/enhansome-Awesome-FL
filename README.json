@@ -4702,7 +4702,7 @@
             "last_commit": "2023-02-28T15:29:13Z",
             "owner": "facebookresearch",
             "repo": "canife",
-            "stars": 11
+            "stars": 10
           }
         },
         {
@@ -8683,6 +8683,20 @@
         },
         {
           "node_type": "item",
+          "title": "FedSOL: Stabilized Orthogonal Learning with Proximal Restrictions in Federated Learning. [PUB",
+          "description": "] [SUPP] [PDF] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-28T11:03:27Z",
+            "owner": "Lee-Gihun",
+            "repo": "FedSOL",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
           "title": "CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion. [PUB",
           "description": "] [CODE]",
           "children": [],
@@ -8693,20 +8707,6 @@
             "owner": "Nicholas0228",
             "repo": "Revelio",
             "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FedSOL: Stabilized Orthogonal Learning with Proximal Restrictions in Federated Learning. [PUB",
-          "description": "] [SUPP] [PDF] [CODE]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-28T11:03:27Z",
-            "owner": "Lee-Gihun",
-            "repo": "FedSOL",
-            "stars": 16
           }
         },
         {
@@ -9335,7 +9335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:34:28.305Z",
+    "last_updated": "2026-08-16T11:34:20.534Z",
     "original_repository": "youngfish42/Awesome-FL",
     "original_repository_sha": "34b4ddca1fbf9a61023011ea805efe0b1b7aa9eb",
     "enhanced_repository": "enhansome/enhansome-Awesome-FL",
