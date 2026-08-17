@@ -1,6 +1,6 @@
 # Awesome Federated Learning Resources with stars
 
-[![Stars](https://img.shields.io/github/stars/youngfish42/Awesome-FL.svg?color=orange)](https://github.com/youngfish42/Awesome-FL/stargazers) ⭐ 2,009 | 🐛 0 | 🌐 Python | 📅 2026-05-20 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/Awesome-FL.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23 ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
+[![Stars](https://img.shields.io/github/stars/youngfish42/Awesome-FL.svg?color=orange)](https://github.com/youngfish42/Awesome-FL/stargazers) ⭐ 2,012 | 🐛 0 | 🌐 Python | 📅 2026-05-20 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/Awesome-FL.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,543 | 🐛 0 | 📅 2026-07-23 ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
 ***
 
@@ -26,7 +26,7 @@ We use another project to automatically track updates to FL papers, click on [FL
 
 Please note that if this page does not display the full content, **please visit [the official homepage](https://youngfish42.github.io/Awesome-FL) for full information.**
 
-**More items will be added to the repository**. Please feel free to suggest other key resources by opening an [issue](https://github.com/youngfish42/Awesome-FL/issues) ⭐ 2,009 | 🐛 0 | 🌐 Python | 📅 2026-05-20 report, submitting a pull request, or dropping me an email @ (<im.young@foxmail.com>). If you want to communicate with more friends in the field of federated learning, please join the QQ group \[联邦学习交流群], the group number is 833638275. Enjoy reading!
+**More items will be added to the repository**. Please feel free to suggest other key resources by opening an [issue](https://github.com/youngfish42/Awesome-FL/issues) ⭐ 2,012 | 🐛 0 | 🌐 Python | 📅 2026-05-20 report, submitting a pull request, or dropping me an email @ (<im.young@foxmail.com>). If you want to communicate with more friends in the field of federated learning, please join the QQ group \[联邦学习交流群], the group number is 833638275. Enjoy reading!
 
 **Repository Update Notice**
 
@@ -3474,7 +3474,7 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 #### ICCV
 
-* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 956 | 🐛 28 | 🌐 Python | 📅 2026-08-14]
+* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 956 | 🐛 29 | 🌐 Python | 📅 2026-08-14]
 * TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06937)] \[[CODE](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2024-04-30]
 * Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Bold_but_Cautious_Unlocking_the_Potential_of_Personalized_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2309.11103)] \[[CODE](https://github.com/kxzxvbk/Fling) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2026-04-17] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Wu_Bold_but_Cautious_ICCV_2023_supplemental.pdf)]
 * Multi-Metrics Adaptively Identifies Backdoors in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Multi-Metrics_Adaptively_Identifies_Backdoors_in_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06601)] \[[CODE](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-08-07] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Huang_Multi-Metrics_Adaptively_Identifies_ICCV_2023_supplemental.pdf)]
@@ -3545,4 +3545,4 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
