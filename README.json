@@ -1941,7 +1941,7 @@
                         "last_commit": "2025-06-04T07:24:25Z",
                         "owner": "WwZzz",
                         "repo": "easyFL",
-                        "stars": 631
+                        "stars": 633
                       }
                     },
                     {
@@ -1956,7 +1956,7 @@
                         "last_commit": "2025-06-04T07:24:25Z",
                         "owner": "WwZzz",
                         "repo": "easyFL",
-                        "stars": 631
+                        "stars": 633
                       }
                     },
                     {
@@ -2008,7 +2008,7 @@
                         "last_commit": "2026-01-25T02:31:48Z",
                         "owner": "TsingZ0",
                         "repo": "PFLlib",
-                        "stars": 2153
+                        "stars": 2154
                       }
                     },
                     {
@@ -2340,6 +2340,21 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification. [PUB",
+                      "description": "] [CODE]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 884122573,
+                        "language": "Python",
+                        "last_commit": "2025-07-07T06:29:16Z",
+                        "owner": "ZitongShi",
+                        "repo": "EAGLES",
+                        "stars": 14
+                      }
+                    },
+                    {
+                      "node_type": "item",
                       "title": "One-Shot Heterogeneous Federated Learning with Local Model-Guided Diffusion Models. [PUB",
                       "description": "] [CODE]",
                       "children": [],
@@ -2370,21 +2385,6 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation. [PUB",
-                      "description": "] [CODE]",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "id": 988918976,
-                        "language": "Python",
-                        "last_commit": "2025-09-03T08:50:36Z",
-                        "owner": "CYFang6",
-                        "repo": "FedPHA",
-                        "stars": 12
-                      }
-                    },
-                    {
-                      "node_type": "item",
                       "title": "One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory. [PUB",
                       "description": "] [CODE]",
                       "children": [],
@@ -2395,6 +2395,21 @@
                         "last_commit": "2025-06-20T09:59:37Z",
                         "owner": "harrylee999",
                         "repo": "FL-SAM",
+                        "stars": 13
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation. [PUB",
+                      "description": "] [CODE]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 988918976,
+                        "language": "Python",
+                        "last_commit": "2025-09-03T08:50:36Z",
+                        "owner": "CYFang6",
+                        "repo": "FedPHA",
                         "stars": 12
                       }
                     },
@@ -2545,21 +2560,6 @@
                         "last_commit": "2025-07-01T08:46:48Z",
                         "owner": "Tracesource",
                         "repo": "EFIMVC",
-                        "stars": 6
-                      }
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification. [PUB",
-                      "description": "] [CODE]",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "id": 884122573,
-                        "language": "Python",
-                        "last_commit": "2025-07-07T06:29:16Z",
-                        "owner": "ZitongShi",
-                        "repo": "EAGLES",
                         "stars": 6
                       }
                     },
@@ -3031,7 +3031,7 @@
                         "last_commit": "2026-02-13T06:40:39Z",
                         "owner": "OngWinKent",
                         "repo": "Federated-Feature-Unlearning",
-                        "stars": 28
+                        "stars": 29
                       }
                     },
                     {
@@ -3501,7 +3501,7 @@
                         "last_commit": "2024-02-03T06:05:50Z",
                         "owner": "prateeky2806",
                         "repo": "ties-merging",
-                        "stars": 219
+                        "stars": 220
                       }
                     },
                     {
@@ -5925,7 +5925,7 @@
                         "last_commit": "2025-11-13T03:27:07Z",
                         "owner": "med-air",
                         "repo": "FedBN",
-                        "stars": 273
+                        "stars": 272
                       }
                     },
                     {
@@ -5940,7 +5940,7 @@
                         "last_commit": "2025-11-13T03:27:07Z",
                         "owner": "med-air",
                         "repo": "FedBN",
-                        "stars": 273
+                        "stars": 272
                       }
                     },
                     {
@@ -6299,7 +6299,7 @@
                         "last_commit": "2024-05-07T16:04:40Z",
                         "owner": "Princeton-SysML",
                         "repo": "GradAttack",
-                        "stars": 205
+                        "stars": 204
                       }
                     },
                     {
@@ -6747,7 +6747,7 @@
                         "last_commit": "2025-10-28T12:44:12Z",
                         "owner": "FedML-AI",
                         "repo": "FedML",
-                        "stars": 4059
+                        "stars": 4061
                       }
                     },
                     {
@@ -7022,7 +7022,7 @@
                         "last_commit": "2026-04-23T04:56:47Z",
                         "owner": "TsingZ0",
                         "repo": "HtFLlib",
-                        "stars": 245
+                        "stars": 246
                       }
                     },
                     {
@@ -9274,10 +9274,10 @@
                         "archived": false,
                         "id": 388876833,
                         "language": "Python",
-                        "last_commit": "2026-08-20T04:54:04Z",
+                        "last_commit": "2026-08-21T00:01:10Z",
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 956
+                        "stars": 957
                       }
                     },
                     {
@@ -9772,7 +9772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:43:28.271Z",
+    "last_updated": "2026-08-21T11:43:17.173Z",
     "original_repository": "youngfish42/Awesome-FL",
     "original_repository_id": 494658282,
     "original_repository_sha": "34b4ddca1fbf9a61023011ea805efe0b1b7aa9eb",
