@@ -1135,7 +1135,7 @@
                         "last_commit": "2026-07-06T09:32:31Z",
                         "owner": "bytedance",
                         "repo": "fedlearner",
-                        "stars": 902
+                        "stars": 901
                       }
                     },
                     {
@@ -3337,7 +3337,7 @@
                         "last_commit": "2025-05-28T06:44:23Z",
                         "owner": "mtics",
                         "repo": "FedRAP",
-                        "stars": 43
+                        "stars": 42
                       }
                     },
                     {
@@ -4175,7 +4175,7 @@
                         "last_commit": "2024-08-10T04:52:35Z",
                         "owner": "alibaba",
                         "repo": "FederatedScope",
-                        "stars": 1541
+                        "stars": 1540
                       }
                     },
                     {
@@ -4781,7 +4781,7 @@
                         "last_commit": "2023-11-30T22:34:35Z",
                         "owner": "JianXu95",
                         "repo": "FedPAC",
-                        "stars": 62
+                        "stars": 61
                       }
                     },
                     {
@@ -6374,7 +6374,7 @@
                         "last_commit": "2021-12-29T06:46:18Z",
                         "owner": "ml-postech",
                         "repo": "gradient-inversion-generative-image-prior",
-                        "stars": 49
+                        "stars": 50
                       }
                     },
                     {
@@ -6404,7 +6404,7 @@
                         "last_commit": "2021-10-29T19:11:03Z",
                         "owner": "jeremy313",
                         "repo": "FL-WBC",
-                        "stars": 43
+                        "stars": 44
                       }
                     },
                     {
@@ -6454,6 +6454,21 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "CAFE: Catastrophic Data Leakage in Vertical Federated Learning. [PUB",
+                      "description": "] [CODE]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 420866120,
+                        "language": "Python",
+                        "last_commit": "2021-10-25T06:11:02Z",
+                        "owner": "DeRafael",
+                        "repo": "CAFE",
+                        "stars": 21
+                      }
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Optimality and Stability in Federated Learning: A Game-theoretic Approach. [PUB",
                       "description": "] [PDF] [CODE]",
                       "children": [],
@@ -6480,21 +6495,6 @@
                         "owner": "cuis15",
                         "repo": "FCFL",
                         "stars": 21
-                      }
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "CAFE: Catastrophic Data Leakage in Vertical Federated Learning. [PUB",
-                      "description": "] [CODE]",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "id": 420866120,
-                        "language": "Python",
-                        "last_commit": "2021-10-25T06:11:02Z",
-                        "owner": "DeRafael",
-                        "repo": "CAFE",
-                        "stars": 20
                       }
                     },
                     {
@@ -6747,7 +6747,7 @@
                         "last_commit": "2025-10-28T12:44:12Z",
                         "owner": "FedML-AI",
                         "repo": "FedML",
-                        "stars": 4061
+                        "stars": 4062
                       }
                     },
                     {
@@ -7156,7 +7156,7 @@
                         "last_commit": "2024-08-10T04:52:35Z",
                         "owner": "alibaba",
                         "repo": "FederatedScope",
-                        "stars": 1541
+                        "stars": 1540
                       }
                     },
                     {
@@ -7335,7 +7335,7 @@
                         "last_commit": "2024-08-10T04:52:35Z",
                         "owner": "alibaba",
                         "repo": "FederatedScope",
-                        "stars": 1541
+                        "stars": 1540
                       }
                     },
                     {
@@ -7514,7 +7514,7 @@
                         "last_commit": "2024-08-10T04:52:35Z",
                         "owner": "alibaba",
                         "repo": "FederatedScope",
-                        "stars": 1541
+                        "stars": 1540
                       }
                     },
                     {
@@ -7529,7 +7529,7 @@
                         "last_commit": "2024-08-10T04:52:35Z",
                         "owner": "alibaba",
                         "repo": "FederatedScope",
-                        "stars": 1541
+                        "stars": 1540
                       }
                     },
                     {
@@ -8091,7 +8091,7 @@
                         "last_commit": "2024-10-26T09:46:58Z",
                         "owner": "wenzhu23333",
                         "repo": "Differential-Privacy-Based-Federated-Learning",
-                        "stars": 424
+                        "stars": 425
                       }
                     }
                   ],
@@ -8866,7 +8866,7 @@
                         "last_commit": "2025-08-15T14:04:10Z",
                         "owner": "geehokim",
                         "repo": "FedACG",
-                        "stars": 44
+                        "stars": 43
                       }
                     },
                     {
@@ -9274,10 +9274,10 @@
                         "archived": false,
                         "id": 388876833,
                         "language": "Python",
-                        "last_commit": "2026-08-21T00:01:10Z",
+                        "last_commit": "2026-08-21T23:42:04Z",
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 957
+                        "stars": 958
                       }
                     },
                     {
@@ -9307,7 +9307,7 @@
                         "last_commit": "2026-04-17T14:13:50Z",
                         "owner": "FLAIR-Community",
                         "repo": "Fling",
-                        "stars": 49
+                        "stars": 48
                       }
                     },
                     {
@@ -9772,7 +9772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:43:17.173Z",
+    "last_updated": "2026-08-22T11:35:12.433Z",
     "original_repository": "youngfish42/Awesome-FL",
     "original_repository_id": 494658282,
     "original_repository_sha": "34b4ddca1fbf9a61023011ea805efe0b1b7aa9eb",
