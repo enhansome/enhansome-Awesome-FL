@@ -2008,7 +2008,7 @@
                         "last_commit": "2026-01-25T02:31:48Z",
                         "owner": "TsingZ0",
                         "repo": "PFLlib",
-                        "stars": 2154
+                        "stars": 2153
                       }
                     },
                     {
@@ -9614,7 +9614,7 @@
                         "last_commit": "2024-12-29T12:18:28Z",
                         "owner": "WenkeHuang",
                         "repo": "RethinkFL",
-                        "stars": 117
+                        "stars": 118
                       }
                     },
                     {
@@ -9772,7 +9772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:35:12.433Z",
+    "last_updated": "2026-08-23T11:35:03.236Z",
     "original_repository": "youngfish42/Awesome-FL",
     "original_repository_id": 494658282,
     "original_repository_sha": "34b4ddca1fbf9a61023011ea805efe0b1b7aa9eb",
