@@ -2340,6 +2340,21 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "One-Shot Heterogeneous Federated Learning with Local Model-Guided Diffusion Models. [PUB",
+                      "description": "] [CODE]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 941594090,
+                        "language": "Python",
+                        "last_commit": "2025-07-22T09:14:52Z",
+                        "owner": "HaokunChen245",
+                        "repo": "FedBiP",
+                        "stars": 14
+                      }
+                    },
+                    {
+                      "node_type": "item",
                       "title": "EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification. [PUB",
                       "description": "] [CODE]",
                       "children": [],
@@ -2351,21 +2366,6 @@
                         "owner": "ZitongShi",
                         "repo": "EAGLES",
                         "stars": 14
-                      }
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "One-Shot Heterogeneous Federated Learning with Local Model-Guided Diffusion Models. [PUB",
-                      "description": "] [CODE]",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "id": 941594090,
-                        "language": "Python",
-                        "last_commit": "2025-07-22T09:14:52Z",
-                        "owner": "HaokunChen245",
-                        "repo": "FedBiP",
-                        "stars": 13
                       }
                     },
                     {
@@ -8546,7 +8546,7 @@
                         "last_commit": "2025-07-22T09:14:52Z",
                         "owner": "HaokunChen245",
                         "repo": "FedBiP",
-                        "stars": 13
+                        "stars": 14
                       }
                     },
                     {
@@ -9274,10 +9274,10 @@
                         "archived": false,
                         "id": 388876833,
                         "language": "Python",
-                        "last_commit": "2026-08-21T23:42:04Z",
+                        "last_commit": "2026-08-23T16:23:37Z",
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 958
+                        "stars": 959
                       }
                     },
                     {
@@ -9772,7 +9772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:35:03.236Z",
+    "last_updated": "2026-08-24T11:44:24.589Z",
     "original_repository": "youngfish42/Awesome-FL",
     "original_repository_id": 494658282,
     "original_repository_sha": "34b4ddca1fbf9a61023011ea805efe0b1b7aa9eb",

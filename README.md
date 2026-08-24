@@ -22,7 +22,7 @@
 * [Acknowledgments](#acknowledgments)
 * [Citation](#citation)
 
-We use another project to automatically track updates to FL papers, click on [FL-paper-update-tracker](https://github.com/youngfish42/FL-paper-update-tracker) ⭐ 60 | 🐛 27 | 🌐 Python | 📅 2026-08-19 if you need it.
+We use another project to automatically track updates to FL papers, click on [FL-paper-update-tracker](https://github.com/youngfish42/FL-paper-update-tracker) ⭐ 60 | 🐛 27 | 🌐 Python | 📅 2026-08-24 if you need it.
 
 Please note that if this page does not display the full content, **please visit [the official homepage](https://youngfish42.github.io/Awesome-FL) for full information.**
 
@@ -1182,8 +1182,8 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 * Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off. \[[PUB](https://openreview.net/forum?id=C7dmhyTDrx)] \[[CODE](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2025-12-21]
 * ToMA: Token Merge with Attention for Diffusion Models. \[[PUB](https://proceedings.mlr.press/v267/lu25v.html)] \[[CODE](https://github.com/WenboLuu/ToMA) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2025-08-06]
 * Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models. \[[PUB](https://openreview.net/forum?id=mzPArjGqrs)] \[[CODE](https://github.com/allen4747/Ferret) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-09-11]
+* One-Shot Heterogeneous Federated Learning with Local Model-Guided Diffusion Models. \[[PUB](https://openreview.net/forum?id=PqJFVbJAMR)] \[[CODE](https://github.com/HaokunChen245/FedBiP) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-07-22]
 * EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification. \[[PUB](https://openreview.net/forum?id=Bd9JlrqZhN)] \[[CODE](https://github.com/ZitongShi/EAGLES) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-07-07]
-* One-Shot Heterogeneous Federated Learning with Local Model-Guided Diffusion Models. \[[PUB](https://openreview.net/forum?id=PqJFVbJAMR)] \[[CODE](https://github.com/HaokunChen245/FedBiP) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2025-07-22]
 * Private Federated Learning using Preference-Optimized Synthetic Data. \[[PUB](https://openreview.net/forum?id=ZuaU2bYzlc)] \[[CODE](https://github.com/meiyuw/POPri) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-08-21]
 * One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory. \[[PUB](https://openreview.net/forum?id=80mK2Mqaph)] \[[CODE](https://github.com/harrylee999/FL-SAM) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2025-06-20]
 * FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation. \[[PUB](https://openreview.net/forum?id=y7pDvbi9xz)] \[[CODE](https://github.com/CYFang6/FedPHA) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2025-09-03]
@@ -3293,7 +3293,7 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 * Model Poisoning Attacks to Federated Learning via Multi-Round Consistency. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Model_Poisoning_Attacks_to_Federated_Learning_via_Multi-Round_Consistency_CVPR_2025_paper.html)] \[[CODE](https://github.com/xyq7/PoisonedFL/) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2025-03-14]
 * Embracing Collaboration Over Competition: Condensing Multiple Prompts for Visual In-Context Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Embracing_Collaboration_Over_Competition_Condensing_Multiple_Prompts_for_Visual_In-Context_CVPR_2025_paper.html)] \[[CODE](https://github.com/gimpong/CVPR25-Condenser) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2025-09-25]
 * Learning Dynamic Collaborative Network for Semi-supervised 3D Vessel Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Learning_Dynamic_Collaborative_Network_for_Semi-supervised_3D_Vessel_Segmentation_CVPR_2025_paper.html)] \[[CODE](https://github.com/xujiaommcome/DiCo) ⭐ 15 | 🐛 8 | 🌐 Python | 📅 2025-12-16]
-* FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_FedBiP_Heterogeneous_One-Shot_Federated_Learning_with_Personalized_Latent_Diffusion_Models_CVPR_2025_paper.html)] \[[CODE](https://github.com/HaokunChen245/FedBiP) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2025-07-22]
+* FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_FedBiP_Heterogeneous_One-Shot_Federated_Learning_with_Personalized_Latent_Diffusion_Models_CVPR_2025_paper.html)] \[[CODE](https://github.com/HaokunChen245/FedBiP) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-07-22]
 * A Simple Data Augmentation for Feature Distribution Skewed Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_A_Simple_Data_Augmentation_for_Feature_Distribution_Skewed_Federated_Learning_CVPR_2025_paper.html)] \[[CODE](https://github.com/IAMJackYan/FedRDN) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2025-06-28]
 * Subspace Constraint and Contribution Estimation for Heterogeneous Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Subspace_Constraint_and_Contribution_Estimation_for_Heterogeneous_Federated_Learning_CVPR_2025_paper.html)] \[[CODE](https://github.com/AVC2-UESTC/FedSCE.git) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-12-22]
 * Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Sami_Gradient_Inversion_Attacks_on_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html)] \[[CODE](https://github.com/info-ucr/PEFTLeak) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-12-11]
@@ -3474,7 +3474,7 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 #### ICCV
 
-* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 958 | 🐛 23 | 🌐 Python | 📅 2026-08-21]
+* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 959 | 🐛 22 | 🌐 Python | 📅 2026-08-23]
 * TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06937)] \[[CODE](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2024-04-30]
 * Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Bold_but_Cautious_Unlocking_the_Potential_of_Personalized_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2309.11103)] \[[CODE](https://github.com/kxzxvbk/Fling) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2026-04-17] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Wu_Bold_but_Cautious_ICCV_2023_supplemental.pdf)]
 * Multi-Metrics Adaptively Identifies Backdoors in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Multi-Metrics_Adaptively_Identifies_Backdoors_in_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06601)] \[[CODE](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-08-07] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Huang_Multi-Metrics_Adaptively_Identifies_ICCV_2023_supplemental.pdf)]
@@ -3545,4 +3545,4 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
