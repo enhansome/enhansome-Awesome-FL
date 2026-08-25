@@ -10042,7 +10042,7 @@
                     "archived": false,
                     "id": 388876833,
                     "language": "Python",
-                    "last_commit": "2026-08-23T16:23:37Z",
+                    "last_commit": "2026-08-25T00:38:12Z",
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
                     "stars": 959
@@ -10557,7 +10557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:07.668Z",
+    "last_updated": "2026-08-25T06:00:59.276Z",
     "original_repository": "youngfish42/Awesome-FL",
     "original_repository_id": 494658282,
     "original_repository_sha": "34b4ddca1fbf9a61023011ea805efe0b1b7aa9eb",
