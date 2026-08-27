@@ -7982,7 +7982,7 @@
                     "last_commit": "2025-05-24T06:45:06Z",
                     "owner": "usc-sail",
                     "repo": "fed-multimodal",
-                    "stars": 145
+                    "stars": 146
                   }
                 },
                 {
@@ -10042,10 +10042,10 @@
                     "archived": false,
                     "id": 388876833,
                     "language": "Python",
-                    "last_commit": "2026-08-27T00:04:22Z",
+                    "last_commit": "2026-08-27T18:44:43Z",
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 959
+                    "stars": 960
                   }
                 },
                 {
@@ -10181,21 +10181,6 @@
                     "owner": "chunmeifeng",
                     "repo": "FedIns",
                     "stars": 12
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "FedPD: Federated Open Set Recognition with Parameter Disentanglement. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 700243819,
-                    "language": "Python",
-                    "last_commit": "2024-03-25T03:23:39Z",
-                    "owner": "CityU-AIM-Group",
-                    "repo": "FedPD",
-                    "stars": 10
                   }
                 },
                 {
@@ -10557,7 +10542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:08.686Z",
+    "last_updated": "2026-08-27T21:02:26.738Z",
     "original_repository_info": {
       "archived": false,
       "id": 494658282,
@@ -10565,7 +10550,7 @@
       "last_commit": "2026-05-20T12:48:40Z",
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2013
+      "stars": 2014
     },
     "original_repository_sha": "34b4ddca1fbf9a61023011ea805efe0b1b7aa9eb",
     "enhanced_repository": "enhansome/enhansome-Awesome-FL",
