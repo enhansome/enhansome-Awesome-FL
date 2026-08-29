@@ -5276,7 +5276,7 @@
                     "id": 974265320,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-03-09T13:30:27Z",
+                    "last_commit": "2026-08-29T12:32:44Z",
                     "open_issues": 0,
                     "owner": "MIC-DKFZ",
                     "repo": "deki-smpc",
@@ -6730,7 +6730,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1541,
+                    "stars": 1542,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -8859,6 +8859,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 876556249,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-10-22T07:10:11Z",
+                    "open_issues": 0,
+                    "owner": "DIG-Beihang",
+                    "repo": "MIR3",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Proximal and Federated Random Reshuffling. [PUB",
                   "description": "] [PDF] [CODE]",
                   "children": [],
@@ -8894,27 +8915,6 @@
                     "open_issues": 0,
                     "owner": "KAI-YUE",
                     "repo": "ntk-fed",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 876556249,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-10-22T07:10:11Z",
-                    "open_issues": 0,
-                    "owner": "DIG-Beihang",
-                    "repo": "MIR3",
                     "stars": 4,
                     "topics": []
                   },
@@ -11243,7 +11243,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1541,
+                    "stars": 1542,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11520,7 +11520,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1541,
+                    "stars": 1542,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11781,7 +11781,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1541,
+                    "stars": 1542,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11806,7 +11806,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1541,
+                    "stars": 1542,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -14466,8 +14466,8 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T04:09:00Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-08-29T14:38:29Z",
+                    "open_issues": 19,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
                     "stars": 961,
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:03.645Z",
+    "last_updated": "2026-08-29T15:38:28.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
