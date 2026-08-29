@@ -3474,7 +3474,7 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 #### ICCV
 
-* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 960 | 🐛 18 | 🌐 Python | 📅 2026-08-28]
+* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 961 | 🐛 20 | 🌐 Python | 📅 2026-08-29]
 * TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06937)] \[[CODE](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2024-04-30]
 * Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Bold_but_Cautious_Unlocking_the_Potential_of_Personalized_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2309.11103)] \[[CODE](https://github.com/kxzxvbk/Fling) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2026-04-17] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Wu_Bold_but_Cautious_ICCV_2023_supplemental.pdf)]
 * Multi-Metrics Adaptively Identifies Backdoors in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Multi-Metrics_Adaptively_Identifies_Backdoors_in_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06601)] \[[CODE](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-08-07] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Huang_Multi-Metrics_Adaptively_Identifies_ICCV_2023_supplemental.pdf)]
@@ -3545,4 +3545,4 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
