@@ -1617,7 +1617,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-09-28T06:03:23Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "YoferChen",
                     "repo": "FedST",
                     "stars": 16,
@@ -2222,7 +2222,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2022-11-24T02:09:57Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "yuetan031",
                     "repo": "FedStar",
                     "stars": 70,
@@ -2243,7 +2243,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2022-11-24T02:09:57Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "yuetan031",
                     "repo": "FedStar",
                     "stars": 70,
@@ -4838,7 +4838,7 @@
                     "open_issues": 2,
                     "owner": "Pengxin-Guo",
                     "repo": "FedSA-LoRA",
-                    "stars": 66,
+                    "stars": 67,
                     "topics": [
                       "federated-learning",
                       "llm",
@@ -6013,27 +6013,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Aggregating Capacity in FL through Successive Layer Training for Computationally-Constrained Devices. [PUB",
-                  "description": "] [SUPP] [PDF] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Paper: \"Aggregating Capacity in FL through Successive Layer Training for Computationally-Constrained Devices\"",
-                    "homepage": null,
-                    "id": 696298069,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-01-10T13:29:41Z",
-                    "open_issues": 0,
-                    "owner": "k1l1",
-                    "repo": "SLT",
-                    "stars": 17,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Fed-GraB: Federated Long-tailed Learning with Self-Adjusting Gradient Balancer. [PUB",
                   "description": "] [SUPP] [PDF] [CODE]",
                   "children": [],
@@ -6048,6 +6027,27 @@
                     "open_issues": 0,
                     "owner": "ZackZikaiXiao",
                     "repo": "FedGraB",
+                    "stars": 16,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Aggregating Capacity in FL through Successive Layer Training for Computationally-Constrained Devices. [PUB",
+                  "description": "] [SUPP] [PDF] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Paper: \"Aggregating Capacity in FL through Successive Layer Training for Computationally-Constrained Devices\"",
+                    "homepage": null,
+                    "id": 696298069,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-01-10T13:29:41Z",
+                    "open_issues": 0,
+                    "owner": "k1l1",
+                    "repo": "SLT",
                     "stars": 16,
                     "topics": []
                   },
@@ -6794,7 +6794,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-08-28T09:10:21Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "ZexiLee",
                     "repo": "ICML-2023-FedLAW",
                     "stars": 67,
@@ -7690,7 +7690,7 @@
                     "open_issues": 1,
                     "owner": "SonyResearch",
                     "repo": "MocoSFL",
-                    "stars": 53,
+                    "stars": 52,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -8723,7 +8723,7 @@
                     "language": "Jupyter Notebook",
                     "license": null,
                     "last_commit": "2026-05-05T13:41:35Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "amitport",
                     "repo": "EDEN-Distributed-Mean-Estimation",
                     "stars": 18,
@@ -10154,7 +10154,7 @@
                     "open_issues": 1,
                     "owner": "XinyiYS",
                     "repo": "Gradient-Driven-Rewards-to-Guarantee-Fairness-in-Collaborative-Machine-Learning",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": [
                       "fairness",
                       "federated-learning",
@@ -10582,7 +10582,7 @@
                     "open_issues": 147,
                     "owner": "FedML-AI",
                     "repo": "FedML",
-                    "stars": 4062,
+                    "stars": 4064,
                     "topics": [
                       "ai-agent",
                       "deep-learning",
@@ -12516,7 +12516,7 @@
                     "open_issues": 2,
                     "owner": "Samuel-Maddock",
                     "repo": "federated-boosted-dp-trees",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14001,7 +14001,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-05-28T06:18:06Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "yuhangchen0",
                     "repo": "FedHEAL",
                     "stars": 29,
@@ -14466,11 +14466,11 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-01T19:01:27Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-09-03T14:52:05Z",
+                    "open_issues": 31,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 962,
+                    "stars": 963,
                     "topics": [
                       "decentralized",
                       "federated-analytics",
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:06:37.179Z",
+    "last_updated": "2026-09-03T15:00:21.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
