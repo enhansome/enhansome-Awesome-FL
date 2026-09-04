@@ -3146,7 +3146,7 @@
                     "open_issues": 6,
                     "owner": "chandra2thapa",
                     "repo": "SplitFed-When-Federated-Learning-Meets-Split-Learning",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -3795,7 +3795,7 @@
                     "open_issues": 7,
                     "owner": "ebagdasa",
                     "repo": "backdoor_federated_learning",
-                    "stars": 316,
+                    "stars": 315,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -5276,7 +5276,7 @@
                     "id": 974265320,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-01T14:16:38Z",
+                    "last_commit": "2026-09-04T12:12:10Z",
                     "open_issues": 0,
                     "owner": "MIC-DKFZ",
                     "repo": "deki-smpc",
@@ -5724,7 +5724,7 @@
                     "open_issues": 4,
                     "owner": "prateeky2806",
                     "repo": "ties-merging",
-                    "stars": 221,
+                    "stars": 222,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -6755,7 +6755,7 @@
                     "open_issues": 17,
                     "owner": "google-research",
                     "repo": "federated",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -8413,7 +8413,7 @@
                     "open_issues": 17,
                     "owner": "google-research",
                     "repo": "federated",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -8434,7 +8434,7 @@
                     "open_issues": 45,
                     "owner": "SymbioticLab",
                     "repo": "FedScale",
-                    "stars": 420,
+                    "stars": 421,
                     "topics": [
                       "benchmark",
                       "dataset",
@@ -8985,7 +8985,7 @@
                     "open_issues": 17,
                     "owner": "google-research",
                     "repo": "federated",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9006,7 +9006,7 @@
                     "open_issues": 17,
                     "owner": "google-research",
                     "repo": "federated",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9367,7 +9367,7 @@
                     "open_issues": 17,
                     "owner": "google-research",
                     "repo": "federated",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9594,7 +9594,7 @@
                     "open_issues": 17,
                     "owner": "google-research",
                     "repo": "federated",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9863,7 +9863,7 @@
                     "open_issues": 17,
                     "owner": "google-research",
                     "repo": "federated",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9884,7 +9884,7 @@
                     "open_issues": 17,
                     "owner": "google-research",
                     "repo": "federated",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9905,7 +9905,7 @@
                     "open_issues": 17,
                     "owner": "google-research",
                     "repo": "federated",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10410,7 +10410,7 @@
                     "open_issues": 17,
                     "owner": "google-research",
                     "repo": "federated",
-                    "stars": 760,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14466,11 +14466,11 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-03T14:52:05Z",
-                    "open_issues": 31,
+                    "last_commit": "2026-09-04T13:51:38Z",
+                    "open_issues": 35,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 963,
+                    "stars": 964,
                     "topics": [
                       "decentralized",
                       "federated-analytics",
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T15:00:21.669Z",
+    "last_updated": "2026-09-04T14:57:45.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
