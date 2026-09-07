@@ -709,6 +709,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Federated Causal Inference: Multi-Study ATE Estimation beyond Meta-Analysis. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This is the code for the paper Federated Causal Inference: Multi-Study ATE Estimation beyond Meta-Analysis, by Rémi Khellaf, Aurélien Bellet and Julie Josse (2025)",
+                    "homepage": null,
+                    "id": 944692030,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-03-07T19:59:43Z",
+                    "open_issues": 0,
+                    "owner": "RemiKhellaf",
+                    "repo": "FedCausal-RCTs-Khellaf",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "DPFL: Decentralized Personalized Federated Learning. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -744,27 +765,6 @@
                     "open_issues": 1,
                     "owner": "AnshThakur",
                     "repo": "FedMode",
-                    "stars": 0,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Federated Causal Inference: Multi-Study ATE Estimation beyond Meta-Analysis. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "This is the code for the paper Federated Causal Inference: Multi-Study ATE Estimation beyond Meta-Analysis, by Rémi Khellaf, Aurélien Bellet and Julie Josse (2025)",
-                    "homepage": null,
-                    "id": 944692030,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-03-07T19:59:43Z",
-                    "open_issues": 0,
-                    "owner": "RemiKhellaf",
-                    "repo": "FedCausal-RCTs-Khellaf",
                     "stars": 0,
                     "topics": []
                   },
@@ -916,7 +916,7 @@
                     "open_issues": 0,
                     "owner": "wnn2000",
                     "repo": "FFL4MIA",
-                    "stars": 12,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -1903,32 +1903,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients. [PUB",
-                  "description": "] [PAGE] [PDF] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[AAAI-24] TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients",
-                    "homepage": null,
-                    "id": 730685061,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-04-04T09:15:39Z",
-                    "open_issues": 0,
-                    "owner": "Kasneci-Lab",
-                    "repo": "TurboSVM-FL",
-                    "stars": 6,
-                    "topics": [
-                      "aaai2024",
-                      "collaborative-learning",
-                      "federated-learning",
-                      "machine-learning"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Collaborative Consortium of Foundation Models for Open-World Few-Shot Learning. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -1966,6 +1940,32 @@
                     "repo": "fedgcr",
                     "stars": 5,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients. [PUB",
+                  "description": "] [PAGE] [PDF] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[AAAI-24] TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients",
+                    "homepage": null,
+                    "id": 730685061,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-04-04T09:15:39Z",
+                    "open_issues": 0,
+                    "owner": "Kasneci-Lab",
+                    "repo": "TurboSVM-FL",
+                    "stars": 5,
+                    "topics": [
+                      "aaai2024",
+                      "collaborative-learning",
+                      "federated-learning",
+                      "machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
                 },
@@ -10154,7 +10154,7 @@
                     "open_issues": 1,
                     "owner": "XinyiYS",
                     "repo": "Gradient-Driven-Rewards-to-Guarantee-Fairness-in-Collaborative-Machine-Learning",
-                    "stars": 29,
+                    "stars": 28,
                     "topics": [
                       "fairness",
                       "federated-learning",
@@ -12692,7 +12692,7 @@
                     "open_issues": 11,
                     "owner": "privacytrustlab",
                     "repo": "ml_privacy_meter",
-                    "stars": 724,
+                    "stars": 725,
                     "topics": [
                       "data-privacy",
                       "data-protection",
@@ -13605,7 +13605,7 @@
                     "open_issues": 0,
                     "owner": "NaiboWang",
                     "repo": "FedELMY",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14004,7 +14004,7 @@
                     "open_issues": 1,
                     "owner": "yuhangchen0",
                     "repo": "FedHEAL",
-                    "stars": 29,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:11:31.860Z",
+    "last_updated": "2026-09-07T16:27:53.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
