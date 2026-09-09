@@ -5009,7 +5009,7 @@
                     "open_issues": 15,
                     "owner": "ziyaow1010",
                     "repo": "FederatedLLM",
-                    "stars": 121,
+                    "stars": 122,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10582,7 +10582,7 @@
                     "open_issues": 147,
                     "owner": "FedML-AI",
                     "repo": "FedML",
-                    "stars": 4063,
+                    "stars": 4064,
                     "topics": [
                       "ai-agent",
                       "deep-learning",
@@ -10761,7 +10761,7 @@
                     "open_issues": 0,
                     "owner": "KarhouTam",
                     "repo": "Per-FedAvg",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": [
                       "federated-learning",
                       "meta-learning",
@@ -14466,8 +14466,8 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T20:51:59Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-09-09T00:15:03Z",
+                    "open_issues": 43,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
                     "stars": 964,
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:07:08.885Z",
+    "last_updated": "2026-09-09T15:07:31.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
