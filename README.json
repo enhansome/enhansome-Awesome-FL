@@ -3435,7 +3435,7 @@
                     "open_issues": 9,
                     "owner": "TsingZ0",
                     "repo": "PFLlib",
-                    "stars": 2160,
+                    "stars": 2159,
                     "topics": [
                       "attack",
                       "differential-privacy",
@@ -4108,6 +4108,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The code for Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance",
+                    "homepage": null,
+                    "id": 991893260,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-05-28T10:05:38Z",
+                    "open_issues": 0,
+                    "owner": "PaddiHunter",
+                    "repo": "FIMCFG",
+                    "stars": 12,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -4144,27 +4165,6 @@
                     "owner": "Leopold1423",
                     "repo": "fedmud-icml25",
                     "stars": 12,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The code for Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance",
-                    "homepage": null,
-                    "id": 991893260,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-05-28T10:05:38Z",
-                    "open_issues": 0,
-                    "owner": "PaddiHunter",
-                    "repo": "FIMCFG",
-                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -4428,6 +4428,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "FedBEns: One-Shot Federated Learning based on Bayesian Ensemble. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for the paper: \"FedBEns: One-Shot Federated Learning based on Bayesian Ensemble\" ",
+                    "homepage": null,
+                    "id": 986289284,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-06-30T08:55:02Z",
+                    "open_issues": 0,
+                    "owner": "jacopot96",
+                    "repo": "FedBEns",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings via Neural Tangent Kernel. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -4510,27 +4531,6 @@
                     "owner": "mahendrathapa",
                     "repo": "pFedHB",
                     "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "FedBEns: One-Shot Federated Learning based on Bayesian Ensemble. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for the paper: \"FedBEns: One-Shot Federated Learning based on Bayesian Ensemble\" ",
-                    "homepage": null,
-                    "id": 986289284,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-06-30T08:55:02Z",
-                    "open_issues": 0,
-                    "owner": "jacopot96",
-                    "repo": "FedBEns",
-                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10582,7 +10582,7 @@
                     "open_issues": 147,
                     "owner": "FedML-AI",
                     "repo": "FedML",
-                    "stars": 4064,
+                    "stars": 4065,
                     "topics": [
                       "ai-agent",
                       "deep-learning",
@@ -11545,7 +11545,7 @@
                     "open_issues": 2,
                     "owner": "usc-sail",
                     "repo": "fed-multimodal",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": [
                       "action-recognition",
                       "emotion-recognition",
@@ -13885,27 +13885,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "FedAS: Bridging Inconsistency in Personalized Federated Learning. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code Implementation and Informations about FedAS",
-                    "homepage": null,
-                    "id": 766845775,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-02-04T07:53:59Z",
-                    "open_issues": 3,
-                    "owner": "xiyuanyang45",
-                    "repo": "FedAS",
-                    "stars": 37,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "FedHCA2: Towards Hetero-Client Federated Multi-Task Learning. [PUB",
                   "description": "] [SUPP] [PDF] [CODE]",
                   "children": [],
@@ -13920,6 +13899,27 @@
                     "open_issues": 0,
                     "owner": "innovator-zero",
                     "repo": "FedHCA2",
+                    "stars": 36,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "FedAS: Bridging Inconsistency in Personalized Federated Learning. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code Implementation and Informations about FedAS",
+                    "homepage": null,
+                    "id": 766845775,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-02-04T07:53:59Z",
+                    "open_issues": 3,
+                    "owner": "xiyuanyang45",
+                    "repo": "FedAS",
                     "stars": 36,
                     "topics": []
                   },
@@ -14466,8 +14466,8 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T00:15:03Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-09-10T00:57:58Z",
+                    "open_issues": 39,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
                     "stars": 964,
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T15:07:31.054Z",
+    "last_updated": "2026-09-10T14:59:22.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
