@@ -5757,7 +5757,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "nips23-Dynamic Personalized Federated Learning with Adaptive Differential Privacy",
+                    "description": "[NeurIPS 2023] Dynamic Personalized Federated Learning with Adaptive Differential Privacy",
                     "homepage": null,
                     "id": 699699730,
                     "language": "Python",
@@ -12692,7 +12692,7 @@
                     "open_issues": 11,
                     "owner": "privacytrustlab",
                     "repo": "ml_privacy_meter",
-                    "stars": 725,
+                    "stars": 726,
                     "topics": [
                       "data-privacy",
                       "data-protection",
@@ -13371,7 +13371,7 @@
                     "open_issues": 8,
                     "owner": "xujiaommcome",
                     "repo": "DiCo",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -13911,7 +13911,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Code Implementation and Informations about FedAS",
+                    "description": "[CVPR 2024] Code Implementation and Informations about FedAS",
                     "homepage": null,
                     "id": 766845775,
                     "language": "Python",
@@ -14466,11 +14466,11 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T00:57:58Z",
+                    "last_commit": "2026-09-10T20:40:43Z",
                     "open_issues": 39,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 964,
+                    "stars": 966,
                     "topics": [
                       "decentralized",
                       "federated-analytics",
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:59:22.603Z",
+    "last_updated": "2026-09-11T15:02:15.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
