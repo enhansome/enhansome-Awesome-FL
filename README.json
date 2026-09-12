@@ -3435,7 +3435,7 @@
                     "open_issues": 9,
                     "owner": "TsingZ0",
                     "repo": "PFLlib",
-                    "stars": 2159,
+                    "stars": 2160,
                     "topics": [
                       "attack",
                       "differential-privacy",
@@ -6191,9 +6191,9 @@
                     "id": 657779415,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2023-06-26T20:38:16Z",
+                    "last_commit": "2026-09-11T16:03:56Z",
                     "open_issues": 0,
-                    "owner": "apple",
+                    "owner": "apple-aiml-research",
                     "repo": "ml-projunit",
                     "stars": 12,
                     "topics": []
@@ -6730,7 +6730,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1544,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -7410,7 +7410,7 @@
                     "open_issues": 8,
                     "owner": "SMILELab-FL",
                     "repo": "FedLab",
-                    "stars": 828,
+                    "stars": 829,
                     "topics": [
                       "deep-learning",
                       "federated-learning",
@@ -8377,7 +8377,7 @@
                     "open_issues": 26,
                     "owner": "owkin",
                     "repo": "FLamby",
-                    "stars": 241,
+                    "stars": 243,
                     "topics": [
                       "dataset",
                       "deep-learning",
@@ -11243,7 +11243,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1544,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11520,7 +11520,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1544,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11781,7 +11781,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1544,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11806,7 +11806,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1544,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -14466,8 +14466,8 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T20:40:43Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-09-11T23:54:16Z",
+                    "open_issues": 28,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
                     "stars": 966,
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T15:02:15.269Z",
+    "last_updated": "2026-09-12T14:08:46.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
