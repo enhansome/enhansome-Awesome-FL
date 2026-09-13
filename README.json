@@ -2177,7 +2177,7 @@
                     "open_issues": 79,
                     "owner": "bytedance",
                     "repo": "fedlearner",
-                    "stars": 901,
+                    "stars": 900,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -2492,7 +2492,7 @@
                     "open_issues": 79,
                     "owner": "bytedance",
                     "repo": "fedlearner",
-                    "stars": 901,
+                    "stars": 900,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14466,11 +14466,11 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-11T23:54:16Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-09-13T03:02:26Z",
+                    "open_issues": 30,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 966,
+                    "stars": 968,
                     "topics": [
                       "decentralized",
                       "federated-analytics",
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:08:46.991Z",
+    "last_updated": "2026-09-13T14:55:01.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",

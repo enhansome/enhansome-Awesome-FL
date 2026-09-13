@@ -697,7 +697,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 #### AAAI
 
-* DPAUC: Differentially Private AUC Computation in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26770)] \[[CODE](https://github.com/bytedance/fedlearner/tree/master/example/privacy/DPAUC) ⭐ 901 | 🐛 79 | 🌐 Python | 📅 2026-07-06]
+* DPAUC: Differentially Private AUC Computation in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26770)] \[[CODE](https://github.com/bytedance/fedlearner/tree/master/example/privacy/DPAUC) ⭐ 900 | 🐛 79 | 🌐 Python | 📅 2026-07-06]
 * FedALA: Adaptive Local Aggregation for Personalized Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26330)] \[[PDF](https://arxiv.org/abs/2212.01197)] \[[CODE](https://github.com/tsingz0/fedala) ⭐ 149 | 🐛 4 | 🌐 Python | 📅 2024-11-11]
 * Federated Learning on Non-IID Graphs via Structural Knowledge Sharing. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26187)] \[[PDF](https://arxiv.org/abs/2211.13009)] \[[CODE](https://github.com/yuetan031/fedstar) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2022-11-24]
 * Federated Learning on Non-IID Graphs via Structural Knowledge Sharing. \[[PDF](https://arxiv.org/abs/2211.13009)] \[[CODE](https://github.com/yuetan031/fedstar) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2022-11-24]
@@ -739,7 +739,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 #### AAAI Special Tracks
 
-* DPAUC: Differentially Private AUC Computation in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26770)] \[[PDF](https://arxiv.org/abs/2208.12294)] \[[CODE](https://github.com/bytedance/fedlearner/tree/master/example/privacy/DPAUC) ⭐ 901 | 🐛 79 | 🌐 Python | 📅 2026-07-06]
+* DPAUC: Differentially Private AUC Computation in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26770)] \[[PDF](https://arxiv.org/abs/2208.12294)] \[[CODE](https://github.com/bytedance/fedlearner/tree/master/example/privacy/DPAUC) ⭐ 900 | 🐛 79 | 🌐 Python | 📅 2026-07-06]
 
 #### AAAI Special Programs
 
@@ -3474,7 +3474,7 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 #### ICCV
 
-* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 966 | 🐛 28 | 🌐 Python | 📅 2026-09-11]
+* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 968 | 🐛 30 | 🌐 Python | 📅 2026-09-13]
 * TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06937)] \[[CODE](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2024-04-30]
 * Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Bold_but_Cautious_Unlocking_the_Potential_of_Personalized_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2309.11103)] \[[CODE](https://github.com/kxzxvbk/Fling) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2026-04-17] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Wu_Bold_but_Cautious_ICCV_2023_supplemental.pdf)]
 * Multi-Metrics Adaptively Identifies Backdoors in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Multi-Metrics_Adaptively_Identifies_Backdoors_in_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06601)] \[[CODE](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-08-07] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Huang_Multi-Metrics_Adaptively_Identifies_ICCV_2023_supplemental.pdf)]
@@ -3545,4 +3545,4 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
