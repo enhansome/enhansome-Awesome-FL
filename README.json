@@ -4344,6 +4344,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Implementation of paper  GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention [ICML 25]",
+                    "homepage": null,
+                    "id": 920005193,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-04-11T17:46:25Z",
+                    "open_issues": 1,
+                    "owner": "JiaruQian",
+                    "repo": "GHOST",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "SPMC: Self-Purifying Federated Backdoor Defense via Margin Contribution. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -4379,27 +4400,6 @@
                     "open_issues": 0,
                     "owner": "GanyuWang",
                     "repo": "FedOne-BDPL",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Implementation of paper  GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention [ICML 25]",
-                    "homepage": null,
-                    "id": 920005193,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-04-11T17:46:25Z",
-                    "open_issues": 1,
-                    "owner": "JiaruQian",
-                    "repo": "GHOST",
                     "stars": 4,
                     "topics": []
                   },
@@ -6111,7 +6111,7 @@
                     "open_issues": 0,
                     "owner": "MediaBrain-SJTU",
                     "repo": "FedGELA",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -6730,7 +6730,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1544,
+                    "stars": 1543,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11243,7 +11243,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1544,
+                    "stars": 1543,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11520,7 +11520,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1544,
+                    "stars": 1543,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11781,7 +11781,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1544,
+                    "stars": 1543,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11806,7 +11806,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1544,
+                    "stars": 1543,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -13326,6 +13326,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Learning Dynamic Collaborative Network for Semi-supervised 3D Vessel Segmentation. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Learning Dynamic Collaborative Network for Semi-supervised 3D Vessel Segmentation",
+                    "homepage": null,
+                    "id": 946439275,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-12-16T08:17:22Z",
+                    "open_issues": 8,
+                    "owner": "xujiaommcome",
+                    "repo": "DiCo",
+                    "stars": 17,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Embracing Collaboration Over Competition: Condensing Multiple Prompts for Visual In-Context Learning. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -13352,27 +13373,6 @@
                       "prompt-tuning",
                       "visual-in-context-learning"
                     ]
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Learning Dynamic Collaborative Network for Semi-supervised 3D Vessel Segmentation. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Learning Dynamic Collaborative Network for Semi-supervised 3D Vessel Segmentation",
-                    "homepage": null,
-                    "id": 946439275,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-12-16T08:17:22Z",
-                    "open_issues": 8,
-                    "owner": "xujiaommcome",
-                    "repo": "DiCo",
-                    "stars": 16,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
                 },
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:55:01.412Z",
+    "last_updated": "2026-09-14T16:57:54.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -15191,7 +15191,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2012,
+      "stars": 2014,
       "topics": [
         "artificial-intelligence",
         "awesome",
