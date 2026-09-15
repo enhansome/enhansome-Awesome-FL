@@ -3432,10 +3432,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-01-25T02:31:48Z",
-                    "open_issues": 9,
+                    "open_issues": 7,
                     "owner": "TsingZ0",
                     "repo": "PFLlib",
-                    "stars": 2160,
+                    "stars": 2161,
                     "topics": [
                       "attack",
                       "differential-privacy",
@@ -4817,7 +4817,7 @@
                     "open_issues": 4,
                     "owner": "gstoica27",
                     "repo": "KnOTS",
-                    "stars": 94,
+                    "stars": 95,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -13221,20 +13221,20 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval. [PUB",
+                  "title": "FedMIA: An Effective Membership Inference Attack Exploiting \"All for One\" Principle in Federated Learning. [PUB",
                   "description": "] [CODE]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Source code for CVPR'25 paper \"PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval\"",
+                    "description": null,
                     "homepage": null,
-                    "id": 1007536384,
+                    "id": 740764751,
                     "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2025-06-24T07:02:10Z",
+                    "license": null,
+                    "last_commit": "2025-01-26T14:26:36Z",
                     "open_issues": 1,
-                    "owner": "CCRG-XJU",
-                    "repo": "PromptHash",
+                    "owner": "Liar-Mask",
+                    "repo": "FedMIA",
                     "stars": 22,
                     "topics": []
                   },
@@ -13256,28 +13256,28 @@
                     "open_issues": 1,
                     "owner": "Liar-Mask",
                     "repo": "FedMIA",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "FedMIA: An Effective Membership Inference Attack Exploiting \"All for One\" Principle in Federated Learning. [PUB",
+                  "title": "PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval. [PUB",
                   "description": "] [CODE]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": null,
+                    "description": "Source code for CVPR'25 paper \"PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval\"",
                     "homepage": null,
-                    "id": 740764751,
+                    "id": 1007536384,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-01-26T14:26:36Z",
+                    "license": "MIT",
+                    "last_commit": "2025-06-24T07:02:10Z",
                     "open_issues": 1,
-                    "owner": "Liar-Mask",
-                    "repo": "FedMIA",
-                    "stars": 21,
+                    "owner": "CCRG-XJU",
+                    "repo": "PromptHash",
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -13326,6 +13326,37 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Embracing Collaboration Over Competition: Condensing Multiple Prompts for Visual In-Context Learning. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The code for the paper \"Embracing Collaboration Over Competition: Condensing Multiple Prompts for Visual In-Context Learning\" (CVPR'25).",
+                    "homepage": null,
+                    "id": 975255396,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-09-25T13:15:13Z",
+                    "open_issues": 1,
+                    "owner": "gimpong",
+                    "repo": "CVPR25-Condenser",
+                    "stars": 17,
+                    "topics": [
+                      "compression",
+                      "cvpr",
+                      "cvpr2025",
+                      "impainting",
+                      "in-context-learning",
+                      "parameter-efficient-fine-tuning",
+                      "prompt-learning",
+                      "prompt-tuning",
+                      "visual-in-context-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Learning Dynamic Collaborative Network for Semi-supervised 3D Vessel Segmentation. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -13342,37 +13373,6 @@
                     "repo": "DiCo",
                     "stars": 17,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Embracing Collaboration Over Competition: Condensing Multiple Prompts for Visual In-Context Learning. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The code for the paper \"Embracing Collaboration Over Competition: Condensing Multiple Prompts for Visual In-Context Learning\" (CVPR'25).",
-                    "homepage": null,
-                    "id": 975255396,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-09-25T13:15:13Z",
-                    "open_issues": 1,
-                    "owner": "gimpong",
-                    "repo": "CVPR25-Condenser",
-                    "stars": 16,
-                    "topics": [
-                      "compression",
-                      "cvpr",
-                      "cvpr2025",
-                      "impainting",
-                      "in-context-learning",
-                      "parameter-efficient-fine-tuning",
-                      "prompt-learning",
-                      "prompt-tuning",
-                      "visual-in-context-learning"
-                    ]
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
                 },
@@ -14466,11 +14466,11 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-13T03:02:26Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-09-15T00:04:00Z",
+                    "open_issues": 37,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 968,
+                    "stars": 969,
                     "topics": [
                       "decentralized",
                       "federated-analytics",
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:57:54.970Z",
+    "last_updated": "2026-09-15T15:34:07.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
