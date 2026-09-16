@@ -458,7 +458,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-27T12:20:27Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "HewlettPackard",
             "repo": "swarm-learning",
             "stars": 354,
@@ -1501,6 +1501,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Federated Adaptive Prompt Tuning for Multi-Domain Collaborative Learning. [PUB",
+                  "description": "] [PAGE] [PDF] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 770744213,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-03-12T04:48:58Z",
+                    "open_issues": 0,
+                    "owner": "leondada",
+                    "repo": "FedAPT",
+                    "stars": 19,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Language-Guided Transformer for Federated Multi-Label Classification. [PUB",
                   "description": "] [PAGE] [PDF] [CODE]",
                   "children": [],
@@ -1536,27 +1557,6 @@
                     "open_issues": 0,
                     "owner": "Chenglu0426",
                     "repo": "FairGraphFL",
-                    "stars": 18,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Federated Adaptive Prompt Tuning for Multi-Domain Collaborative Learning. [PUB",
-                  "description": "] [PAGE] [PDF] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 770744213,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-03-12T04:48:58Z",
-                    "open_issues": 0,
-                    "owner": "leondada",
-                    "repo": "FedAPT",
                     "stars": 18,
                     "topics": []
                   },
@@ -4817,7 +4817,7 @@
                     "open_issues": 4,
                     "owner": "gstoica27",
                     "repo": "KnOTS",
-                    "stars": 95,
+                    "stars": 96,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -4905,7 +4905,7 @@
                     "open_issues": 1,
                     "owner": "sung-won-kim",
                     "repo": "FedLoG",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "federated-learning",
                       "fedlog",
@@ -5211,7 +5211,7 @@
                     "open_issues": 2,
                     "owner": "SonyResearch",
                     "repo": "COALA",
-                    "stars": 119,
+                    "stars": 118,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -6730,7 +6730,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1542,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -7410,7 +7410,7 @@
                     "open_issues": 8,
                     "owner": "SMILELab-FL",
                     "repo": "FedLab",
-                    "stars": 829,
+                    "stars": 828,
                     "topics": [
                       "deep-learning",
                       "federated-learning",
@@ -10846,7 +10846,7 @@
                     "open_issues": 1,
                     "owner": "daizhongxiang",
                     "repo": "Federated_Bayesian_Optimization",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": [
                       "federated-bayesian-optimization",
                       "federated-learning"
@@ -11243,7 +11243,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1542,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11520,7 +11520,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1542,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11781,7 +11781,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1542,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11806,7 +11806,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1542,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -14466,8 +14466,8 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T00:04:00Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-09-16T01:07:12Z",
+                    "open_issues": 33,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
                     "stars": 969,
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:34:07.500Z",
+    "last_updated": "2026-09-16T15:25:34.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
