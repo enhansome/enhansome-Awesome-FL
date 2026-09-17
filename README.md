@@ -1292,7 +1292,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 * Model merging with SVD to tie the Knots. \[[PUB](https://openreview.net/forum?id=67X93aZHII)] \[[CODE](https://github.com/gstoica27/KnOTS) ⭐ 96 | 🐛 4 | 🌐 Python | 📅 2025-04-03]
 * Selective Aggregation for Low-Rank Adaptation in Federated Learning. \[[PUB](https://openreview.net/forum?id=iX3uESGdsO)] \[[CODE](https://github.com/Pengxin-Guo/FedSA-LoRA) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2025-04-17]
-* Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models. \[[PUB](https://openreview.net/forum?id=xiDJaTim3P)] \[[CODE](https://github.com/ljaiverson/pFedMoAP) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2025-04-02]
+* Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models. \[[PUB](https://openreview.net/forum?id=xiDJaTim3P)] \[[CODE](https://github.com/ljaiverson/pFedMoAP) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2025-04-02]
 * LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging. \[[PUB](https://openreview.net/forum?id=J5sUOvlLbQ)] \[[CODE](https://github.com/wang-kee/LiNeS) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2024-11-04]
 * Subgraph Federated Learning for Local Generalization. \[[PUB](https://openreview.net/forum?id=cH65nS5sOz)] \[[CODE](https://github.com/sung-won-kim/FedLoG) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2025-05-06]
 * Mitigating Parameter Interference in Model Merging via Sharpness-Aware Fine-Tuning. \[[PUB](https://openreview.net/forum?id=eaTqsptDPL)] \[[CODE](https://github.com/baiklab/SAFT-Merge) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2025-04-21]
@@ -3099,7 +3099,7 @@ Federated Learning papers accepted by top Secure conference and journal, Includi
 
 #### NDSS
 
-* Local and Central Differential Privacy for Robustness and Privacy in Federated Learning. \[[PUB](https://www.ndss-symposium.org/ndss-paper/auto-draft-204/)] \[[PDF](https://arxiv.org/abs/2009.03561)] \[[VIDEO](https://www.youtube.com/watch?v=_aH2j5A3608\&list=PLfUWWM-POgQulyX2vzKzUtZEkVn1M9G2a\&index=3)] \[[UC.](https://github.com/wenzhu23333/Differential-Privacy-Based-Federated-Learning) ⭐ 425 | 🐛 6 | 🌐 Python | 📅 2024-10-26]
+* Local and Central Differential Privacy for Robustness and Privacy in Federated Learning. \[[PUB](https://www.ndss-symposium.org/ndss-paper/auto-draft-204/)] \[[PDF](https://arxiv.org/abs/2009.03561)] \[[VIDEO](https://www.youtube.com/watch?v=_aH2j5A3608\&list=PLfUWWM-POgQulyX2vzKzUtZEkVn1M9G2a\&index=3)] \[[UC.](https://github.com/wenzhu23333/Differential-Privacy-Based-Federated-Learning) ⭐ 426 | 🐛 6 | 🌐 Python | 📅 2024-10-26]
 * Interpretable Federated Transformer Log Learning for Cloud Threat Forensics. \[[PUB](https://www.ndss-symposium.org/ndss-paper/auto-draft-236/)] \[[VIDEO](https://www.youtube.com/watch?v=3HoysA6hsC8\&list=PLfUWWM-POgQsS08uHJUJI6sawDO_3sNh0\&index=3)] \[[UC.](https://github.com/cyberthreat-datasets/ctdd-2021-os-syslogs)]
 * FedCRI: Federated Mobile Cyber-Risk Intelligence. \[[PUB](https://www.ndss-symposium.org/ndss-paper/auto-draft-229/)] \[[VIDEO](https://www.youtube.com/watch?v=2zmdPqCCFxg\&list=PLfUWWM-POgQs8ZZMMCX1RoNnmSQ70QXxd\&index=3)]
 * DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection. \[[PUB](https://www.ndss-symposium.org/ndss-paper/auto-draft-205/)] \[[PDF](https://arxiv.org/abs/2201.00763)] \[[VIDEO](https://www.youtube.com/watch?v=MJF_7vnoGh4\&list=PLfUWWM-POgQulyX2vzKzUtZEkVn1M9G2a\&index=4)]
@@ -3474,7 +3474,7 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 #### ICCV
 
-* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 969 | 🐛 33 | 🌐 Python | 📅 2026-09-16]
+* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 969 | 🐛 37 | 🌐 Python | 📅 2026-09-17]
 * TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06937)] \[[CODE](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2024-04-30]
 * Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Bold_but_Cautious_Unlocking_the_Potential_of_Personalized_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2309.11103)] \[[CODE](https://github.com/kxzxvbk/Fling) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2026-04-17] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Wu_Bold_but_Cautious_ICCV_2023_supplemental.pdf)]
 * Multi-Metrics Adaptively Identifies Backdoors in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Multi-Metrics_Adaptively_Identifies_Backdoors_in_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06601)] \[[CODE](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-08-07] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Huang_Multi-Metrics_Adaptively_Identifies_ICCV_2023_supplemental.pdf)]
@@ -3545,4 +3545,4 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
