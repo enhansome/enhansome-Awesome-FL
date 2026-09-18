@@ -3435,7 +3435,7 @@
                     "open_issues": 7,
                     "owner": "TsingZ0",
                     "repo": "PFLlib",
-                    "stars": 2161,
+                    "stars": 2163,
                     "topics": [
                       "attack",
                       "differential-privacy",
@@ -7410,7 +7410,7 @@
                     "open_issues": 8,
                     "owner": "SMILELab-FL",
                     "repo": "FedLab",
-                    "stars": 828,
+                    "stars": 829,
                     "topics": [
                       "deep-learning",
                       "federated-learning",
@@ -8175,7 +8175,7 @@
                     "open_issues": 3,
                     "owner": "AIoT-MLSys-Lab",
                     "repo": "FedRolex",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": [
                       "federated-learning"
                     ]
@@ -14466,11 +14466,11 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-17T10:18:13Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-09-18T14:40:15Z",
+                    "open_issues": 39,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 969,
+                    "stars": 970,
                     "topics": [
                       "decentralized",
                       "federated-analytics",
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:32:57.381Z",
+    "last_updated": "2026-09-18T14:59:36.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
