@@ -461,7 +461,7 @@
             "open_issues": 11,
             "owner": "HewlettPackard",
             "repo": "swarm-learning",
-            "stars": 354,
+            "stars": 353,
             "topics": [
               "deep-learning",
               "distributed-computing",
@@ -2330,7 +2330,7 @@
                     "open_issues": 0,
                     "owner": "yflyl613",
                     "repo": "FedRec",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": [
                       "federated-recommendation",
                       "model-poisoning-attack"
@@ -6730,7 +6730,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1542,
+                    "stars": 1543,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11243,7 +11243,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1542,
+                    "stars": 1543,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11520,7 +11520,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1542,
+                    "stars": 1543,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11781,7 +11781,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1542,
+                    "stars": 1543,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11806,7 +11806,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1542,
+                    "stars": 1543,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -14466,11 +14466,11 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T14:40:15Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-09-19T02:20:07Z",
+                    "open_issues": 40,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 970,
+                    "stars": 972,
                     "topics": [
                       "decentralized",
                       "federated-analytics",
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:59:36.448Z",
+    "last_updated": "2026-09-19T14:26:10.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
