@@ -111,7 +111,7 @@
             "open_issues": 0,
             "owner": "jlianglab",
             "repo": "Ark",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -5009,7 +5009,7 @@
                     "open_issues": 15,
                     "owner": "ziyaow1010",
                     "repo": "FederatedLLM",
-                    "stars": 122,
+                    "stars": 123,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14467,10 +14467,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-19T02:20:07Z",
-                    "open_issues": 40,
+                    "open_issues": 42,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 972,
+                    "stars": 973,
                     "topics": [
                       "decentralized",
                       "federated-analytics",
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T14:26:10.354Z",
+    "last_updated": "2026-09-20T14:41:55.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
