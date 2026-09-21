@@ -3795,7 +3795,7 @@
                     "open_issues": 7,
                     "owner": "ebagdasa",
                     "repo": "backdoor_federated_learning",
-                    "stars": 315,
+                    "stars": 316,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -4038,6 +4038,27 @@
                     "open_issues": 2,
                     "owner": "HaokunChen245",
                     "repo": "FedBiP",
+                    "stars": 15,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Private Federated Learning using Preference-Optimized Synthetic Data. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 955496271,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-08-21T16:31:12Z",
+                    "open_issues": 1,
+                    "owner": "meiyuw",
+                    "repo": "POPri",
                     "stars": 14,
                     "topics": []
                   },
@@ -4060,27 +4081,6 @@
                     "owner": "ZitongShi",
                     "repo": "EAGLES",
                     "stars": 14,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Private Federated Learning using Preference-Optimized Synthetic Data. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 955496271,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-08-21T16:31:12Z",
-                    "open_issues": 1,
-                    "owner": "meiyuw",
-                    "repo": "POPri",
-                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -5724,7 +5724,7 @@
                     "open_issues": 4,
                     "owner": "prateeky2806",
                     "repo": "ties-merging",
-                    "stars": 222,
+                    "stars": 223,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10582,7 +10582,7 @@
                     "open_issues": 147,
                     "owner": "FedML-AI",
                     "repo": "FedML",
-                    "stars": 4065,
+                    "stars": 4066,
                     "topics": [
                       "ai-agent",
                       "deep-learning",
@@ -12404,7 +12404,7 @@
                     "open_issues": 0,
                     "owner": "viktorvaladi",
                     "repo": "FedVal",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -13214,7 +13214,7 @@
                     "open_issues": 1,
                     "owner": "WeiDai-David",
                     "repo": "2025CVPR_GGEUR",
-                    "stars": 23,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -13392,7 +13392,7 @@
                     "open_issues": 2,
                     "owner": "HaokunChen245",
                     "repo": "FedBiP",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14470,7 +14470,7 @@
                     "open_issues": 42,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 973,
+                    "stars": 974,
                     "topics": [
                       "decentralized",
                       "federated-analytics",
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:41:55.672Z",
+    "last_updated": "2026-09-21T17:04:16.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -15191,7 +15191,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2014,
+      "stars": 2015,
       "topics": [
         "artificial-intelligence",
         "awesome",
