@@ -3435,7 +3435,7 @@
                     "open_issues": 7,
                     "owner": "TsingZ0",
                     "repo": "PFLlib",
-                    "stars": 2163,
+                    "stars": 2166,
                     "topics": [
                       "attack",
                       "differential-privacy",
@@ -5009,7 +5009,7 @@
                     "open_issues": 15,
                     "owner": "ziyaow1010",
                     "repo": "FederatedLLM",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -5380,7 +5380,7 @@
                     "open_issues": 4,
                     "owner": "JiahuaDong",
                     "repo": "LGA",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -6730,7 +6730,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1545,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -7003,6 +7003,30 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Federated Conformal Predictors for Distributed Uncertainty Quantification. [PUB",
+                  "description": "] [PDF] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Conformal Prediction + Federated Learning",
+                    "homepage": "https://arxiv.org/abs/2305.17564",
+                    "id": 585341028,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2024-03-16T23:22:39Z",
+                    "open_issues": 1,
+                    "owner": "clu5",
+                    "repo": "federated-conformal",
+                    "stars": 17,
+                    "topics": [
+                      "conformal-prediction",
+                      "uncertainty-quantification"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "No One Idles: Efficient Heterogeneous Federated Learning with Parallel Edge and Server Computation. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -7019,30 +7043,6 @@
                     "repo": "PFL",
                     "stars": 17,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Federated Conformal Predictors for Distributed Uncertainty Quantification. [PUB",
-                  "description": "] [PDF] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Conformal Prediction + Federated Learning",
-                    "homepage": "https://arxiv.org/abs/2305.17564",
-                    "id": 585341028,
-                    "language": "Jupyter Notebook",
-                    "license": null,
-                    "last_commit": "2024-03-16T23:22:39Z",
-                    "open_issues": 1,
-                    "owner": "clu5",
-                    "repo": "federated-conformal",
-                    "stars": 16,
-                    "topics": [
-                      "conformal-prediction",
-                      "uncertainty-quantification"
-                    ]
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
                 },
@@ -8377,7 +8377,7 @@
                     "open_issues": 26,
                     "owner": "owkin",
                     "repo": "FLamby",
-                    "stars": 243,
+                    "stars": 244,
                     "topics": [
                       "dataset",
                       "deep-learning",
@@ -8873,7 +8873,7 @@
                     "open_issues": 0,
                     "owner": "DIG-Beihang",
                     "repo": "MIR3",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10582,7 +10582,7 @@
                     "open_issues": 147,
                     "owner": "FedML-AI",
                     "repo": "FedML",
-                    "stars": 4066,
+                    "stars": 4064,
                     "topics": [
                       "ai-agent",
                       "deep-learning",
@@ -11243,7 +11243,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1545,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11359,27 +11359,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-preserving Feature Augmentation. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 783423358,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-06-13T14:10:45Z",
-                    "open_issues": 0,
-                    "owner": "XTxiatong",
-                    "repo": "FLea",
-                    "stars": 6,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:26:34.829Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "FedGTP: Exploiting Inter-Client Spatial Dependency in Federated Graph-based Traffic Prediction. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -11394,6 +11373,27 @@
                     "open_issues": 1,
                     "owner": "LarryHawkingYoung",
                     "repo": "KDD2024_FedGTP",
+                    "stars": 7,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-preserving Feature Augmentation. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 783423358,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-06-13T14:10:45Z",
+                    "open_issues": 0,
+                    "owner": "XTxiatong",
+                    "repo": "FLea",
                     "stars": 6,
                     "topics": []
                   },
@@ -11520,7 +11520,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1545,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11781,7 +11781,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1545,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -11806,7 +11806,7 @@
                     "open_issues": 55,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1543,
+                    "stars": 1545,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -14466,8 +14466,8 @@
                     "id": 388876833,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-19T02:20:07Z",
-                    "open_issues": 42,
+                    "last_commit": "2026-09-22T11:35:27Z",
+                    "open_issues": 45,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
                     "stars": 974,
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T17:04:16.290Z",
+    "last_updated": "2026-09-22T15:31:27.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -15191,7 +15191,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2015,
+      "stars": 2014,
       "topics": [
         "artificial-intelligence",
         "awesome",
