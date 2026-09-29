@@ -3435,7 +3435,7 @@
                     "open_issues": 7,
                     "owner": "TsingZ0",
                     "repo": "PFLlib",
-                    "stars": 2165,
+                    "stars": 2166,
                     "topics": [
                       "attack",
                       "differential-privacy",
@@ -5724,7 +5724,7 @@
                     "open_issues": 4,
                     "owner": "prateeky2806",
                     "repo": "ties-merging",
-                    "stars": 223,
+                    "stars": 224,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9678,7 +9678,7 @@
                     "open_issues": 0,
                     "owner": "FengHZ",
                     "repo": "KD3A",
-                    "stars": 120,
+                    "stars": 119,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -10582,7 +10582,7 @@
                     "open_issues": 147,
                     "owner": "FedML-AI",
                     "repo": "FedML",
-                    "stars": 4065,
+                    "stars": 4066,
                     "topics": [
                       "ai-agent",
                       "deep-learning",
@@ -10787,7 +10787,7 @@
                     "open_issues": 0,
                     "owner": "andylamp",
                     "repo": "federated_pca",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": [
                       "decentralized",
                       "differential-privacy",
@@ -11289,7 +11289,7 @@
                     "open_issues": 4,
                     "owner": "Zhangcx19",
                     "repo": "GPFedRec",
-                    "stars": 22,
+                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14025,7 +14025,7 @@
                     "open_issues": 1,
                     "owner": "skynbe",
                     "repo": "FedRCL",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14046,7 +14046,7 @@
                     "open_issues": 1,
                     "owner": "NVlabs",
                     "repo": "PerAda",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": [
                       "adapter",
                       "federated-learning",
@@ -14467,10 +14467,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-24T02:59:23Z",
-                    "open_issues": 43,
+                    "open_issues": 47,
                     "owner": "NVIDIA",
                     "repo": "NVFlare",
-                    "stars": 974,
+                    "stars": 975,
                     "topics": [
                       "decentralized",
                       "federated-analytics",
@@ -15179,7 +15179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:36:13.471Z",
+    "last_updated": "2026-09-29T16:53:47.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -15191,7 +15191,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2013,
+      "stars": 2014,
       "topics": [
         "artificial-intelligence",
         "awesome",
