@@ -2617,7 +2617,7 @@ Federated Learning papers accepted by top DM(Data Mining) conference and journal
 
 #### KDD
 
-* HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark. \[[PUB](https://doi.org/10.1145/3711896.3737379)] \[[CODE](https://github.com/TsingZ0/HtFLlib) ⭐ 245 | 🐛 1 | 🌐 Python | 📅 2026-04-23]
+* HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark. \[[PUB](https://doi.org/10.1145/3711896.3737379)] \[[CODE](https://github.com/TsingZ0/HtFLlib) ⭐ 246 | 🐛 1 | 🌐 Python | 📅 2026-04-23]
 * Gradients as An Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing. \[[PUB](https://doi.org/10.1145/3711896.3736987)] \[[CODE](https://github.com/mastlab-T3S/FedRAS) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-06-01]
 * Proxy-Validated Importance-Aware Federated Sample Selection with Meta Learning. \[[PUB](https://doi.org/10.1145/3711896.3737093)] \[[CODE](https://github.com/nameyzhang/FedSelect) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-04]
 * Task Diversity in Bayesian Federated Learning: Simultaneous Processing of Classification and Regression. \[[PUB](https://doi.org/10.1145/3690624.3709341)] \[[CODE](https://github.com/JunliangLv/task_diversity_BFL) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-10-12]

@@ -11076,7 +11076,7 @@
                             "open_issues": 1,
                             "owner": "TsingZ0",
                             "repo": "HtFLlib",
-                            "stars": 245,
+                            "stars": 246,
                             "topics": [
                               "colloboration",
                               "data-free",
@@ -15233,7 +15233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:57.839Z",
+    "last_updated": "2026-10-03T15:08:38.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
