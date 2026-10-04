@@ -1,6 +1,6 @@
 # Awesome Federated Learning Resources with stars
 
-[![Stars](https://img.shields.io/github/stars/youngfish42/Awesome-FL.svg?color=orange)](https://github.com/youngfish42/Awesome-FL/stargazers) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/Awesome-FL.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,547 | 🐛 0 | 📅 2026-07-23 ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
+[![Stars](https://img.shields.io/github/stars/youngfish42/Awesome-FL.svg?color=orange)](https://github.com/youngfish42/Awesome-FL/stargazers) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/Awesome-FL.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,548 | 🐛 0 | 📅 2026-07-23 ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
 ***
 
@@ -629,9 +629,9 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 * FedCD: Federated Semi-Supervised Learning with Class Awareness Balance via Dual Teachers. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28175)] \[[PAGE](https://underline.io/lecture/92166-fedcd-federated-semi-supervised-learning-with-class-awareness-balance-via-dual-teachers)] \[[CODE](https://github.com/YunzZ-Liu/FedCD/) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-28]
 * Concealing Sensitive Samples against Gradient Leakage in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/30171)] \[[PAGE](https://underline.io/lecture/94147-concealing-sensitive-samples-against-gradient-leakage-in-federated-learning)] \[[PDF](https://arxiv.org/abs/2209.05724)] \[[CODE](https://github.com/JingWu321/DCS-2) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-07-17]
 * PPIDSG: A Privacy-Preserving Image Distribution Sharing Scheme with GAN in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29339)] \[[PAGE](https://underline.io/lecture/92243-ppidsg-a-privacy-preserving-image-distribution-sharing-scheme-with-gan-in-federated-learning)] \[[PDF](https://arxiv.org/abs/2312.10380)] \[[CODE](https://github.com/ytingma/PPIDSG) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-04-14]
+* Collaborative Consortium of Foundation Models for Open-World Few-Shot Learning. \[[PUB](https://doi.org/10.1609/aaai.v38i5.28275)] \[[CODE](https://github.com/The-Shuai/CO3) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2024-10-11]
 * High-Fidelity Gradient Inversion in Distributed Learning. \[[PUB](https://doi.org/10.1609/aaai.v38i18.29975)] \[[CODE](https://github.com/MiLab-HITSZ/2023YeHFGradInv) ⭐ 7 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-08-21]
 * UFDA: Universal Federated Domain Adaptation with Practical Assumptions. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29311)] \[[PAGE](https://underline.io/lecture/93578-ufda-universal-federated-domain-adaptation-with-practical-assumptions)] \[[PDF](https://arxiv.org/abs/2311.15570)] \[[CODE](https://github.com/Xinhui-99/UFDA) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-05-23]
-* Collaborative Consortium of Foundation Models for Open-World Few-Shot Learning. \[[PUB](https://doi.org/10.1609/aaai.v38i5.28275)] \[[CODE](https://github.com/The-Shuai/CO3) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2024-10-11]
 * FedGCR: Achieving Performance and Fairness for  Federated Learning with Distinct Client Types via Group Customization  and Reweighting. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29031)] \[[PAGE](https://underline.io/lecture/92275-fedgcr-achieving-performance-and-fairness-for-federated-learning-with-distinct-client-types-via-group-customization-and-reweighting)] \[[CODE](https://github.com/celinezheng/fedgcr) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-12-12]
 * TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29481)] \[[PAGE](https://underline.io/lecture/91900-turbosvm-fl-boosting-federated-learning-through-svm-aggregation-for-lazy-clients)] \[[PDF](https://arxiv.org/abs/2401.12012)] \[[CODE](https://github.com/Kasneci-Lab/TurboSVM-FL) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-04-04]
 * Learn How to See: Collaborative Embodied Learning for Object Detection and Camera Adjusting. \[[PUB](https://doi.org/10.1609/aaai.v38i5.28281)] \[[CODE](https://github.com/lydonShen/STF) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-07-22]
@@ -697,7 +697,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 #### AAAI
 
-* DPAUC: Differentially Private AUC Computation in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26770)] \[[CODE](https://github.com/bytedance/fedlearner/tree/master/example/privacy/DPAUC) ⭐ 900 | 🐛 79 | 🌐 Python | 📅 2026-07-06]
+* DPAUC: Differentially Private AUC Computation in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26770)] \[[CODE](https://github.com/bytedance/fedlearner/tree/master/example/privacy/DPAUC) ⭐ 901 | 🐛 79 | 🌐 Python | 📅 2026-07-06]
 * FedALA: Adaptive Local Aggregation for Personalized Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26330)] \[[PDF](https://arxiv.org/abs/2212.01197)] \[[CODE](https://github.com/tsingz0/fedala) ⭐ 150 | 🐛 4 | 🌐 Python | 📅 2024-11-11]
 * Federated Learning on Non-IID Graphs via Structural Knowledge Sharing. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26187)] \[[PDF](https://arxiv.org/abs/2211.13009)] \[[CODE](https://github.com/yuetan031/fedstar) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2022-11-24]
 * Federated Learning on Non-IID Graphs via Structural Knowledge Sharing. \[[PDF](https://arxiv.org/abs/2211.13009)] \[[CODE](https://github.com/yuetan031/fedstar) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2022-11-24]
@@ -739,7 +739,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 #### AAAI Special Tracks
 
-* DPAUC: Differentially Private AUC Computation in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26770)] \[[PDF](https://arxiv.org/abs/2208.12294)] \[[CODE](https://github.com/bytedance/fedlearner/tree/master/example/privacy/DPAUC) ⭐ 900 | 🐛 79 | 🌐 Python | 📅 2026-07-06]
+* DPAUC: Differentially Private AUC Computation in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26770)] \[[PDF](https://arxiv.org/abs/2208.12294)] \[[CODE](https://github.com/bytedance/fedlearner/tree/master/example/privacy/DPAUC) ⭐ 901 | 🐛 79 | 🌐 Python | 📅 2026-07-06]
 
 #### AAAI Special Programs
 
@@ -900,7 +900,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 #### AAAI
 
-* Personalized Cross-Silo Federated Learning on Non-IID Data. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/16960)] \[[PDF](https://arxiv.org/abs/2007.03797)] \[[VIDEO](https://slideslive.com/38948676/personalized-crosssilo-federated-learning-on-noniid-data)] \[[UC.](https://github.com/TsingZ0/PFL-Non-IID) ⭐ 2,166 | 🐛 7 | 🌐 Python | 📅 2026-01-25]
+* Personalized Cross-Silo Federated Learning on Non-IID Data. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/16960)] \[[PDF](https://arxiv.org/abs/2007.03797)] \[[VIDEO](https://slideslive.com/38948676/personalized-crosssilo-federated-learning-on-noniid-data)] \[[UC.](https://github.com/TsingZ0/PFL-Non-IID) ⭐ 2,167 | 🐛 7 | 🌐 Python | 📅 2026-01-25]
 * Addressing Class Imbalance in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/17219)] \[[PDF](https://arxiv.org/abs/2008.06217)] \[[VIDEO](https://slideslive.com/38949283/adressing-class-imbalance-in-federated-learning)] \[[CODE](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2021-12-09] \[[解读](https://zhuanlan.zhihu.com/p/443009189)]
 * Defending against Backdoors in Federated Learning with Robust Learning Rate. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/17118)] \[[PDF](https://arxiv.org/abs/2007.03767)] \[[VIDEO](https://slideslive.com/38949344/defending-against-backdoors-in-federated-learning-with-robust-learning-rate)] \[[CODE](https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2022-10-03]
 * FLAME: Differentially Private Federated Learning in the Shuffle Model. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/17053)] \[[PDF](https://arxiv.org/abs/2009.08063)] \[[VIDEO](https://slideslive.com/38948496/flame-differentially-private-federated-learning-in-the-shuffle-model)] \[[CODE](https://github.com/Rachelxuan11/FLAME) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2022-10-12]
@@ -2114,7 +2114,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 #### NeurIPS Datasets and Benchmarks
 
-* FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings. \[[PUB](https://openreview.net/forum?id=GgM5DiAb6A2)] \[[CODE](https://github.com/owkin/FLamby) ⭐ 244 | 🐛 26 | 🌐 Python | 📅 2026-07-07]
+* FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings. \[[PUB](https://openreview.net/forum?id=GgM5DiAb6A2)] \[[CODE](https://github.com/owkin/FLamby) ⭐ 245 | 🐛 26 | 🌐 Python | 📅 2026-07-07]
 
 #### ICML
 
@@ -2229,7 +2229,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 * Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning. \[[PUB](https://openreview.net/forum?id=ce6CFXBh30h)] \[[PDF](https://arxiv.org/abs/2006.12097)] \[[CODE](https://github.com/wyjeong/FedMatch) ⭐ 81 | 🐛 4 | 🌐 Python | 📅 2022-04-25]
 * Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning. \[[PUB](https://openreview.net/forum?id=ce6CFXBh30h)] \[[CODE](https://github.com/wyjeong/FedMatch) ⭐ 81 | 🐛 4 | 🌐 Python | 📅 2022-04-25]
 * Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms :fire:. \[[PUB](https://openreview.net/forum?id=GFsU8a0sGB)] \[[PDF](https://arxiv.org/abs/2010.05273)] \[[CODE](https://github.com/alshedivat/fedpa) ⭐ 50 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-04-13]
-* Personalized Federated Learning with First Order Model Optimization. \[[PUB](https://openreview.net/forum?id=ehJqJQk9cw)] \[[PDF](https://arxiv.org/abs/2012.08565)] \[[CODE](https://github.com/NVlabs/FedFomo) ⭐ 41 | 🐛 9 | 🌐 Python | 📅 2021-12-08] \[[UC.](https://github.com/TsingZ0/PFL-Non-IID) ⭐ 2,166 | 🐛 7 | 🌐 Python | 📅 2026-01-25]
+* Personalized Federated Learning with First Order Model Optimization. \[[PUB](https://openreview.net/forum?id=ehJqJQk9cw)] \[[PDF](https://arxiv.org/abs/2012.08565)] \[[CODE](https://github.com/NVlabs/FedFomo) ⭐ 41 | 🐛 9 | 🌐 Python | 📅 2021-12-08] \[[UC.](https://github.com/TsingZ0/PFL-Non-IID) ⭐ 2,167 | 🐛 7 | 🌐 Python | 📅 2026-01-25]
 * FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning. \[[PUB](https://openreview.net/forum?id=dgtpE6gKjHn)] \[[PDF](https://arxiv.org/abs/2009.01974)] \[[CODE](https://github.com/hongyouc/fedbe) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2023-05-09]
 * Federated Learning Based on Dynamic Regularization. \[[PUB](https://openreview.net/forum?id=B7v4QMR6Z9w)] \[[PDF](https://arxiv.org/abs/2111.04263)] \[[CODE](https://github.com/AntixK/FedDyn) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2021-06-02]
 * Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning. \[[PUB](https://openreview.net/forum?id=jDdzh5ul-d)] \[[PDF](https://arxiv.org/abs/2101.11203)]
@@ -2367,7 +2367,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 #### NeurIPS
 
-* Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge. \[[PUB](https://proceedings.neurips.cc/paper/2020/hash/a1d4c20b182ad7137ab3606f0e3fc8a4-Abstract.html)] \[[PDF](https://arxiv.org/abs/2007.14513)] \[[CODE](https://github.com/FedML-AI/FedML/tree/master/fedml_experiments/distributed/fedgkt) ⭐ 4,069 | 🐛 147 | 🌐 Python | 📅 2025-10-28] \[[解读](https://zhuanlan.zhihu.com/p/536901871)]
+* Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge. \[[PUB](https://proceedings.neurips.cc/paper/2020/hash/a1d4c20b182ad7137ab3606f0e3fc8a4-Abstract.html)] \[[PDF](https://arxiv.org/abs/2007.14513)] \[[CODE](https://github.com/FedML-AI/FedML/tree/master/fedml_experiments/distributed/fedgkt) ⭐ 4,070 | 🐛 147 | 🌐 Python | 📅 2025-10-28] \[[解读](https://zhuanlan.zhihu.com/p/536901871)]
 * Inverting Gradients - How easy is it to break privacy in federated learning? :fire:. \[[PUB](https://proceedings.neurips.cc/paper/2020/hash/c4ede56bbd98819ae6112b20ac6bf145-Abstract.html)] \[[PDF](https://arxiv.org/abs/2003.14053)] \[[CODE](https://github.com/JonasGeiping/invertinggradients) ⭐ 323 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-04-14]
 * Personalized Federated Learning with Moreau Envelopes :fire:. \[[PUB](https://proceedings.neurips.cc/paper/2020/hash/f4f1f13c8289ac1b1ee0ff176b56fc60-Abstract.html)] \[[PDF](https://arxiv.org/abs/2006.08848)] \[[CODE](https://github.com/CharlieDinh/pFedMe) ⭐ 310 | 🐛 5 | 🌐 Python | 📅 2022-04-18]
 * Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization :fire:. \[[PUB](https://proceedings.neurips.cc/paper/2020/hash/564127c03caab942e503ee6f810f54fd-Abstract.html)] \[[PDF](https://arxiv.org/abs/2007.07481)] \[[CODE](https://github.com/JYWa/FedNova) ⭐ 230 | 🐛 3 | 🌐 Python | 📅 2020-10-21] \[[UC.](https://github.com/carbonati/fl-zoo) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-03-24]
@@ -3474,7 +3474,7 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 #### ICCV
 
-* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 978 | 🐛 50 | 🌐 Python | 📅 2026-10-02]
+* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 978 | 🐛 53 | 🌐 Python | 📅 2026-10-03]
 * TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06937)] \[[CODE](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2024-04-30]
 * Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Bold_but_Cautious_Unlocking_the_Potential_of_Personalized_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2309.11103)] \[[CODE](https://github.com/kxzxvbk/Fling) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2026-04-17] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Wu_Bold_but_Cautious_ICCV_2023_supplemental.pdf)]
 * Multi-Metrics Adaptively Identifies Backdoors in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Multi-Metrics_Adaptively_Identifies_Backdoors_in_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06601)] \[[CODE](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-08-07] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Huang_Multi-Metrics_Adaptively_Identifies_ICCV_2023_supplemental.pdf)]
@@ -3545,4 +3545,4 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

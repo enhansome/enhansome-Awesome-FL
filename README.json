@@ -1873,6 +1873,27 @@
                         },
                         {
                           "node_type": "item",
+                          "title": "Collaborative Consortium of Foundation Models for Open-World Few-Shot Learning. [PUB",
+                          "description": "The-Shuai/CO3",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "Python code to implement CO3, a fundamental-model based approach for open-world few-shot learning.",
+                            "homepage": null,
+                            "id": 736567263,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2024-10-11T05:53:02Z",
+                            "open_issues": 2,
+                            "owner": "The-Shuai",
+                            "repo": "CO3",
+                            "stars": 7,
+                            "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
                           "title": "High-Fidelity Gradient Inversion in Distributed Learning. [PUB",
                           "description": "MiLab-HITSZ/2023YeHFGradInv",
                           "children": [],
@@ -1908,27 +1929,6 @@
                             "open_issues": 0,
                             "owner": "Xinhui-99",
                             "repo": "UFDA",
-                            "stars": 6,
-                            "topics": []
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
-                          "title": "Collaborative Consortium of Foundation Models for Open-World Few-Shot Learning. [PUB",
-                          "description": "The-Shuai/CO3",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "Python code to implement CO3, a fundamental-model based approach for open-world few-shot learning.",
-                            "homepage": null,
-                            "id": 736567263,
-                            "language": "Python",
-                            "license": null,
-                            "last_commit": "2024-10-11T05:53:02Z",
-                            "open_issues": 2,
-                            "owner": "The-Shuai",
-                            "repo": "CO3",
                             "stars": 6,
                             "topics": []
                           },
@@ -2189,7 +2189,7 @@
                             "open_issues": 79,
                             "owner": "bytedance",
                             "repo": "fedlearner",
-                            "stars": 900,
+                            "stars": 901,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -2504,7 +2504,7 @@
                             "open_issues": 79,
                             "owner": "bytedance",
                             "repo": "fedlearner",
-                            "stars": 900,
+                            "stars": 901,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -2707,7 +2707,7 @@
                             "open_issues": 9,
                             "owner": "microsoft",
                             "repo": "FedDrift",
-                            "stars": 23,
+                            "stars": 24,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -3447,7 +3447,7 @@
                             "open_issues": 7,
                             "owner": "TsingZ0",
                             "repo": "PFLlib",
-                            "stars": 2166,
+                            "stars": 2167,
                             "topics": [
                               "attack",
                               "differential-privacy",
@@ -8397,7 +8397,7 @@
                             "open_issues": 26,
                             "owner": "owkin",
                             "repo": "FLamby",
-                            "stars": 244,
+                            "stars": 245,
                             "topics": [
                               "dataset",
                               "deep-learning",
@@ -10602,7 +10602,7 @@
                             "open_issues": 147,
                             "owner": "FedML-AI",
                             "repo": "FedML",
-                            "stars": 4069,
+                            "stars": 4070,
                             "topics": [
                               "ai-agent",
                               "deep-learning",
@@ -14510,8 +14510,8 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-02T21:57:30Z",
-                            "open_issues": 50,
+                            "last_commit": "2026-10-03T17:33:34Z",
+                            "open_issues": 53,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 978,
@@ -15233,7 +15233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:08:38.571Z",
+    "last_updated": "2026-10-04T15:48:15.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -15245,7 +15245,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2014,
+      "stars": 2015,
       "topics": [
         "artificial-intelligence",
         "awesome",
