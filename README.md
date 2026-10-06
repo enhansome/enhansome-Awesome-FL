@@ -1,6 +1,6 @@
 # Awesome Federated Learning Resources with stars
 
-[![Stars](https://img.shields.io/github/stars/youngfish42/Awesome-FL.svg?color=orange)](https://github.com/youngfish42/Awesome-FL/stargazers) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/Awesome-FL.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,548 | 🐛 0 | 📅 2026-07-23 ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
+[![Stars](https://img.shields.io/github/stars/youngfish42/Awesome-FL.svg?color=orange)](https://github.com/youngfish42/Awesome-FL/stargazers) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/Awesome-FL.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,549 | 🐛 0 | 📅 2026-07-23 ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
 ***
 
@@ -900,7 +900,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 #### AAAI
 
-* Personalized Cross-Silo Federated Learning on Non-IID Data. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/16960)] \[[PDF](https://arxiv.org/abs/2007.03797)] \[[VIDEO](https://slideslive.com/38948676/personalized-crosssilo-federated-learning-on-noniid-data)] \[[UC.](https://github.com/TsingZ0/PFL-Non-IID) ⭐ 2,167 | 🐛 7 | 🌐 Python | 📅 2026-01-25]
+* Personalized Cross-Silo Federated Learning on Non-IID Data. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/16960)] \[[PDF](https://arxiv.org/abs/2007.03797)] \[[VIDEO](https://slideslive.com/38948676/personalized-crosssilo-federated-learning-on-noniid-data)] \[[UC.](https://github.com/TsingZ0/PFL-Non-IID) ⭐ 2,168 | 🐛 7 | 🌐 Python | 📅 2026-01-25]
 * Addressing Class Imbalance in Federated Learning. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/17219)] \[[PDF](https://arxiv.org/abs/2008.06217)] \[[VIDEO](https://slideslive.com/38949283/adressing-class-imbalance-in-federated-learning)] \[[CODE](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2021-12-09] \[[解读](https://zhuanlan.zhihu.com/p/443009189)]
 * Defending against Backdoors in Federated Learning with Robust Learning Rate. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/17118)] \[[PDF](https://arxiv.org/abs/2007.03767)] \[[VIDEO](https://slideslive.com/38949344/defending-against-backdoors-in-federated-learning-with-robust-learning-rate)] \[[CODE](https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2022-10-03]
 * FLAME: Differentially Private Federated Learning in the Shuffle Model. \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/17053)] \[[PDF](https://arxiv.org/abs/2009.08063)] \[[VIDEO](https://slideslive.com/38948496/flame-differentially-private-federated-learning-in-the-shuffle-model)] \[[CODE](https://github.com/Rachelxuan11/FLAME) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2022-10-12]
@@ -1190,7 +1190,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 * FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation. \[[PUB](https://openreview.net/forum?id=y7pDvbi9xz)] \[[CODE](https://github.com/CYFang6/FedPHA) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2025-09-03]
 * The Panaceas for Improving Low-Rank Decomposition in Communication-Efficient Federated Learning. \[[PUB](https://openreview.net/forum?id=aooq3tQIX9)] \[[CODE](https://github.com/Leopold1423/fedmud-icml25) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2025-06-12]
 * Does One-shot Give the Best Shot? Mitigating Model Inconsistency in One-shot Federated Learning. \[[PUB](https://openreview.net/forum?id=2XvF67vbCK)] \[[CODE](https://github.com/zenghui9977/FAFI_ICML25) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-05-07]
-* Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning. \[[PUB](https://openreview.net/forum?id=zV5pkTMHPP)] \[[CODE](https://github.com/Hongyao-Chen/HybridBN) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2025-06-19]
+* Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning. \[[PUB](https://openreview.net/forum?id=zV5pkTMHPP)] \[[CODE](https://github.com/Hongyao-Chen/HybridBN) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-06-19]
 * Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic Adaptation. \[[PUB](https://openreview.net/forum?id=0p86Mhg014)] \[[CODE](https://github.com/MoratalYang/FedDDA) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-11-14]
 * Splitting with Importance-aware Updating for Heterogeneous Federated Learning with Large Language Models. \[[PUB](https://openreview.net/forum?id=ny0m8YEUzH)] \[[CODE](https://github.com/liaosunny123/FedICU) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2025-05-11]
 * An Effective and Secure Federated Multi-View Clustering Method with Information-Theoretic Perspective. \[[PUB](https://openreview.net/forum?id=eLkkXaPFEP)] \[[CODE](https://github.com/5Martina5/ESFMC) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-05-24]
@@ -1625,7 +1625,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 #### ICLR
 
-* VFLAIR: A Research Library and Benchmark for Vertical Federated Learning. \[[PUB](https://openreview.net/forum?id=sqRgz88TM3)] \[[PDF](https://arxiv.org/abs/2310.09827)] \[[CODE](https://github.com/FLAIR-THU/VFLAIR) ⭐ 105 | 🐛 6 | 🌐 Python | 📅 2024-07-18]
+* VFLAIR: A Research Library and Benchmark for Vertical Federated Learning. \[[PUB](https://openreview.net/forum?id=sqRgz88TM3)] \[[PDF](https://arxiv.org/abs/2310.09827)] \[[CODE](https://github.com/FLAIR-THU/VFLAIR) ⭐ 106 | 🐛 6 | 🌐 Python | 📅 2024-07-18]
 * Federated Recommendation with Additive Personalization. \[[PUB](https://openreview.net/forum?id=xkXdE81mOK)] \[[PDF](https://arxiv.org/abs/2301.09109)] \[[CODE](https://github.com/mtics/FedRAP) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2025-05-28]
 * Robust Training of Federated Models with Extremely Label Deficiency. \[[PUB](https://openreview.net/forum?id=qxLVaYbsSI)] \[[PDF](https://arxiv.org/abs/2402.14430)] \[[CODE](https://github.com/visitworld123/Twin-sight) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2025-05-29]
 * Benchmarking Algorithms for Federated Domain Generalization. \[[PUB](https://openreview.net/forum?id=wprSv7ichW)] \[[PDF](https://arxiv.org/abs/2307.04942)] \[[CODE](https://github.com/inouye-lab/FedDG_Benchmark) ⭐ 26 | 🐛 3 | 🌐 Python | 📅 2025-06-05]
@@ -1859,7 +1859,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 #### ICML
 
 * FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization. \[[PUB](https://openreview.net/forum?id=891ytYlYgB)] \[[PDF](https://arxiv.org/abs/2206.03966)] \[[CODE](https://github.com/alibaba/FederatedScope/tree/master/benchmark/FedHPOBench) ⭐ 1,545 | 🐛 55 | 🌐 Python | 📅 2024-08-10]
-* Federated Heavy Hitter Recovery under Linear Sketching. \[[PUB](https://openreview.net/forum?id=zN4oRCrlnM)] \[[PDF](https://arxiv.org/abs/2307.13347)] \[[CODE](https://github.com/google-research/federated) ⭐ 762 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
+* Federated Heavy Hitter Recovery under Linear Sketching. \[[PUB](https://openreview.net/forum?id=zN4oRCrlnM)] \[[PDF](https://arxiv.org/abs/2307.13347)] \[[CODE](https://github.com/google-research/federated) ⭐ 763 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
 * FedDisco: Federated Learning with Discrepancy-Aware Collaboration. \[[PUB](https://openreview.net/forum?id=cHJ1VuZorx)] \[[PDF](https://arxiv.org/abs/2305.19229)] \[[CODE](https://github.com/MediaBrain-SJTU/FedDisco) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2025-12-08]
 * Revisiting Weighted Aggregation in Federated Learning with Neural Networks. \[[PUB](https://openreview.net/forum?id=FuDAjnWhrQ)] \[[PDF](https://arxiv.org/abs/2302.10911)] \[[CODE](https://github.com/zexilee/icml-2023-fedlaw) ⭐ 67 | 🐛 6 | 🌐 Python | 📅 2023-08-28]
 * Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning. \[[PUB](https://openreview.net/forum?id=HtHFnHrZXu)] \[[PDF](https://arxiv.org/abs/2304.12961)] \[[CODE](https://github.com/ybdai7/chameleon-durable-backdoor) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2025-09-09]
@@ -2114,11 +2114,11 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 #### NeurIPS Datasets and Benchmarks
 
-* FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings. \[[PUB](https://openreview.net/forum?id=GgM5DiAb6A2)] \[[CODE](https://github.com/owkin/FLamby) ⭐ 245 | 🐛 26 | 🌐 Python | 📅 2026-07-07]
+* FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings. \[[PUB](https://openreview.net/forum?id=GgM5DiAb6A2)] \[[CODE](https://github.com/owkin/FLamby) ⭐ 246 | 🐛 26 | 🌐 Python | 📅 2026-07-07]
 
 #### ICML
 
-* The Fundamental Price of Secure Aggregation in Differentially Private Federated Learning :fire:. \[[PUB](https://proceedings.mlr.press/v162/chen22c.html)] \[[PDF](https://arxiv.org/abs/2203.03761)] \[[CODE](https://github.com/google-research/federated/tree/master/private_linear_compression) ⭐ 762 | 🐛 17 | 🌐 Python | 📅 2026-03-25] \[[SLIDE](https://icml.cc/media/icml-2022/Slides/17529.pdf)]
+* The Fundamental Price of Secure Aggregation in Differentially Private Federated Learning :fire:. \[[PUB](https://proceedings.mlr.press/v162/chen22c.html)] \[[PDF](https://arxiv.org/abs/2203.03761)] \[[CODE](https://github.com/google-research/federated/tree/master/private_linear_compression) ⭐ 763 | 🐛 17 | 🌐 Python | 📅 2026-03-25] \[[SLIDE](https://icml.cc/media/icml-2022/Slides/17529.pdf)]
 * FedScale: Benchmarking Model and System Performance of Federated Learning at Scale :fire:. \[[PUB](https://proceedings.mlr.press/v162/lai22a.html)] \[[PDF](https://arxiv.org/abs/2105.11367)] \[[CODE](https://github.com/SymbioticLab/FedScale) ⭐ 421 | 🐛 45 | 🌐 Python | 📅 2023-12-18]
 * Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification :fire:. \[[PUB](https://proceedings.mlr.press/v162/wen22a.html)] \[[PDF](https://arxiv.org/abs/2202.00580)] \[[CODE](https://github.com/JonasGeiping/breaching) ⭐ 324 | 🐛 0 | 🌐 Python | 📅 2026-01-24]
 * Neurotoxin: Durable Backdoors in Federated Learning. \[[PUB](https://proceedings.mlr.press/v162/zhang22w.html)] \[[PDF](https://arxiv.org/abs/2206.10341)] \[[CODE](https://github.com/jhcknzzm/Federated-Learning-Backdoor/) ⭐ 85 | 🐛 7 | 🌐 Python | 📅 2023-04-01]
@@ -2169,8 +2169,8 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 #### ICLR
 
-* Diurnal or Nocturnal? Federated Learning of Multi-branch Networks from Periodically Shifting Distributions :fire:. \[[PUB](https://openreview.net/forum?id=E4EE_ohFGz)] \[[CODE](https://github.com/google-research/federated/tree/7525c36324cb022bc05c3fce88ef01147cae9740/periodic_distribution_shift) ⭐ 762 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
-* What Do We Mean by Generalization in Federated Learning? :fire:. \[[PUB](https://openreview.net/forum?id=VimqQq-i_Q)] \[[PDF](https://arxiv.org/abs/2110.14216)] \[[CODE](https://github.com/google-research/federated/tree/master/generalization) ⭐ 762 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
+* Diurnal or Nocturnal? Federated Learning of Multi-branch Networks from Periodically Shifting Distributions :fire:. \[[PUB](https://openreview.net/forum?id=E4EE_ohFGz)] \[[CODE](https://github.com/google-research/federated/tree/7525c36324cb022bc05c3fce88ef01147cae9740/periodic_distribution_shift) ⭐ 763 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
+* What Do We Mean by Generalization in Federated Learning? :fire:. \[[PUB](https://openreview.net/forum?id=VimqQq-i_Q)] \[[PDF](https://arxiv.org/abs/2110.14216)] \[[CODE](https://github.com/google-research/federated/tree/master/generalization) ⭐ 763 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
 * Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models :fire:. \[[PUB](https://openreview.net/forum?id=fwzUgo0FM9v)] \[[PDF](https://arxiv.org/abs/2110.13057)] \[[CODE](https://github.com/JonasGeiping/breaching) ⭐ 324 | 🐛 0 | 🌐 Python | 📅 2026-01-24]
 * FedBABU: Toward Enhanced Representation for Federated Image Classification. \[[PUB](https://openreview.net/forum?id=HuaYQfggn5u)] \[[PDF](https://arxiv.org/abs/2106.06042)] \[[CODE](https://github.com/jhoon-oh/FedBABU) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2022-03-21]
 * Efficient Split-Mix Federated Learning for On-Demand and In-Situ Customization. \[[PUB](https://openreview.net/forum?id=_QLmakITKg)] \[[PDF](https://arxiv.org/abs/2203.09747)] \[[CODE](https://github.com/illidanlab/SplitMix) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2023-04-12]
@@ -2222,14 +2222,14 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 #### ICLR
 
-* Adaptive Federated Optimization :fire:. \[[PUB](https://openreview.net/forum?id=LkFG3lB13U5)] \[[PDF](https://arxiv.org/abs/2003.00295)] \[[CODE](https://github.com/google-research/federated/tree/master/optimization) ⭐ 762 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
+* Adaptive Federated Optimization :fire:. \[[PUB](https://openreview.net/forum?id=LkFG3lB13U5)] \[[PDF](https://arxiv.org/abs/2003.00295)] \[[CODE](https://github.com/google-research/federated/tree/master/optimization) ⭐ 763 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
 * FedBN: Federated Learning on Non-IID Features via Local Batch Normalization :fire:. \[[PUB](https://openreview.net/forum?id=6YEQUn0QICG)] \[[PDF](https://arxiv.org/abs/2102.07623)] \[[CODE](https://github.com/med-air/FedBN) ⭐ 272 | 🐛 7 | 🌐 Python | 📅 2025-11-13]
 * FedBN: Federated Learning on Non-IID Features via Local Batch Normalization. \[[PUB](https://openreview.net/forum?id=6YEQUn0QICG)] \[[CODE](https://github.com/med-air/FedBN) ⭐ 272 | 🐛 7 | 🌐 Python | 📅 2025-11-13]
 * HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients. \[[PUB](https://openreview.net/forum?id=TNkPBBYFkXg)] \[[PDF](https://arxiv.org/abs/2010.01264)] \[[CODE](https://github.com/dem123456789/HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2023-02-27]
 * Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning. \[[PUB](https://openreview.net/forum?id=ce6CFXBh30h)] \[[PDF](https://arxiv.org/abs/2006.12097)] \[[CODE](https://github.com/wyjeong/FedMatch) ⭐ 81 | 🐛 4 | 🌐 Python | 📅 2022-04-25]
 * Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning. \[[PUB](https://openreview.net/forum?id=ce6CFXBh30h)] \[[CODE](https://github.com/wyjeong/FedMatch) ⭐ 81 | 🐛 4 | 🌐 Python | 📅 2022-04-25]
 * Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms :fire:. \[[PUB](https://openreview.net/forum?id=GFsU8a0sGB)] \[[PDF](https://arxiv.org/abs/2010.05273)] \[[CODE](https://github.com/alshedivat/fedpa) ⭐ 50 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-04-13]
-* Personalized Federated Learning with First Order Model Optimization. \[[PUB](https://openreview.net/forum?id=ehJqJQk9cw)] \[[PDF](https://arxiv.org/abs/2012.08565)] \[[CODE](https://github.com/NVlabs/FedFomo) ⭐ 41 | 🐛 9 | 🌐 Python | 📅 2021-12-08] \[[UC.](https://github.com/TsingZ0/PFL-Non-IID) ⭐ 2,167 | 🐛 7 | 🌐 Python | 📅 2026-01-25]
+* Personalized Federated Learning with First Order Model Optimization. \[[PUB](https://openreview.net/forum?id=ehJqJQk9cw)] \[[PDF](https://arxiv.org/abs/2012.08565)] \[[CODE](https://github.com/NVlabs/FedFomo) ⭐ 41 | 🐛 9 | 🌐 Python | 📅 2021-12-08] \[[UC.](https://github.com/TsingZ0/PFL-Non-IID) ⭐ 2,168 | 🐛 7 | 🌐 Python | 📅 2026-01-25]
 * FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning. \[[PUB](https://openreview.net/forum?id=dgtpE6gKjHn)] \[[PDF](https://arxiv.org/abs/2009.01974)] \[[CODE](https://github.com/hongyouc/fedbe) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2023-05-09]
 * Federated Learning Based on Dynamic Regularization. \[[PUB](https://openreview.net/forum?id=B7v4QMR6Z9w)] \[[PDF](https://arxiv.org/abs/2111.04263)] \[[CODE](https://github.com/AntixK/FedDyn) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2021-06-02]
 * Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning. \[[PUB](https://openreview.net/forum?id=jDdzh5ul-d)] \[[PDF](https://arxiv.org/abs/2101.11203)]
@@ -2242,7 +2242,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 #### ICML
 
-* The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation :fire:. \[[PUB](http://proceedings.mlr.press/v139/kairouz21a.html)] \[[PDF](https://arxiv.org/abs/2102.06387)] \[[CODE](https://github.com/google-research/federated/tree/master/distributed_dp) ⭐ 762 | 🐛 17 | 🌐 Python | 📅 2026-03-25] \[[VIDEO](https://slideslive.com/38959306/the-distributed-discrete-gaussian-mechanism-for-federated-learning-with-secure-aggregation)]
+* The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation :fire:. \[[PUB](http://proceedings.mlr.press/v139/kairouz21a.html)] \[[PDF](https://arxiv.org/abs/2102.06387)] \[[CODE](https://github.com/google-research/federated/tree/master/distributed_dp) ⭐ 763 | 🐛 17 | 🌐 Python | 📅 2026-03-25] \[[VIDEO](https://slideslive.com/38959306/the-distributed-discrete-gaussian-mechanism-for-federated-learning-with-secure-aggregation)]
 * Data-Free Knowledge Distillation for Heterogeneous Federated Learning :fire:. \[[PUB](http://proceedings.mlr.press/v139/zhu21b.html)] \[[PDF](https://arxiv.org/abs/2105.10056)] \[[CODE](https://github.com/zhuangdizhu/FedGen) ⭐ 261 | 🐛 18 | 🌐 Python | 📅 2024-10-31] \[[VIDEO](https://slideslive.com/38959429/datafree-knowledge-distillation-for-heterogeneous-federated-learning)]
 * Personalized Federated Learning using Hypernetworks :fire:. \[[PUB](http://proceedings.mlr.press/v139/shamsian21a.html)] \[[PDF](https://arxiv.org/abs/2103.04628)] \[[CODE](https://github.com/AvivSham/pFedHN) ⭐ 199 | 🐛 0 | 🌐 Python | 📅 2023-02-14] \[[PAGE](https://avivsham.github.io/pfedhn/)] \[[VIDEO](https://slideslive.com/38959583/personalized-federated-learning-using-hypernetworks)] \[[解读](https://zhuanlan.zhihu.com/p/431130945)]
 * Ditto: Fair and Robust Federated Learning Through Personalization. \[[PUB](http://proceedings.mlr.press/v139/li21h.html)] \[[PDF](https://arxiv.org/abs/2012.04221)] \[[CODE](https://github.com/litian96/ditto) ⭐ 164 | 🐛 1 | 🌐 Python | 📅 2022-04-30] \[[VIDEO](https://slideslive.com/38955195/ditto-fair-and-robust-federated-learning-through-personalization)]
@@ -2271,9 +2271,9 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 #### NeurIPS
 
-* The Skellam Mechanism for Differentially Private Federated Learning :fire:. \[[PUB](https://papers.neurips.cc/paper/2021/hash/285baacbdf8fda1de94b19282acd23e2-Abstract.html)] \[[PDF](https://arxiv.org/abs/2110.04995)] \[[CODE](https://github.com/google-research/federated/tree/master/distributed_dp) ⭐ 762 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
-* Federated Reconstruction: Partially Local Federated Learning :fire:. \[[PUB](https://papers.nips.cc/paper/2021/hash/5d44a2b0d85aa1a4dd3f218be6422c66-Abstract.html)] \[[PDF](https://arxiv.org/abs/2102.03448)] \[[CODE](https://github.com/google-research/federated/tree/master/reconstruction) ⭐ 762 | 🐛 17 | 🌐 Python | 📅 2026-03-25] \[[UC.](https://github.com/KarhouTam/FedRecon) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-10-09]
-* On Large-Cohort Training for Federated Learning :fire:. \[[PUB](https://papers.nips.cc/paper/2021/hash/ab9ebd57177b5106ad7879f0896685d4-Abstract.html)] \[[PDF](https://arxiv.org/abs/2106.07820)] \[[CODE](https://github.com/google-research/federated/tree/f4e26c1b9b47ac320e520a8b9943ea2c5324b8c2/large_cohort) ⭐ 762 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
+* The Skellam Mechanism for Differentially Private Federated Learning :fire:. \[[PUB](https://papers.neurips.cc/paper/2021/hash/285baacbdf8fda1de94b19282acd23e2-Abstract.html)] \[[PDF](https://arxiv.org/abs/2110.04995)] \[[CODE](https://github.com/google-research/federated/tree/master/distributed_dp) ⭐ 763 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
+* Federated Reconstruction: Partially Local Federated Learning :fire:. \[[PUB](https://papers.nips.cc/paper/2021/hash/5d44a2b0d85aa1a4dd3f218be6422c66-Abstract.html)] \[[PDF](https://arxiv.org/abs/2102.03448)] \[[CODE](https://github.com/google-research/federated/tree/master/reconstruction) ⭐ 763 | 🐛 17 | 🌐 Python | 📅 2026-03-25] \[[UC.](https://github.com/KarhouTam/FedRecon) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-10-09]
+* On Large-Cohort Training for Federated Learning :fire:. \[[PUB](https://papers.nips.cc/paper/2021/hash/ab9ebd57177b5106ad7879f0896685d4-Abstract.html)] \[[PDF](https://arxiv.org/abs/2106.07820)] \[[CODE](https://github.com/google-research/federated/tree/f4e26c1b9b47ac320e520a8b9943ea2c5324b8c2/large_cohort) ⭐ 763 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
 * Evaluating Gradient Inversion Attacks and Defenses in Federated Learning :fire:. \[[PUB](https://papers.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html)] \[[PDF](https://arxiv.org/abs/2112.00059)] \[[CODE](https://github.com/Princeton-SysML/GradAttack) ⭐ 204 | 🐛 1 | 🌐 Python | 📅 2024-05-07]
 * Federated Multi-Task Learning under a Mixture of Distributions. \[[PUB](https://papers.nips.cc/paper/2021/hash/82599a4ec94aca066873c99b4c741ed8-Abstract.html)] \[[PDF](https://arxiv.org/abs/2108.10252)] \[[CODE](https://github.com/omarfoq/FedEM) ⭐ 163 | 🐛 1 | 🌐 Python | 📅 2022-11-07]
 * Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee. \[[PUB](https://papers.nips.cc/paper/2021/hash/080acdcce72c06873a773c4311c2e464-Abstract.html)] \[[PDF](https://arxiv.org/abs/2110.14074)] \[[CODE](https://github.com/flint-xf-fan/Byzantine-Federeated-RL) ⭐ 106 | 🐛 0 | 🌐 Python | 📅 2025-04-16]
@@ -2328,7 +2328,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 #### ICLR
 
-* Generative Models for Effective ML on Private, Decentralized Datasets :fire:. \[[PUB](https://openreview.net/forum?id=SJgaRA4FPH)] \[[PDF](https://arxiv.org/abs/1911.06679)] \[[CODE](https://github.com/google-research/federated/tree/master/gans) ⭐ 762 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
+* Generative Models for Effective ML on Private, Decentralized Datasets :fire:. \[[PUB](https://openreview.net/forum?id=SJgaRA4FPH)] \[[PDF](https://arxiv.org/abs/1911.06679)] \[[CODE](https://github.com/google-research/federated/tree/master/gans) ⭐ 763 | 🐛 17 | 🌐 Python | 📅 2026-03-25]
 * Federated Learning with Matched Averaging :fire:. \[[PUB](https://openreview.net/forum?id=BkluqlSFDS)] \[[PDF](https://arxiv.org/abs/2002.06440)] \[[CODE](https://github.com/IBM/FedMA) ⚠️ Archived]
 * On the Convergence of FedAvg on Non-IID Data :fire:. \[[PUB](https://openreview.net/forum?id=HJxNAnVtDS)] \[[PDF](https://arxiv.org/abs/1907.02189)] \[[CODE](https://github.com/lx10077/fedavgpy) ⭐ 274 | 🐛 1 | 🌐 Python | 📅 2022-12-07] \[[解读](https://zhuanlan.zhihu.com/p/500005337)]
 * Fair Resource Allocation in Federated Learning :fire:. \[[PUB](https://openreview.net/forum?id=ByexElSYDr)] \[[PDF](https://arxiv.org/abs/1905.10497)] \[[CODE](https://github.com/litian96/fair_flearn) ⭐ 252 | 🐛 4 | 🌐 Python | 📅 2023-12-02]
@@ -2367,7 +2367,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 #### NeurIPS
 
-* Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge. \[[PUB](https://proceedings.neurips.cc/paper/2020/hash/a1d4c20b182ad7137ab3606f0e3fc8a4-Abstract.html)] \[[PDF](https://arxiv.org/abs/2007.14513)] \[[CODE](https://github.com/FedML-AI/FedML/tree/master/fedml_experiments/distributed/fedgkt) ⭐ 4,070 | 🐛 147 | 🌐 Python | 📅 2025-10-28] \[[解读](https://zhuanlan.zhihu.com/p/536901871)]
+* Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge. \[[PUB](https://proceedings.neurips.cc/paper/2020/hash/a1d4c20b182ad7137ab3606f0e3fc8a4-Abstract.html)] \[[PDF](https://arxiv.org/abs/2007.14513)] \[[CODE](https://github.com/FedML-AI/FedML/tree/master/fedml_experiments/distributed/fedgkt) ⭐ 4,069 | 🐛 147 | 🌐 Python | 📅 2025-10-28] \[[解读](https://zhuanlan.zhihu.com/p/536901871)]
 * Inverting Gradients - How easy is it to break privacy in federated learning? :fire:. \[[PUB](https://proceedings.neurips.cc/paper/2020/hash/c4ede56bbd98819ae6112b20ac6bf145-Abstract.html)] \[[PDF](https://arxiv.org/abs/2003.14053)] \[[CODE](https://github.com/JonasGeiping/invertinggradients) ⭐ 323 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-04-14]
 * Personalized Federated Learning with Moreau Envelopes :fire:. \[[PUB](https://proceedings.neurips.cc/paper/2020/hash/f4f1f13c8289ac1b1ee0ff176b56fc60-Abstract.html)] \[[PDF](https://arxiv.org/abs/2006.08848)] \[[CODE](https://github.com/CharlieDinh/pFedMe) ⭐ 310 | 🐛 5 | 🌐 Python | 📅 2022-04-18]
 * Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization :fire:. \[[PUB](https://proceedings.neurips.cc/paper/2020/hash/564127c03caab942e503ee6f810f54fd-Abstract.html)] \[[PDF](https://arxiv.org/abs/2007.07481)] \[[CODE](https://github.com/JYWa/FedNova) ⭐ 230 | 🐛 3 | 🌐 Python | 📅 2020-10-21] \[[UC.](https://github.com/carbonati/fl-zoo) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-03-24]
@@ -3282,7 +3282,7 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 #### CVPR
 
-* AFL: A Single-Round Analytic Approach for Federated Learning with Pre-trained Models. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/He_AFL_A_Single-Round_Analytic_Approach_for_Federated_Learning_with_Pre-trained_CVPR_2025_paper.html)] \[[CODE](https://github.com/ZHUANGHP/Analytic-federated-learning) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2025-03-27]
+* AFL: A Single-Round Analytic Approach for Federated Learning with Pre-trained Models. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/He_AFL_A_Single-Round_Analytic_Approach_for_Federated_Learning_with_Pre-trained_CVPR_2025_paper.html)] \[[CODE](https://github.com/ZHUANGHP/Analytic-federated-learning) ⭐ 73 | 🐛 0 | 🌐 Python | 📅 2025-03-27]
 * Beyond Local Sharpness: Communication-Efficient Global Sharpness-aware Minimization for Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Caldarola_Beyond_Local_Sharpness_Communication-Efficient_Global_Sharpness-aware_Minimization_for_Federated_Learning_CVPR_2025_paper.html)] \[[CODE](https://github.com/pietrocagnasso/fedgloss) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2025-04-04]
 * Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html)] \[[CODE](https://github.com/Jay-Codeman/SAGE) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2025-03-29]
 * Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ma_Geometric_Knowledge-Guided_Localized_Global_Distribution_Alignment_for_Federated_Learning_CVPR_2025_paper.html)] \[[CODE](https://github.com/WeiDai-David/2025CVPR_GGEUR) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2025-03-21]
@@ -3474,7 +3474,7 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 #### ICCV
 
-* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 978 | 🐛 53 | 🌐 Python | 📅 2026-10-03]
+* Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16270)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) ⭐ 981 | 🐛 57 | 🌐 Python | 📅 2026-10-05]
 * TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06937)] \[[CODE](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2024-04-30]
 * Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Bold_but_Cautious_Unlocking_the_Potential_of_Personalized_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2309.11103)] \[[CODE](https://github.com/kxzxvbk/Fling) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2026-04-17] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Wu_Bold_but_Cautious_ICCV_2023_supplemental.pdf)]
 * Multi-Metrics Adaptively Identifies Backdoors in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Multi-Metrics_Adaptively_Identifies_Backdoors_in_Federated_Learning_ICCV_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.06601)] \[[CODE](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-08-07] \[[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Huang_Multi-Metrics_Adaptively_Identifies_ICCV_2023_supplemental.pdf)]
@@ -3524,15 +3524,20 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 #### CVPR
 
+* Fair Federated Medical Image Segmentation via Client Contribution Estimation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_Fair_Federated_Medical_Image_Segmentation_via_Client_Contribution_Estimation_CVPR_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16520)] \[[CODE](https://github.com/NVIDIA/NVFlare/tree/dev/research/fed-ce) ⭐ 981 | 🐛 57 | 🌐 Python | 📅 2026-10-05]
 * Rethinking Federated Learning With Domain Shift: A Prototype View. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Rethinking_Federated_Learning_With_Domain_Shift_A_Prototype_View_CVPR_2023_paper.html)] \[[CODE](https://github.com/WenkeHuang/RethinkFL) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2024-12-29]
 * Make Landscape Flatter in Differentially Private Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Shi_Make_Landscape_Flatter_in_Differentially_Private_Federated_Learning_CVPR_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.11242)] \[[CODE](https://github.com/YMJS-Irfan/DP-FedSAM) ⭐ 56 | 🐛 8 | 🌐 Python | 📅 2025-10-12]
 * Federated Domain Generalization With Generalization Adjustment. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.html)] \[[CODE](https://github.com/MediaBrain-SJTU/FedDG-GA) ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2023-06-14]
 * Learning Federated Visual Prompt in Null Space for MRI Reconstruction. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Feng_Learning_Federated_Visual_Prompt_in_Null_Space_for_MRI_Reconstruction_CVPR_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.16181)] \[[CODE](https://github.com/chunmeifeng/FedPR) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2023-04-01]
+* Federated Incremental Semantic Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.html)] \[[PDF](https://arxiv.org/abs/2304.04620)] \[[CODE](https://github.com/JiahuaDong/FISS) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2023-11-05]
 * ScaleFL: Resource-Adaptive Federated Learning With Heterogeneous Clients. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Ilhan_ScaleFL_Resource-Adaptive_Federated_Learning_With_Heterogeneous_Clients_CVPR_2023_paper.html)] \[[CODE](https://github.com/git-disl/scale-fl) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2025-12-11]
 * Re-Thinking Federated Active Learning Based on Inter-Class Diversity. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Re-Thinking_Federated_Active_Learning_Based_on_Inter-Class_Diversity_CVPR_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.12317)] \[[CODE](https://github.com/raymin0223/LoGo) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2023-05-31]
 * DaFKD: Domain-Aware Federated Knowledge Distillation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html)] \[[CODE](https://github.com/haozhaowang/DaFKD2023) ⭐ 29 | 🐛 3 | 🌐 Python | 📅 2023-05-22]
+* Collaborative Noisy Label Cleaner: Learning Scene-aware Trailers for Multi-modal Highlight Detection in Movies. \[[PUB](https://doi.org/10.1109/CVPR52729.2023.01812)] \[[CODE](https://github.com/TencentYoutuResearch/HighlightDetection-CLC) ⭐ 18 | 🐛 2 | 📅 2023-03-21]
 * Confidence-Aware Personalized Federated Learning via Variational Expectation Maximization. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Confidence-Aware_Personalized_Federated_Learning_via_Variational_Expectation_Maximization_CVPR_2023_paper.html)] \[[PDF](https://arxiv.org/abs/2305.12557)] \[[CODE](https://github.com/junyizhu-ai/confidence_aware_pfl) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2023-11-08]
 * Class Balanced Adaptive Pseudo Labeling for Federated Semi-Supervised Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Class_Balanced_Adaptive_Pseudo_Labeling_for_Federated_Semi-Supervised_Learning_CVPR_2023_paper.html)] \[[CODE](https://github.com/minglllli/CBAFed) ⭐ 15 | 🐛 3 | 🌐 Python | 📅 2023-09-14]
+* GradMA: A Gradient-Memory-Based Accelerated Federated Learning With Alleviated Catastrophic Forgetting. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Luo_GradMA_A_Gradient-Memory-Based_Accelerated_Federated_Learning_With_Alleviated_Catastrophic_Forgetting_CVPR_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2302.14307)] \[[CODE](https://github.com/lkyddd/gradma) ⭐ 15 | 🐛 3 | 🌐 Python | 📅 2023-03-12]
+* Federated Learning With Data-Agnostic Distribution Fusion. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Duan_Federated_Learning_With_Data-Agnostic_Distribution_Fusion_CVPR_2023_paper.html)] \[[CODE](https://github.com/LiruichenSpace/FedFusion) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2023-03-19]
 * STDLens: Model Hijacking-Resilient Federated Learning for Object Detection. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Chow_STDLens_Model_Hijacking-Resilient_Federated_Learning_for_Object_Detection_CVPR_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.11511)] \[[CODE](https://github.com/git-disl/STDLens) ⭐ 7 | 🐛 2 | 📅 2023-03-27]
 * The Resource Problem of Using Linear Layer Leakage Attack in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_The_Resource_Problem_of_Using_Linear_Layer_Leakage_Attack_in_CVPR_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2303.14868)]
 * FedSeg: Class-Heterogeneous Federated Learning for Semantic Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Miao_FedSeg_Class-Heterogeneous_Federated_Learning_for_Semantic_Segmentation_CVPR_2023_paper.html)]
@@ -3541,8 +3546,2994 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 * FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Xiong_FedDM_Iterative_Distribution_Matching_for_Communication-Efficient_Federated_Learning_CVPR_2023_paper.html)] \[[PDF](https://arxiv.org/abs/2207.09653)]
 * Adaptive Channel Sparsity for Federated Learning Under System Heterogeneity. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Liao_Adaptive_Channel_Sparsity_for_Federated_Learning_Under_System_Heterogeneity_CVPR_2023_paper.html)]
 * Reliable and Interpretable Personalized Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Qin_Reliable_and_Interpretable_Personalized_Federated_Learning_CVPR_2023_paper.html)]
-* Fair Federated Medical Image Segmentation via Client Contribution Estimation. \[\[PUB]\(<https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_Fair_Federated_Medical_Image_Segmen>
+* How To Prevent the Poor Performance Clients for Personalized Federated Learning?. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Qu_How_To_Prevent_the_Poor_Performance_Clients_for_Personalized_Federated_CVPR_2023_paper.html)]
+* Bias-Eliminating Augmentation Learning for Debiased Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Bias-Eliminating_Augmentation_Learning_for_Debiased_Federated_Learning_CVPR_2023_paper.html)]
+* GP-VTON: Towards General Purpose Virtual Try-On via Collaborative Local-Flow Global-Parsing Learning. \[[PUB](https://doi.org/10.1109/CVPR52729.2023.02255)]
+* HRDFuse: Monocular 360° Depth Estimation by Collaboratively Learning Holistic-with-Regional Depth Distributions. \[[PUB](https://doi.org/10.1109/CVPR52729.2023.01275)]
+
+#### CVPR workshop
+
+* Asynchronous Federated Continual Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023W/FedVision/html/Shenaj_Asynchronous_Federated_Continual_Learning_CVPRW_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2304.03626)] \[[SILDES](https://github.com/LTTM/FedSpace/blob/main/media/slides.pdf) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2023-07-15] \[[CODE](https://github.com/LTTM/FedSpace) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2023-07-15]
+* OpenFed: A Comprehensive and Versatile Open-Source Federated Learning Framework. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023W/FedVision/html/Chen_OpenFed_A_Comprehensive_and_Versatile_Open-Source_Federated_Learning_Framework_CVPRW_2023_paper.html)] \[[PDF](https://arxiv.org/abs/2109.07852)] \[[CODE](https://github.com/FederalLab/OpenFed) ⚠️ Archived]
+* Many-Task Federated Learning: A New Problem Setting and a Simple Baseline. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023W/FedVision/html/Cai_Many-Task_Federated_Learning_A_New_Problem_Setting_and_a_Simple_CVPRW_2023_paper.html)] \[[CODE](https://github.com/VITA-Group/MaT-FL) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2023-08-28]
+* Federated Learning in Non-IID Settings Aided by Differentially Private Synthetic Data. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023W/FedVision/html/Chen_Federated_Learning_in_Non-IID_Settings_Aided_by_Differentially_Private_Synthetic_CVPRW_2023_paper.html)] \[[SUPP](https://openaccess.thecvf.com/content/CVPR2023W/FedVision/supplemental/Chen_Federated_Learning_in_CVPRW_2023_supplemental.pdf)] \[[PDF](https://arxiv.org/abs/2206.00686)] \[[CODE](https://github.com/citychan/federated-dpms) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2025-03-04]
+* Mixed Quantization Enabled Federated Learning To Tackle Gradient Inversion Attacks. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023W/FedVision/html/Ovi_Mixed_Quantization_Enabled_Federated_Learning_To_Tackle_Gradient_Inversion_Attacks_CVPRW_2023_paper.html)] \[[CODE](https://github.com/PretomRoy/Defense-against-grad-inversion-attacks) ⭐ 0 | 🐛 1 | 📅 2023-04-09]
+* TimelyFL: Heterogeneity-Aware Asynchronous Federated Learning With Adaptive Partial Training. \[[PUB](https://openaccess.thecvf.com/content/CVPR2023W/FedVision/html/Zhang_TimelyFL_Heterogeneity-Aware_Asynchronous_Federated_Learning_With_Adaptive_Partial_Training_CVPRW_2023_paper.html)] \[[PDF](http://arxiv.org/abs/2304.06947)]
+
+### 2022
+
+#### ijcv
+
+* I3CL: Intra- and Inter-Instance Collaborative Learning for Arbitrary-Shaped Scene Text Detection. \[[PUB](https://doi.org/10.1007/s11263-022-01616-6)]
+
+#### MM
+
+* Confederated Learning: Going Beyond Centralization. \[[PUB](https://dl.acm.org/doi/10.1145/3503161.3548157)]
+* Few-Shot Model Agnostic Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3503161.3548764)] \[[CODE](https://github.com/WenkeHuang/FSMAFL)]
+* Feeling Without Sharing: A Federated Video Emotion Recognition Framework Via Privacy-Agnostic Hybrid Aggregation. \[[PUB](https://dl.acm.org/doi/10.1145/3503161.3548278)]
+* DPCNet: Dual Path Multi-Excitation Collaborative Network for Facial Expression Representation Learning in Videos. \[[PUB](https://doi.org/10.1145/3503161.3547865)]
+
+#### ECCV
+
+* Improving Generalization in Federated Learning by Seeking Flat Minima. \[[PUB](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7093_ECCV_2022_paper.php)] \[[SUPP](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830636-supp.pdf)] \[[PDF](https://arxiv.org/abs/2203.11834)] \[[CODE](https://github.com/debcaldarola/fedsam) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2025-06-16]
+* FedX: Unsupervised Federated Learning with Cross Knowledge Distillation. \[[PUB](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3932_ECCV_2022_paper.php)] \[[SUPP](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900682-supp.pdf)] \[[PDF](https://arxiv.org/abs/2207.09158)] \[[CODE](https://github.com/sungwon-han/fedx) ⭐ 73 | 🐛 0 | 🌐 Python | 📅 2022-08-23]
+* Personalizing Federated Medical Image Segmentation via Local Calibration. \[[PUB](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1626_ECCV_2022_paper.php)] \[[SUPP](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810449-supp.pdf)] \[[PDF](https://arxiv.org/abs/2207.04655)] \[[CODE](https://github.com/jcwang123/fedlc) ⭐ 50 | 🐛 12 | 🌐 Python | 📅 2023-03-01]
+* Federated Self-Supervised Learning for Video Understanding. \[[PUB](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7693_ECCV_2022_paper.php)] \[[PDF](https://arxiv.org/abs/2207.01975)] \[[CODE](https://github.com/yasar-rehman/fedvssl) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2023-12-19]
+* Auto-FedRL: Federated Hyperparameter Optimization for Multi-Institutional Medical Image Segmentation. \[[PUB](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1129_ECCV_2022_paper.php)] \[[SUPP](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810431-supp.pdf)] \[[PDF](https://arxiv.org/abs/2203.06338)] \[[CODE](https://github.com/guopengf/Auto-FedRL) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2023-06-13]
+* FedVLN: Privacy-Preserving Federated Vision-and-Language Navigation. \[[PUB](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6298_ECCV_2022_paper.php)] \[[SUPP](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960673-supp.pdf)] \[[PDF](https://arxiv.org/abs/2203.14936)] \[[CODE](https://github.com/eric-ai-lab/FedVLN) ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2022-10-08]
+* AdaBest: Minimizing Client Drift in Federated Learning via Adaptive Bias Estimation. \[[PUB](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/8092_ECCV_2022_paper.php)] \[[SUPP](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830690-supp.pdf)] \[[PDF](https://arxiv.org/abs/2204.13170)] \[[CODE](https://github.com/varnio/fedsim) ⭐ 7 | 🐛 4 | 🌐 Python | 📅 2023-03-03] \[[PAGE](https://fedsim.varnio.com/en/latest/)]
+* Addressing Heterogeneity in Federated Learning via Distributional Transformation. \[[PUB](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6551_ECCV_2022_paper.php)] \[[CODE](https://github.com/hyhmia/DisTrans) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2022-07-17]
+* FedLTN: Federated Learning for Sparse and Personalized Lottery Ticket Networks. \[[PUB](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6634_ECCV_2022_paper.php)] \[[SUPP](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720069-supp.pdf)]
+* SphereFed: Hyperspherical Federated Learning. \[[PUB](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2255_ECCV_2022_paper.php)] \[[SUPP](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860161-supp.pdf)] \[[PDF](https://arxiv.org/abs/2207.09413)]
+
+#### CVPR
+
+* Federated Class-Incremental Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)] \[[PDF](http://arxiv.org/abs/2203.11473)] \[[CODE](https://github.com/conditionWang/FCIL) ⭐ 125 | 🐛 1 | 🌐 Python | 📅 2023-08-07]
+* Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.html)] \[[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Qu_Rethinking_Architecture_Design_CVPR_2022_supplemental.pdf)] \[[PDF](http://arxiv.org/abs/2106.06047)] \[[CODE](https://github.com/Liangqiong/ViT-FL-main) ⭐ 117 | 🐛 2 | 🌐 Python | 📅 2023-02-27] \[[VIDEO](https://www.youtube.com/watch?v=Ae1CDi0_Nok\&ab_channel=StanfordMedAI)]
+* Learn From Others and Be Yourself in Heterogeneous Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Learn_From_Others_and_Be_Yourself_in_Heterogeneous_Federated_Learning_CVPR_2022_paper.html)] \[[CODE](https://github.com/wenkehuang/fccl) ⭐ 109 | 🐛 6 | 🌐 Python | 📅 2023-10-24] \[[VIDEO](https://www.youtube.com/watch?v=zZoASA71qwQ\&ab_channel=HuangWenke)]
+* FedDC: Federated Learning With Non-IID Data via Local Drift Decoupling and Correction. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Gao_FedDC_Federated_Learning_With_Non-IID_Data_via_Local_Drift_Decoupling_CVPR_2022_paper.html)] \[[PDF](http://arxiv.org/abs/2203.11751)] \[[CODE](https://github.com/gaoliang13/FedDC) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2022-03-22] \[[解读](https://zhuanlan.zhihu.com/p/505889549)]
+* Nested Collaborative Learning for Long-Tailed Visual Recognition. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00682)] \[[CODE](https://github.com/Bazinga699/NCL) ⭐ 88 | 🐛 1 | 🌐 Python | 📅 2024-05-25]
+* Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Auditing_Privacy_Defenses_in_Federated_Learning_via_Generative_Gradient_Leakage_CVPR_2022_paper.html)] \[[PDF](http://arxiv.org/abs/2203.15696)] \[[CODE](https://github.com/zhuohangli/GGL) ⭐ 62 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-10-24] \[[VIDEO](https://www.youtube.com/watch?v=rphFSGDlGPY\&ab_channel=MoSISLab)]
+* Local Learning Matters: Rethinking Data Heterogeneity in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Mendieta_Local_Learning_Matters_Rethinking_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.html)] \[[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Mendieta_Local_Learning_Matters_CVPR_2022_supplemental.pdf)] \[[PDF](http://arxiv.org/abs/2111.14213)] \[[CODE](https://github.com/mmendiet/FedAlign) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2022-09-15]
+* Robust Federated Learning With Noisy and Heterogeneous Clients. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Fang_Robust_Federated_Learning_With_Noisy_and_Heterogeneous_Clients_CVPR_2022_paper.html)] \[[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Fang_Robust_Federated_Learning_CVPR_2022_supplemental.pdf)] \[[CODE](https://github.com/FangXiuwen/Robust_FL) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2024-12-31]
+* RSCFed: Random Sampling Consensus Federated Semi-Supervised Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_RSCFed_Random_Sampling_Consensus_Federated_Semi-Supervised_Learning_CVPR_2022_paper.html)] \[[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Liang_RSCFed_Random_Sampling_CVPR_2022_supplemental.pdf)] \[[PDF](http://arxiv.org/abs/2203.13993)] \[[CODE](https://github.com/xmed-lab/rscfed) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2022-07-07]
+* FedCorr: Multi-Stage Federated Learning for Label Noise Correction. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_FedCorr_Multi-Stage_Federated_Learning_for_Label_Noise_Correction_CVPR_2022_paper.html)] \[[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xu_FedCorr_Multi-Stage_Federated_CVPR_2022_supplemental.pdf)] \[[PDF](http://arxiv.org/abs/2204.04677)] \[[CODE](https://github.com/xu-jingyi/fedcorr) ⭐ 42 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-03-07] \[[VIDEO](https://www.youtube.com/watch?v=GA22ct1LgRA\&ab_channel=ZihanChen)]
+* Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01882)] \[[CODE](https://github.com/dongxingning/SHA-GCL-for-SGG) ⭐ 39 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-04-08]
+* ResSFL: A Resistance Transfer Framework for Defending Model Inversion Attack in Split Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Li_ResSFL_A_Resistance_Transfer_Framework_for_Defending_Model_Inversion_Attack_CVPR_2022_paper.html)] \[[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Li_ResSFL_A_Resistance_CVPR_2022_supplemental.pdf)] \[[PDF](http://arxiv.org/abs/2205.04007)] \[[CODE](https://github.com/zlijingtao/ResSFL) ⭐ 27 | 🐛 1 | 🌐 Shell | 📅 2022-06-24]
+* ATPFL: Automatic Trajectory Prediction Model Design Under Federated Learning Framework. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.html)]
+* FedCor: Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Tang_FedCor_Correlation-Based_Active_Client_Selection_Strategy_for_Heterogeneous_Federated_Learning_CVPR_2022_paper.html)] \[[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Tang_FedCor_Correlation-Based_Active_CVPR_2022_supplemental.zip)] \[[PDF](http://arxiv.org/abs/2103.13822)]
+* Layer-Wised Model Aggregation for Personalized Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Ma_Layer-Wised_Model_Aggregation_for_Personalized_Federated_Learning_CVPR_2022_paper.html)] \[[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Ma_Layer-Wised_Model_Aggregation_CVPR_2022_supplemental.pdf)] \[[PDF](http://arxiv.org/abs/2205.03993)]
+* Federated Learning With Position-Aware Neurons. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Federated_Learning_With_Position-Aware_Neurons_CVPR_2022_paper.html)] \[[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Li_Federated_Learning_With_CVPR_2022_supplemental.pdf)] \[[PDF](http://arxiv.org/abs/2203.14666)]
+* Fine-Tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Fine-Tuning_Global_Model_via_Data-Free_Knowledge_Distillation_for_Non-IID_Federated_CVPR_2022_paper.html)] \[[PDF](http://arxiv.org/abs/2203.09249)]
+* Differentially Private Federated Learning With Local Regularization and Sparsification. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Cheng_Differentially_Private_Federated_Learning_With_Local_Regularization_and_Sparsification_CVPR_2022_paper.html)] \[[PDF](http://arxiv.org/abs/2203.03106)]
+* CD2-pFed: Cyclic Distillation-Guided Channel Decoupling for Model Personalization in Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Shen_CD2-pFed_Cyclic_Distillation-Guided_Channel_Decoupling_for_Model_Personalization_in_Federated_CVPR_2022_paper.html)] \[[PDF](https://arxiv.org/abs/2204.03880)]
+* Closing the Generalization Gap of Cross-Silo Federated Medical Image Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Closing_the_Generalization_Gap_of_Cross-Silo_Federated_Medical_Image_Segmentation_CVPR_2022_paper.html)] \[[PDF](http://arxiv.org/abs/2203.10144)]
+* Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00171)]
+* GradViT: Gradient Inversion of Vision Transformers. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00978)]
+* Learning to Collaborate in Decentralized Learning of Personalized Models. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00954)]
+
+#### CVPR workshop
+
+* Adaptive Differential Filters for Fast and Communication-Efficient Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022W/FedVision/html/Becking_Adaptive_Differential_Filters_for_Fast_and_Communication-Efficient_Federated_Learning_CVPRW_2022_paper.html)] \[[PDF](https://arxiv.org/abs/2204.04424)] \[[SILDES](https://www.crcv.ucf.edu/chenchen/FedVision-Workshop-CVPR2022/Becking_FSFL_FedVision_CVPR22.pdf)] \[[VIDEO](https://youtu.be/A9nEWqGriZ4)]
+* MPAF: Model Poisoning Attacks to Federated Learning Based on Fake Clients. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022W/FedVision/html/Cao_MPAF_Model_Poisoning_Attacks_to_Federated_Learning_Based_on_Fake_CVPRW_2022_paper.html)] \[[PDF](https://arxiv.org/abs/2203.08669)] \[[SILDES](https://www.crcv.ucf.edu/chenchen/FedVision-Workshop-CVPR2022/mpaf.pdf)] \[[VIDEO](https://youtu.be/H3fetWD_ZHw)]
+* Communication-Efficient Federated Data Augmentation on Non-IID Data. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022W/FedVision/html/Wen_Communication-Efficient_Federated_Data_Augmentation_on_Non-IID_Data_CVPRW_2022_paper.html)]
+* Does Federated Dropout Actually Work?. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022W/FedVision/html/Cheng_Does_Federated_Dropout_Actually_Work_CVPRW_2022_paper.html)] \[[VIDEO](https://youtu.be/iJ3Q_gNhXGE)]
+* FedIris: Towards More Accurate and Privacy-preserving Iris Recognition via Federated Template Communication. \[[PUB](https://openaccess.thecvf.com/content/CVPR2022W/FedVision/html/Luo_FedIris_Towards_More_Accurate_and_Privacy-Preserving_Iris_Recognition_via_Federated_CVPRW_2022_paper.html)] \[[SLIDES](https://www.crcv.ucf.edu/chenchen/FedVision-Workshop-CVPR2022/presentation-%20Zhengquan%20Luo.pdf)] \[[VIDEO](https://youtu.be/bRMeXncAjWY)]
+
+### 2021
+
+#### CVPR
+
+* Model-Contrastive Federated Learning :fire:. \[[PUB](https://ieeexplore.ieee.org/document/9578660)] \[[PDF](https://arxiv.org/abs/2103.16257)] \[[CODE](https://github.com/QinbinLi/MOON) ⭐ 297 | 🐛 3 | 🌐 Python | 📅 2022-06-27] \[[解读](https://weisenhui.top/posts/17666.html)]
+* FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space :fire:. \[[PUB](https://ieeexplore.ieee.org/document/9577482)] \[[PDF](https://arxiv.org/abs/2103.06030)] \[[CODE](https://github.com/liuquande/FedDG-ELCFS) ⭐ 263 | 🐛 10 | 🌐 Python | 📅 2021-04-01]
+* FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html)] \[[CODE](https://github.com/liuquande/FedDG-ELCFS) ⭐ 263 | 🐛 10 | 🌐 Python | 📅 2021-04-01]
+* Soteria: Provable Defense Against Privacy Leakage in Federated Learning From Representation Perspective. \[[PUB](https://ieeexplore.ieee.org/document/9578192)] \[[PDF](https://arxiv.org/abs/2012.06043)] \[[CODE](https://github.com/jeremy313/Soteria) ⭐ 57 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-04]
+* Group Collaborative Learning for Co-Salient Object Detection. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Fan_Group_Collaborative_Learning_for_Co-Salient_Object_Detection_CVPR_2021_paper.html)] \[[CODE](https://github.com/fanq15/GCoNet) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2022-04-11]
+* Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9578476)] \[[PDF](https://arxiv.org/abs/2103.02148)] \[[CODE](https://github.com/guopengf/FL-MRCM) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2022-06-15]
+* Model-Contrastive Federated Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.html)]
+* Beyond Short Clips: End-to-End Video-Level Learning With Collaborative Memories. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Beyond_Short_Clips_End-to-End_Video-Level_Learning_With_Collaborative_Memories_CVPR_2021_paper.html)]
+* Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Miangoleh_Boosting_Monocular_Depth_Estimation_Models_to_High-Resolution_via_Content-Adaptive_Multi-Resolution_CVPR_2021_paper.html)]
+* Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Cross-Modal_Collaborative_Representation_Learning_and_a_Large-Scale_RGBT_Benchmark_for_CVPR_2021_paper.html)]
+* Feature-Level Collaboration: Joint Unsupervised Learning of Optical Flow, Stereo Depth and Camera Motion. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Chi_Feature-Level_Collaboration_Joint_Unsupervised_Learning_of_Optical_Flow_Stereo_Depth_CVPR_2021_paper.html)]
+* Multi-Source Domain Adaptation With Collaborative Learning for Semantic Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/He_Multi-Source_Domain_Adaptation_With_Collaborative_Learning_for_Semantic_Segmentation_CVPR_2021_paper.html)]
+* Multi-Target Domain Adaptation With Collaborative Consistency Learning. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Isobe_Multi-Target_Domain_Adaptation_With_Collaborative_Consistency_Learning_CVPR_2021_paper.html)] \[[CODE](https://github.com/junpan19/MTDA)]
+* Privacy-Preserving Collaborative Learning With Automatic Transformation Search. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_Privacy-Preserving_Collaborative_Learning_With_Automatic_Transformation_Search_CVPR_2021_paper.html)]
+
+#### ICCV
+
+* Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment. \[[PUB](https://ieeexplore.ieee.org/document/9710573)]
+* Ensemble Attention Distillation for Privacy-Preserving Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9710586)] \[[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.pdf)]
+* Collaborative Unsupervised Visual Representation Learning from Decentralized Data. \[[PUB](https://ieeexplore.ieee.org/document/9710366)] \[[PDF](https://arxiv.org/abs/2108.06492)]
+* Collaborative and Adversarial Learning of Focused and Dispersive Representations for Semi-supervised Polyp Segmentation. \[[PUB](https://doi.org/10.1109/ICCV48922.2021.00347)]
+* Collaborative Learning with Disentangled Features for Zero-shot Domain Adaptation. \[[PUB](https://doi.org/10.1109/ICCV48922.2021.00877)]
+* Syncretic Modality Collaborative Learning for Visible Infrared Person Re-Identification. \[[PUB](https://doi.org/10.1109/ICCV48922.2021.00029)]
+* Ultra-High-Definition Image HDR Reconstruction via Collaborative Bilateral Learning. \[[PUB](https://doi.org/10.1109/ICCV48922.2021.00441)]
+
+#### ijcv
+
+* Learned Collaborative Stereo Refinement. \[[PUB](https://doi.org/10.1007/s11263-021-01485-5)]
+
+#### MM
+
+* Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-identification. \[[PUB](https://dl.acm.org/doi/10.1145/3474085.3475182)] \[[PDF](https://arxiv.org/abs/2108.06493)]
+* MHFC: Multi-Head Feature Collaboration for Few-Shot Learning. \[[PUB](https://doi.org/10.1145/3474085.3475553)]
+* Weakly-Supervised Temporal Action Localization via Cross-Stream Collaborative Learning. \[[PUB](https://doi.org/10.1145/3474085.3475261)]
+
+### 2020
+
+#### cvpr
+
+* Online Knowledge Distillation via Collaborative Learning. \[[PUB](https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.html)]
+
+#### ECCV
+
+* Federated Visual Classification with Real-World Data Distribution. \[[PUB](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_5)] \[[PDF](https://arxiv.org/abs/2003.08082)] \[[VIDEO](https://www.youtube.com/watch?v=Rc67rZzPDDY\&ab_channel=TzuMingHsu)]
+* Accurate RGB-D Salient Object Detection via Collaborative Learning. \[[PUB](https://doi.org/10.1007/978-3-030-58523-5_4)]
+* Collaboration by Competition: Self-coordinated Knowledge Amalgamation for Multi-talent Student Learning. \[[PUB](https://doi.org/10.1007/978-3-030-58539-6_38)]
+* Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-order Feature Analysis. \[[PUB](https://doi.org/10.1007/978-3-030-58580-8_45)]
+* Guided Collaborative Training for Pixel-Wise Semi-Supervised Learning. \[[PUB](https://doi.org/10.1007/978-3-030-58601-0_26)]
+* YOLO in the Dark - Domain Adaptation Method for Merging Multiple Models. \[[PUB](https://doi.org/10.1007/978-3-030-58589-1_21)]
+
+#### MM
+
+* Performance Optimization of Federated Person Re-identification via Benchmark Analysis **`data.`**. \[[PUB](https://dl.acm.org/doi/10.1145/3394171.3413814)] \[[PDF](https://arxiv.org/abs/2008.11560)] \[[CODE](https://github.com/cap-ntu/FedReID) ⭐ 101 | 🐛 6 | 🌐 Python | 📅 2023-03-30] \[[解读](https://zhuanlan.zhihu.com/p/265987079)]
+* InvisibleFL: Federated Learning over Non-Informative Intermediate Updates against Multimedia Privacy Leakages. \[[PUB](https://dl.acm.org/doi/10.1145/3394171.3413923)]
+* Performance Optimization of Federated Person Re-identification via Benchmark Analysis. \[[PUB](https://doi.org/10.1145/3394171.3413814)]
+
+### 2019
+
+#### cvpr
+
+* Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images. \[[PUB](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.html)]
+* Collaborative Spatiotemporal Feature Learning for Video Action Recognition. \[[PUB](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Collaborative_Spatiotemporal_Feature_Learning_for_Video_Action_Recognition_CVPR_2019_paper.html)]
+* Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation. \[[PUB](http://openaccess.thecvf.com/content_CVPR_2019/html/Ranjan_Competitive_Collaboration_Joint_Unsupervised_Learning_of_Depth_Camera_Motion_Optical_CVPR_2019_paper.html)]
+
+#### iccv
+
+* Unsupervised Collaborative Learning of Keyframe Detection and Visual Odometry Towards Monocular Deep SLAM. \[[PUB](https://doi.org/10.1109/ICCV.2019.00440)]
+
+#### ijcv
+
+* Leveraging Prior-Knowledge for Weakly Supervised Object Detection Under a Collaborative Self-Paced Curriculum Learning Framework. \[[PUB](https://doi.org/10.1007/s11263-018-1112-4)]
+
+#### mm
+
+* Modality-aware Collaborative Learning for Visible Thermal Person Re-Identification. \[[PUB](https://doi.org/10.1145/3343031.3351043)]
+
+### 2018
+
+#### eccv
+
+* Collaborative Deep Reinforcement Learning for Multi-object Tracking. \[[PUB](https://doi.org/10.1007/978-3-030-01219-9_36)]
+
+#### mm
+
+* Learning Collaborative Generation Correction Modules for Blind Image Deblurring and Beyond. \[[PUB](https://doi.org/10.1145/3240508.3240565)]
+
+### 2017
+
+#### cvpr
+
+* Collaborative Deep Reinforcement Learning for Joint Object Search. \[[PUB](https://doi.org/10.1109/CVPR.2017.748)]
+
+#### iccv
+
+* Personalized Cinemagraphs Using Semantic Understanding and Collaborative Learning. \[[PUB](https://doi.org/10.1109/ICCV.2017.552)]
+
+### 2016
+
+#### cvpr
+
+* Online Collaborative Learning for Open-Vocabulary Visual Classifiers. \[[PUB](https://doi.org/10.1109/CVPR.2016.307)]
+
+#### eccv
+
+* Collaborative Layer-Wise Discriminative Learning in Deep Neural Networks. \[[PUB](https://doi.org/10.1007/978-3-319-46478-7_45)]
+
+### 2015
+
+#### cvpr
+
+* Collaborative feature learning from social media. \[[PUB](https://doi.org/10.1109/CVPR.2015.7298656)]
+
+#### iccv
+
+* Merging the Unmatchable: Stitching Visually Disconnected SfM Models. \[[PUB](https://doi.org/10.1109/ICCV.2015.246)]
+
+#### mm
+
+* Cross-Domain Collaborative Learning in Social Multimedia. \[[PUB](https://doi.org/10.1145/2733373.2806234)]
+
+### 2014
+
+#### cvpr
+
+* Merging SVMs with Linear Discriminant Analysis: A Combined Model. \[[PUB](https://doi.org/10.1109/CVPR.2014.140)]
+
+### 2013
+
+#### iccv
+
+* Collaborative Active Learning of a Kernel Machine Ensemble for Recognition. \[[PUB](https://doi.org/10.1109/ICCV.2013.153)]
+
+### 2010
+
+#### cvpr
+
+* High performance object detection by collaborative learning of Joint Ranking of Granules features. \[[PUB](https://doi.org/10.1109/CVPR.2010.5540230)]
+
+### 2008
+
+#### cvpr
+
+* Semi-supervised distance metric learning for Collaborative Image Retrieval. \[[PUB](https://doi.org/10.1109/CVPR.2008.4587351)]
+
+### 2006
+
+#### mm
+
+* Fourth frame forums: interactive comics for collaborative learning. \[[PUB](https://doi.org/10.1145/1180639.1180662)]
+
+### 2003
+
+#### cvpr
+
+* Constructing 3D City Models by Merging Ground-Based and Airborne Views. \[[PUB](https://doi.org/10.1109/CVPR.2003.1211517)]
+
+### 2001
+
+#### iccv
+
+* Region Segmentation via Deformable Model-Guided Split and Merge. \[[PUB](https://doi.ieeecomputersociety.org/10.1109/ICCV.2001.10048)]
+
+### 1999
+
+#### mm
+
+* A federated multimedia database system. \[[PUB](https://doi.org/10.1145/319878.319944)]
+
+### 1998
+
+#### iccv
+
+* Model Selection and Surface Merging in Reconstruction Algorithms. \[[PUB](https://doi.org/10.1109/ICCV.1998.710823)]
+
+### 1993
+
+#### cvpr
+
+* Bayesian region merging probability for parametric image models. \[[PUB](https://doi.org/10.1109/CVPR.1993.341171)]</details>
+
+## fl in top nlp conference and journal
+
+Federated Learning papers accepted by top AI and NLP conference and journal, including [ACL](https://dblp.uni-trier.de/db/conf/acl/index.html)(Annual Meeting of the Association for Computational Linguistics), [NAACL](https://dblp.uni-trier.de/db/conf/naacl/index.html)(North American Chapter of the Association for Computational Linguistics), [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/index.html)(Conference on Empirical Methods in Natural Language Processing) and [COLING](https://dblp.uni-trier.de/db/conf/coling/index.html)(International Conference on Computational Linguistics).
+
+* [ACL](https://dblp.uni-trier.de/search?q=federate%20venue%3AACL%3A) [2025](https://aclanthology.org/events/acl-2025/), [2024](https://aclanthology.org/events/acl-2024/), [2023](https://aclanthology.org/events/acl-2023/), [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/), [2019](https://aclanthology.org/events/acl-2019/)
+* [NAACL](https://dblp.uni-trier.de/search?q=federate%20venue%3ANAACL-HLT%3A) [2024](https://aclanthology.org/events/naacl-2024/), [2022](https://aclanthology.org/events/naacl-2022/), [2021](https://aclanthology.org/events/naacl-2021/)
+* [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) [2025](https://aclanthology.org/events/emnlp-2025/), [2024](https://aclanthology.org/events/emnlp-2024/), [2023](https://aclanthology.org/events/emnlp-2023/), [2022](https://aclanthology.org/events/emnlp-2022/), [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
+* [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) [2025](https://aclanthology.org/volumes/2025.coling-main/), [2020](https://aclanthology.org/events/coling-2020/)
+
+<details open>
+<summary>fl in top nlp conference and journal</summary>
+<!-- START:fl-in-top-nlp-conference-and-journal -->
+
+<!-- END:fl-in-top-nlp-conference-and-journal -->
+
+### 2025
+
+#### EMNLP
+
+* FedCoT: Federated Chain-of-Thought Distillation for Large Language Models. \[[PUB](https://aclanthology.org/2025.findings-emnlp.454/)] \[[CODE](https://github.com/FederatedAI/FATE-LLM/tree/main/python/fate_llm/algo/fedcot) ⭐ 271 | 🐛 7 | 🌐 Python | 📅 2026-09-04]
+* PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.747)] \[[CODE](https://github.com/FederatedAI/FATE-LLM/tree/main/python/fate_llm/algo/ppc-gpt) ⭐ 271 | 🐛 7 | 🌐 Python | 📅 2026-09-04]
+* CoPL: Collaborative Preference Learning for Personalizing LLMs. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.650)] \[[CODE](https://github.com/ml-postech/CoPL) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-09-23]
+* Learning from Diverse Reasoning Paths with Routing and Collaboration. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.141)] \[[CODE](https://github.com/LzyFischer/Distill) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-28]
+* Superpose Task-specific Features for Model Merging. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.210)] \[[CODE](https://github.com/LARS-research/STF) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-10-11]
+* Can Federated Learning Safeguard Private Data in LLM Training? Vulnerabilities, Attacks, and Defense Evaluation. \[[PUB](https://aclanthology.org/2025.findings-emnlp.1303/)]
+* EcoLoRA: Communication-Efficient Federated Fine-Tuning of Large Language Models. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.1046)]
+* Enhancing Model Privacy in Federated Learning with Random Masking and Quantization. \[[PUB](https://aclanthology.org/2025.findings-emnlp.632/)]
+* Federated Retrieval-Augmented Generation: A Systematic Mapping Study. \[[PUB](https://aclanthology.org/2025.findings-emnlp.388/)]
+* Multilingual Federated Low-Rank Adaptation for Collaborative Content Anomaly Detection across Multilingual Social Media Participants. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.770)]
+* Optimizing Cross-Client Domain Coverage for Federated Instruction Tuning of Large Language Models. \[[PUB](https://aclanthology.org/2025.findings-emnlp.52/)]
+* pFedGPT: Hierarchically Optimizing LoRA Aggregation Weights for Personalized Federated GPT Models. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.239)]
+* pFedRAG: A Personalized Federated Retrieval-Augmented Generation System with Depth-Adaptive Tiered Embedding Tuning. \[[PUB](https://aclanthology.org/2025.findings-emnlp.769/)]
+* X-FLoRA: Cross-modal Federated Learning with Modality-expert LoRA for Medical VQA. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.422)]
+* AdaptMerge: Inference Time Adaptive Visual and Language-Guided Token Merging for Efficient Large Multimodal Models. \[[PUB](https://aclanthology.org/2025.findings-emnlp.387/)]
+* AIMMerging: Adaptive Iterative Model Merging Using Training Trajectories for Language Model Continual Learning. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.678)]
+* Composable Cross-prompt Essay Scoring by Merging Models. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.1240)]
+* Exploring Model Kinship for Merging Large Language Models. \[[PUB](https://aclanthology.org/2025.findings-emnlp.32/)]
+* FroM: Frobenius Norm-Based Data-Free Adaptive Model Merging. \[[PUB](https://aclanthology.org/2025.findings-emnlp.251/)]
+* Harmonizing Diverse Models: A Layer-wise Merging Strategy for Consistent Generation. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-industry.64)]
+* LoRE-Merging: Exploring Low-Rank Estimation For Large Language Model Merging. \[[PUB](https://aclanthology.org/2025.findings-emnlp.1195/)]
+* Merger-as-a-Stealer: Stealing Targeted PII from Aligned LLMs with Model Merging. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.295)]
+* Personality Vector: Modulating Personality of Large Language Models by Model Merging. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.1253)]
+* Personalized Language Models via Privacy-Preserving Evolutionary Model Merging. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.1747)]
+* RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via Hierarchical Model Merging. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.829)]
+* Safeguard Fine-Tuned LLMs Through Pre- and Post-Tuning Model Merging. \[[PUB](https://aclanthology.org/2025.findings-emnlp.901/)]
+* Superficial Self-Improved Reasoners Benefit from Model Merging. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.301)]
+* To See a World in a Spark of Neuron: Disentangling Multi-Task Interference for Training-Free Model Merging. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.793)]
+* Train It and Forget It: Merge Lists are Unnecessary for BPE Inference in Language Models. \[[PUB](https://doi.org/10.18653/v1/2025.emnlp-main.1775)]
+
+#### ACL
+
+* LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint. \[[PUB](https://aclanthology.org/2025.acl-long.1055/)] \[[CODE](https://github.com/MqLeet/LED-Merging) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2026-03-16]
+
+* Model Merging for Knowledge Editing. \[[PUB](https://doi.org/10.18653/v1/2025.acl-industry.30)] \[[CODE](https://github.com/Applied-Machine-Learning-Lab/MM4KE) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-01]
+
+* FedLEKE: Federated Locate-then-Edit Knowledge Editing for Multi-Client Collaboration. \[[PUB](https://aclanthology.org/2025.findings-acl.733/)] \[[CODE](https://github.com/zongkaiz/FLEKE) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-02-24]
+
+* FedDQC: Data Quality Control in Federated Instruction-tuning of Large Language Models. \[[PUB](https://aclanthology.org/2025.findings-acl.791/)] \[[CODE](https://github.com/DorothyDUUU/FedDQC) ⭐ 2 | 🐛 0 | 📅 2024-10-11]
+
+* Learning Together to Perform Better: Teaching Small-Scale LLMs to Collaborate via Preferential Rationale Tuning. \[[PUB](https://aclanthology.org/2025.acl-long.754/)] \[[CODE](https://github.com/Sohanpatnaik106/collate) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2025-02-15]
+
+* Towards Robust and Efficient Federated Low-Rank Adaptation with Heterogeneous Clients. \[[PUB](https://aclanthology.org/2025.acl-long.19/)]
+
+* FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Large Language Models. \[[PUB](https://aclanthology.org/2025.acl-long.67/)]
+
+* Federated Data-Efficient Instruction Tuning for Large Language Models. \[[PUB](https://aclanthology.org/2025.findings-acl.803/)]
+
+* Communication-Efficient and Tensorized Federated Fine-Tuning of Large Language Models. \[[PUB](https://aclanthology.org/2025.findings-acl.1241/)]
+
+* 3DM: Distill, Dynamic Drop, and Merge for Debiasing Multi-modal Large Language Models. \[[PUB](https://aclanthology.org/2025.findings-acl.722/)]
+
+* A Modular Approach for Clinical SLMs Driven by Synthetic Data with Pre-Instruction Tuning, Model Merging, and Clinical-Tasks Alignment. \[[PUB](https://aclanthology.org/2025.acl-long.950/)]
+
+* Advancing Collaborative Debates with Role Differentiation through Multi-Agent Reinforcement Learning. \[[PUB](https://aclanthology.org/2025.acl-long.1105/)]
+
+* Be Cautious When Merging Unfamiliar LLMs: A Phishing Model Capable of Stealing Privacy. \[[PUB](https://aclanthology.org/2025.findings-acl.713/)]
+
+* Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation. \[[PUB](https://aclanthology.org/2025.acl-long.1322/)]
+
+* ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs. \[[PUB](https://aclanthology.org/2025.acl-long.921/)]
+
+* MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning. \[[PUB](https://aclanthology.org/2025.acl-long.1459/)]
+
+* Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models. \[[PUB](https://aclanthology.org/2025.acl-long.1571/)]
+
+* Mergenetic: a Simple Evolutionary Model Merging Library. \[[PUB](https://doi.org/10.18653/v1/2025.acl-demo.55)]
+
+* MergePrint: Merge-Resistant Fingerprints for Robust Black-box Ownership Verification of Large Language Models. \[[PUB](https://aclanthology.org/2025.acl-long.342/)]
+
+* MERIT: Multi-Agent Collaboration for Unsupervised Time Series Representation Learning. \[[PUB](https://aclanthology.org/2025.findings-acl.1231/)]
+
+* NeuronMerge: Merging Models via Functional Neuron Groups. \[[PUB](https://aclanthology.org/2025.findings-acl.471/)]
+
+* Selecting and Merging: Towards Adaptable and Scalable Named Entity Recognition with Large Language Models. \[[PUB](https://aclanthology.org/2025.acl-long.487/)]
+
+* Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models. \[[PUB](https://aclanthology.org/2025.findings-acl.984/)]
+
+* SeqMMR: Sequential Model Merging and LLM Routing for Enhanced Batched Sequential Knowledge Editing. \[[PUB](https://aclanthology.org/2025.findings-acl.870/)]
+
+* Transferring Textual Preferences to Vision-Language Understanding through Model Merging. \[[PUB](https://doi.org/10.18653/v1/2025.acl-short.72)]
+
+* Unraveling LoRA Interference: Orthogonal Subspaces for Robust Model Merging. \[[PUB](https://aclanthology.org/2025.acl-long.1284/)]
+
+* UQ-Merge: Uncertainty Guided Multimodal Large Language Model Merging. \[[PUB](https://aclanthology.org/2025.findings-acl.73/)]
+
+#### COLING
+
+* Gradient Inversion Attack in Federated Learning: Exposing Text Data through Discrete Optimization. \[[PUB](https://aclanthology.org/2025.coling-main.176/)]
+
+* FedMKT: Federated Mutual Knowledge Transfer for Large and Small Language Models. \[[PUB](https://aclanthology.org/2025.coling-main.17/)]
+
+* Federated Incremental Named Entity Recognition. \[[PUB](https://aclanthology.org/2025.coling-main.13/)]
+
+* FedCSR: A Federated Framework for Multi-Platform Cross-Domain Sequential Recommendation with Dual Contrastive Learning. \[[PUB](https://aclanthology.org/2025.coling-main.581/)]
+
+* Federated Retrieval Augmented Generation for Multi-Product Question Answering. \[[PUB](https://aclanthology.org/2025.coling-industry.33/)]
+
+* A Collaborative Reasoning Framework Powered by Reinforcement Learning and Large Language Models for Complex Questions Answering over Knowledge Graph. \[[PUB](https://aclanthology.org/2025.coling-main.712/)]
+
+* Perturbation-driven Dual Auxiliary Contrastive Learning for Collaborative Filtering Recommendation. \[[PUB](https://aclanthology.org/2025.coling-main.44/)]
+
+### 2024
+
+#### EMNLP
+
+* Low-Resource Machine Translation through the Lens of Personalized Federated Learning. \[[PUB](https://aclanthology.org/2024.findings-emnlp.514)] \[[CODE](https://github.com/VityaVitalich/MeritOpt) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-09-30]
+
+* A Hassle-free Algorithm for Strong Differential Privacy in Federated Learning Systems. \[[PUB](https://aclanthology.org/2024.emnlp-industry.64/)]
+
+* Safely Learning with Private Data: A Federated Learning Framework for Large Language Model. \[[PUB](https://aclanthology.org/2024.emnlp-main.303)]
+
+* FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation Models. \[[PUB](https://aclanthology.org/2024.emnlp-main.464)]
+
+* Fisher Information-based Efficient Curriculum Federated Learning with Large Language Models. \[[PUB](https://aclanthology.org/2024.emnlp-main.587)]
+
+* Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models. \[[PUB](https://aclanthology.org/2024.emnlp-main.717)]
+
+* Promoting Data and Model Privacy in Federated Learning through Quantized LoRA. \[[PUB](https://aclanthology.org/2024.findings-emnlp.615)]
+
+* Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models. \[[PUB](https://aclanthology.org/2024.emnlp-main.717)]
+
+* AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning. \[[PUB](https://doi.org/10.18653/v1/2024.emnlp-main.458)]
+
+* Arcee's MergeKit: A Toolkit for Merging Large Language Models. \[[PUB](https://doi.org/10.18653/v1/2024.emnlp-industry.36)]
+
+* DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging. \[[PUB](https://doi.org/10.18653/v1/2024.emnlp-main.868)]
+
+* Merge to Learn: Efficiently Adding Skills to Language Models with Model Merging. \[[PUB](https://doi.org/10.18653/v1/2024.findings-emnlp.915)]
+
+* MetaGPT: Merging Large Language Models Using Model Exclusive Task Arithmetic. \[[PUB](https://doi.org/10.18653/v1/2024.emnlp-main.102)]
+
+* Mitigating Catastrophic Forgetting in Language Transfer via Model Merging. \[[PUB](https://doi.org/10.18653/v1/2024.findings-emnlp.1000)]
+
+* Model Merging and Safety Alignment: One Bad Model Spoils the Bunch. \[[PUB](https://doi.org/10.18653/v1/2024.findings-emnlp.762)]
+
+* Scalable Data Ablation Approximations for Language Models through Modular Training and Merging. \[[PUB](https://doi.org/10.18653/v1/2024.emnlp-main.1176)]
+
+* Unlocking the Potential of Model Merging for Low-Resource Languages. \[[PUB](https://doi.org/10.18653/v1/2024.findings-emnlp.508)]
+
+#### NAACL
+
+* Generalizable Multilingual Hate Speech Detection on Low Resource Indian Languages using Fair Selection in Federated Learning. \[[PUB](https://aclanthology.org/2024.naacl-long.400/)]
+
+* Open-Vocabulary Federated Learning with Multimodal Prototyping. \[[PUB](https://aclanthology.org/2024.naacl-long.314/)]
+
+* Navigation as Attackers Wish? Towards Building Robust Embodied Agents under Federated Learning. \[[PUB](https://aclanthology.org/2024.naacl-long.57/)]
+
+* FedLFC: Towards Efficient Federated Multilingual Modeling with LoRA-based Language Family Clustering. \[[PUB](https://aclanthology.org/2024.findings-naacl.98/)] \[[CODE](https://github.com/zhihan-guo/FedLFC)]
+
+* Personalized Federated Learning for Text Classification with Gradient-Free Prompt Tuning. \[[PUB](https://aclanthology.org/2024.findings-naacl.286/)]
+
+* Can Public Large Language Models Help Private Cross-device Federated Learning?. \[[PUB](https://aclanthology.org/2024.findings-naacl.59/)]
+
+* Branch-Solve-Merge Improves Large Language Model Evaluation and Generation. \[[PUB](https://doi.org/10.18653/v1/2024.naacl-long.462)]
+
+#### ACL
+
+* Learning to Decode Collaboratively with Multiple Language Models. \[[PUB](https://doi.org/10.18653/v1/2024.acl-long.701)] \[[CODE](https://github.com/clinicalml/co-llm) ⭐ 130 | 🐛 5 | 🌐 Python | 📅 2024-05-07]
+* Fair Federated Learning with Biased Vision-Language Models. \[[PUB](https://aclanthology.org/2024.findings-acl.595/)]
+* Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts?. \[[PUB](https://doi.org/10.18653/v1/2024.acl-long.337)]
+* Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge. \[[PUB](https://doi.org/10.18653/v1/2024.findings-acl.894)]
+* Hide and Seek in Noise Labels: Noise-Robust Collaborative Active Learning with LLMs-Powered Assistance. \[[PUB](https://doi.org/10.18653/v1/2024.acl-long.592)]
+* Improving the Robustness of Distantly-Supervised Named Entity Recognition via Uncertainty-Aware Teacher Learning and Student-Student Collaborative Learning. \[[PUB](https://doi.org/10.18653/v1/2024.findings-acl.329)]
+* LM-Cocktail: Resilient Tuning of Language Models via Model Merging. \[[PUB](https://doi.org/10.18653/v1/2024.findings-acl.145)]
+* On the Interpretability of Deep Learning Models for Collaborative Argumentation Analysis in Classrooms. \[[PUB](https://doi.org/10.18653/v1/2024.acl-srw.9)]
+* RankMean: Module-Level Importance Score for Merging Fine-tuned LLM Models. \[[PUB](https://doi.org/10.18653/v1/2024.findings-acl.104)]
+
+### 2023
+
+#### EMNLP
+
+* Tunable Soft Prompts are Messengers in Federated Learning. \[[PUB](https://aclanthology.org/2023.findings-emnlp.976)] \[[CODE](https://github.com/alibaba/FederatedScope/tree/fedsp/federatedscope/nlp/fedsp) ⭐ 1,545 | 🐛 55 | 🌐 Python | 📅 2024-08-10]
+* Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization. \[[PUB](https://aclanthology.org/2023.emnlp-main.488/)] \[[PDF](https://arxiv.org/abs/2310.15080)] \[[CODE](https://github.com/llm-eff/FedPepTAO) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2024-03-04]
+* Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification. \[[PUB](https://aclanthology.org/2023.emnlp-main.999/)] \[[CODE](https://github.com/appy1608/EMNLP2023-Multimodal-Complaint-Detection) ⭐ 10 | 🐛 0 | 📅 2024-05-30]
+* FedID: Federated Interactive Distillation for Large-Scale Pretraining Language Models. \[[PUB](https://aclanthology.org/2023.emnlp-main.529/)] \[[CODE](https://github.com/maxinge8698/FedID) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-11-11]
+* FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning. \[[PUB](https://aclanthology.org/2023.emnlp-main.734/)] \[[PDF](https://arxiv.org/abs/2310.16538)]
+* Coordinated Replay Sample Selection for Continual Federated Learning. \[[PUB](https://aclanthology.org/2023.emnlp-industry.32)]
+* An Empirical Study of Multimodal Model Merging. \[[PUB](https://doi.org/10.18653/v1/2023.findings-emnlp.105)]
+* TacoPrompt: A Collaborative Multi-Task Prompt Learning Method for Self-Supervised Taxonomy Completion. \[[PUB](https://doi.org/10.18653/v1/2023.emnlp-main.979)]
+
+#### EMNLP industry Track
+
+* Coordinated Replay Sample Selection for Continual Federated Learning. \[[PUB](https://aclanthology.org/2023.emnlp-industry.32/)] \[[PDF](https://arxiv.org/abs/2310.15054)]
+
+#### EMNLP Findings
+
+* Tunable Soft Prompts are Messengers in Federated Learning. \[[PUB](https://aclanthology.org/2023.findings-emnlp.976/)] \[[PDF](https://arxiv.org/abs/2311.06805)] \[[CODE](https://github.com/alibaba/FederatedScope/tree/fedsp/federatedscope/nlp/fedsp) ⭐ 1,545 | 🐛 55 | 🌐 Python | 📅 2024-08-10]
+
+#### ACL
+
+* FEDLEGAL: The First Real-World Federated Learning Benchmark for Legal NLP. \[[PUB](https://aclanthology.org/2023.acl-long.193/)] \[[CODE](https://github.com/SMILELab-FL/FedLegal) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2023-11-29]
+* FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning Methods of Pre-trained Language Models. \[[PUB](https://doi.org/10.18653/v1/2023.findings-acl.632)] \[[CODE](https://github.com/iezhuozhuo/FedETuning/tree/deltaTuning) ⭐ 12 | 🐛 0 | 📅 2023-06-02]
+* Federated Learning for Semantic Parsing: Task Formulation, Evaluation Setup, New Algorithms. \[[PUB](https://aclanthology.org/2023.acl-long.678/)] \[[PDF](https://arxiv.org/abs/2305.17221)] \[[CODE](https://github.com/osu-nlp-group/fl4semanticparsing) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2024-03-04]
+* Client-Customized Adaptation for Parameter-Efficient Federated Learning. \[[PUB](https://doi.org/10.18653/v1/2023.findings-acl.75)]
+* Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter. \[[PUB](https://doi.org/10.18653/v1/2023.findings-acl.327)]
+* Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets. \[[PUB](https://doi.org/10.18653/v1/2023.findings-acl.470)]
+* Federated Learning of Gboard Language Models with Differential Privacy. \[[PUB](https://doi.org/10.18653/v1/2023.acl-industry.60)]
+* PuMer: Pruning and Merging Tokens for Efficient Vision Language Models. \[[PUB](https://doi.org/10.18653/v1/2023.acl-long.721)]
+
+#### ACL Findings
+
+* Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter. \[[PUB](https://aclanthology.org/2023.findings-acl.327/)] \[[PDF](https://arxiv.org/abs/2305.12449)] \[[CODE](https://github.com/lancopku/fedmnmt) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-09-04]
+* FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning Methods of Pre-trained Language Models. \[[PUB](https://aclanthology.org/2023.findings-acl.632/)] \[[CODE](https://github.com/iezhuozhuo/FedETuning/tree/deltaTuning) ⭐ 12 | 🐛 0 | 📅 2023-06-02]
+* Client-Customized Adaptation for Parameter-Efficient Federated Learning. \[[PUB](https://aclanthology.org/2023.findings-acl.75/)]
+* Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets. \[[PUB](https://aclanthology.org/2023.findings-acl.470/)]
+
+#### ACL Industry Track
+
+* Federated Learning of Gboard Language Models with Differential Privacy. \[[PUB](https://aclanthology.org/2023.acl-industry.60/)] \[[PDF](https://arxiv.org/abs/2305.18465)]
+
+### 2022
+
+#### EMNLP
+
+* A Federated Approach to Predicting Emojis in Hindi Tweets. \[[PUB](https://aclanthology.org/2022.emnlp-main.819)] \[[PDF](https://arxiv.org/abs/2211.06401)] \[[CODE](https://github.com/deep1401/fedmoji) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-08-18]
+* Federated Model Decomposition with Private Vocabulary for Text Classification. \[[PUB](https://aclanthology.org/2022.emnlp-main.430)] \[[CODE](https://github.com/SMILELab-FL/FedVocab) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2022-12-11]
+* Fair NLP Models with Differentially Private Text Encoders. \[[PUB](https://aclanthology.org/2022.findings-emnlp.514/)] \[[PDF](https://arxiv.org/abs/2205.06135)] \[[CODE](https://github.com/saist1993/dpnlp) ⭐ 2 | 🐛 3 | 🌐 Shell | 📅 2022-06-22]
+* Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient Ensembling. \[[PUB](https://aclanthology.org/2022.emnlp-main.6/)] \[[PDF](https://arxiv.org/abs/2204.14017)]
+* Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation. \[[PUB](https://doi.org/10.18653/v1/2022.findings-emnlp.25)]
+* Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation. \[[PUB](https://doi.org/10.18653/v1/2022.findings-emnlp.43)]
+* Federated Continual Learning for Text Classification via Selective Inter-client Transfer. \[[PUB](https://doi.org/10.18653/v1/2022.findings-emnlp.353)]
+
+#### EMNLP Findings
+
+* Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`**. \[[PUB](https://aclanthology.org/2022.findings-emnlp.43/)] \[[PDF](https://arxiv.org/abs/2203.09553)] \[[CODE](https://github.com/taokz/FedR) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2023-10-01]
+* Federated Continual Learning for Text Classification via Selective Inter-client Transfer. \[[PUB](https://aclanthology.org/2022.findings-emnlp.353)] \[[PDF](https://arxiv.org/abs/2210.06101)] \[[CODE](https://github.com/raipranav/fcl-fedseit) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-07-03]
+* Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation. \[[PUB](https://aclanthology.org/2022.findings-emnlp.25/)] \[[PDF](https://arxiv.org/abs/2210.06894)]
+
+#### ACL workshop
+
+* Scaling Language Model Size in Cross-Device Federated Learning. \[[PUB](https://aclanthology.org/2022.fl4nlp-1.2/)] \[[PDF](https://arxiv.org/abs/2204.09715)]
+* Intrinsic Gradient Compression for Scalable and Efficient Federated Learning. \[[PUB](https://aclanthology.org/2022.fl4nlp-1.4/)] \[[PDF](https://arxiv.org/abs/2112.02656)]
+* ActPerFL: Active Personalized Federated Learning. \[[PUB](https://aclanthology.org/2022.fl4nlp-1.1)] \[[PAGE](https://www.amazon.science/publications/actperfl-active-personalized-federated-learning)]
+
+#### NAACL
+
+* FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks :fire:. \[[PUB](https://aclanthology.org/2022.findings-naacl.13/)] \[[PDF](https://arxiv.org/abs/2104.08815)] \[[CODE](https://github.com/FedML-AI/FedNLP) ⭐ 223 | 🐛 16 | 📅 2022-08-01]
+* Pretrained Models for Multilingual Federated Learning. \[[PUB](https://aclanthology.org/2022.naacl-main.101)] \[[PDF](https://arxiv.org/abs/2206.02291)] \[[CODE](https://github.com/orionw/multilingual-federated-learning) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2022-08-09]
+* Federated Learning with Noisy User Feedback. \[[PUB](https://aclanthology.org/2022.naacl-main.196/)] \[[PDF](https://arxiv.org/abs/2205.03092)]
+* Training Mixed-Domain Translation Models via Federated Learning. \[[PUB](https://aclanthology.org/2022.naacl-main.186)] \[[PAGE](https://www.amazon.science/publications/training-mixed-domain-translation-models-via-federated-learning)] \[[PDF](https://arxiv.org/abs/2205.01557)]
+* FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks. \[[PUB](https://doi.org/10.18653/v1/2022.findings-naacl.13)]
+* Multimodal large language models for inclusive collaboration learning tasks. \[[PUB](https://doi.org/10.18653/v1/2022.naacl-srw.26)]
+
+### 2021
+
+#### ACL workshop
+
+* Federated Chinese Word Segmentation with Global Character Associations. \[[PUB](https://aclanthology.org/2021.findings-acl.376)] \[[CODE](https://github.com/cuhksz-nlp/GCASeg) ⭐ 0 | 🐛 1 | 📅 2022-12-20]
+
+#### EMNLP
+
+* Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation. \[[PUB](https://aclanthology.org/2021.emnlp-main.223)] \[[PDF](https://arxiv.org/abs/2109.05446)] \[[CODE](https://github.com/yjw1029/Efficient-FedRec) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2024-04-28] \[[VIDEO](https://aclanthology.org/2021.emnlp-main.223.mp4)]
+* Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories. \[[PUB](https://aclanthology.org/2021.emnlp-main.321/)] \[[CODE](https://github.com/cuhksz-nlp/ASA-TM)] \[[VIDEO](https://aclanthology.org/2021.emnlp-main.321.mp4)]
+* A Secure and Efficient Federated Learning Framework for NLP. \[[PUB](https://aclanthology.org/2021.emnlp-main.606)] \[[PDF](https://arxiv.org/abs/2201.11934)] \[[VIDEO](https://aclanthology.org/2021.emnlp-main.606.mp4)]
+* Distantly Supervised Relation Extraction in Federated Settings. \[[PUB](https://doi.org/10.18653/v1/2021.findings-emnlp.52)]
+* A Collaborative Multi-agent Reinforcement Learning Framework for Dialog Action Decomposition. \[[PUB](https://doi.org/10.18653/v1/2021.emnlp-main.621)]
+* Collaborative Learning of Bidirectional Decoders for Unsupervised Text Style Transfer. \[[PUB](https://doi.org/10.18653/v1/2021.emnlp-main.729)]
+* Improving Distantly-Supervised Named Entity Recognition with Self-Collaborative Denoising Learning. \[[PUB](https://doi.org/10.18653/v1/2021.findings-emnlp.131)]
+
+#### EMNLP workshop
+
+* Distantly Supervised Relation Extraction in Federated Settings. \[[PUB](https://aclanthology.org/2021.findings-emnlp.52)] \[[PDF](https://arxiv.org/abs/2008.05049)] \[[CODE](https://github.com/DianboWork/FedDS) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2021-09-18]
+
+#### NAACL workshop
+
+* Federated Learning with Noisy User Feedback. \[[PUB](https://aclanthology.org/2022.naacl-main.196)] \[[PDF](https://arxiv.org/abs/2205.03092)]
+* An Investigation towards Differentially Private Sequence Tagging in a Federated Framework. \[[PUB](https://aclanthology.org/2021.privatenlp-1.4)]
+* Understanding Unintended Memorization in Language Models Under Federated Learning. \[[PUB](https://aclanthology.org/2021.privatenlp-1.1)] \[[PDF](https://arxiv.org/abs/2006.07490)]
+
+### 2020
+
+#### acl
+
+* Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis. \[[PUB](https://doi.org/10.18653/v1/2020.acl-main.340)]
+
+#### EMNLP
+
+* FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction. \[[PUB](https://aclanthology.org/2020.emnlp-main.165)] \[[VIDEO](https://slideslive.com/38939230)] \[[解读](https://zhuanlan.zhihu.com/p/539347225)]
+* Empirical Studies of Institutional Federated Learning For Natural Language Processing. \[[PUB](https://doi.org/10.18653/v1/2020.findings-emnlp.55)]
+* Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning. \[[PUB](https://doi.org/10.18653/v1/2020.emnlp-main.688)]
+
+#### EMNLP workshop
+
+* Empirical Studies of Institutional Federated Learning For Natural Language Processing. \[[PUB](https://aclanthology.org/2020.findings-emnlp.55)]
+
+#### COLING
+
+* Federated Learning for Spoken Language Understanding. \[[PUB](https://aclanthology.org/2020.coling-main.310/)]
+* Discussion Tracker: Supporting Teacher Learning about Students' Collaborative Argumentation in High School Classrooms. \[[PUB](https://doi.org/10.18653/v1/2020.coling-demos.10)]
+
+### 2019
+
+#### ACL workshop
+
+* Two-stage Federated Phenotyping and Patient Representation Learning. \[[PUB](https://aclanthology.org/W19-5030)] \[[PDF](https://arxiv.org/abs/1908.05596)] \[[CODE](https://github.com/kaiyuanmifen/FederatedNLP) ⭐ 1 | 🐛 1 | 📅 2019-06-08] \[[UC.](https://github.com/MarcioPorto/federated-phenotyping) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2024-05-03]
+
+### 2018
+
+#### naacl
+
+* Learning to Collaborate for Question Answering and Asking. \[[PUB](https://doi.org/10.18653/v1/n18-1141)]
+
+### 2017
+
+#### acl
+
+* Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings. \[[PUB](https://doi.org/10.18653/v1/P17-1162)]
+
+### 2015
+
+#### acl
+
+* A Web-based Collaborative Evaluation Tool for Automatically Learned Relation Extraction Patterns. \[[PUB](https://doi.org/10.3115/v1/p15-4008)]
+
+### 1996
+
+#### emnlp
+
+* Better Language Models with Model Merging. \[[PUB](https://aclanthology.org/W96-0206/)]
+
+### 1994
+
+#### coling
+
+* The Merged Upper Model: A Linguistic Ontology For German And English. \[[PUB](https://aclanthology.org/C94-2128/)]</details>
+
+## fl in top ir conference and journal
+
+Federated Learning papers accepted by top Information Retrieval conference and journal, including [SIGIR](https://dblp.org/db/conf/sigir/index.html)(Annual International ACM SIGIR Conference on Research and Development in Information Retrieval).
+
+* [SIGIR](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGIR%3A) [2025](https://dl.acm.org/doi/proceedings/10.1145/3726302), [2024](https://dl.acm.org/doi/proceedings/10.1145/3626772), [2023](https://dl.acm.org/doi/proceedings/10.1145/3539618), [2022](https://dl.acm.org/doi/proceedings/10.1145/3477495), [2021](https://dl.acm.org/doi/proceedings/10.1145/3404835), [2020](https://dl.acm.org/doi/proceedings/10.1145/3397271)
+
+<details open>
+<summary>fl in top ir conference and journal</summary>
+
+<!-- START:fl-in-top-ir-conference-and-journal -->
+
+<!-- END:fl-in-top-ir-conference-and-journal -->
+
+### 2025
+
+#### SIGIR
+
+* FedCIA: Federated Collaborative Information Aggregation for Privacy-Preserving Recommendation. \[[PUB](https://dl.acm.org/doi/10.1145/3726302.3729977)] \[[CODE](https://github.com/Mingzhe-Han/FedCIA) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-04-19]
+* Unlearning for Federated Online Learning to Rank: A Reproducibility Study. \[[PUB](https://dl.acm.org/doi/10.1145/3726302.3730336)] \[[CODE](https://github.com/Iris1026/Unlearning-for-FOLTR.git) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2025-09-06]
+* NodeRec+: A Lightweight Framework for Federated Recommender Systems. \[[PUB](https://dl.acm.org/doi/10.1145/3726302.3730138)] \[[CODE](https://github.com/SEDIMARK-UCD/noderec) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-07-14]
+* Joint Item Embedding Dual-view Exploration and Adaptive Local-Global Fusion for Federated Recommendation. \[[PUB](https://dl.acm.org/doi/10.1145/3726302.3730016)]
+* Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering. \[[PUB](https://doi.org/10.1145/3726302.3730251)]
+* Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering. \[[PUB](https://doi.org/10.1145/3726302.3730111)]
+
+### 2024
+
+#### SIGIR
+
+* FeB4RAG: Evaluating Federated Search in the Context of Retrieval Augmented Generation. \[[PUB](https://dl.acm.org/doi/10.1145/3626772.3657853)] \[[PDF](https://arxiv.org/abs/2402.11891)] \[[CODE](https://github.com/ielab/FeB4RAG) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2024-02-19]
+* ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set User Benefit. \[[PUB](https://dl.acm.org/doi/10.1145/3626772.3657763)]
+* Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport. \[[PUB](https://dl.acm.org/doi/10.1145/3626772.3657764)]
+* FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through Rate Prediction. \[[PUB](https://dl.acm.org/doi/10.1145/3626772.3657941)]
+
+### 2023
+
+#### SIGIR
+
+* FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3539618.3591909)] \[[PDF](https://arxiv.org/abs/2305.08328)] \[[CODE](https://github.com/alibaba/Elastic-Federated-Learning-Solution/tree/FedAds) ⭐ 143 | 🐛 10 | 🌐 Python | 📅 2026-02-04]
+* Personalized Federated Relation Classification over Heterogeneous Texts. \[[PUB](https://dl.acm.org/doi/10.1145/3539618.3591748)]
+* Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity. \[[PUB](https://dl.acm.org/doi/10.1145/3539618.3591688)]
+* Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures. \[[PUB](https://dl.acm.org/doi/10.1145/3539618.3591722)] \[[PDF](https://arxiv.org/abs/2304.03054)]
+* Edge-cloud Collaborative Learning with Federated and Centralized Features (short-paper). \[[PUB](https://dl.acm.org/doi/10.1145/3539618.3591976)] \[[PDF](https://arxiv.org/abs/2304.05871)]
+* FLIRT: Federated Learning for Information Retrieval (extended-abstract). \[[PUB](https://dl.acm.org/doi/10.1145/3539618.3591926)]
+* Edge-cloud Collaborative Learning with Federated and Centralized Features. \[[PUB](https://doi.org/10.1145/3539618.3591976)]
+* FLIRT: Federated Learning for Information Retrieval. \[[PUB](https://doi.org/10.1145/3539618.3591926)]
+* AdaMCL: Adaptive Fusion Multi-View Contrastive Learning for Collaborative Filtering. \[[PUB](https://doi.org/10.1145/3539618.3591632)]
+* Collaborative Residual Metric Learning. \[[PUB](https://doi.org/10.1145/3539618.3591649)]
+* Model-Agnostic Decentralized Collaborative Learning for On-Device POI Recommendation. \[[PUB](https://doi.org/10.1145/3539618.3591733)]
+* uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering. \[[PUB](https://doi.org/10.1145/3539618.3592076)]
+
+### 2022
+
+#### SIGIR
+
+* Is Non-IID Data a Threat in Federated Online Learning to Rank?. \[[PUB](https://dl.acm.org/doi/10.1145/3477495.3531709)] \[[CODE](https://github.com/ielab/2022-SIGIR-noniid-foltr) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2022-12-30]
+* Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering. \[[PUB](https://doi.org/10.1145/3477495.3531889)]
+
+### 2021
+
+#### SIGIR
+
+* FedCMR: Federated Cross-Modal Retrieval. \[[PUB](https://dl.acm.org/doi/10.1145/3404835.3462989)] \[[CODE](https://github.com/hasakiXie123/FedCMR) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2025-10-17]
+* FedCT: Federated Collaborative Transfer for Recommendation. \[[PUB](https://dl.acm.org/doi/10.1145/3404835.3462825)] \[[PDF](http://yongfeng.me/attach/liu-sigir2021.pdf)] \[[CODE](https://github.com/CharlieMat/EdgeCDR) ⭐ 4 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-04-11]
+* On the Privacy of Federated Pipelines. \[[PUB](https://dl.acm.org/doi/10.1145/3404835.3462996)]
+* Communication Efficient Distributed Hypergraph Clustering. \[[PUB](https://doi.org/10.1145/3404835.3463092)]
+* Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization. \[[PUB](https://doi.org/10.1145/3404835.3462928)]
+
+### 2020
+
+#### SIGIR
+
+* Meta Matrix Factorization for Federated Rating Predictions. \[[PUB](https://dl.acm.org/doi/10.1145/3397271.3401081)] \[[PDF](https://arxiv.org/abs/1910.10086)]
+
+### 2019
+
+#### sigir
+
+* Improving Collaborative Metric Learning with Efficient Negative Sampling. \[[PUB](https://doi.org/10.1145/3331184.3331337)]
+
+### 2017
+
+#### sigir
+
+* Autonomous Crowdsourcing through Human-Machine Collaborative Learning. \[[PUB](https://doi.org/10.1145/3077136.3080666)]
+
+### 2015
+
+#### sigir
+
+* Learning Context-aware Latent Representations for Context-aware Collaborative Filtering. \[[PUB](https://doi.org/10.1145/2766462.2767775)]
+
+### 2013
+
+#### sigir
+
+* Search result diversification in resource selection for federated search. \[[PUB](https://doi.org/10.1145/2484028.2484091)]
+* SearchResultFinder: federated search made easy. \[[PUB](https://doi.org/10.1145/2484028.2484198)]
+
+### 2012
+
+#### sigir
+
+* Building reputation and trust using federated search and opinion mining. \[[PUB](https://doi.org/10.1145/2348283.2348418)]
+* Mixture model with multiple centralized retrieval algorithms for result merging in federated search. \[[PUB](https://doi.org/10.1145/2348283.2348393)]
+* Utilizing inter-document similarities in federated search. \[[PUB](https://doi.org/10.1145/2348283.2348523)]
+
+### 2011
+
+#### sigir
+
+* A weighted curve fitting method for result merging in federated search. \[[PUB](https://doi.org/10.1145/2009916.2010107)]
+* Collaborative competitive filtering: learning recommender using context of user choice. \[[PUB](https://doi.org/10.1145/2009916.2009959)]
+
+### 2010
+
+#### sigir
+
+* From federated to aggregated search. \[[PUB](https://doi.org/10.1145/1835449.1835682)]
+
+### 2009
+
+#### sigir
+
+* Effective query expansion for federated search. \[[PUB](https://doi.org/10.1145/1571941.1572015)]
+
+### 2008
+
+#### sigir
+
+* A study of learning a merge model for multilingual information retrieval. \[[PUB](https://doi.org/10.1145/1390334.1390370)]
+* Personalized active learning for collaborative filtering. \[[PUB](https://doi.org/10.1145/1390334.1390352)]
+
+### 2007
+
+#### sigir
+
+* Exploration of the tradeoff between effectiveness and efficiency for results merging in federated search. \[[PUB](https://doi.org/10.1145/1277741.1277869)]
+* Federated text retrieval from uncooperative overlapped collections. \[[PUB](https://doi.org/10.1145/1277741.1277827)]
+* Protecting source privacy in federated search. \[[PUB](https://doi.org/10.1145/1277741.1277896)]
+* Updating collection representations for federated search. \[[PUB](https://doi.org/10.1145/1277741.1277829)]
+
+### 2006
+
+#### sigir
+
+* User modeling for full-text federated search in peer-to-peer networks. \[[PUB](https://doi.org/10.1145/1148170.1148229)]
+
+### 2005
+
+#### sigir
+
+* Modeling search engine effectiveness for federated search. \[[PUB](https://doi.org/10.1145/1076034.1076051)]
+
+### 2004
+
+#### sigir
+
+* Supporting federated information sharing communities. \[[PUB](https://doi.org/10.1145/1008992.1009126)]
+* Supporting federated information sharing communities (abstract only). \[[PUB](https://doi.org/10.1145/1008992.1009146)]</details>
+
+## fl in top db conference and journal
+
+Federated Learning papers accepted by top Database conference and journal, including [SIGMOD](https://dblp.uni-trier.de/db/conf/sigmod/index.html)(ACM SIGMOD Conference) , [ICDE](https://dblp.uni-trier.de/db/conf/icde/index.html)(IEEE International Conference on Data Engineering) and [VLDB](https://dblp.uni-trier.de/db/conf/vldb/index.html)(Very Large Data Bases Conference).
+
+* [SIGMOD](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fsigmod%3A) [2025](https://2025.sigmod.org/sigmod_papers.shtml), [2024](https://2024.sigmod.org/), [2023](https://2023.sigmod.org/sigmod_research_list.shtml), [2022](https://2022.sigmod.org/sigmod_research_list.shtml), [2021](https://2021.sigmod.org/sigmod_research_list.shtml)
+* [ICDE](https://dblp.uni-trier.de/search?q=federate%20venue%3AICDE%3A) [2025](https://ieee-icde.org/2025/research-papers/), [2024](https://icde2024.github.io/), [2023](https://icde2023.ics.uci.edu/papers-research-track/), [2022](https://icde2022.ieeecomputer.my/accepted-research-track/), [2021](https://ieeexplore.ieee.org/xpl/conhome/9458599/proceeding)
+* [VLDB](https://dblp.org/search?q=federated%20streamid%3Ajournals%2Fpvldb%3A) [2025](https://vldb.org/pvldb/volumes/18), [2024](https://vldb.org/pvldb/volumes/17), [2023](https://vldb.org/pvldb/volumes/17), [2022](https://vldb.org/pvldb/vol16-volume-info/), [2021](https://vldb.org/pvldb/vol15-volume-info/), [2021](http://www.vldb.org/pvldb/vol14/), [2020](http://vldb.org/pvldb/vol13-volume-info/)
+
+<details open>
+<summary>fl in top db conference and journal</summary>
+<!-- START:fl-in-top-db-conference-and-journal -->
+
+<!-- END:fl-in-top-db-conference-and-journal -->
+
+### 2025
+
+#### SIGMOD
+
+* Federated Heavy Hitter Analytics with Local Differential Privacy. \[[PUB](https://doi.org/10.1145/3709739)]
+* SecureXGB: A Secure and Efficient Multi-party Protocol for Vertical Federated XGBoost. \[[PUB](https://doi.org/10.1145/3709723)]
+
+#### VLDB
+
+* OpenFGL: A Comprehensive Benchmark for Federated Graph Learning. \[[PUB](https://www.vldb.org/pvldb/vol18/p1305-li.pdf)] \[[CODE](https://github.com/xkLi-Allen/OpenFGL) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2024-11-27]
+* PS-MI: Accurate, Efficient, and Private Data Valuation in Vertical Federated Learning. \[[PUB](https://dl.acm.org/doi/10.14778/3748191.3748215)] \[[CODE](https://github.com/ZhouXiaokay/VF-SV) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-02-07]
+* Federated Incomplete Tabular Data Prediction with Missing Complementarity. \[[PUB](https://dl.acm.org/doi/10.14778/3748191.3748213)] \[[CODE](https://github.com/LS5221/DARN) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-05-13]
+* GORAM: Graph-Oriented ORAM for Efficient Ego-Centric Queries on Federated Graphs. \[[PUB](https://dl.acm.org/doi/10.14778/3748191.3748218)] \[[CODE](https://github.com/Fannxy/GORAM-ABY3) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2025-04-23]
+* Federated and Balanced Clustering for High-Dimensional Data. \[[PUB](https://dl.acm.org/doi/10.14778/3749646.3749673)] \[[CODE](https://github.com/whu-totemdb/Teb-means) ⭐ 0 | 🐛 0 | 🌐 MATLAB | 📅 2025-09-07]
+* FedVSE: A Privacy-Preserving and Efficient Vector Search Engine for Federated Databases. \[[PUB](https://dl.acm.org/doi/10.14778/3750601.3750674)]
+* Federated Data Distribution Shift Estimation. \[[PUB](https://dl.acm.org/doi/10.14778/3742728.3742736)] \[[CODE](https://figshare.com/s/7a1c725a293d1c5b88a8)]
+* Federated Data Shift Distance Estimation. \[[PUB](https://www.vldb.org/pvldb/vol18/p2399-cormode.pdf)]
+
+#### ICDE
+
+* Heterogeneous-Aware Traffic Prediction: A Privacy-Preserving Federated Learning Framework. \[[PUB](https://ieeexplore.ieee.org/document/11113014)] \[[CODE](https://github.com/ZJU-DAILY/Fed4TP) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2024-04-10]
+* FedSDP: Federated Self-Derived Prototypes for Personalized Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/11112874)] \[[CODE](https://github.com/bigbases/FedSDP) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-03-06]
+* A Bargaining-Based Approach for Feature Trading in Vertical Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/11113094)]
+* pFSSL-D: Generalization Meets Personalization in Dual-Phase Federated Semi-Supervised Learning. \[[PUB](https://ieeexplore.ieee.org/document/11113223)]
+* FedEcover: Fast and Stable Converging Model-Heterogeneous Federated Learning with Efficient-Coverage Submodel Extraction. \[[PUB](https://ieeexplore.ieee.org/document/11113012)]
+* Federated Trajectory Similarity Learning with Privacy-Preserving Clustering. \[[PUB](https://ieeexplore.ieee.org/document/11113111)]
+* Federated Data Analytics with Differentially Private Density Estimation Model. \[[PUB](https://ieeexplore.ieee.org/document/11112917)]
+* Efficient Data Valuation Approximation in Federated Learning: A Sampling-Based Approach. \[[PUB](https://ieeexplore.ieee.org/document/11112901)]
+* pFedAFM: Adaptive Feature Mixture for Data-Level Personalization in Heterogeneous Federated Learning on Mobile Edge Devices. \[[PUB](https://ieeexplore.ieee.org/document/11113035)]
+* Online Federated Learning on Distributed Unknown Data Using UAVs. \[[PUB](https://ieeexplore.ieee.org/document/11112962)]
+* Hounding Data Diversity: Towards Participant Selection in Vertical Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/11113194)]
+
+### 2024
+
+#### ICDE
+
+* FedMix: Boosting with Data Mixture for Vertical Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10597834)]
+* FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation. \[[PUB](https://ieeexplore.ieee.org/document/10597740)]
+* Clients Help Clients: Alternating Collaboration for Semi-Supervised Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10598007)]
+* Semi-Asynchronous Online Federated Crowdsourcing. \[[PUB](https://ieeexplore.ieee.org/document/10598143)]
+* AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity. \[[PUB](https://ieeexplore.ieee.org/document/10597891)]
+* MergeSFL: Split Federated Learning with Feature Merging and Batch Size Regulation. \[[PUB](https://ieeexplore.ieee.org/document/10597905)]
+* LightTR: A Lightweight Framework for Federated Trajectory Recovery. \[[PUB](https://ieeexplore.ieee.org/document/10598171)]
+* Feed: Towards Personalization-Effective Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10597724)]
+* Label Noise Correction for Federated Learning: A Secure, Efficient and Reliable Realization. \[[PUB](https://ieeexplore.ieee.org/document/10597841)]
+* Fast, Robust and Interpretable Participant Contribution Estimation for Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10597940)]
+* HeteFedRec: Federated Recommender Systems with Model Heterogeneity. \[[PUB](https://ieeexplore.ieee.org/document/10598074)]
+* Hide Your Model: A Parameter Transmission-free Federated Recommender System. \[[PUB](https://ieeexplore.ieee.org/document/10597708)]
+* FedCTQ: A Federated-Based Framework for Accurate and Efficient Contact Tracing Query. \[[PUB](https://ieeexplore.ieee.org/document/10598064)]
+* Preventing the Popular Item Embedding Based Attack in Federated Recommendations. \[[PUB](https://ieeexplore.ieee.org/document/10597721)]
+* RobFL: Robust Federated Learning via Feature Center Separation and Malicious Center Detection. \[[PUB](https://ieeexplore.ieee.org/document/10597878)]
+* Meta-optimized Structural and Semantic Contrastive Learning for Graph Collaborative Filtering. \[[PUB](https://doi.org/10.1109/ICDE60146.2024.00058)]
+* SparDL: Distributed Deep Learning Training with Efficient Sparse Communication. \[[PUB](https://doi.org/10.1109/ICDE60146.2024.00142)]
+
+#### SIGMOD
+
+* Federated Fine-Tuning of LLMs on the Very Edge: The Good, the Bad, the Ugly. \[[PUB](https://dl.acm.org/doi/10.1145/3650203.3663331)]
+* A Profit-Maximizing Data Marketplace with Differentially Private Federated Learning under Price Competition. \[[PUB](https://doi.org/10.1145/3677127)]
+* FedKNN: Secure Federated k-Nearest Neighbor Search. \[[PUB](https://doi.org/10.1145/3639266)]
+* Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning. \[[PUB](https://doi.org/10.1145/3654947)]
+* ASM: Harmonizing Autoregressive Model, Sampling, and Multi-dimensional Statistics Merging for Cardinality Estimation. \[[PUB](https://doi.org/10.1145/3639300)]
+
+#### VLDB
+
+* Communication Efficient and Provable Federated Unlearning. \[[PUB](https://www.vldb.org/pvldb/volumes/17/paper/Communication%20Efficient%20and%20Provable%20Federated%20Unlearning)] \[[PDF](https://arxiv.org/abs/2401.11018)] \[[CODE](https://github.com/Happy2Git/FATS_supplement) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-07-27]
+* A Blockchain System for Clustered Federated Learning with Peer-to-Peer Knowledge Transfer. \[[PUB](https://www.vldb.org/pvldb/volumes/17/paper/A%20Blockchain%20System%20for%20Clustered%20Federated%20Learning%20with%20Peer-to-Peer%20Knowledge%20Transfer)] \[[CODE](https://github.com/nju-websoft/FedChain) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2024-01-10]
+* Performance-Based Pricing of Federated Learning via Auction. \[[PUB](https://www.vldb.org/pvldb/volumes/17/paper/Performance-Based%20Pricing%20of%20Federated%20Learning%20via%20Auction)] \[[CODE](https://github.com/ZiTao-Li/fl_auction) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-12-15]
+* FedSQ: A Secure System for Federated Vector Similarity Queries. \[[PUB](https://dl.acm.org/doi/10.14778/3685800.3685895)]
+* FedSM: A Practical Federated Shared Mobility System. \[[PUB](https://dl.acm.org/doi/10.14778/3685800.3685896)]
+* OFL-W3: A One-Shot Federated Learning System on Web 3.0. \[[PUB](https://dl.acm.org/doi/10.14778/3685800.3685900)]
+* Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. \[[PUB](https://www.vldb.org/pvldb/vol17/p2077-li.pdf)]
+* Uldp-FL: Federated Learning with Across Silo User-Level Differential Privacy. \[[PUB](https://www.vldb.org/pvldb/vol17/p2826-kato.pdf)]
+
+### 2023
+
+#### ICDE
+
+* Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data. \[[PUB](https://ieeexplore.ieee.org/document/10184550)] \[[CODE](https://github.com/SongjieXie/Fed-SC) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2023-04-08]
+* Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs. \[[PUB](https://ieeexplore.ieee.org/document/10184557)] \[[CODE](https://github.com/dongzizhu/FedDA) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-05-26]
+* Enhancing Decentralized Federated Learning for Non-IID Data on Heterogeneous Devices. \[[PUB](https://ieeexplore.ieee.org/document/10184749)]
+* FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge. \[[PUB](https://ieeexplore.ieee.org/document/10184531)] \[[PDF](https://arxiv.org/abs/2212.01738)]
+* Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices. \[[PUB](https://ieeexplore.ieee.org/document/10184796)] \[[PDF](https://arxiv.org/abs/2303.00492)]
+* Federated IoT Interaction Vulnerability Analysis. \[[PUB](https://ieeexplore.ieee.org/document/10184681)]
+* Distribution-Regularized Federated Learning on Non-IID Data. \[[PUB](https://ieeexplore.ieee.org/document/10184650)]
+* FLBooster: A Unified and Efficient Platform for Federated Learning Acceleration. \[[PUB](https://ieeexplore.ieee.org/document/10184883)]
+* SK-Gradient: Efficient Communication for Distributed Machine Learning with Data Sketch. \[[PUB](https://doi.org/10.1109/ICDE55515.2023.00183)]
+
+#### VLDB
+
+* FS-Real: A Real-World Cross-Device Federated Learning Platform. \[[PUB](https://www.vldb.org/pvldb/vol16/p4046-chen.pdf)] \[[PDF](https://arxiv.org/abs/2303.13363)] \[[CODE](https://github.com/alibaba/FederatedScope/tree/FSreal) ⭐ 1,545 | 🐛 55 | 🌐 Python | 📅 2024-08-10]
+* FederatedScope: A Flexible Federated Learning Platform for Heterogeneity. :fire:. \[[PUB](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)] \[[PDF](https://arxiv.org/abs/2204.05011)] \[[CODE](https://github.com/alibaba/FederatedScope) ⭐ 1,545 | 🐛 55 | 🌐 Python | 📅 2024-08-10]
+* FederatedScope: A Flexible Federated Learning Platform for Heterogeneity. \[[PUB](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)] \[[CODE](https://github.com/alibaba/FederatedScope) ⭐ 1,545 | 🐛 55 | 🌐 Python | 📅 2024-08-10]
+* Falcon: A Privacy-Preserving and Interpretable Vertical Federated Learning System. \[[PUB](https://www.vldb.org/pvldb/vol16/p2471-ooi.pdf)] \[[CODE](https://github.com/nusdbsystem/falcon) ⭐ 45 | 🐛 3 | 🌐 C++ | 📅 2024-05-13]
+* Olive: Oblivious Federated Learning on Trusted Execution Environment Against the Risk of Sparsification. \[[PUB](https://www.vldb.org/pvldb/vol16/p2404-kato.pdf)] \[[PDF](https://arxiv.org/abs/2202.07165)] \[[CODE](https://github.com/FumiyukiKato/FL-TEE) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2023-05-10]
+* Secure Shapley Value for Cross-Silo Federated Learning. \[[PUB](https://www.vldb.org/pvldb/vol16/p1657-zheng.pdf)] \[[PDF](https://arxiv.org/abs/2209.04856)] \[[CODE](https://github.com/teijyogen/secsv) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-12-29]
+* FedGTA: Topology-aware Averaging for Federated Graph Learning. \[[PUB](https://www.vldb.org/pvldb/vol17/p41-li.pdf)] \[[CODE](https://github.com/xkLi-Allen/FedGTA) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2023-04-01]
+* Federated Calibration and Evaluation of Binary Classifiers. \[[PUB](https://www.vldb.org/pvldb/vol16/p3253-cormode.pdf)] \[[PDF](https://arxiv.org/abs/2210.12526)] \[[CODE](https://figshare.com/s/607998e479b0778645f6)]
+* Differentially Private Vertical Federated Clustering. \[[PUB](https://www.vldb.org/pvldb/vol16/p1277-li.pdf)] \[[PDF](https://arxiv.org/abs/2208.01700)] \[[CODE](https://anonymous.4open.science/r/public_vflclustering-63CD/README.md)]
+
+#### SIGMOD
+
+* F3KM: Federated, Fair, and Fast k-means. \[[PUB](https://doi.org/10.1145/3626728)]
+* FEAST: A Communication-efficient Federated Feature Selection Framework for Relational Data. \[[PUB](https://doi.org/10.1145/3588961)]
+* FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning. \[[PUB](https://doi.org/10.1145/3617332)]
+* Practical Differentially Private and Byzantine-resilient Federated Learning. \[[PUB](https://doi.org/10.1145/3589264)]
+
+### 2022
+
+#### VLDB
+
+* OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization. \[[PUB](https://www.vldb.org/pvldb/vol16/p202-li.pdf)] \[[PDF](https://arxiv.org/abs/2210.01318)] \[[CODE](https://github.com/alibaba-edu/mpc4j/tree/main/mpc4j-sml-opboost) ⭐ 261 | 🐛 4 | 🌐 Java | 📅 2026-04-02]
+* FedTSC: A Secure Federated Learning System for Interpretable Time Series Classification. \[[PUB](https://www.vldb.org/pvldb/vol15/p3686-wang.pdf)] \[[CODE](https://github.com/hit-mdc/FedTSC-FedST) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-03-21]
+* Towards Communication-efficient Vertical Federated Learning Training via Cache-enabled Local Update. \[[PUB](https://dl.acm.org/doi/10.14778/3547305.3547316)] \[[PDF](https://arxiv.org/abs/2207.14628)] \[[CODE](https://github.com/ccchengff/FDL/tree/main/playground/celu_vfl) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-01-02]
+* Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy. \[[PUB](https://www.vldb.org/pvldb/vol15/p2348-bao.pdf)] \[[CODE](https://github.com/SkellamMixtureMechanism/SMM) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2022-07-04]
+
+#### ICDE
+
+* Federated Learning on Non-IID Data Silos: An Experimental Study. :fire:. \[[PUB](https://ieeexplore.ieee.org/document/9835537)] \[[PDF](https://arxiv.org/abs/2102.02079)] \[[CODE](https://github.com/Xtra-Computing/NIID-Bench) ⭐ 618 | 🐛 1 | 🌐 Python | 📅 2024-02-26]
+* FedRecAttack: Model Poisoning Attack to Federated Recommendation. \[[PUB](https://ieeexplore.ieee.org/document/9835228)] \[[PDF](https://arxiv.org/abs/2204.01499)] \[[CODE](https://github.com/rdz98/fedrecattack) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2022-04-23]
+* FedADMM: A Robust Federated Deep Learning Framework with Adaptivity to System Heterogeneity. \[[PUB](https://ieeexplore.ieee.org/document/9835545)] \[[PDF](https://arxiv.org/abs/2204.03529)] \[[CODE](https://github.com/YonghaiGong/FedADMM) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-04-10]
+* Samba: A System for Secure Federated Multi-Armed Bandits. \[[PUB](https://ieeexplore.ieee.org/document/9835585)] \[[CODE](https://github.com/gamarcad/samba-demo) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-14]
+* Improving Fairness for Data Valuation in Horizontal Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9835382)] \[[PDF](https://arxiv.org/abs/2109.09046)]
+* FedMP: Federated Learning through Adaptive Model Pruning in Heterogeneous Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/9835327)]
+* Enhancing Federated Learning with Intelligent Model Migration in Heterogeneous Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/9835657)]
+* Enhancing Federated Learning with In-Cloud Unlabeled Data. \[[PUB](https://ieeexplore.ieee.org/document/9835163)]
+* Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9835159)]
+* Federated Learning on Non-IID Data Silos: An Experimental Study. \[[PUB](https://doi.org/10.1109/ICDE53745.2022.00077)]
+* Human-Drone Collaborative Spatial Crowdsourcing by Memory-Augmented and Distributed Multi-Agent Deep Reinforcement Learning. \[[PUB](https://doi.org/10.1109/ICDE53745.2022.00039)]
+* Graph-Driven Federated Data Management (Extended Abstract). \[[PUB](https://doi.org/10.1109/ICDE53745.2022.00130)]
+
+#### SIGMOD
+
+* BlindFL: Vertical Federated Machine Learning without Peeking into Your Data. \[[PUB](https://dl.acm.org/doi/10.1145/3514221.3526127)] \[[PDF](https://arxiv.org/abs/2206.07975)]
+* An Introduction to Federated Computation. \[[PUB](https://dl.acm.org/doi/10.1145/3514221.3522561)]
+
+### 2021
+
+#### ICDE
+
+* Feature Inference Attack on Model Predictions in Vertical Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9458672/)] \[[PDF](https://arxiv.org/abs/2010.10152)] \[[CODE](https://github.com/xj231/featureinference-vfl) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2021-07-12]
+* An Efficient Approach for Cross-Silo Federated Learning to Rank. \[[PUB](https://ieeexplore.ieee.org/document/9458704)] \[[RELATED PAPER(ZH)](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13328/j.cnki.jos.006174)]
+* Efficient Federated-Learning Model Debugging. \[[PUB](https://ieeexplore.ieee.org/document/9458829)]
+
+#### VLDB
+
+* Projected Federated Averaging with Heterogeneous Differential Privacy. \[[PUB](https://dl.acm.org/doi/10.14778/3503585.3503592)] \[[CODE](https://github.com/Emory-AIMS/PFA) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-12-12]
+* Enabling SQL-based Training Data Debugging for Federated Learning. \[[PUB](http://www.vldb.org/pvldb/vol15/p388-wu.pdf)] \[[PDF](https://arxiv.org/abs/2108.11884)] \[[CODE](https://github.com/sfu-db/FedRain-and-Frog) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-06-15]
+* Federated Matrix Factorization with Privacy Guarantee. \[[PUB](https://www.vldb.org/pvldb/vol15/p900-li.pdf)]
+* Refiner: A Reliable Incentive-Driven Federated Learning System Powered by Blockchain. \[[PUB](http://vldb.org/pvldb/vol14/p2659-jiang.pdf)]
+* Tanium Reveal: A Federated Search Engine for Querying Unstructured File Data on Large Enterprise Networks. \[[PUB](http://www.vldb.org/pvldb/vol14/p3096-stoddard.pdf)] \[[VIDEO](https://www.bilibili.com/video/BV1Wg411j7aA)]
+* Towards Scalable Online Machine Learning Collaborations with OpenML. \[[PUB](http://www.vldb.org/pvldb/vol14/p3418-vanschoren.pdf)]
+
+#### SIGMOD
+
+* VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241)]
+
+* ExDRa: Exploratory Data Science on Federated Raw Data. \[[PUB](https://dl.acm.org/doi/10.1145/3448016.3457549)]
+
+* Joint blockchain and federated learning-based offloading in harsh edge computing environments. \[[PUB](https://dl.acm.org/doi/10.1145/3460866.3461765)]
+
+### 2020
+
+#### icde
+
+* HomoPAI: A Secure Collaborative Machine Learning Platform based on Homomorphic Encryption. \[[PUB](https://doi.org/10.1109/ICDE48307.2020.00152)]
+
+#### sigmod
+
+* Optimizing Machine Learning Workloads in Collaborative Environments. \[[PUB](https://doi.org/10.1145/3318464.3389715)]
+
+#### VLDB
+
+* Privacy Preserving Vertical Federated Learning for Tree-based Models. \[[PUB](http://vldb.org/pvldb/vol13/p2090-wu.pdf)] \[[PDF](https://arxiv.org/abs/2008.06170)] \[[VIDEO](https://www.youtube.com/watch?v=sjii8oVCqiY)] \[[CODE](https://github.com/nusdbsystem/pivot) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2021-11-11]
+
+### 2019
+
+#### sigmod
+
+* Learning to optimize federated queries. \[[PUB](https://doi.org/10.1145/3329859.3329873)]
+
+### 2016
+
+#### sigmod
+
+* THEMIS: Fairness in Federated Stream Processing under Overload. \[[PUB](https://doi.org/10.1145/2882903.2882943)]
+
+### 2014
+
+#### sigmod
+
+* Parasol: An Architecture for Cross-Cloud Federated Graph Querying. \[[PUB](https://doi.org/10.1145/2627770.2627771)]
+
+### 2010
+
+#### icde
+
+* A demonstration of the MaxStream federated stream processing system. \[[PUB](https://doi.org/10.1109/ICDE.2010.5447906)]
+
+### 2008
+
+#### vldb
+
+* Scalable multi-query optimization for exploratory queries over federated scientific databases. \[[PUB](http://www.vldb.org/pvldb/vol1/1453864.pdf)]
+
+### 2006
+
+#### sigmod
+
+* Communication-efficient distributed monitoring of thresholded counts. \[[PUB](https://doi.org/10.1145/1142473.1142507)]
+
+### 2005
+
+#### sigmod
+
+* Modeling and querying multidimensional data sources in Siebel Analytics: a federated relational system. \[[PUB](https://doi.org/10.1145/1066157.1066258)]
+
+### 2002
+
+#### icde
+
+* Decoupled Query Optimization for Federated Database Systems. \[[PUB](https://doi.org/10.1109/ICDE.2002.994788)]
+* Demonstration: Active Asynchronous Transaction Management in High-Autonomy Federated Environment Using Data Agents: Global Change Master Directory v8.0. \[[PUB](https://doi.org/10.1109/ICDE.2002.994744)]
+
+#### sigmod
+
+* Garlic: a new flavor of federated query processing for DB2. \[[PUB](https://doi.org/10.1145/564691.564751)]
+
+### 2001
+
+#### sigmod
+
+* Communication Efficient Distributed Mining of Association Rules. \[[PUB](https://doi.org/10.1145/375663.375728)]
+
+### 1997
+
+#### icde
+
+* Designing the Reengineering Services for the DOK Federated Database System. \[[PUB](https://doi.org/10.1109/ICDE.1997.582008)]
+
+### 1995
+
+#### icde
+
+* A Universal Relation Approach to Federated Database Management. \[[PUB](https://doi.org/10.1109/ICDE.1995.380385)]
+
+#### sigmod
+
+* Efendi: Federated Database System of Cadlab. \[[PUB](https://doi.org/10.1145/223784.223894)]
+
+### 1994
+
+#### icde
+
+* Semantics-Based Multilevel Transaction Management in Federated Systems. \[[PUB](https://doi.org/10.1109/ICDE.1994.283066)]
+
+#### sigmod
+
+* The MYRIAD Federated Database Prototype. \[[PUB](https://doi.org/10.1145/191839.191986)]
+
+### 1993
+
+#### icde
+
+* The Design, Implementation, and Evaluation of an Object-Based Sharing Mechanism for Federated Database Systems. \[[PUB](https://doi.org/10.1109/ICDE.1993.344033)]
+
+#### sigmod
+
+* Temporal Modules: An Approach Toward Federated Temporal Databases. \[[PUB](https://doi.org/10.1145/170035.170074)]
+
+### 1989
+
+#### icde
+
+* Negotiating Data Access in Federated Database Systems. \[[PUB](https://doi.org/10.1109/ICDE.1989.47200)]
+* Implementation and Measurements of Efficient Communication Facilities for Distributed Database Systems. \[[PUB](https://doi.org/10.1109/ICDE.1989.47215)]
+
+### 1987
+
+#### icde
+
+* An Approach to Schema Integration and Query Formulation in Federated Database Systems. \[[PUB](https://doi.org/10.1109/ICDE.1987.7272414)]</details>
+
+## fl in top network conference and journal
+
+Federated Learning papers accepted by top Database conference and journal, including [SIGCOMM](https://dblp.org/db/conf/sigcomm/index.html)(Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication), [INFOCOM](https://dblp.org/db/conf/infocom/index.html)(IEEE Conference on Computer Communications), [MobiCom](https://dblp.org/db/conf/mobicom/index.html)(ACM/IEEE International Conference on Mobile Computing and Networking), [NSDI](https://dblp.org/db/conf/nsdi/index.html)(Symposium on Networked Systems Design and Implementation) and [WWW](https://dblp.org/db/conf/www/index.html)(The Web Conference).
+
+* [SIGCOMM](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGCOMM%3A) 2025
+* [INFOCOM](https://dblp.uni-trier.de/search?q=federate%20venue%3AINFOCOM%3A) [2025](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference), [2024](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference), [2023](https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference), [2022](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference)([Page](https://infocom.info/day/3/track/Track%20B#B-7)), [2021](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom21)), [2020](https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom20)), [2019](https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference.html), 2018
+* [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) [2025](https://www.sigmobile.org/mobicom/2025/accepted.html), [2024](https://www.sigmobile.org/mobicom/2024/accepted.html), [2023](https://www.sigmobile.org/mobicom/2023/accepted.html), [2022](https://www.sigmobile.org/mobicom/2022/accepted.html), [2021](https://www.sigmobile.org/mobicom/2021/accepted.html), [2020](https://www.sigmobile.org/mobicom/2020/accepted.php)
+* [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) [2025](https://www.usenix.org/conference/nsdi25/technical-sessions), 2023([Spring](https://www.usenix.org/conference/nsdi23/spring-accepted-papers), [Fall](https://www.usenix.org/conference/nsdi23/fall-accepted-papers))
+* [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) [2026](https://dl.acm.org/doi/proceedings/10.1145/3774904), [2025](https://dl.acm.org/doi/proceedings/10.1145/3696410), [2024](https://www2024.thewebconf.org/accepted/research-tracks/), [2023](https://www2023.thewebconf.org/program/accepted-papers/), [2022](https://www2022.thewebconf.org/accepted-papers/), [2021](https://www2021.thewebconf.org/program/papers-program/links/index.html)
+
+<details open>
+<summary>fl in top network conference and journal</summary>
+<!-- START:fl-in-top-network-conference-and-journal -->
+
+<!-- END:fl-in-top-network-conference-and-journal -->
+
+### 2026
+
+#### WWW
+
+* Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach. \[[PUB](https://doi.org/10.1145/3774904.3792573)] \[[CODE](https://github.com/Zhangwp2420/GFMFR) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-05-12]
+* WeaveRec: An LLM-Based Cross-Domain Sequential Recommendation Framework with Model Merging. \[[PUB](https://doi.org/10.1145/3774904.3792365)] \[[CODE](https://github.com/mertell/WeaveRec) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-01-14]
+* Enhancing Federated Class-Incremental Learning via Spatial-Temporal Statistics Aggregation. \[[PUB](https://doi.org/10.1145/3774904.3792350)] \[[CODE](https://github.com/Yuqin-G/STSA) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-01-17]
+* WinFLoRA: Incentivizing Client-Adaptive Aggregation in Federated LoRA under Privacy Heterogeneity. \[[PUB](https://doi.org/10.1145/3774904.3792295)] \[[CODE](https://github.com/koums24/WinFLoRA.git) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-10-08]
+* Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation. \[[PUB](https://doi.org/10.1145/3774904.3792575)] \[[CODE](https://github.com/Poizoner/code4FCUCR_www2026) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-01-19]
+* Glasses: Enabling Fast Environment-aware Few-Shot Learning via Device-Cloud Collaboration. \[[PUB](https://doi.org/10.1145/3774904.3792110)] \[[CODE](https://github.com/CGCL-codes/Glasses) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-01-20]
+* FedDis: A Causal Disentanglement Framework for Federated Traffic Prediction. \[[PUB](https://doi.org/10.1145/3774904.3792663)] \[[CODE](https://github.com/Jlu-zcy/www2026_FedDis) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-20]
+* Difference-based Sample Selection for Federated Graph Rationalization. \[[PUB](https://doi.org/10.1145/3774904.3792072)] \[[CODE](https://github.com/yuelinan/Codes-of-DiffGR) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-05-21]
+* Reconstructing Training Data from Adapter-based Federated Large Language Models. \[[PUB](https://doi.org/10.1145/3774904.3792182)] \[[CODE](https://github.com/shwksnshwowk-wq/GIA) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-10-16]
+* Sharpness-Aware Minimization for Generalized Embedding Learning in Federated Recommendation. \[[PUB](https://doi.org/10.1145/3774904.3792579)] \[[CODE](https://github.com/anonymifish/FedRecGEL) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-10-08]
+* Beyond Class Boundaries: Federated Visual Primitive Sharing with Text-Guided Adaptation. \[[PUB](https://doi.org/10.1145/3774904.3792321)]
+* Beyond Denial-of-Service: The Puppeteer's Attack for Fine-Grained Control in Ranking-Based Federated Learning. \[[PUB](https://doi.org/10.1145/3774904.3792604)]
+* C2-SFL: Class-Balanced and Cost-Aware Split Federated Learning for Mobile Edge Computing. \[[PUB](https://doi.org/10.1145/3774904.3792897)]
+* CA-PFL: Client-adaptive Parameter-efficient Fine-tuning for Personalized Federated Learning. \[[PUB](https://doi.org/10.1145/3774904.3792619)]
+* Communication-Efficient Federated Learning for Post-Flood Risk Assessment Using UAV Swarms. \[[PUB](https://doi.org/10.1145/3774904.3792983)]
+* DIARY: Differentially Private Recovery with Adaptive Privacy Budgets in Federated Unlearning. \[[PUB](https://doi.org/10.1145/3774904.3792423)]
+* Dynamic Min-Max Multi-Dimensional Reinforcement Backdoor Attacks and Orchestrated Closed-Loop Defense in Fairness-Aware Web Federated Finance. \[[PUB](https://doi.org/10.1145/3774904.3792994)]
+* FairFRL: Fairness-aware Federated Representation Learning for Cross-domain Sequential Recommendation. \[[PUB](https://doi.org/10.1145/3774904.3793003)]
+* FedAKD: Federated Adaptive Knowledge Distillation via Global Knowledge Calibration and Decoupling. \[[PUB](https://doi.org/10.1145/3774904.3792386)]
+* FedBridge: Accelerating Edge-Assisted Federated Learning for Model-Heterogeneous Clients. \[[PUB](https://doi.org/10.1145/3774904.3792084)]
+* FedCND: Federated Graph-Level Clustering under Inter-Client Cluster Number Discrepancy. \[[PUB](https://doi.org/10.1145/3774904.3792325)]
+* FedDiG: Frequency-Guided Diffusion Diversity for Generalizable Federated Time Series Classification. \[[PUB](https://doi.org/10.1145/3774904.3792329)]
+* FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation. \[[PUB](https://doi.org/10.1145/3774904.3792294)]
+* Federated Latent Factor Learning for Privacy-Preserving Spatio-Temporal Signal Recovery. \[[PUB](https://doi.org/10.1145/3774904.3792353)]
+* FedMHO: Heterogeneous One-Shot Federated Learning Towards Resource-Constrained Clients. \[[PUB](https://doi.org/10.1145/3774904.3792743)]
+* FedRGL: Federated Riemannian Graph Learning in Mixed-Curvature Spaces with Ricci-Gated Convolution. \[[PUB](https://doi.org/10.1145/3774904.3792142)]
+* FedRMamba: Federated Residual Mamba for Multivariate Time-Series Forecasting. \[[PUB](https://doi.org/10.1145/3774904.3792712)]
+* FedSRD: Sparsify-Reconstruct-Decompose for Communication-Efficient Federated Large Language Models Fine-Tuning. \[[PUB](https://doi.org/10.1145/3774904.3792144)]
+* FUSED: Toward Federated Multimodal Retrieval across Sovereign Data Domains. \[[PUB](https://doi.org/10.1145/3774904.3793009)]
+* KE-FedRS: Tackling Data Sparsity in Federated Recommendation via Knowledge Enhancement. \[[PUB](https://doi.org/10.1145/3774904.3792267)]
+* LLM-enhanced Federated Graph Learning with Geometry-aware Graph Projection and Shared Subspace Aggregation. \[[PUB](https://doi.org/10.1145/3774904.3792546)]
+* MF3: Multimodal Federated Learning with Dual-Path Mamba-Transformer for Metro Flow Prediction. \[[PUB](https://doi.org/10.1145/3774904.3792415)]
+* Missingness-aware Federated Contrastive Learning on Semantic Graphs. \[[PUB](https://doi.org/10.1145/3774904.3792413)]
+* Personalized Federated Fine-Tuning for LLMs via Data-Driven Heterogeneous Model Architectures. \[[PUB](https://doi.org/10.1145/3774904.3792147)]
+* pFedDKS: Detached Knowledge Sharing for Personalized Federated Learning. \[[PUB](https://doi.org/10.1145/3774904.3792203)]
+* Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization. \[[PUB](https://doi.org/10.1145/3774904.3792626)]
+* RAFed: Responsive Augmentation and Approximate Update Method for Federated Learning with Non-IID Data. \[[PUB](https://doi.org/10.1145/3774904.3792343)] \[[CODE](https://github.com/anonymously123-stcak/RAFed)]
+* Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems. \[[PUB](https://doi.org/10.1145/3774904.3792552)]
+* Thorki: Decoupling General and Personalized Knowledge with Collaborative Fusion for Personalized Federated Learning. \[[PUB](https://doi.org/10.1145/3774904.3792140)]
+* Towards Geometry-Consistent Federated Graph Learning. \[[PUB](https://doi.org/10.1145/3774904.3792655)]
+* Unveiling and Mitigating Untargeted Poisoning Attacks on Federated Knowledge Graph Embedding. \[[PUB](https://doi.org/10.1145/3774904.3792117)]
+* Verifiable Federated Representation Learning for Cross-domain Sequential Recommendation. \[[PUB](https://doi.org/10.1145/3774904.3792533)]
+* Vertical Semi-Federated Learning for Efficient Online Advertising. \[[PUB](https://doi.org/10.1145/3774904.3792940)]
+* Collaborative Subgraph Learning based Spectrum Sensing under Partial Observations. \[[PUB](https://doi.org/10.1145/3774904.3792536)]
+* Learning on Adaptive Manifolds for Graph Collaborative Filtering. \[[PUB](https://doi.org/10.1145/3774904.3792239)]
+* Macro-Micro Collaborative Learning for Logical Data Center Microservice Indicators Forecasting. \[[PUB](https://doi.org/10.1145/3774904.3792125)]
+* Prototype Augmentation-based Edge-end Heterogeneous Collaborative Learning. \[[PUB](https://doi.org/10.1145/3774904.3792281)]
+* SIsomap: Secure Collaborative Manifold Learning with Reducing Communication Costs. \[[PUB](https://doi.org/10.1145/3774904.3792105)]
+
+### 2025
+
+#### MOBICOM
+
+* Poster: Asynchronous Federated Learning Library and Benchmark with AFL-Lib. \[[PUB](https://doi.org/10.1145/3680207.3765660)] \[[CODE](https://github.com/boyi-liu/AFL-Lib) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-07-23]
+* When Device Delays Meet Data Heterogeneity in Federated AIoT Applications. \[[PUB](https://doi.org/10.1145/3680207.3723481)]
+* Poster: BlockFL-Med: Blockchain-Enabled and Lightweight Federated Learning for Smart Medical Spaces. \[[PUB](https://doi.org/10.1145/3680207.3765687)]
+* Poster: FedFNS: A Robust Federated Learning Method for Data Shift over Unreliable Communication Links. \[[PUB](https://doi.org/10.1145/3680207.3765674)]
+* Poster: Learning to Personalize in Federated Networks with Contribution-Aware Aggregation. \[[PUB](https://doi.org/10.1145/3680207.3765661)]
+
+#### SIGCOMM
+
+* A Lightweight Emulation Framework for Energy-Aware Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3744969.3748395)]
+* NEBULA - Decentralized Federated Learning for Heterogeneous Networks. \[[PUB](https://dl.acm.org/doi/10.1145/3744969.3748413)]
+* Federated Inference: Towards Collaborative and Privacy-Preserving Inference over Edge Devices. \[[PUB](https://dl.acm.org/doi/10.1145/3744969.3748418)]
+
+#### INFOCOM
+
+* Preference Profiling Attacks Against Vertical Federated Learning Over Graph Data. \[[PUB](https://ieeexplore.ieee.org/document/11044459)]
+* FedGPA: Federated Learning with Global-Personalized Collaboration for Edge Anomaly Detection. \[[PUB](https://ieeexplore.ieee.org/document/11044589)]
+* Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA. \[[PUB](https://ieeexplore.ieee.org/document/11044641)]
+* FLM-TopK: Expediting Federated Large Language Model Tuning by Sparsifying Intervalized Gradients. \[[PUB](https://ieeexplore.ieee.org/document/11044514)]
+* Client Sampling for Communication-Efficient Distributed Minimax Optimization. \[[PUB](https://ieeexplore.ieee.org/document/11044637)]
+* Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems. \[[PUB](https://ieeexplore.ieee.org/document/11044618)]
+* ElasticFed: Collaborative Large-Small Transformer Training for Federated Continual Learning at Edge. \[[PUB](https://ieeexplore.ieee.org/document/11044503)]
+* γ-FedHT: Stepsize-Aware Hard-Threshold Gradient Compression in Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/11044558)]
+* PSFL: Parallel-Sequential Federated Learning with Convergence Guarantees. \[[PUB](https://ieeexplore.ieee.org/document/11044534)]
+* GraphRx: Graph-Based Collaborative Learning Among Multiple Cells for Uplink Neural Receivers. \[[PUB](https://ieeexplore.ieee.org/document/11044726)]
+* Input Integrity and Authentic Results: Towards Trustworthy Aggregation in Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/11044719)]
+* Lightweight Federated Learning with Differential Privacy and Straggler Resilience. \[[PUB](https://ieeexplore.ieee.org/document/11044562)]
+* Communication Efficient Asynchronous Stochastic Gradient Descent. \[[PUB](https://ieeexplore.ieee.org/document/11044686)]
+* GeoFL: A Framework for Efficient Geo-Distributed Cross-Device Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/11044713)]
+* FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers. \[[PUB](https://ieeexplore.ieee.org/document/11044747)]
+* LCO-AGQ: A Lightweight Client-Oriented Adaptive Gradient Quantization Algorithm for Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/11044636)]
+* FedEXT: Differential Federated Learning with Complementary Extension of Edge Models. \[[PUB](https://ieeexplore.ieee.org/document/11044645)]
+* FedFetch: Faster Federated Learning with Adaptive Downstream Prefetching. \[[PUB](https://ieeexplore.ieee.org/document/11044717)]
+* Similarity-Guided Rapid Deployment of Federated Intelligence Over Heterogeneous Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/11044586)]
+* CARE: Compatibility-Aware Incentive Mechanisms for Federated Learning with Budgeted Requesters. \[[PUB](https://ieeexplore.ieee.org/document/11044535)]
+* Constrained Over-the-Air Model Updating for Wireless Online Federated Learning with Delayed Information. \[[PUB](https://ieeexplore.ieee.org/document/11044570)]
+* Multi-Task Reinforcement Learning for Collaborative Network Optimization in Data Centers. \[[PUB](https://ieeexplore.ieee.org/document/11044699)]
+* Towards Federated Inference: An Online Model Ensemble Framework for Cooperative Edge AI. \[[PUB](https://ieeexplore.ieee.org/document/11044578)]
+* VaniKG: Vanishing Key Gradient Attack and Defense for Robust Federated Aggregation. \[[PUB](https://ieeexplore.ieee.org/document/11044620)]
+* Combating Deep Leakage from Gradients in Cross-Silo Federated Learning with QKD. \[[PUB](https://ieeexplore.ieee.org/document/11044743)]
+* FedUFD: Personalized Edge Computing Using Federated Uncertainty-Driven Feature Distillation. \[[PUB](https://ieeexplore.ieee.org/document/11044664)]
+* Accelerating Clustered Federated Learning in Dynamic D2D Networks with Transferable GNN. \[[PUB](https://ieeexplore.ieee.org/document/11044690)]
+* AoI-Aware Federated Unlearning for Streaming Data with Online Client Selection and Pricing. \[[PUB](https://ieeexplore.ieee.org/document/11044760)]
+
+#### WWW
+
+* PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714561)] \[[CODE](https://github.com/dannis97500/PM-MOE) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2025-01-25]
+* FedRIR: Rethinking Information Representation in Federated Learning. \[[PUB](https://doi.org/10.1145/3696410.3714612)] \[[CODE](https://github.com/Deep-Imaging-Group/FedRIR) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-01-24]
+* FedKDShap: Enhancing Federated Learning via Shapley Values Driven Knowledge Distillation on Non-IID Data. \[[PUB](https://doi.org/10.1145/3701716.3717645)] \[[CODE](https://github.com/shadhin39/FedKDShap) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-06-30]
+* NI-GDBA: Non-Intrusive Distributed Backdoor Attack Based on Adaptive Perturbation on Federated Graph Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714630)] \[[CODE](https://github.com/kiyotakali/NI-GDBA) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-10-22]
+* ReSLLM: Large Language Models are Strong Resource Selectors for Federated Search. \[[PUB](https://doi.org/10.1145/3701716.3715595)] \[[CODE](https://github.com/ielab/SLAT-RsLLM) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2024-12-19]
+* Empowering Federated Graph Rationale Learning with Latent Environments. \[[PUB](https://doi.org/10.1145/3696410.3714929)] \[[CODE](https://github.com/yuelinan/Codes-of-EaDA) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-05-21]
+* Dynamic Graph Unlearning: A General and Efficient Post-Processing Method via Gradient Transformation. \[[PUB](https://doi.org/10.1145/3696410.3714911)]
+* Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems against Attribute Inference Attacks. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714823)]
+* P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714721)]
+* Local Differentially Private Release of Infinite Streams With Temporal Relevance. \[[PUB](https://doi.org/10.1145/3696410.3714619)]
+* Unlearning Incentivizes Learning under Privacy Risk. \[[PUB](https://doi.org/10.1145/3696410.3714740)]
+* Maverick: Personalized Edge-Assisted Federated Learning with Contrastive Training. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714884)]
+* Horizontal Federated Heterogeneous Graph Learning: A Multi-Scale Adaptive Solution to Data Distribution Challenges. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714722)]
+* Dealing with Noisy Data in Federated Learning: An Incentive Mechanism with Flexible Pricing. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714961)]
+* Self-Comparison for Dataset-Level Membership Inference in Large (Vision-)Language Model. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714703)]
+* Federated Graph Anomaly Detection via Disentangled Representation Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714567)]
+* FedMobile: Enabling Knowledge Contribution-aware Multi-modal Federated Learning with Incomplete Modalities. \[[PUB](https://doi.org/10.1145/3696410.3714623)]
+* Subgraph Federated Unlearning. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714821)]
+* Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714635)]
+* Provably Robust Federated Reinforcement Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714728)]
+* MoCFL: Mobile Cluster Federated Learning Framework for Highly Dynamic Network. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714515)]
+* FLock: Robust and Privacy-Preserving Federated Learning based on Practical Blockchain State Channels. \[[PUB](https://dl.acm.org/doi/10.1145/3696410.3714666)]
+* A Fairer Client Selection Framework for Federated Internet of Things: Equality, Equity, and Trade-off Perspectives. \[[PUB](https://doi.org/10.1145/3701716.3715278)]
+* A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions. \[[PUB](https://doi.org/10.1145/3701716.3715860)]
+* Blockchain-based Framework for Scalable and Incentivized Federated Learning. \[[PUB](https://doi.org/10.1145/3701716.3717649)]
+* Byzantine-Robust Federated Learning over Ring-All-Reduce Distributed Computing. \[[PUB](https://doi.org/10.1145/3701716.3715491)]
+* Decentralized and Policy-Aware Serverless Orchestration for the Federated Web. \[[PUB](https://doi.org/10.1145/3701716.3715573)]
+* FedEDM: Federated Equivariant Diffusion Model for 3D Molecule Generation with Enhanced Communication Efficiency. \[[PUB](https://doi.org/10.1145/3701716.3717648)]
+* Federated Fine-Tuning of Large Language Models: Kahneman-Tversky vs. Direct Preference Optimization. \[[PUB](https://doi.org/10.1145/3701716.3717647)]
+* Federated Intelligence in Web: A Tutorial. \[[PUB](https://doi.org/10.1145/3701716.3715864)]
+* FedSTG: Breaking through Spatio-Temporal Data Silos with Federated Graph Learning. \[[PUB](https://doi.org/10.1145/3701716.3715562)]
+* FL\@FM-TheWebConf'25: International Workshop on Federated Foundation Models for the Web 2025. \[[PUB](https://doi.org/10.1145/3701716.3717650)]
+* Poisoning Attacks and Defenses to Federated Unlearning. \[[PUB](https://doi.org/10.1145/3701716.3715494)]
+* Quantifying Individual Fairness in Continual Federated Learning. \[[PUB](https://doi.org/10.1145/3701716.3717646)]
+* Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration. \[[PUB](https://doi.org/10.1145/3696410.3714796)]
+* Knowledge-Decoupled Synergetic Learning: An MLLM based Collaborative Approach to Few-shot Multimodal Dialogue Intention Recognition. \[[PUB](https://doi.org/10.1145/3701716.3718372)]
+
+#### NSDI
+
+* PAPAYA Federated Analytics Stack: Engineering Privacy, Scalability and Practicality. \[[PUB](https://www.usenix.org/conference/nsdi25/presentation/srinivas)] \[[SLIDE](https://www.usenix.org/system/files/nsdi25_slides-srinivas.pdf)]
+
+### 2024
+
+#### INFOCOM
+
+* Agglomerative Federated Learning: Empowering Larger Model Training via End-Edge-Cloud Collaboration. \[[PUB](https://ieeexplore.ieee.org/document/10621254)] \[[CODE](https://github.com/wuzhiyuan2000/FedAgg) ⭐ 82 | 🐛 3 | 🌐 Python | 📅 2025-01-01]
+
+* Fedkit: Enabling Cross-Platform Federated Learning for Android and iOS. \[[PUB](https://ieeexplore.ieee.org/document/10620662)] \[[CODE](https://github.com/FedCampus/FedKit) ⭐ 20 | 🐛 2 | 🌐 Kotlin | 📅 2024-02-03]
+
+* Breaking Secure Aggregation: Label Leakage from Aggregated Gradients in Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10621090)]
+
+* Strategic Data Revocation in Federated Unlearning. \[[PUB](https://ieeexplore.ieee.org/document/10621201)]
+
+* FedTC: Enabling Communication-Efficient Federated Learning via Transform Coding. \[[PUB](https://ieeexplore.ieee.org/document/10621176)]
+
+* Federated Learning While Providing Model as a Service: Joint Training and Inference Optimization. \[[PUB](https://ieeexplore.ieee.org/document/10621105)]
+
+* FairFed: Improving Fairness and Efficiency of Contribution Evaluation in Federated Learning via Cooperative Shapley Value. \[[PUB](https://ieeexplore.ieee.org/document/10621438)]
+
+* DPBalance: Efficient and Fair Privacy Budget Scheduling for Federated Learning as a Service. \[[PUB](https://ieeexplore.ieee.org/document/10621227)]
+
+* Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization. \[[PUB](https://ieeexplore.ieee.org/document/10621369)]
+
+* BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning with Fast Convergence and Communication Efficiency. \[[PUB](https://ieeexplore.ieee.org/document/10621347)]
+
+* Titanic: Towards Production Federated Learning with Large Language Models. \[[PUB](https://ieeexplore.ieee.org/document/10621164)]
+
+* Expediting In-Network Federated Learning by Voting-Based Consensus Model Compression. \[[PUB](https://ieeexplore.ieee.org/document/10621376)]
+
+* Fed-CVLC: Compressing Federated Learning Communications with Variable-Length Codes. \[[PUB](https://ieeexplore.ieee.org/document/10621361)]
+
+* Federated Analytics-Empowered Frequent Pattern Mining for Decentralized Web 3.0 Applications. \[[PUB](https://ieeexplore.ieee.org/document/10621294)]
+
+* GraphProxy: Communication-Efficient Federated Graph Learning with Adaptive Proxy. \[[PUB](https://ieeexplore.ieee.org/document/10621171)]
+
+* AeroRec: An Efficient On-Device Recommendation Framework using Federated Self-Supervised Knowledge Distillation. \[[PUB](https://ieeexplore.ieee.org/document/10621240)]
+
+* Efficient and Straggler-Resistant Homomorphic Encryption for Heterogeneous Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10621440)]
+
+* Heroes: Lightweight Federated Learning with Neural Composition and Adaptive Local Update in Heterogeneous Edge Networks. \[[PUB](https://ieeexplore.ieee.org/document/10621351)]
+
+* Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency. \[[PUB](https://ieeexplore.ieee.org/document/10621260)]
+
+* Federated Offline Policy Optimization with Dual Regularization. \[[PUB](https://ieeexplore.ieee.org/document/10621140)]
+
+* A Semi-Asynchronous Decentralized Federated Learning Framework via Tree-Graph Blockchain. \[[PUB](https://ieeexplore.ieee.org/document/10621425)]
+
+* SpreadFGL: Edge-Client Collaborative Federated Graph Learning with Adaptive Neighbor Generation. \[[PUB](https://ieeexplore.ieee.org/document/10621368)]
+
+* Towards Efficient Asynchronous Federated Learning in Heterogeneous Edge Environments. \[[PUB](https://ieeexplore.ieee.org/document/10621333)]
+
+* Federated Learning Based Integrated Sensing, Communications, and Powering Over 6G Massive-MIMO Mobile Networks. \[[PUB](https://ieeexplore.ieee.org/document/10620738)]
+
+* Decentralized Federated Learning Under Free-riders: Credibility Analysis. \[[PUB](https://ieeexplore.ieee.org/document/10620869)]
+
+* TrustBandit: Optimizing Client Selection for Robust Federated Learning Against Poisoning Attacks. \[[PUB](https://ieeexplore.ieee.org/document/10620802)]
+
+* Cascade: Enhancing Reinforcement Learning with Curriculum Federated Learning and Interference Avoidance — A Case Study in Adaptive Bitrate Selection. \[[PUB](https://ieeexplore.ieee.org/document/10620892)]
+
+* Efficient Adapting for Vision-language Foundation Model in Edge Computing Based  on Personalized and Multi-Granularity Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10620835)]
+
+* Distributed Link Heterogeneity Exploitation for Attention-Weighted Robust Federated Learning in 6G Networks. \[[PUB](https://ieeexplore.ieee.org/document/10620673)]
+
+* GAN-Based Privacy Abuse Attack on Federated Learning in IoT Networks. \[[PUB](https://ieeexplore.ieee.org/document/10620772)]
+
+* ASR-FED: Agnostic Straggler Resilient Federated Algorithm for Drone Networks Security. \[[PUB](https://ieeexplore.ieee.org/document/10620729)]
+
+* Unbiased Federated Learning for Heterogeneous Data Under Unreliable Links. \[[PUB](https://ieeexplore.ieee.org/document/10620699)]
+
+* Efficient Client Sampling with Compression in Heterogeneous Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10620859)]
+
+* Reputation-Aware Scheduling for Secure Internet of Drones: A Federated Multi-Agent Deep Reinforcement Learning Approach. \[[PUB](https://ieeexplore.ieee.org/document/10620746)]
+
+* Two-Timescale Energy Optimization for Wireless Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10620777)]
+
+* A Data Reconstruction Attack Against Vertical Federated Learning Based on Knowledge Transfer. \[[PUB](https://ieeexplore.ieee.org/document/10620788)]
+
+* Federated Learning for Energy-efficient Cooperative Perception in Connected and Autonomous Vehicles. \[[PUB](https://ieeexplore.ieee.org/document/10620757)]
+
+* Federated Learning-Based Cooperative Model Training for Task-Oriented Semantic Communication. \[[PUB](https://ieeexplore.ieee.org/document/10620817)]
+
+* FedBF16-Dynamic: Communication-Efficient Federated Learning with Adaptive Transmission. \[[PUB](https://ieeexplore.ieee.org/document/10620860)]
+
+* Designing Robust 6G Networks with Bimodal Distribution for Decentralized Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10620706)]
+
+* Federated Distributed Deep Reinforcement Learning for Recommendation-enabled Edge Caching. \[[PUB](https://ieeexplore.ieee.org/document/10620845)]
+
+* Joint Optimization of Charging Time and Resource Allocation in Wireless Power Transfer Assisted Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10620792)]
+
+* Joint Client Selection and Privacy Compensation for Differentially Private Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10620900)]
+
+* Wireless Hierarchical Federated Aggregation Weights Design with Loss-Based-Heterogeneity. \[[PUB](https://ieeexplore.ieee.org/document/10620731)]
+
+#### MobiCom
+
+* ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital Biomarkers of Alzheimer's Disease. \[[PUB](https://dl.acm.org/doi/10.1145/3636534.3649370)] \[[PDF](https://arxiv.org/abs/2310.15301)] \[[CODE](https://github.com/xmouyang/ADMarker) ⭐ 19 | 🐛 2 | 🌐 Python | 📅 2024-03-24]
+* Exploring Visual Explanations for Defending Federated Learning against Poisoning Attacks. \[[PUB](https://dl.acm.org/doi/10.1145/3636534.3697430)] \[[CODE](https://github.com/jjzgeeks/LayerCAM-AE) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-05-30]
+* Federated Black-box Prompt Tuning System for Large Language Models on the Edge. \[[PUB](https://dl.acm.org/doi/10.1145/3636534.3698856)]
+* Proximal Federated Learning for Body Mass Index Monitoring using Commodity WiFi. \[[PUB](https://dl.acm.org/doi/10.1145/3636534.3694735)]
+* ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity Issues. \[[PUB](https://dl.acm.org/doi/10.1145/3636534.3690665)]
+* Joint Horizontal and Vertical Federated Learning for Multimodal IoT. \[[PUB](https://dl.acm.org/doi/10.1145/3636534.3698245)]
+* LATTE: Layer Algorithm-aware Training Time Estimation for Heterogeneous Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3636534.3690705)]
+* A Client Detection and Parameter Correction Algorithm for Clustering Defense in Clustered Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3636534.3698247)]
+* ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital Biomarkers of Alzheimer's Disease. \[[PUB](https://doi.org/10.1145/3636534.3649370)]
+
+#### sigcomm
+
+* dAuth: A Resilient Authentication Architecture for Federated Private Cellular Networks. \[[PUB](https://doi.org/10.1145/3651890.3672263)]
+
+#### WWW
+
+* Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645337)] \[[PDF](https://arxiv.org/abs/2401.14678)] \[[CODE](https://github.com/ckano/pfcr) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2024-12-15]
+
+* Towards Efficient Communication and Secure Federated Recommendation System via Low-rank Training. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645702)] \[[PDF](https://arxiv.org/abs/2401.03748)] \[[CODE](https://github.com/nnhieu/colr-fedrec) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-05-31]
+
+* When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645525)] \[[PDF](https://arxiv.org/abs/2305.12650)] \[[CODE](https://github.com/Zhangcx19/IFedRec) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2024-12-02]
+
+* How Few Davids Improve One Goliath: Federated Learning in Resource-Skewed Edge Computing Environments. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645544)] \[[CODE](https://github.com/jiayunz/RecipFL) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2024-10-18] \[[VIDEO](https://www.youtube.com/watch?v=nN1UjYw_6uQ)]
+
+* Poisoning Attack on Federated Knowledge Graph Embedding. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645422)] \[[CODE](https://github.com/jisooma/FKGEPoison) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-02-08]
+
+* PAGE: Equilibrate Personalization and Generalization in Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645513)] \[[PDF](https://arxiv.org/abs/2310.08961)] \[[CODE](https://github.com/ivy-h7/PAGE) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-05-15]
+
+* Detecting Poisoning Attacks on Federated Learning Using Gradient-Weighted Class Activation Mapping. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3651490)] \[[CODE](https://github.com/jjzgeeks/GradCAM-AE) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-03-06]
+
+* Privacy-Preserving and Fairness-Aware Federated Learning for Critical Infrastructure Protection and Resilience. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645545)] \[[CODE](https://github.com/CGD-release/cgd) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-01-20]
+
+* Accelerating the Decentralized Federated Learning via Manipulating Edges. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645509)]
+
+* Federated Learning Vulnerabilities: Privacy Attacks with Denoising Diffusion Probabilistic Models. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645514)]
+
+* Co-clustering for Federated Recommender System. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645626)]
+
+* Incentive and Dynamic Client Selection for Federated Unlearning. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645462)]
+
+* BlockDFL: A Blockchain-based Fully Decentralized Peer-to-Peer Federated Learning Framework. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645425)] \[[PDF](https://arxiv.org/abs/2205.10568)]
+
+* Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645690)] \[[PDF](https://arxiv.org/abs/2401.17630)]
+
+* FedDSE: Distribution-aware Sub-model Extraction for Federated Learning over Resource-constrained Devices. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645416)]
+
+* Cardinality Counting in "Alcatraz": A Privacy-aware Federated Learning Approach. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645655)]
+
+* Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645693)] \[[PDF](https://arxiv.org/abs/2310.11730)]
+
+* Poisoning Federated Recommender Systems with Fake Users. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645492)] \[[PDF](https://arxiv.org/abs/2402.11637)]
+
+* Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs. \[[PUB](https://dl.acm.org/doi/10.1145/3589334.3645341)]
+
+* FL\@FM-TheWebConf'24: International Workshop on Federated Foundation Models for the Web. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3641298)] \[[PAGE](https://federated-learning.org/fl@fm-www-2024/)]
+
+* An Investigation into the Feasibility of Performing Federated Learning on Social Linked Data Servers. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3651950)]
+
+* Exploring Representational Similarity Analysis to Protect Federated Learning from Data Poisoning. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3651503)]
+
+* Only Send What You Need: Learning to Communicate Efficiently in Federated Multilingual Machine Translation. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3651931)] \[[PDF](https://arxiv.org/abs/2401.07456)]
+
+* FedHLT: Efficient Federated Low-Rank Adaption with Hierarchical Language Tree for Multilingual Modeling. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3651933)]
+
+* HBIAS FedAvg: Smooth Federated Learning Transition for In-use Edge Models. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3651518)]
+
+* Phoenix: A Federated Generative Diffusion Model. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3651935)]
+
+* Federated Learning in Large Model Era: Vision-Language Model for Smart City Safety Operation Management. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3651939)]
+
+* Robust Federated Learning Mitigates Client-side Training Data Distribution Inference Attacks. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3651555)] \[[PDF](https://arxiv.org/abs/2403.03149)]
+
+* GradFilt: Class-wise Targeted Data Reconstruction from Gradients in Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3589335.3651514)]
+
+* Cardinality Counting in "Alcatraz": A Privacy-aware Federated Learning Approach. \[[PUB](https://doi.org/10.1145/3589334.3645655)]
+
+* Fediscount: Shopping Online at a Federated Store Using FedUP as SPARQL Federation Engine. \[[PUB](https://doi.org/10.1145/3589335.3651249)]
+
+* FL\@FM-TheWebConf'24: International Workshop on Federated Foundation Models for the Web. \[[PUB](https://doi.org/10.1145/3589335.3641298)]
+
+* AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems. \[[PUB](https://doi.org/10.1145/3589334.3645537)]
+
+* Collaboration-Aware Hybrid Learning for Knowledge Development Prediction. \[[PUB](https://doi.org/10.1145/3589334.3645326)]
+
+* Decentralized Collaborative Learning with Adaptive Reference Data for On-Device POI Recommendation. \[[PUB](https://doi.org/10.1145/3589334.3645696)]
+
+### 2023
+
+#### MobiCom
+
+* AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving. \[[PUB](https://dl.acm.org/doi/10.1145/3570361.3592517)] \[[PDF](https://arxiv.org/abs/2302.08646)]
+* Efficient Federated Learning for Modern NLP. \[[PDF](https://arxiv.org/abs/2205.10162)] \[[解读](https://zhuanlan.zhihu.com/p/638270746)]
+* Federated Few-Shot Learning for Mobile NLP. \[[PUB](https://doi.org/10.1145/3570361.3613277)]
+
+#### NSDI
+
+* FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning. \[[PUB](https://www.usenix.org/conference/nsdi23/presentation/zhang-junxue)] \[[SLIDE](https://www.usenix.org/system/files/nsdi23_slides_zhang.pdf)] \[[VIDEO](https://www.youtube.com/watch?v=I5V3r-8sY-Y)]
+* Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge. \[[PUB](https://www.usenix.org/conference/nsdi23/presentation/padmanabhan)]
+
+#### WWW
+
+* Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583305)] \[[PDF](https://arxiv.org/abs/2302.02069)] \[[CODE](https://github.com/nju-websoft/FedLU) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2023-02-03]
+
+* FedACK: Federated Adversarial Contrastive Knowledge Distillation for Cross-Lingual and Cross-Model Social Bot Detection. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583500)] \[[PDF](https://arxiv.org/abs/2303.07113)] \[[CODE](https://github.com/846468230/FedACK) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2023-05-03]
+
+* Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583874)] \[[PDF](https://arxiv.org/abs/2302.05675)] \[[CODE](https://github.com/Chung-ju/VFedTrans) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2024-12-31]
+
+* FlexiFed: Personalized Federated Learning for Edge Clients with Heterogeneous Model Architectures. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583347)] \[[CODE](https://github.com/fio1982/FlexiFed) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-07-04]
+
+* AgrEvader: Poisoning Membership Inference against Byzantine-robust Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583542)] \[[CODE](https://github.com/PrivSecML/AgrEvader) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2023-02-09]
+
+* Federated Node Classification over Graphs with Latent Link-type Heterogeneity. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583471)] \[[CODE](https://github.com/Oxfordblue7/FedLIT) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-04-16]
+
+* A Federated Learning Benchmark for Drug-Target Interaction. \[[PUB](https://dl.acm.org/doi/10.1145/3543873.3587687)] \[[PDF](https://arxiv.org/abs/2302.07684)] \[[CODE](https://github.com/giemp95/feddti) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-06-11]
+
+* To Store or Not? Online Data Selection for Federated Learning with Limited Storage. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583426)] \[[PDF](https://arxiv.org/abs/2209.00195)]
+
+* pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583518)]
+
+* Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583450)] \[[PDF](https://arxiv.org/abs/2304.02932)]
+
+* Semi-decentralized Federated Ego Graph Learning for Recommendation. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583337)] \[[PDF](https://arxiv.org/abs/2302.10900)]
+
+* FedEdge: Accelerating Edge-Assisted Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583264)]
+
+* Interaction-level Membership Inference Attack Against Federated Recommender Systems. \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583359)] \[[PDF](https://arxiv.org/abs/2301.10964)]
+
+* Federated Learning for Metaverse: A Survey. \[[PUB](https://dl.acm.org/doi/10.1145/3543873.3587584)] \[[PDF](https://arxiv.org/abs/2303.17987)]
+
+* Understanding the Impact of Label Skewness and Optimization on Federated Learning for Text Classification. \[[PUB](https://dl.acm.org/doi/10.1145/3543873.3587599)]
+
+* Privacy-Preserving Online Content Moderation: A Federated Learning Use Case. \[[PUB](https://dl.acm.org/doi/10.1145/3543873.3587604)] \[[PDF](https://arxiv.org/abs/2209.11843)]
+
+* Privacy-Preserving Online Content Moderation with Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3543873.3587366)]
+
+* Towards a Decentralized Data Hub and Query System for Federated Dynamic Data Spaces. \[[PUB](https://dl.acm.org/doi/10.1145/3543873.3587646)]
+
+* 1st Workshop on Federated Learning Technologies1st Workshop on Federated Learning Technologies. \[[PUB](https://dl.acm.org/doi/10.1145/3543873.3589741)]
+
+* A Survey of Trustworthy Federated Learning with Perspectives on Security, Robustness and Privacy. \[[PUB](https://dl.acm.org/doi/10.1145/3543873.3587681)] \[[PDF](https://arxiv.org/abs/2302.10637)]
+
+* 1st Workshop on Federated Learning Technologies. \[[PUB](https://doi.org/10.1145/3543873.3589741)]
+
+* CollabEquality: A Crowd-AI Collaborative Learning Framework to Address Class-wise Inequality in Web-based Disaster Response. \[[PUB](https://doi.org/10.1145/3543507.3583871)]
+
+* Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals. \[[PUB](https://doi.org/10.1145/3543507.3583989)]
+
+* ELASTIC: Edge Workload Forecasting based on Collaborative Cloud-Edge Deep Learning. \[[PUB](https://doi.org/10.1145/3543507.3583436)]
+
+* Towards Explainable Collaborative Filtering with Taste Clusters Learning. \[[PUB](https://doi.org/10.1145/3543507.3583303)]
+
+#### INFOCOM
+
+* Asynchronous Federated Unlearning. \[[PUB](https://ieeexplore.ieee.org/document/10229075)] \[[PDF](https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf)] \[[CODE](https://github.com/TL-System/plato/tree/main/examples/knot) ⭐ 400 | 🐛 2 | 🌐 Python | 📅 2026-10-04]
+* OBLIVION: Poisoning Federated Learning by Inducing Catastrophic Forgetting. \[[PUB](https://ieeexplore.ieee.org/document/10228981)] \[[CODE](https://github.com/TL-System/plato/) ⭐ 400 | 🐛 2 | 🌐 Python | 📅 2026-10-04]
+* Federated Learning under Heterogeneous and Correlated Client Availability. \[[PUB](https://ieeexplore.ieee.org/document/10228876)] \[[PDF](https://arxiv.org/abs/2301.04632)] \[[CODE](https://github.com/arodio/ca-fed) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2023-01-07]
+* Federated Learning with Flexible Control. \[[PUB](https://ieeexplore.ieee.org/document/10229070)] \[[PDF](https://arxiv.org/abs/2212.08496)] \[[CODE](https://github.com/IBM/flexfl) ⚠️ Archived]
+* FedMoS: Taming Client Drift in Federated Learning with Double Momentum and Adaptive Selection. \[[PUB](https://ieeexplore.ieee.org/document/10228957)] \[[PDF](https://wangxionghome.github.io/MainFL-TR.pdf)] \[[CODE](https://github.com/Distributed-Learning-Networking-Group/FedMoS/) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-06-09]
+* A Hierarchical Knowledge Transfer Framework for Heterogeneous Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10228954)]
+* A Reinforcement Learning Approach for Minimizing Job Completion Time in Clustered Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10228925)]
+* Adaptive Configuration for Heterogeneous Participants in Decentralized Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10228945)] \[[PDF](https://arxiv.org/abs/2212.02136)]
+* AnycostFL: Efficient On-Demand Federated Learning over Heterogeneous Edge Devices. \[[PUB](https://ieeexplore.ieee.org/document/10229017)] \[[PDF](https://arxiv.org/abs/2301.03062)]
+* AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation. \[[PUB](https://ieeexplore.ieee.org/document/10229011)]
+* Communication-Efficient Federated Learning for Heterogeneous Edge Devices Based on Adaptive Gradient Quantization. \[[PUB](https://ieeexplore.ieee.org/document/10228970)] \[[PDF](https://arxiv.org/abs/2212.08272)]
+* Enabling Communication-Efficient Federated Learning via Distributed Compressed Sensing. \[[PUB](https://ieeexplore.ieee.org/document/10229032)]
+* Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks. \[[PUB](https://ieeexplore.ieee.org/document/10229026)] \[[PDF](https://arxiv.org/abs/2212.12121)]
+* FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10228895)] \[[PDF](https://arxiv.org/abs/2302.10417)]
+* Heterogeneity-Aware Federated Learning with Adaptive Client Selection and Gradient Compression.
+* Joint Edge Aggregation and Association for Cost-Efficient Multi-Cell Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10229060)]
+* Joint Participation Incentive and Network Pricing Design for Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10229084)]
+* More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10228919)] \[[PDF](https://iqua.ece.toronto.edu/papers/feiwang-infocom23.pdf)] \[[WEIBO](https://weibo.com/2174209470/MBt1Mofxv)]
+* Network Adaptive Federated Learning: Congestion and Lossy Compression. \[[PUB](https://ieeexplore.ieee.org/document/10228885)] \[[PDF](https://arxiv.org/abs/2301.04430)]
+* Privacy as a Resource in Differentially Private Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10228953)]
+* SplitGP: Achieving Both Generalization and Personalization in Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10229027)] \[[PDF](https://arxiv.org/abs/2212.08343)]
+* SVDFed: Enabling Communication-Efficient Federated Learning via Singular-Value-Decomposition. \[[PUB](https://ieeexplore.ieee.org/document/10229042)]
+* Tackling System Induced Bias in Federated Learning: Stratification and Convergence Analysis. \[[PUB](https://ieeexplore.ieee.org/document/10228873)] \[[PDF](https://arxiv.org/abs/2112.11256)]
+* Toward Sustainable AI: Federated Learning Demand Response in Cloud-Edge Systems via Auctions. \[[PUB](https://ieeexplore.ieee.org/document/10229014)] \[[PDF](http://ix.cs.uoregon.edu/~jiao/publications/infocom23-fl.pdf)]
+* Truthful Incentive Mechanism for Federated Learning with Crowdsourced Data Labeling. \[[PUB](https://ieeexplore.ieee.org/document/10228923)] \[[PDF](https://arxiv.org/abs/2302.00106)]
+* TVFL: Tunable Vertical Federated Learning towards Communication-Efficient Model Serving. \[[PUB](https://ieeexplore.ieee.org/document/10229061)]
+* Heterogeneity-Aware Federated Learning with Adaptive Client Selection and Gradient Compression. \[[PUB](https://doi.org/10.1109/INFOCOM53939.2023.10229029)]
+* Accelerating Distributed K-FAC with Efficient Collective Communication and Scheduling. \[[PUB](https://doi.org/10.1109/INFOCOM53939.2023.10228871)]
+* Online Distributed Optimization with Efficient Communication via Temporal Similarity. \[[PUB](https://doi.org/10.1109/INFOCOM53939.2023.10229086)]
+
+### 2022
+
+#### MobiCom
+
+* PyramidFL: Fine-grained Data and System Heterogeneity-aware Client Selection for Efficient Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3495243.3517017)] \[[PDF](https://www.egr.msu.edu/~mizhang/papers/2022_MobiCom_PyramidFL.pdf)] \[[CODE](https://github.com/liecn/PyramidFL) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2022-07-25]
+
+* FedHD: federated learning with hyperdimensional computing. \[[PUB](https://dl.acm.org/doi/10.1145/3495243.3558757)] \[[CODE](https://github.com/QuanlingZhao/FedHD) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2022-07-21]
+
+* NestFL: efficient federated learning through progressive model pruning in heterogeneous edge computing. \[[PUB](https://dl.acm.org/doi/10.1145/3495243.3558248)]
+
+* Federated learning-based air quality prediction for smart cities using BGRU model. \[[PUB](https://dl.acm.org/doi/10.1145/3495243.3558267)]
+
+* PyramidFL: a fine-grained client selection framework for efficient federated learning. \[[PUB](https://doi.org/10.1145/3495243.3517017)]
+
+#### INFOCOM
+
+* FLASH: Federated Learning for Automated Selection of High-band mmWave Sectors. \[[PUB](https://ieeexplore.ieee.org/document/9796865)] \[[CODE](https://github.com/Batool-Salehi/FL-based-Sector-Selection) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-06-01]
+* FedFPM: A Unified Federated Analytics Framework for Collaborative Frequent Pattern Mining. \[[PUB](https://ieeexplore.ieee.org/document/9796719)] \[[CODE](https://github.com/HuskyW/FFPA) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2021-12-28]
+* Joint Superposition Coding and Training for Federated Learning over Multi-Width Neural Networks. \[[PUB](https://ieeexplore.ieee.org/document/9796733)]
+* Towards Optimal Multi-Modal Federated Learning on Non-IID Data with Hierarchical Gradient Blending. \[[PUB](https://ieeexplore.ieee.org/document/9796724)]
+* Optimal Rate Adaption in Federated Learning with Compressed Communications. \[[PUB](https://ieeexplore.ieee.org/document/9796982)] \[[PDF](https://arxiv.org/abs/2112.06694)]
+* The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining. \[[PUB](https://ieeexplore.ieee.org/document/9796721)] \[[PDF](https://arxiv.org/abs/2203.07320)]
+* Tackling System and Statistical Heterogeneity for Federated Learning with Adaptive Client Sampling. \[[PUB](https://ieeexplore.ieee.org/document/9796935)] \[[PDF](https://arxiv.org/abs/2112.11256)]
+* Communication-Efficient Device Scheduling for Federated Learning Using Stochastic Optimization. \[[PUB](https://ieeexplore.ieee.org/document/9796818)] \[[PDF](https://arxiv.org/abs/2201.07912)]
+* A Profit-Maximizing Model Marketplace with Differentially Private Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9796833)]
+* Protect Privacy from Gradient Leakage Attack in Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9796841/)] \[[SLIDE](https://jxiao.wang/slides/INFOCOM22.pdf)]
+
+#### WWW
+
+* Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning. \[[PUB](https://doi.org/10.1145/3485447.3512104)] \[[CODE](https://github.com/RUCAIBox/NCL) ⭐ 124 | 🐛 8 | 🌐 Python | 📅 2022-11-11]
+
+* An Accuracy-Lossless Perturbation Method for Defending Privacy Attacks in Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3485447.3512233)] \[[PDF](https://arxiv.org/abs/2002.09843)] \[[CODE](https://github.com/Kira0096/PBPFL) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2022-07-13]
+
+* LocFedMix-SL: Localize, Federate, and Mix for Improved Scalability, Convergence, and Latency in Split Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3485447.3512153)]
+
+* Federated Unlearning via Class-Discriminative Pruning. \[[PUB](https://dl.acm.org/doi/10.1145/3485447.3512222)] \[[PDF](https://arxiv.org/abs/2110.11794)] \[[CODE](https://github.com/MoonkeyBoy/Federated-Unlearning-via-Class-Discriminative-Pruning)]
+
+* FedKC: Federated Knowledge Composition for Multilingual Natural Language Understanding. \[[PUB](https://dl.acm.org/doi/10.1145/3485447.3511988)]
+
+* Federated SPARQL Query Processing over Heterogeneous Linked Data Fragments. \[[PUB](https://doi.org/10.1145/3485447.3511947)]
+
+* Powering Multi-Task Federated Learning with Competitive GPU Resource Sharing. \[[PUB](https://doi.org/10.1145/3487553.3524859)]
+
+* Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering. \[[PUB](https://doi.org/10.1145/3485447.3512070)]
+
+* Powering Multi-Task Federated Learning with Competitive GPU Resource Sharing.
+
+### 2021
+
+#### sigcomm
+
+* Efficient sparse collective communication and its application to accelerate distributed deep learning. \[[PUB](https://doi.org/10.1145/3452296.3472904)]
+* Hoplite: efficient and fault-tolerant collective communication for task-based distributed systems. \[[PUB](https://doi.org/10.1145/3452296.3472897)]
+
+#### SIGMETRICS
+
+* Federated Bandit: A Gossiping Approach. \[[PUB](https://dl.acm.org/doi/10.1145/3447380)] \[[PDF](https://arxiv.org/abs/2010.12763)]
+
+#### MobiCom
+
+* Hermes: an efficient federated learning framework for heterogeneous mobile clients. \[[PUB](https://dl.acm.org/doi/10.1145/3447993.3483278)]
+* Federated mobile sensing for activity recognition. \[[PUB](https://dl.acm.org/doi/10.1145/3447993.3488031)] \[[PAGE](https://federatedsensing.gitlab.io/)] \[[TALKS](https://federatedsensing.gitlab.io/talks/)] \[[VIDEO](https://federatedsensing.gitlab.io/program/)]
+* Co-sense: a learning-based collaborative wireless sensing framework. \[[PUB](https://doi.org/10.1145/3447993.3482859)]
+
+#### INFOCOM
+
+* Dual Attention-Based Federated Learning for Wireless Traffic Prediction. \[[PUB](https://ieeexplore.ieee.org/document/9488883)] \[[PDF](https://arxiv.org/abs/2110.05183)] \[[CODE](https://github.com/chuanting/fedda) ⭐ 70 | 🐛 2 | 🌐 Python | 📅 2021-11-02]
+* Learning for Learning: Predictive Online Control of Federated Learning with Edge Provisioning. \[[PUB](https://ieeexplore.ieee.org/document/9488733/)]
+* Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms, and Implementation. \[[PUB](https://ieeexplore.ieee.org/document/9488906)] \[[PDF](https://arxiv.org/abs/2101.00787)]
+* FAIR: Quality-Aware Federated Learning with Precise User Incentive and Model Aggregation. \[[PUB](https://ieeexplore.ieee.org/document/9488743)]
+* Sample-level Data Selection for Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9488723)]
+* To Talk or to Work: Flexible Communication Compression for Energy Efficient Federated Learning over Heterogeneous Mobile Edge Devices. \[[PUB](https://ieeexplore.ieee.org/document/9488839)] \[[PDF](https://arxiv.org/abs/2012.11804)]
+* Cost-Effective Federated Learning Design. \[[PUB](https://ieeexplore.ieee.org/document/9488679)] \[[PDF](https://arxiv.org/abs/2012.08336)]
+* An Incentive Mechanism for Cross-Silo Federated Learning: A Public Goods Perspective. \[[PUB](https://ieeexplore.ieee.org/document/9488705)]
+* Resource-Efficient Federated Learning with Hierarchical Aggregation in Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/9488756/)]
+* FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism. \[[PUB](https://ieeexplore.ieee.org/document/9488807)] \[[PDF](https://arxiv.org/abs/2012.10566)]
+* Federated Learning over Wireless Networks: A Band-limited Coordinated Descent Approach. \[[PUB](https://ieeexplore.ieee.org/document/9488818)] \[[PDF](https://arxiv.org/abs/2102.07972)]
+* FedSens: A Federated Learning Approach for Smart Health Sensing with Class Imbalance in Resource Constrained Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/9488776/)]
+* P-FedAvg: Parallelizing Federated Learning with Theoretical Guarantees. \[[PUB](https://ieeexplore.ieee.org/document/9488877)]
+
+#### WWW
+
+* Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data. \[[PUB](https://dl.acm.org/doi/10.1145/3442381.3449851)] \[[PDF](https://arxiv.org/abs/2006.06983)] \[[SLIDE](https://qipengwang.github.io/files/www21.slides.pdf)] \[[CODE](https://github.com/PKU-Chengxu/FLASH) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2022-06-02]
+* PFA: Privacy-preserving Federated Adaptation for Effective Model Personalization. \[[PUB](https://dl.acm.org/doi/10.1145/3442381.3449847)] \[[PDF](https://arxiv.org/abs/2103.01548)] \[[CODE](https://github.com/lebyni/PFA) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2021-05-23]
+* Meta-HAR: Federated Representation Learning for Human Activity Recognition. \[[PUB](https://dl.acm.org/doi/10.1145/3442381.3450006)] \[[PDF](https://arxiv.org/abs/2106.00615)] \[[CODE](https://github.com/Chain123/Meta-HAR) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2022-05-05]
+* Communication Efficient Federated Generalized Tensor Factorization for Collaborative Health Data Analytics. \[[PUB](https://dl.acm.org/doi/10.1145/3442381.3449832)] \[[CODE](https://github.com/jma78/FedGTF-EF) ⭐ 5 | 🐛 0 | 🌐 MATLAB | 📅 2021-06-07]
+* Hierarchical Personalized Federated Learning for User Modeling. \[[PUB](https://dl.acm.org/doi/10.1145/3442381.3449926)]
+* Incentive Mechanism for Horizontal Federated Learning Based on Reputation and Reverse Auction. \[[PUB](https://dl.acm.org/doi/10.1145/3442381.3449888)]
+* Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning. \[[PUB](https://doi.org/10.1145/3442381.3450051)]
+* Timing-Driven X-architecture Steiner Minimum Tree Construction Based on Social Learning Multi-Objective Particle Swarm Optimization. \[[PUB](https://doi.org/10.1145/3442442.3451143)]
+
+### 2020
+
+#### INFOCOM
+
+* Optimizing Federated Learning on Non-IID Data with Reinforcement Learning :fire:. \[[PUB](https://ieeexplore.ieee.org/document/9155494)] \[[SLIDE](https://workshoputrgv.github.io/slides/hao_wang.pdf)] \[[CODE](https://github.com/iQua/flsim) ⭐ 206 | 🐛 7 | 🌐 Python | 📅 2022-04-09] \[[解读](https://zhuanlan.zhihu.com/p/458716656)]
+* Enabling Execution Assurance of Federated Learning at Untrusted Participants. \[[PUB](https://ieeexplore.ieee.org/document/9155414)] \[[CODE](https://github.com/zeyu-zh/TrustFL) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2020-07-09]
+* Physical-Layer Arithmetic for Federated Learning in Uplink MU-MIMO Enabled Wireless Networks. \[[PUB](https://ieeexplore.ieee.org/document/9155479)]
+* Optimizing Federated Learning on Non-IID Data with Reinforcement Learning. \[[PUB](https://doi.org/10.1109/INFOCOM41043.2020.9155494)]
+* Communication-Efficient Distributed Deep Learning with Merged Gradient Sparsification on GPUs. \[[PUB](https://doi.org/10.1109/INFOCOM41043.2020.9155269)]
+* Communication-Efficient Network-Distributed Optimization with Differential-Coded Compressors. \[[PUB](https://doi.org/10.1109/INFOCOM41043.2020.9155432)]
+* DeepAdapter: A Collaborative Deep Learning Framework for the Mobile Web Using Context-Aware Network Pruning. \[[PUB](https://doi.org/10.1109/INFOCOM41043.2020.9155379)]
+* SurveilEdge: Real-time Video Query based on Collaborative Cloud-Edge Deep Learning. \[[PUB](https://doi.org/10.1109/INFOCOM41043.2020.9155284)]
+
+#### MobiCom
+
+* Billion-scale federated learning on mobile clients: a submodel design with tunable privacy. \[[PUB](https://dl.acm.org/doi/10.1145/3372224.3419188)]
+
+### 2019
+
+#### INFOCOM
+
+* Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/8737416)] \[[PDF](https://arxiv.org/abs/1812.00535)] \[[UC.](https://github.com/JonasGeiping/breaching) ⭐ 324 | 🐛 0 | 🌐 Python | 📅 2026-01-24]
+* Federated Learning over Wireless Networks: Optimization Model Design and Analysis. \[[PUB](https://ieeexplore.ieee.org/document/8737464)] \[[CODE](https://github.com/nhatminh/FEDL-INFOCOM) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2021-09-24]
+* A Collaborative Learning Based Approach for Parameter Configuration of Cellular Networks. \[[PUB](https://doi.org/10.1109/INFOCOM.2019.8737657)]
+* Compressed Distributed Gradient Descent: Communication-Efficient Consensus over Networks. \[[PUB](https://doi.org/10.1109/INFOCOM.2019.8737489)]
+* MG-WFBP: Efficient Data Communication for Distributed Synchronous SGD Algorithms. \[[PUB](https://doi.org/10.1109/INFOCOM.2019.8737367)]
+
+#### nsdi
+
+* Hydra: a federated resource manager for data-center scale analytics. \[[PUB](https://www.usenix.org/conference/nsdi19/presentation/curino)]
+
+### 2018
+
+#### INFOCOM
+
+* InPrivate Digging: Enabling Tree-based Distributed Data Mining with Differential Privacy. \[[PUB](https://ieeexplore.ieee.org/document/8486352)]
+
+#### www
+
+* FIESTAIoT Project: Federated Interoperable Semantic IoT/cloud Testbeds and Applications. \[[PUB](https://doi.org/10.1145/3184558.3186199)]
+* AdaError: An Adaptive Learning Rate Method for Matrix Approximation-based Collaborative Filtering. \[[PUB](https://doi.org/10.1145/3178876.3186155)]
+* Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking. \[[PUB](https://doi.org/10.1145/3178876.3186154)]
+* Learning to Collaborate: Multi-Scenario Ranking via Multi-Agent Reinforcement Learning. \[[PUB](https://doi.org/10.1145/3178876.3186165)]
+
+### 2017
+
+#### www
+
+* Collaborative Metric Learning. \[[PUB](https://doi.org/10.1145/3038912.3052639)]
+* Inferring the Student Social Loafing State in Collaborative Learning with a Hidden Markov Model: A Case on Slack. \[[PUB](https://doi.org/10.1145/3041021.3054145)]
+
+### 2016
+
+#### www
+
+* FuhSen: A Platform for Federated, RDF-based Hybrid Search. \[[PUB](https://doi.org/10.1145/2872518.2890535)]
+* Collaborative Social Learning: Rewards and Challenges in Mainstream Higher Education. \[[PUB](https://doi.org/10.1145/2872518.2890578)]
+
+### 2015
+
+#### infocom
+
+* Anti-counterfeiting via federated RFID tags' fingerprints and geometric relationships. \[[PUB](https://doi.org/10.1109/INFOCOM.2015.7218580)]
+
+#### sigcomm
+
+* Federated End-to-End Authentication for the Constrained Internet of Things Using IBC and ECC. \[[PUB](https://doi.org/10.1145/2785956.2790021)]
+
+#### www
+
+* Dataset Descriptions for Optimizing Federated Querying. \[[PUB](https://doi.org/10.1145/2740908.2742779)]
+* FedWeb Greatest Hits: Presenting the New Test Collection for Federated Web Search. \[[PUB](https://doi.org/10.1145/2740908.2742755)]
+
+### 2013
+
+#### mobicom
+
+* Online evaluation of sensing characteristics for radio platforms in the CREW federated testbed. \[[PUB](https://doi.org/10.1145/2500423.2505303)]
+
+### 2012
+
+#### www
+
+* A revenue sharing mechanism for federated search and advertising. \[[PUB](https://doi.org/10.1145/2187980.2188079)]
+
+### 2011
+
+#### sigcomm
+
+* Online testing of federated and heterogeneous distributed systems. \[[PUB](https://doi.org/10.1145/2018436.2018507)]
+
+#### www
+
+* Model characterization curves for federated search using click-logs: predicting user engagement metrics for the span of feasible operating points. \[[PUB](https://doi.org/10.1145/1963405.1963419)]
+
+### 2009
+
+#### infocom
+
+* Application-Specific, Agile and Private (ASAP) Platforms for Federated Computing Services over WDM Networks. \[[PUB](https://doi.org/10.1109/INFCOM.2009.5062206)]
+
+### 2006
+
+#### www
+
+* Capturing the essentials of federated systems. \[[PUB](https://doi.org/10.1145/1135777.1135932)]
+
+### 2005
+
+#### www
+
+* A modeling approach to federated identity and access management. \[[PUB](https://doi.org/10.1145/1062745.1062916)]
+
+### 2004
+
+#### nsdi
+
+* Contract-Based Load Management in Federated Distributed Systems. \[[PUB](http://www.usenix.org/events/nsdi04/tech/balazinska.html)]
+
+### 1991
+
+#### infocom
+
+* Efficient Distributed Algorithms for Computing Shortest Pairs of Maximally Disjoint Paths in Communication Networks. \[[PUB](https://doi.org/10.1109/INFCOM.1991.147642)]</details>
+
+## fl in top system conference and journal
+
+Federated Learning papers accepted by top Database conference and journal, including [OSDI](https://dblp.org/db/conf/osdi/index.html)(USENIX Symposium on Operating Systems Design and Implementation), [SOSP](https://dblp.org/db/conf/sosp/index.html)(Symposium on Operating Systems Principles), [ISCA](https://dblp.org/db/conf/isca/index.html)(International Symposium on Computer Architecture), [MLSys](https://dblp.org/db/conf/mlsys/index.html)(Conference on Machine Learning and Systems), [EuroSys](https://dblp.org/db/conf/eurosys/index.html)(European Conference on Computer Systems), [TPDS](https://dblp.uni-trier.de/db/journals/tpds/index.html)(IEEE Transactions on Parallel and Distributed Systems), [DAC](https://dblp.uni-trier.de/db/conf/dac/index.html)(Design Automation Conference), [TOCS](https://dblp.uni-trier.de/db/journals/tocs/index.html)(ACM Transactions on Computer Systems), [TOS](https://dblp.uni-trier.de/db/journals/tos/index.html)(ACM Transactions on Storage), [TCAD](https://dblp.uni-trier.de/db/journals/tcad/index.html)(IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems), [TC](https://dblp.uni-trier.de/db/journals/tc/index.html)(IEEE Transactions on Computers).
+
+* [OSDI](https://dblp.org/search?q=federated%20venue%3AOSDI%3A) 2021
+* [SOSP](https://dblp.org/search?q=federated%20venue%3ASOSP%3A) 2021
+* [ISCA](https://dblp.org/search?q=federated%20venue%3AISCA%3A) [2024](https://www.iscaconf.org/isca2024/program/)
+* [MLSys](https://dblp.org/search?q=federated%20venue%3AMLSys%3A) [2025](https://proceedings.mlsys.org/paper_files/paper/2025), [2024](https://proceedings.mlsys.org/paper_files/paper/2024), [2023](https://proceedings.mlsys.org/paper_files/paper/2023), [2022](https://proceedings.mlsys.org/paper_files/paper/2022), [2020](https://proceedings.mlsys.org/paper_files/paper/2020), [2019](https://proceedings.mlsys.org/paper_files/paper/2019)
+* [EuroSys](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Feurosys%3A) [2026](https://2026.eurosys.org/papers.html#papers), [2025](https://2025.eurosys.org/accepted-papers.html), [2024](https://2024.eurosys.org/accepted-papers.html), [2023](https://2023.eurosys.org/accepted-papers.html), 2022, 2021, 2020
+* [TPDS](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Ftpds%3A) 2026, 2025, 2024, 2023, 2022, 2021, 2020
+* [DAC](https://dblp.uni-trier.de/search?q=federate%20venue%3ADAC%3A) 2025, 2024, 2022, 2021
+* [TOCS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftocs%3A) NULL
+* [TOS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftos%3A) NULL
+* [TCAD](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftcad%3A) 2026, 2025, 2024, 2023, 2022, 2021
+* [TC](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftc%3A) 2026, 2025, 2024, 2023, 2022, 2021
+
+<details open>
+<summary>fl in top system conference and journal</summary>
+<!-- START:fl-in-top-system-conference-and-journal -->
+
+<!-- END:fl-in-top-system-conference-and-journal -->
+
+### 2026
+
+#### EuroSys
+
+* Federated Fine-Tuning of Sparsely-Activated Large Language Models on Resource-Constrained Devices. \[[PUB](https://doi.org/10.1145/3767295.3769329)]
+* SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning. \[[PUB](https://doi.org/10.1145/3767295.3803605)]
+
+#### TPDS
+
+* FairGFL: Privacy-Preserving Fairness-Aware Federated Learning With Overlapping Subgraphs. \[[PUB](https://doi.org/10.1109/TPDS.2025.3649863)]
+* FedAOP: Attention-Guided One-Shot Federated Pruning for Heterogeneous Edge Clients. \[[PUB](https://doi.org/10.1109/TPDS.2026.3678517)]
+* Flexible Synchronization Control for Accurate and Efficient Federated Learning. \[[PUB](https://doi.org/10.1109/TPDS.2026.3670216)]
+* FLUXLog: A Federated Mixture-of-Experts Framework for Unified Log Anomaly Detection. \[[PUB](https://doi.org/10.1109/TPDS.2025.3638693)]
+* EdgeDup: Popularity-Aware Communication-Efficient Decentralized Edge Data Deduplication. \[[PUB](https://doi.org/10.1109/TPDS.2025.3638945)]
+
+#### TCAD
+
+* An Elastic Federated Learning Collaboration Framework for Computing-Constrained IoT. \[[PUB](https://doi.org/10.1109/TCAD.2025.3593436)]
+* FedMT: Multitask Federated Learning With Competitive GPU Resource Sharing. \[[PUB](https://doi.org/10.1109/TCAD.2025.3600367)]
+
+#### TC
+
+* Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models. \[[PUB](https://doi.org/10.1109/TC.2026.3655161)]
+* Communication-Efficient Federated Learning by Exploiting Spatio-Temporal Correlations of Gradients. \[[PUB](https://doi.org/10.1109/TC.2026.3654074)]
+* FedInf: An Efficient and Secure Inference With Federated Participants. \[[PUB](https://doi.org/10.1109/TC.2025.3642408)]
+* S${}{2}$2FL: Toward Efficient and Accurate Heterogeneous Split Federated Learning. \[[PUB](https://doi.org/10.1109/TC.2025.3626198)]
+* Tackling Heterogeneity in Quantum Federated Learning: An Integrated Sporadic-Personalized Approach. \[[PUB](https://doi.org/10.1109/TC.2026.3654037)]
+* Toward Personalized Federated Meta-Learning With Constrained Hypernetwork on Non-IID Data. \[[PUB](https://doi.org/10.1109/TC.2025.3625233)]
+* Collaborative Prediction of Cloud DRAM Failures With Rules and Machine Learning. \[[PUB](https://doi.org/10.1109/TC.2026.3655008)]
+
+### 2025
+
+#### MLSys
+
+* Venn: Resource Management For Collaborative Learning Jobs. \[[PUB](https://openreview.net/forum?id=nZq15gpyNO)] \[[CODE](https://github.com/SymbioticLab/Venn) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-05-06]
+* FedProphet: Memory-Efficient Federated Adversarial Training via Robust and Consistent Cascade Learning. \[[PUB](https://openreview.net/forum?id=NnmqHLjf0Y)]
+* FLStore: Efficient Federated Learning Storage for non-training workloads. \[[PUB](https://openreview.net/forum?id=OSmHZYq9Ez)]
+* Photon: Federated LLM Pre-Training. \[[PUB](https://openreview.net/forum?id=AQgYcfg5EI)]
+
+#### DAC
+
+* PracMHBench: Re-evaluating Model-Heterogeneous Federated Learning Based on Practical Edge Device Constraints. \[[PUB](https://ieeexplore.ieee.org/document/11132995)]
+* MMDFL: Multi-Model-based Decentralized Federated Learning for Resource-Constrained AIoT Systems. \[[PUB](https://ieeexplore.ieee.org/document/11133116/)]
+* Resilient Federated Learning on Embedded Devices with Constrained Network Connectivity. \[[PUB](https://ieeexplore.ieee.org/document/11133269/)]
+* FedEDA: Federated Learning Framework for Privacy-Preserving Machine Learning in EDA. \[[PUB](https://ieeexplore.ieee.org/document/11132983/)]
+* PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient Collective Communication in Distributed Deep Learning. \[[PUB](https://doi.org/10.1109/DAC63849.2025.11133419)]
+
+#### TCAD
+
+* Personalized Federated Learning With State-Adaptive IoT Device Scheduling in Mobile-Edge Computing. \[[PUB](https://doi.org/10.1109/TCAD.2025.3560221)] \[[CODE](https://github.com/superguymj/ACE) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2024-07-28]
+* Energy-Aware Heterogeneous Federated Learning via Approximate DNN Accelerators. \[[PUB](https://doi.org/10.1109/TCAD.2024.3509793)]
+* HaloFL: Efficient Heterogeneity-Aware Federated Learning Through Optimal Submodel Extraction and Dynamic Sparse Adjustment. \[[PUB](https://doi.org/10.1109/TCAD.2025.3548003)]
+* pFed-Litho: Lithography Modeling With a Personalized Federated Learning-Based Framework. \[[PUB](https://doi.org/10.1109/TCAD.2024.3513264)]
+* SAFE: A Scalable Homomorphic Encryption Accelerator for Vertical Federated Learning. \[[PUB](https://doi.org/10.1109/TCAD.2024.3496836)]
+
+#### EuroSys
+
+* Hourglass: Enabling Efficient Split Federated Learning with Data Parallelism. \[[PUB](https://dl.acm.org/doi/10.1145/3689031.3717467)]
+
+#### TPDS
+
+* An Efficient Speculative Federated Tree Learning System With a Lightweight NN-Based Predictor. \[[PUB](https://doi.org/10.1109/TPDS.2025.3581295)]
+* AsyncFedGAN: An Efficient and Staleness-Aware Asynchronous Federated Learning Framework for Generative Adversarial Networks. \[[PUB](https://doi.org/10.1109/tpds.2024.3521016)]
+* Boosting Resource-Constrained Federated Learning Systems With Guessed Updates. \[[PUB](https://doi.org/10.1109/TPDS.2025.3578522)]
+* Coordinating Computational Capacity for Adaptive Federated Learning in Heterogeneous Edge Computing Systems. \[[PUB](https://doi.org/10.1109/TPDS.2025.3574718)]
+* Decentralized QoS-Aware Model Inference Using Federated Split Learning for Cloud-Edge Medical Detection. \[[PUB](https://doi.org/10.1109/TPDS.2025.3594694)]
+* DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning. \[[PUB](https://doi.org/10.1109/TPDS.2024.3501581)]
+* FedBiF: Communication-Efficient Federated Learning via Bits Freezing. \[[PUB](https://doi.org/10.1109/TPDS.2025.3610224)]
+* FedCSpc: A Cross-Silo Federated Learning System With Error-Bounded Lossy Parameter Compression. \[[PUB](https://doi.org/10.1109/TPDS.2025.3564736)]
+* FedEFsz: Fair Cross-Silo Federated Learning System With Error-Bounded Lossy Compression. \[[PUB](https://doi.org/10.1109/TPDS.2025.3593896)]
+* FedLoRE: Communication-Efficient and Personalized Edge Intelligence Framework via Federated Low-Rank Estimation. \[[PUB](https://doi.org/10.1109/TPDS.2025.3548444)]
+* FedSR: A Semi-Decentralized Federated Learning Framework for Non-IID Data Based on Incremental Subgradient Optimization. \[[PUB](https://doi.org/10.1109/TPDS.2025.3611304)]
+* FedTune-SGM: A Stackelberg-Driven Personalized Federated Learning Strategy for Edge Networks. \[[PUB](https://doi.org/10.1109/tpds.2025.3543368)]
+* Loci: Federated Continual Learning of Heterogeneous Tasks at Edge. \[[PUB](https://doi.org/10.1109/tpds.2025.3531123)]
+* Spread+: Scalable Model Aggregation in Federated Learning With Non-IID Data. \[[PUB](https://doi.org/10.1109/tpds.2025.3539738)]
+* Kairos: Deterministic Scheduling Enhanced by User Collaboration for Deep Learning Workloads. \[[PUB](https://doi.org/10.1109/TPDS.2025.3624245)]
+* Multi-Agent Collaboration for Workflow Task Offloading in End-Edge-Cloud Environments Using Deep Reinforcement Learning. \[[PUB](https://doi.org/10.1109/TPDS.2025.3606001)]
+* PipeMesh: Achieving Memory-Efficient Computation-Communication Overlap for Training Large Language Models. \[[PUB](https://doi.org/10.1109/TPDS.2025.3583983)]
+* Towards Communication-Efficient Out-of-Core Graph Processing on the GPU. \[[PUB](https://doi.org/10.1109/TPDS.2025.3547356)]
+
+#### TC
+
+* SAFA: Handling Sparse and Scarce Data in Federated Learning With Accumulative Learning. \[[PUB](https://doi.org/10.1109/TC.2025.3543682)] \[[CODE](https://github.com/HungNguyen20/SAFA) ⭐ 3 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-05-10]
+* Adaptive Federated Learning Through Dynamic Model Splitting and Multi-Objective Clustering. \[[PUB](https://doi.org/10.1109/TC.2025.3603681)]
+* Adaptive Incentivize for Federated Learning With Cloud-Edge Collaboration Under Multi-Level Information Sharing. \[[PUB](https://doi.org/10.1109/TC.2025.3566864)]
+* Asymmetrically Decentralized Federated Learning. \[[PUB](https://doi.org/10.1109/TC.2025.3569185)]
+* BaDFL: Mitigating Model Poisoning in Decentralized Federated Learning. \[[PUB](https://doi.org/10.1109/TC.2025.3603683)]
+* Balancing Privacy and Accuracy Using Significant Gradient Protection in Federated Learning. \[[PUB](https://doi.org/10.1109/TC.2024.3477971)]
+* BHerd: Accelerating Federated Learning by Selecting Beneficial Herd of Local Gradients. \[[PUB](https://doi.org/10.1109/TC.2025.3583827)]
+* Collaborative Neural Architecture Search for Personalized Federated Learning. \[[PUB](https://doi.org/10.1109/TC.2024.3477945)]
+* Fed-OGD: Mitigating Straggler Effects in Federated Learning via Orthogonal Gradient Descent. \[[PUB](https://doi.org/10.1109/TC.2025.3584272)]
+* Federated Learning Based DDoS Attacks Detection in Large Scale Software-Defined Network. \[[PUB](https://doi.org/10.1109/TC.2024.3474180)]
+* FedQClip: Accelerating Federated Learning via Quantized Clipped SGD. \[[PUB](https://doi.org/10.1109/TC.2024.3477972)]
+* JCSRC: Joint Client Selection and Resource Configuration for Energy-Efficient Multi-Task Federated Learning. \[[PUB](https://doi.org/10.1109/TC.2025.3605765)]
+* PFed-NS: An Adaptive Personalized Federated Learning Scheme Through Neural Network Segmentation. \[[PUB](https://doi.org/10.1109/TC.2025.3547138)]
+* Pruning-Based Adaptive Federated Learning at the Edge. \[[PUB](https://doi.org/10.1109/TC.2025.3533095)]
+* Sketch-Based Adaptive Communication Optimization in Federated Learning. \[[PUB](https://doi.org/10.1109/TC.2024.3475578)]
+* Towards Optimal Customized Architecture for Heterogeneous Federated Learning With Contrastive Cloud-Edge Model Decoupling. \[[PUB](https://ieeexplore.ieee.org/document/10787074)] \[[CODE](https://github.com/elegy112138/FedCMD)]
+* Cacomp: A Cloud-Assisted Collaborative Deep Learning Compiler Framework for DNN Tasks on Edge. \[[PUB](https://doi.org/10.1109/TC.2025.3569132)]
+
+### 2024
+
+#### DAC
+
+* AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems. \[[PUB](https://dl.acm.org/doi/10.1145/3649329.3655917)]
+* Fake Node-Based Perception Poisoning Attacks against Federated Object Detection Learning in Mobile Computing Networks. \[[PUB](https://dl.acm.org/doi/10.1145/3649329.3655934)]
+* SC-GNN: A Communication-Efficient Semantic Compression for Distributed Training of GNNs. \[[PUB](https://doi.org/10.1145/3649329.3657383)]
+
+#### ISCA
+
+* Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation. \[[PUB](https://ieeexplore.ieee.org/document/10609633)]
+
+#### MLSys
+
+* HeteroSwitch: Characterizing and Taming System-Induced Data Heterogeneity in Federated Learning. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2024/hash/0badcb4e95306df76a719409155e46e8-Abstract-Conference.html)] \[[PDF](https://arxiv.org/abs/2403.04207)] \[[CODE](https://github.com/casl-ku/heteroswitch) ⭐ 4 | 🐛 0 | 📅 2024-04-12]
+* FedTrans: Efficient Federated Learning via Multi-Model Transformation. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2024/hash/bbd7d8bd780fcf7143add2317ba04638-Abstract-Conference.html)] \[[PDF](https://arxiv.org/abs/2404.13515)]
+* LIFL: A Lightweight, Event-driven Serverless Platform for Federated Learning. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2024/hash/c2a0e26dd9ee7d57e92bb1c24b39659a-Abstract-Conference.html)] \[[PDF](https://arxiv.org/abs/2405.10968)]
+
+#### EuroSys
+
+* Dordis: Efficient Federated Learning with Dropout-Resilient Differential Privacy. \[[PUB](https://dl.acm.org/doi/10.1145/3627703.3629559)] \[[PDF](https://arxiv.org/abs/2209.12528)] \[[CODE](https://github.com/samuelgong/dordis) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-04-28]
+* FLOAT: Federated Learning Optimizations with Automated Tuning. \[[PUB](https://dl.acm.org/doi/10.1145/3627703.3650081)] \[[CODE](https://github.com/AFKD98/FLOAT/) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2024-05-18]
+* DeTA: Minimizing Data Leaks in Federated Learning via Decentralized and Trustworthy Aggregation. \[[PUB](https://dl.acm.org/doi/10.1145/3627703.3650082)]
+* Totoro: A Scalable Federated Learning Engine for the Edge. \[[PUB](https://dl.acm.org/doi/10.1145/3627703.3629575)]
+* ALS Algorithm for Robust and Communication-Efficient Federated Learning. \[[PUB](https://doi.org/10.1145/3642970.3655842)]
+* FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission. \[[PUB](https://doi.org/10.1145/3642970.3655834)]
+* FLIGAN: Enhancing Federated Learning with Incomplete Data using GAN. \[[PUB](https://doi.org/10.1145/3642968.3654813)]
+
+#### EuroSys workshop
+
+* FLIGAN: Enhancing Federated Learning with Incomplete Data using GAN. \[[PUB](https://dl.acm.org/doi/10.1145/3642968.3654813)]
+* ALS Algorithm for Robust and Communication-Efficient Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3642970.3655842)]
+* FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission. \[[PUB](https://dl.acm.org/doi/10.1145/3642970.3655834)]
+
+#### TPDS
+
+* EcoFed: Efficient Communication for DNN Partitioning-Based Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10380682)] \[[PDF](https://arxiv.org/abs/2304.05495)] \[[CODE](https://github.com/blessonvar/ecofed) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-11-04]
+* Communication-Efficient Regret-Optimal Distributed Online Convex Optimization. \[[PUB](https://doi.org/10.1109/TPDS.2024.3403883)] \[[CODE](https://github.com/GGBOND121382/Communication-Efficient_Regret-Optimal_DOCO) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-05-25]
+* Breaking the Memory Wall for Heterogeneous Federated Learning via Model Splitting. \[[PUB](https://ieeexplore.ieee.org/document/10716559)]
+* SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning. \[[PUB](https://ieeexplore.ieee.org/document/10620614)]
+* FedVeca: Federated Vectorized Averaging on Non-IID Data With Adaptive Bi-Directional Global Objective. \[[PUB](https://ieeexplore.ieee.org/document/10664503)]
+* Trusted Model Aggregation With Zero-Knowledge Proofs in Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10669208)]
+* Accelerating Communication-Efficient Federated Multi-Task Learning With Personalization and Fairness. \[[PUB](https://ieeexplore.ieee.org/document/10552428)]
+* Privacy-Preserving Data Selection for Horizontal and Vertical Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10639479)]
+* High-Performance Hardware Acceleration Architecture for Cross-Silo Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10556815)]
+* Joint Participant and Learning Topology Selection for Federated Learning in Edge Clouds. \[[PUB](https://ieeexplore.ieee.org/document/10557133)]
+* Synchronize Only the Immature Parameters: Communication-Efficient Federated Learning By Freezing Parameters Adaptively. \[[PUB](https://ieeexplore.ieee.org/document/10036106)]
+* FedREM: Guided Federated Learning in the Presence of Dynamic Device Unpredictability. \[[PUB](https://ieeexplore.ieee.org/document/10521537)]
+* Fed-RAC: Resource-Aware Clustering for Tackling Heterogeneity of Participants in Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10476717)] \[[PDF](https://arxiv.org/abs/2306.04207)]
+* Taking Advantage of the Mistakes: Rethinking Clustered Federated Learning for IoT Anomaly Detection. \[[PUB](https://ieeexplore.ieee.org/document/10476751)]
+* FedICT: Federated Multi-Task Distillation for Multi-Access Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/10163770)] \[[PDF](http://export.arxiv.org/abs/2301.00389)]
+* Collaboration in Federated Learning With Differential Privacy: A Stackelberg Game Analysis. \[[PUB](https://ieeexplore.ieee.org/document/10400897)]
+* FAST: Enhancing Federated Learning Through Adaptive Data Sampling and Local Training. \[[PUB](https://ieeexplore.ieee.org/document/10323207)]
+* FedHAP: Federated Hashing With Global Prototypes for Cross-Silo Retrieval. \[[PUB](https://ieeexplore.ieee.org/document/10286313)] \[[PDF](https://arxiv.org/abs/2207.05525)]
+* An Offline-Transfer-Online Framework for Cloud-Edge Collaborative Distributed Reinforcement Learning. \[[PUB](https://doi.org/10.1109/TPDS.2024.3360438)]
+* Proactive Caching With Distributed Deep Reinforcement Learning in 6G Cloud-Edge Collaboration Computing. \[[PUB](https://doi.org/10.1109/TPDS.2024.3406027)]
+* US-Byte: An Efficient Communication Framework for Scheduling Unequal-Sized Tensor Blocks in Distributed Deep Learning. \[[PUB](https://doi.org/10.1109/TPDS.2023.3331372)]
+
+#### TCAD
+
+* FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios. \[[PUB](https://ieeexplore.ieee.org/document/10745864)] \[[CODE](https://github.com/mastlab-T3S/FlexFL) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-07-22]
+* Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring. \[[PUB](https://ieeexplore.ieee.org/document/10499975)]
+* NebulaFL: Self-Organizing Efficient Multilayer Federated Learning Framework With Adaptive Load Tuning in Heterogeneous Edge Systems. \[[PUB](https://ieeexplore.ieee.org/document/10745810)]
+* CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance. \[[PUB](https://ieeexplore.ieee.org/document/10745831)]
+* FedStar: Efficient Federated Learning on Heterogeneous Communication Networks. \[[PUB](https://ieeexplore.ieee.org/document/10373574)]
+* Lithography Hotspot Detection Based on Heterogeneous Federated Learning With Local Adaptation and Feature Selection. \[[PUB](https://ieeexplore.ieee.org/document/10319303)] \[[PDF](https://arxiv.org/abs/2107.04367)]
+* FedComp: A Federated Learning Compression Framework for Resource-Constrained Edge Computing Devices. \[[PUB](https://ieeexplore.ieee.org/document/10226409)]
+
+#### TC
+
+* BSR-FL: An Efficient Byzantine-Robust Privacy-Preserving Federated Learning Framework. \[[PUB](https://ieeexplore.ieee.org/document/10536902)]
+* User-Distribution-Aware Federated Learning for Efficient Communication and Fast Inference. \[[PUB](https://ieeexplore.ieee.org/document/10308406)]
+* FedRFQ: Prototype-Based Federated Learning With Reduced Redundancy, Minimal Failure, and Enhanced Quality. \[[PUB](https://ieeexplore.ieee.org/document/10398600)] \[[PDF](https://arxiv.org/abs/2401.07558)]
+* Value of Information: A Comprehensive Metric for Client Selection in Federated Edge Learning. \[[PUB](https://ieeexplore.ieee.org/document/10406184)]
+* Age-Aware Data Selection and Aggregator Placement for Timely Federated Continual Learning in Mobile Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/10324368)]
+* FedGKD: Toward Heterogeneous Federated Learning via Global Knowledge Distillation. \[[PUB](https://ieeexplore.ieee.org/document/10252049)] \[[PDF](https://arxiv.org/abs/2107.00051)]
+* Digital Twin-Assisted Federated Learning Service Provisioning Over Mobile Edge Networks. \[[PUB](https://ieeexplore.ieee.org/document/10335637)]
+* : Toward Heterogeneous Federated Learning via Global Knowledge Distillation. \[[PUB](https://doi.org/10.1109/TC.2023.3315066)]
+* Blockchain-Based Distributed Multiagent Reinforcement Learning for Collaborative Multiobject Tracking Framework. \[[PUB](https://doi.org/10.1109/TC.2023.3343102)]
+* Hybrid Edge-Cloud Collaborator Resource Scheduling Approach Based on Deep Reinforcement Learning and Multiobjective Optimization. \[[PUB](https://doi.org/10.1109/TC.2023.3326977)]
+
+### 2023
+
+#### dac
+
+* Ising-CF: A Pathbreaking Collaborative Filtering Method Through Efficient Ising Machine Learning. \[[PUB](https://doi.org/10.1109/DAC56929.2023.10247860)]
+* Shoggoth: Towards Efficient Edge-Cloud Collaborative Real-Time Video Inference via Adaptive Online Learning. \[[PUB](https://doi.org/10.1109/DAC56929.2023.10247821)]
+
+#### EuroSys
+
+* REFL: Resource-Efficient Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3552326.3567485)] \[[PDF](https://arxiv.org/abs/2111.01108)] \[[CODE](https://github.com/ahmedcs/refl) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2023-01-13]
+* A First Look at the Impact of Distillation Hyper-Parameters in Federated Knowledge Distillation. \[[PUB](https://doi.org/10.1145/3578356.3592590)]
+* Can Fair Federated Learning Reduce the need for Personalisation?. \[[PUB](https://doi.org/10.1145/3578356.3592592)]
+* Gradient-less Federated Gradient Boosting Tree with Learnable Learning Rates. \[[PUB](https://doi.org/10.1145/3578356.3592579)]
+* Towards Practical Few-shot Federated NLP. \[[PUB](https://doi.org/10.1145/3578356.3592575)]
+* Towards Robust and Bias-free Federated Learning. \[[PUB](https://doi.org/10.1145/3578356.3592576)]
+
+#### EuroSys workshop
+
+* A First Look at the Impact of Distillation Hyper-Parameters in Federated Knowledge Distillation. \[[PUB](https://dl.acm.org/doi/10.1145/3578356.3592590)]
+* Towards Practical Few-shot Federated NLP. \[[PUB](https://dl.acm.org/doi/10.1145/3578356.3592575)]
+* Can Fair Federated Learning Reduce the need for Personalisation?. \[[PUB](https://dl.acm.org/doi/10.1145/3578356.3592592)]
+* Gradient-less Federated Gradient Boosting Tree with Learnable Learning Rates. \[[PUB](https://dl.acm.org/doi/10.1145/3578356.3592579)]
+* Towards Robust and Bias-free Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3578356.3592576)]
+
+#### MLSys
+
+* FedTree: A Federated Learning System For Trees. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3430e7055936cb8e26451ed49fce84a6-Abstract-mlsys2023.html)] \[[CODE](https://github.com/Xtra-Computing/FedTree) ⭐ 152 | 🐛 7 | 🌐 C++ | 📅 2025-01-20]
+* GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3ed923f9f88108cb066c6568d3df2666-Abstract-mlsys2023.html)] \[[PDF](https://arxiv.org/abs/2212.01523)] \[[CODE](https://github.com/TCtower/GlueFL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-05-02]
+* On Noisy Evaluation in Federated Hyperparameter Tuning. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/294f82c43d69f66c04440cbb2740e52d-Abstract-mlsys2023.html)] \[[PDF](https://arxiv.org/abs/2212.08930)] \[[CODE](https://github.com/imkevinkuo/noisy-eval-in-fl) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-08-02]
+* FLINT: A Platform for Federated Learning Integration. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/d3313de3f431fd64513431c4326d237c-Abstract-mlsys2023.html)] \[[PDF](https://arxiv.org/abs/2302.12862)]
+* Cupcake: A Compression Scheduler for Scalable Communication-Efficient Distributed Training. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/870ac3ae9e2d5a29fc41e6ad645ded8f-Abstract-mlsys2023.html)]
+
+#### sosp
+
+* Arboretum: A Planner for Large-Scale Federated Analytics with Differential Privacy. \[[PUB](https://doi.org/10.1145/3600006.3624566)]
+
+#### TCAD
+
+* Self-Supervised On-Device Federated Learning From Unlabeled Streams. \[[PUB](https://ieeexplore.ieee.org/document/10128673)] \[[PDF](https://arxiv.org/abs/2212.01006)]
+* Optimizing Training Efficiency and Cost of Hierarchical Federated Learning in Heterogeneous Mobile-Edge Cloud Computing. \[[PUB](https://ieeexplore.ieee.org/document/9882092)]
+* Design and Blocking Analysis of Locking Protocols for Real-Time DAG Tasks Under Federated Scheduling. \[[PUB](https://doi.org/10.1109/TCAD.2023.3264729)]
+
+#### TC
+
+* Accelerating Federated Learning With a Global Biased Optimiser. \[[PUB](https://ieeexplore.ieee.org/document/9913718)] \[[PDF](https://arxiv.org/abs/2108.09134)] \[[CODE](https://github.com/jedmills/fedgbo) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-10-07]
+* Lightweight Blockchain-Empowered Secure and Efficient Federated Edge Learning. \[[PUB](https://ieeexplore.ieee.org/document/10177803)]
+* Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10115052)]
+* A New Federated Scheduling Algorithm for Arbitrary-Deadline DAG Tasks. \[[PUB](https://ieeexplore.ieee.org/document/10043684)]
+* Privacy-Enhanced Decentralized Federated Learning at Dynamic Edge. \[[PUB](https://ieeexplore.ieee.org/document/10025677)]
+* Byzantine-Resilient Federated Learning at Edge. \[[PUB](https://ieeexplore.ieee.org/document/10070815)] \[[PDF](https://arxiv.org/abs/2303.10434)]
+* PrivAim: A Dual-Privacy Preserving and Quality-Aware Incentive Mechanism for Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9994045)]
+* Type-Aware Federated Scheduling for Typed DAG Tasks on Heterogeneous Multicore Platforms. \[[PUB](https://ieeexplore.ieee.org/document/9869701)] \[[CODE](https://github.com/Strange369/TypedDAG_on_HeteroMP)]
+* Sandbox Computing: A Data Privacy Trusted Sharing Paradigm Via Blockchain and Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9791849/)]
+
+#### TPDS
+
+* Personalized Edge Intelligence via Federated Self-Knowledge Distillation. \[[PUB](https://ieeexplore.ieee.org/document/9964434/)] \[[CODE](https://github.com/CGCL-codes/pFedSD) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2022-11-21]
+* FedProf: Selective Federated Learning Based on Distributional Representation Profiling. \[[PUB](https://ieeexplore.ieee.org/document/10097520)] \[[PDF](https://arxiv.org/abs/2102.01733)] \[[UC](https://github.com/Koukyosyumei/NAIST-FedML-Experiments) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2021-10-24]
+* Privacy vs. Efficiency: Achieving Both Through Adaptive Hierarchical Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10043027)] \[[CODE](https://github.com/Guoyeting/AHFL) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2022-06-06]
+* Scheduling Algorithms for Federated Learning With Minimal Energy Consumption. \[[PUB](https://ieeexplore.ieee.org/document/10032558)] \[[PDF](https://arxiv.org/abs/2209.06210)] \[[CODE](https://github.com/llpilla/energy-optimal-federated-learning) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-03-02]
+* Dap-FL: Federated Learning Flourishes by Adaptive Tuning and Secure Aggregation. \[[PUB](https://ieeexplore.ieee.org/document/10103633)] \[[PDF](https://arxiv.org/abs/2206.03623)] \[[CODE](https://github.com/XDUJiaweiChen/Dap-FL) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-02-28]
+* From Deterioration to Acceleration: A Calibration Approach to Rehabilitating Step Asynchronism in Federated Optimization. \[[PUB](https://ieeexplore.ieee.org/document/10070571)] \[[PDF](https://arxiv.org/abs/2112.09355)] \[[CODE](https://github.com/harliwu/fedagrac) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2021-12-21]
+* CHEESE: Distributed Clustering-Based Hybrid Federated Split Learning Over Edge Networks. \[[PUB](https://ieeexplore.ieee.org/document/10274134)]
+* Hierarchical Federated Learning With Momentum Acceleration in Multi-Tier Networks. \[[PUB](https://ieeexplore.ieee.org/document/10180030)] \[[PDF](https://arxiv.org/abs/2210.14560)]
+* Collaborative Intrusion Detection System for SDVN: A Fairness Federated Deep Learning Approach. \[[PUB](https://ieeexplore.ieee.org/document/10177377)]
+* Energy-Aware, Device-to-Device Assisted Federated Learning in Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/10129058)]
+* Faster Federated Learning With Decaying Number of Local SGD Steps. \[[PUB](https://ieeexplore.ieee.org/document/10128796)] \[[PDF](https://arxiv.org/abs/2305.09628)] \[[CODE](https://github.com/JedMills/Faster-FL)]
+* DRFL: Federated Learning in Diabetic Retinopathy Grading Using Fundus Images. \[[PUB](https://ieeexplore.ieee.org/document/10093080)]
+* Federated Ensemble Model-Based Reinforcement Learning in Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/10093139)] \[[PDF](https://arxiv.org/abs/2109.05549)]
+* Incentive Mechanism Design for Joint Resource Allocation in Blockchain-Based Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10061576)] \[[PDF](https://arxiv.org/abs/2202.10938)]
+* HiFlash: Communication-Efficient Hierarchical Federated Learning With Adaptive Staleness Control and Heterogeneity-Aware Client-Edge Association. \[[PUB](https://ieeexplore.ieee.org/document/10021868)] \[[PDF](https://arxiv.org/abs/2301.06447)]
+* Federated Learning Over Coupled Graphs. \[[PUB](https://ieeexplore.ieee.org/document/10029878)] \[[PDF](https://arxiv.org/abs/2301.11099)]
+* On Model Transmission Strategies in Federated Learning With Lossy Communications. \[[PUB](https://ieeexplore.ieee.org/document/10032555)]
+* Auction-Based Cluster Federated Learning in Mobile Edge Computing Systems. \[[PUB](https://ieeexplore.ieee.org/document/10032710)] \[[PDF](https://arxiv.org/abs/2103.07150)]
+* Design of a Quantization-Based DNN Delta Compression Framework for Model Snapshots and Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/10018182)]
+* Multi-Job Intelligent Scheduling With Cross-Device Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9964248)] \[[PDF](https://arxiv.org/abs/2211.13430)]
+* Data-Centric Client Selection for Federated Learning Over Distributed Edge Networks. \[[PUB](https://ieeexplore.ieee.org/document/9930629)]
+* GossipFL: A Decentralized Federated Learning Framework With Sparsified and Adaptive Communication. \[[PUB](https://ieeexplore.ieee.org/document/9996127)]
+* FedMDS: An Efficient Model Discrepancy-Aware Semi-Asynchronous Clustered Federated Learning Framework. \[[PUB](https://ieeexplore.ieee.org/document/10018536)]
+* HierFedML: Aggregator Placement and UE Assignment for Hierarchical Federated Learning in Mobile Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/9935309)]
+* CERT-DF: A Computing-Efficient and Robust Distributed Deep Forest Framework With Low Communication Overhead. \[[PUB](https://doi.org/10.1109/TPDS.2023.3324911)]
+
+### 2022
+
+#### eurosys
+
+* Data selection for efficient model update in federated learning. \[[PUB](https://doi.org/10.1145/3517207.3526980)]
+* Empirical analysis of federated learning in heterogeneous environments. \[[PUB](https://doi.org/10.1145/3517207.3526969)]
+
+#### EuroSys workshop
+
+* Data selection for efficient model update in federated learning. \[[PUB](https://dl.acm.org/doi/10.1145/3517207.3526980)]
+* Empirical analysis of federated learning in heterogeneous environments. \[[PUB](https://dl.acm.org/doi/10.1145/3517207.3526969)]
+
+#### osdi
+
+* Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning. \[[PUB](https://www.usenix.org/conference/osdi22/presentation/lv)]
+
+#### TC
+
+* BAFL: A Blockchain-Based Asynchronous Federated Learning Framework. \[[PUB](https://ieeexplore.ieee.org/document/9399813/)] \[[CODE](https://github.com/xuchenhao001/AFL) ⭐ 48 | 🐛 1 | 🌐 Python | 📅 2023-04-22]
+* L4L: Experience-Driven Computational Resource Control in Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9384231)]
+* Adaptive Federated Learning on Non-IID Data With Resource Constraint. \[[PUB](https://ieeexplore.ieee.org/document/9496155)]
+
+#### TCAD
+
+* Locking Protocols for Parallel Real-Time Tasks With Semaphores Under Federated Scheduling. \[[PUB](https://ieeexplore.ieee.org/document/9542981)]
+* Client Scheduling and Resource Management for Efficient Training in Heterogeneous IoT-Edge Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9530450)]
+* PervasiveFL: Pervasive Federated Learning for Heterogeneous IoT Systems. \[[PUB](https://ieeexplore.ieee.org/document/9925684)]
+
+#### DAC
+
+* FHDnn: communication efficient and robust federated learning for AIoT networks. \[[PUB](https://dl.acm.org/doi/10.1145/3489517.3530394)]
+* Accelerated synthesis of neural network-based barrier certificates using collaborative learning. \[[PUB](https://doi.org/10.1145/3489517.3530608)]
+
+#### TPDS
+
+* Multi-Task Federated Learning for Personalised Deep Neural Networks in Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/9492755)] \[[PDF](https://arxiv.org/abs/2007.09236)] \[[CODE](https://github.com/JedMills/MTFL-For-Personalised-DNNs) ⭐ 94 | 🐛 1 | 🌐 Python | 📅 2022-10-09]
+* Flexible Clustered Federated Learning for Client-Level Data Distribution Shift. \[[PUB](https://ieeexplore.ieee.org/document/9647969)] \[[PDF](https://arxiv.org/abs/2108.09749)] \[[CODE](https://github.com/morningd/flexcfl) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2022-11-16]
+* Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation. \[[PUB](https://ieeexplore.ieee.org/document/9664296)] \[[PDF](https://arxiv.org/abs/2101.06905)] \[[CODE](https://github.com/ElvisShaoYumeng/BLADE-FL) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2021-09-24]
+* Communication-Efficient Federated Learning With Compensated Overlap-FedAvg. \[[PUB](https://ieeexplore.ieee.org/document/9459540)] \[[PDF](https://arxiv.org/abs/2012.06706)] \[[CODE](https://github.com/Soptq/Overlap-FedAvg) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2021-06-20]
+* DONE: Distributed Approximate Newton-type Method for Federated Edge Learning. \[[PUB](https://ieeexplore.ieee.org/document/9695269)] \[[PDF](https://arxiv.org/abs/2012.05625)] \[[CODE](https://github.com/dual-grp/DONE) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-01]
+* On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9664349)] \[[PDF](https://arxiv.org/abs/2011.10643)] \[[CODE](https://github.com/anishacharya/DeLiCoCo) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2022-01-11]
+* A Decentralized Federated Learning Framework via Committee Mechanism With Convergence Guarantee. \[[PUB](https://ieeexplore.ieee.org/document/9870745)] \[[PDF](https://arxiv.org/abs/2108.00365)]
+* Improving Federated Learning With Quality-Aware User Incentive and Auto-Weighted Model Aggregation. \[[PUB](https://ieeexplore.ieee.org/document/9847055)]
+* $f$funcX: Federated Function as a Service for Science. \[[PUB](https://ieeexplore.ieee.org/document/9899739)] \[[PDF](https://arxiv.org/abs/2209.11631)]
+* Adaptive Federated Deep Reinforcement Learning for Proactive Content Caching in Edge Computing. \[[PUB](https://ieeexplore.ieee.org/document/9868114)]
+* TDFL: Truth Discovery Based Byzantine Robust Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9887909)]
+* Federated Learning With Nesterov Accelerated Gradient. \[[PUB](https://ieeexplore.ieee.org/document/9891808)] \[[PDF](https://arxiv.org/abs/2009.08716)]
+* FedGraph: Federated Graph Learning with Intelligent Sampling. \[[PUB](https://ieeexplore.ieee.org/abstract/document/9606516/)] \[[CODE](https://github.com/cfh19980612/FedGraph)] \[[解读](https://zhuanlan.zhihu.com/p/442233479)]
+* AUCTION: Automated and Quality-Aware Client Selection Framework for Efficient Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9647925)]
+* Min-Max Cost Optimization for Efficient Hierarchical Federated Learning in Wireless Edge Networks. \[[PUB](https://ieeexplore.ieee.org/document/9629331)]
+* LightFed: An Efficient and Secure Federated Edge Learning System on Model Splitting. \[[PUB](https://ieeexplore.ieee.org/document/9613755)]
+* Incentive-Aware Autonomous Client Participation in Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9705080)]
+* Communicational and Computational Efficient Federated Domain Adaptation. \[[PUB](https://ieeexplore.ieee.org/document/9757821)]
+* Decentralized Edge Intelligence: A Dynamic Resource Allocation Framework for Hierarchical Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9479786)]
+* Differentially Private Byzantine-Robust Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9757841)]
+* Reputation-Aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9665214)]
+* Differentially Private Federated Temporal Difference Learning. \[[PUB](https://ieeexplore.ieee.org/document/9645233)]
+* Towards Efficient and Stable K-Asynchronous Federated Learning With Unbounded Stale Gradients on Non-IID Data. \[[PUB](https://ieeexplore.ieee.org/document/9712243)] \[[PDF](https://arxiv.org/abs/2203.01214)]
+* Adaptive Vertical Federated Learning on Unbalanced Features. \[[PUB](https://doi.org/10.1109/TPDS.2022.3178443)]
+* Context-Aware Online Client Selection for Hierarchical Federated Learning. \[[PUB](https://doi.org/10.1109/TPDS.2022.3186960)]
+* Eiffel: Efficient and Fair Scheduling in Adaptive Federated Learning. \[[PUB](https://doi.org/10.1109/TPDS.2022.3187365)]
+* Privacy-Preserving Efficient Federated-Learning Model Debugging. \[[PUB](https://doi.org/10.1109/TPDS.2021.3137321)]
+* Communication-Efficient $k$k-Means for Edge-Based Machine Learning. \[[PUB](https://doi.org/10.1109/TPDS.2022.3144595)]
+* Error-Compensated Sparsification for Communication-Efficient Decentralized Training in Edge Environment. \[[PUB](https://doi.org/10.1109/TPDS.2021.3084104)]
+
+#### MLSys
+
+* LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2022/hash/6c44dc73014d66ba49b28d483a8f8b0d-Abstract.html)] \[[PDF](https://arxiv.org/abs/2109.14236)] \[[CODE](https://github.com/LightSecAgg/MLSys2022_anonymous) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2021-10-25]
+* PAPAYA: Practical, Private, and Scalable Federated Learning. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2022/hash/a8bc4cb14a20f20d1f96188bd61eec87-Abstract.html)] \[[PDF](https://arxiv.org/abs/2111.04877)]
+
+### 2021
+
+#### eurosys
+
+* Accelerated Training via Device Similarity in Federated Learning. \[[PUB](https://doi.org/10.1145/3434770.3459734)]
+* Towards Federated Learning with Attention Transfer to Mitigate System and Data Heterogeneity of Clients. \[[PUB](https://doi.org/10.1145/3434770.3459739)]
+* Towards Mitigating Device Heterogeneity in Federated Learning via Adaptive Model Quantization. \[[PUB](https://doi.org/10.1145/3437984.3458839)]
+* DGCL: an efficient communication library for distributed GNN training. \[[PUB](https://doi.org/10.1145/3447786.3456233)]
+
+#### EuroSys workshop
+
+* Accelerated Training via Device Similarity in Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3434770.3459734)]
+* Towards Federated Learning with Attention Transfer to Mitigate System and Data Heterogeneity of Clients. \[[PUB](https://dl.acm.org/doi/10.1145/3434770.3459739)]
+* Towards Mitigating Device Heterogeneity in Federated Learning via Adaptive Model Quantization. \[[PUB](https://dl.acm.org/doi/10.1145/3437984.3458839)]
+
+#### TC
+
+* SAFA: A Semi-Asynchronous Protocol for Fast Federated Learning With Low Overhead. \[[PDF](https://arxiv.org/abs/1910.01355)] \[[PUB](https://ieeexplore.ieee.org/document/9093123)] \[[CODE](https://github.com/wingter562/SAFA) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2022-07-17]
+
+#### TCAD
+
+* Efficient Federated Learning for Cloud-Based AIoT Applications. \[[PUB](https://ieeexplore.ieee.org/document/9302596)]
+
+#### DAC
+
+* HADFL: Heterogeneity-aware Decentralized Federated Learning Framework. \[[PDF](https://arxiv.org/abs/2111.08274)] \[[PUB](https://ieeexplore.ieee.org/document/9586101)]
+* Helios: Heterogeneity-Aware Federated Learning with Dynamically Balanced Collaboration. \[[PDF](https://arxiv.org/abs/1912.01684)] \[[PUB](https://ieeexplore.ieee.org/document/9586241)]
+* FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control. \[[PUB](https://ieeexplore.ieee.org/document/9586175)]
+* On-device Malware Detection using Performance-Aware and Robust Collaborative Learning. \[[PUB](https://doi.org/10.1109/DAC18074.2021.9586330)]
+
+#### OSDI
+
+* Oort: Efficient Federated Learning via Guided Participant Selection. \[[PUB](https://www.usenix.org/conference/osdi21/presentation/lai)] \[[PDF](https://arxiv.org/abs/2010.06081)] \[[CODE](https://github.com/SymbioticLab/Oort) ⭐ 138 | 🐛 1 | 🌐 Python | 📅 2021-10-27] \[[SLIDES](https://www.usenix.org/system/files/osdi21_slides_lai.pdf)] \[[VIDEO](https://www.youtube.com/watch?v=5npOel4T4Mw)]
+
+#### tos
+
+* Multi-objective Optimization of Data Placement in a Storage-as-a-Service Federated Cloud. \[[PUB](https://doi.org/10.1145/3452741)]
+
+#### TPDS
+
+* Self-Balancing Federated Learning With Global Imbalanced Data in Mobile Systems. \[[PUB](https://ieeexplore.ieee.org/document/9141436)] \[[CODE](https://github.com/mtang724/Self-Balancing-Federated-Learning) ⭐ 46 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-12-03]
+* Towards Efficient Scheduling of Federated Mobile Devices Under Computational and Statistical Heterogeneity. \[[PUB](https://ieeexplore.ieee.org/document/9195793)] \[[PDF](https://arxiv.org/abs/2005.12326)]
+* An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee. \[[PUB](https://ieeexplore.ieee.org/document/9272649/)] \[[PDF](https://arxiv.org/abs/2011.01783)] \[[解读](https://zhuanlan.zhihu.com/p/456101770)]
+* Proof of Federated Learning: A Novel Energy-Recycling Consensus Algorithm. \[[PUB](https://ieeexplore.ieee.org/document/9347812)] \[[PDF](https://arxiv.org/abs/1912.11745)]
+* Biscotti: A Blockchain System for Private and Secure Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9292450)]
+* Mutual Information Driven Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9272656)]
+* Accelerating Federated Learning Over Reliability-Agnostic Clients in Mobile Edge Computing Systems. \[[PUB](https://ieeexplore.ieee.org/document/9272671)] \[[PDF](https://arxiv.org/abs/2007.14374)]
+* FedSCR: Structure-Based Communication Reduction for Federated Learning. \[[PUB](https://ieeexplore.ieee.org/document/9303442)]
+* MG-WFBP: Merging Gradients Wisely for Efficient Communication in Distributed Deep Learning. \[[PUB](https://doi.org/10.1109/TPDS.2021.3052862)]
+
+#### SOSP workshop
+
+* FedScale: Benchmarking Model and System Performance of Federated Learning :fire:. \[[PUB](https://proceedings.mlr.press/v162/lai22a.html)] \[[PDF](https://arxiv.org/abs/2105.11367)] \[[CODE](https://github.com/SymbioticLab/FedScale) ⭐ 421 | 🐛 45 | 🌐 Python | 📅 2023-12-18] \[[解读](https://zhuanlan.zhihu.com/p/520020117)]
+* Redundancy in cost functions for Byzantine fault-tolerant federated learning. \[[PUB](https://dl.acm.org/doi/10.1145/3477114.3488761)]
+* Towards an Efficient System for Differentially-private, Cross-device Federated Learning. \[[PUB](https://dl.acm.org/doi/10.1145/3477114.3488762)]
+* GradSec: a TEE-based Scheme Against Federated Learning Inference Attacks. \[[PUB](https://dl.acm.org/doi/10.1145/3477114.3488763)]
+* Community-Structured Decentralized Learning for Resilient EI. \[[PUB](https://dl.acm.org/doi/10.1145/3477114.3488764)]
+* Separation of Powers in Federated Learning (Poster Paper). \[[PUB](https://dl.acm.org/doi/10.1145/3477114.3488765)] \[[PDF](https://arxiv.org/abs/2105.09400)]
+
+### 2020
+
+#### dac
+
+* Learning to Quantize Deep Neural Networks: A Competitive-Collaborative Approach. \[[PUB](https://doi.org/10.1109/DAC18072.2020.9218576)]
+
+#### eurosys
+
+* CoLearn: enabling federated learning in MUD-compliant IoT edge networks. \[[PUB](https://doi.org/10.1145/3378679.3394528)]
+* LDP-Fed: federated learning with local differential privacy. \[[PUB](https://doi.org/10.1145/3378679.3394533)]
+* Towards federated unsupervised representation learning. \[[PUB](https://doi.org/10.1145/3378679.3394530)]
+
+#### EuroSys workshop
+
+* Towards federated unsupervised representation learning. \[[PUB](https://dl.acm.org/doi/10.1145/3378679.3394530)]
+* CoLearn: enabling federated learning in MUD-compliant IoT edge networks. \[[PUB](https://dl.acm.org/doi/10.1145/3378679.3394528)]
+* LDP-Fed: federated learning with local differential privacy. \[[PUB](https://dl.acm.org/doi/10.1145/3378679.3394533)]
+
+#### TPDS
+
+* Towards Fair and Privacy-Preserving Federated Deep Models. \[[PUB](https://ieeexplore.ieee.org/document/9098045)] \[[PDF](https://arxiv.org/abs/1906.01167)] \[[CODE](https://github.com/lingjuanlv/FPPDL) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2022-06-16]
+* Accelerating Federated Learning via Momentum Gradient Descent. \[[PUB](https://ieeexplore.ieee.org/document/9003425)] \[[PDF](https://arxiv.org/abs/1910.03197)]
+
+#### MLSys
+
+* Federated Optimization in Heterogeneous Networks :fire:. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2020/hash/1f5fe83998a09396ebe6477d9475ba0c-Abstract.html)] \[[PDF](https://arxiv.org/abs/1812.06127)] \[[CODE](https://github.com/litian96/FedProx) ⭐ 734 | 🐛 11 | 🌐 Python | 📅 2023-03-24]
+* Federated Optimization in Heterogeneous Networks. \[[PUB](https://proceedings.mlsys.org/book/316.pdf)]
+
+### 2019
+
+#### MLSys
+
+* Towards Federated Learning at Scale: System Design. \[[PUB](https://proceedings.mlsys.org/paper_files/paper/2019/hash/7b770da633baf74895be22a8807f1a8f-Abstract.html)] \[[PDF](https://arxiv.org/abs/1902.01046)] \[[解读](https://zhuanlan.zhihu.com/p/450993635)]
+
+#### tpds
+
+* Fast and Communication-Efficient Algorithm for Distributed Support Vector Machine Training. \[[PUB](https://doi.org/10.1109/TPDS.2018.2879950)]
+
+### 2018
+
+#### eurosys
+
+* Fair non-monetary scheduling in federated clouds. \[[PUB](https://doi.org/10.1145/3195870.3195873)]
+
+#### tpds
+
+* Unifying Fixed Code Mapping, Communication, Synchronization and Scheduling Algorithms for Efficient and Scalable Loop Pipelining. \[[PUB](https://doi.org/10.1109/TPDS.2018.2817207)]
+
+### 2017
+
+#### tpds
+
+* An Energy-Efficient Directory Based Multicore Architecture with Wireless Routers to Minimize the Communication Latency. \[[PUB](https://doi.org/10.1109/TPDS.2016.2571282)]
+
+### 2015
+
+#### tpds
+
+* Communication-Efficient Decentralized Event Monitoring in Wireless Sensor Networks. \[[PUB](https://doi.org/10.1109/TPDS.2014.2350474)]
+
+### 2014
+
+#### dac
+
+* Design and Implementation of a Dynamic Component Model for Federated AUTOSAR Systems. \[[PUB](https://doi.org/10.1145/2593069.2593121)]
+
+#### tpds
+
+* A P2P-Based Infrastructure for Adaptive Trustworthy and Efficient Communication in Wide-Area Distributed Systems. \[[PUB](https://doi.org/10.1109/TPDS.2013.159)]
+
+### 2013
+
+#### tpds
+
+* Modeling Object Flows from Distributed and Federated RFID Data Streams for Efficient Tracking and Tracing. \[[PUB](https://doi.org/10.1109/TPDS.2013.99)]
+* Service Provision Control in Federated Service Providing Systems. \[[PUB](https://doi.org/10.1109/TPDS.2012.150)]
+
+### 2012
+
+#### tpds
+
+* Adaptive-Tree Multicast: Efficient Multidestination Support for CMP Communication Substrate. \[[PUB](https://doi.org/10.1109/TPDS.2012.45)]
+* Efficient Communication Algorithms in Hexagonal Mesh Interconnection Networks. \[[PUB](https://doi.org/10.1109/TPDS.2011.112)]
+* EPPA: An Efficient and Privacy-Preserving Aggregation Scheme for Secure Smart Grid Communications. \[[PUB](https://doi.org/10.1109/TPDS.2012.86)]
+* Reliable and Energy-Efficient Multipath Communications in Underwater Sensor Networks. \[[PUB](https://doi.org/10.1109/TPDS.2011.266)]
+
+### 2011
+
+#### tpds
+
+* Efficiently Acquiring Communication Traces for Large-Scale Parallel Applications. \[[PUB](https://doi.org/10.1109/TPDS.2011.49)]
+
+### 2009
+
+#### tcad
+
+* From a Federated to an Integrated Automotive Architecture. \[[PUB](https://doi.org/10.1109/TCAD.2009.2014005)]
+
+#### tpds
+
+* Compiler Techniques for Efficient Communications in Circuit Switched Networks for Multiprocessor Systems. \[[PUB](https://doi.org/10.1109/TPDS.2008.82)]
+* Efficient Node Admission and Certificateless Secure Communication in Short-Lived MANETs. \[[PUB](https://doi.org/10.1109/TPDS.2008.77)]
+
+### 2005
+
+#### sosp
+
+* Distributed operating system for resource discovery and allocation in federated clusters. \[[PUB](https://doi.org/10.1145/1095810.1118583)]
+
+### 2003
+
+#### tpds
+
+* An Efficient Algorithm for Gossiping in the Multicasting Communication Environment. \[[PUB](https://doi.org/10.1109/TPDS.2003.1214321)]
+
+### 2002
+
+#### osdi
+
+* FARSITE: Federated, Available, and Reliable Storage for an Incompletely Trusted Environment. \[[PUB](http://www.usenix.org/events/osdi02/tech/adya.html)]
+
+#### tpds
+
+* Energy-Efficient Routing in the Broadcast Communication Model. \[[PUB](https://doi.org/10.1109/TPDS.2002.1158259)]
+
+### 1997
+
+#### tpds
+
+* Efficient Algorithms for All-to-All Communications in Multiport Message-Passing Systems. \[[PUB](https://doi.org/10.1109/71.642949)]
+
+### 1995
+
+#### tpds
+
+* Efficient Nonblocking Switching Networks for Interprocessor Communications in Multiprocessor Systems. \[[PUB](https://doi.org/10.1109/71.342124)]
+
+### 1991
+
+#### tpds
+
+* Compiling Communication-Efficient Programs for Massively Parallel Machines. \[[PUB](https://doi.org/10.1109/71.86111)]
+
+### 1988
+
+#### tocs
+
+* Remote Pipes and Procedures for Efficient Distributed Communication. \[[PUB](https://doi.org/10.1145/45059.45061)]</details>
+
+## fl in top conference and journal other fields
+
+Federated Learning papers accepted by top conference and journal in the other fields, including [ICSE](https://dblp.org/db/conf/icse/index.html)(International Conference on Software Engineering), [FOCS](https://dblp.org/db/conf/focs/index.html)(IEEE Annual Symposium on Foundations of Computer Science), [STOC](https://dblp.org/db/conf/stoc/index.html)(Symposium on the Theory of Computing).
+
+* [ICSE](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Ficse%3A) [2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track), [2023](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#event-overview), 2021
+* [FOCS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ffocs%3A) Null
+* [STOC](https://dblp.uni-trier.de/search?q=federate%20streamid%3Aconf%2Fstoc%3A) Null
+
+<details open>
+<summary>fl in top conference and journal other fields</summary>
+<!-- START:fl-in-top-conference-and-journal-other-fields -->
+
+<!-- END:fl-in-top-conference-and-journal-other-fields -->
+
+### 2025
+
+#### ICSE
+
+* Edge-Based Detection of Label Flipping Attacks in Federated Learning Using Explainable AI. \[[PUB](https://doi.org/10.1109/SVM66695.2025.00005)]
+
+* Towards an Adaptive and Federated Testbed for AI Research in Africa. \[[PUB](https://doi.org/10.1109/SEiGS66664.2025.00011)]
+
+* TraceFL: Interpretability-Driven Debugging in Federated Learning via Neuron Provenance. \[[PUB](https://doi.org/10.1109/ICSE55347.2025.00128)]
+
+* TraceFL: Interpretability-Driven Debugging in Federated Learning via Neuron Provenance. [PUB](https://ieeexplore.ieee.org/document/11029768) [PDF](https://arxiv.org/abs/2312.13632)
+
+* Edge-Based Detection of Label Flipping Attacks in Federated Learning Using Explainable AI. [PUB](https://ieeexplore.ieee.org/document/11039289)
+
+* Towards an Adaptive and Federated Testbed for AI Research in Africa. [PUB](https://ieeexplore.ieee.org/document/11026908)
+
+#### stoc
+
+* Merge-Width and First-Order Model Checking. \[[PUB](https://doi.org/10.1145/3717823.3718259)]
+
+### 2024
+
+#### ICSE
+
+* F-CodeLLM: A Federated Learning Framework for Adapting Large Language Models to Practical Software Development. \[[PUB](https://doi.org/10.1145/3639478.3643533)]
+
+* Raft Protocol for Fault Tolerance and Self-Recovery in Federated Learning. \[[PUB](https://doi.org/10.1145/3643915.3644093)]
+
+* F-CodeLLM: A Federated Learning Framework for Adapting Large Language Models to Practical Software Development. [PUB](https://dl.acm.org/doi/10.1145/3639478.3643533)
+
+* Raft Protocol for Fault Tolerance and Self-Recovery in Federated Learning. [PUB](https://dl.acm.org/doi/10.1145/3643915.3644093)
+
+### 2023
+
+#### ICSE
+
+* FedDebug: Systematic Debugging for Federated Learning Applications. [pub](https://ieeexplore.ieee.org/document/10172839) [pdf](https://arxiv.org/abs/2301.03553) [code](https://github.com/SEED-VT/FedDebug) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-07-02
+
+* FedDebug: Systematic Debugging for Federated Learning Applications. \[[PUB](https://doi.org/10.1109/ICSE48619.2023.00053)]
+
+* FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing. \[[PUB](https://doi.org/10.1109/ICSE48619.2023.00049)]
+
+* FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing. [pub](https://ieeexplore.ieee.org/document/10172662) [code](https://zenodo.org/record/7536416)
+
+### 2021
+
+#### icse
+
+* Federated Machine Learning as a Self-Adaptive Problem. \[[PUB](https://doi.org/10.1109/SEAMS51251.2021.00016)]
+* Towards a Self-Adaptive Architecture for Federated Learning of Industrial Automation Systems. \[[PUB](https://doi.org/10.1109/SEAMS51251.2021.00035)]
+
+#### SEAMS\@ICSE workshop
+
+* Towards a Self-Adaptive Architecture for Federated Learning of Industrial Automation Systems. [pub](https://ieeexplore.ieee.org/document/9462039)
+* Federated Machine Learning as a Self-Adaptive Problem. [pub](https://ieeexplore.ieee.org/document/9462023)
+
+### 2016
+
+#### icse
+
+* Lessons learned in aligning data and model evolution in collaborative information systems. \[[PUB](https://doi.org/10.1145/2889160.2889235)]
+* Let's verify Linux: accelerated learning of analytical reasoning through automation and collaboration. \[[PUB](https://doi.org/10.1145/2889160.2889192)]
+
+### 2015
+
+#### icse
+
+* Collaborative and Cooperative-Learning in Software Engineering Courses. \[[PUB](https://doi.org/10.1109/ICSE.2015.164)]
+
+### 2012
+
+#### icse
+
+* A holistic service provisioning solution for Federated Cloud infrastructures. \[[PUB](https://doi.org/10.1109/S-Cube.2012.6225504)]
+* Application of Self-Adaptive techniques to federated authorization models. \[[PUB](https://doi.org/10.1109/ICSE.2012.6227053)]
+* Towards a federated cloud ecosystem (Invited industrial talk). \[[PUB](https://doi.org/10.1109/ICSE.2012.6227252)]
+
+### 1982
+
+#### stoc
+
+* Routing, Merging and Sorting on Parallel Models of Computation (Extended Abstract). \[[PUB](https://doi.org/10.1145/800070.802209)]</details>
+
+## fl on graph data and graph neural networks
+
+[![dblp](https://img.shields.io/badge/dynamic/json?label=dblp\&query=%24.result.hits\[%27%40total%27\]\&url=https%3A%2F%2Fdblp.org%2Fsearch%2Fpubl%2Fapi%3Fq%3DFederated%2520graph%257Csubgraph%257Cgnn%26format%3Djson%26h%3D1000)](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn)
+
+This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine and repositories [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) ⭐ 345 | 🐛 2 | 📅 2024-02-21 and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks) ⭐ 2,098 | 🐛 7 | 📅 2024-05-30.
+
+<details open>
+<summary>fl on graph data and graph neural networks</summary>
+
+<!-- START:fl-on-graph-data-and-graph-neural-network -->
+
+| Title                                                                                                                                 | Venue                                                  | Year | Materials                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Decoupled Subgraph Federated Learning                                                                                                 | ICLR :mortar\_board:                                   | 2025 | \[[PDF](https://arxiv.org/abs/2402.19163)] \[[CODE](https://github.com/JavadAliakbari/FedStruct) ⭐ 2 \| 🐛 0 \| 🌐 Python \| 📅 2025-03-01]                                                                                                                                                                                                    |
+| FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks                                 | NeurIPS :mortar\_board:                                | 2023 | \[[PDF](https://arxiv.org/abs/2201.12433)] \[[CODE](https://github.com/yh-yao/FedGCN) ⭐ 75 \| 🐛 4 \| 🌐 Jupyter Notebook \| 📅 2025-01-18]                                                                                                                                                                                                    |
+| Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking                                                                | NeurIPS Dataset Track :mortar\_board:                  | 2023 | \[[PDF](https://openreview.net/forum?id=qynH28Y4xE)] \[[DATASET](https://huggingface.co/datasets/wyzelabs/RuleRecommendation)] \[[CODE](https://github.com/yh-yao/FedRule) ⭐ 14 \| 🐛 0 \| 🌐 Python \| 📅 2023-09-12]                                                                                                                         |
+| Federated Visualization: A Privacy-Preserving Strategy for Aggregated Visual Query.                                                   | IEEE Trans. Vis. Comput. Graph. :mortar\_board:        | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/10083324)] \[[PDF](https://arxiv.org/abs/2007.15227)]                                                                                                                                                                                                                                             |
+| Personalized Subgraph Federated Learning                                                                                              | ICML :mortar\_board:                                   | 2023 | \[[PDF](https://arxiv.org/abs/2206.10206)]                                                                                                                                                                                                                                                                                                     |
+| Semi-decentralized Federated Ego Graph Learning for Recommendation                                                                    | WWW:mortar\_board:                                     | 2023 | \[[PUB](https://dl.acm.org/doi/10.1145/3543507.3583337)] \[[PDF](https://arxiv.org/abs/2302.10900)]                                                                                                                                                                                                                                            |
+| Federated Graph Neural Network for Fast Anomaly Detection in Controller Area Networks                                                 | IEEE Trans. Inf. Forensics Secur. :mortar\_board:      | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/10026810)]                                                                                                                                                                                                                                                                                        |
+| Federated Learning Over Coupled Graphs                                                                                                | IEEE Trans. Parallel Distributed Syst. :mortar\_board: | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/10029878)] \[[PDF](https://arxiv.org/abs/2301.11099)]                                                                                                                                                                                                                                             |
+| HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity in Horizontal Federated Learning                                | IEEE Trans. Vis. Comput. Graph. :mortar\_board:        | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/9912364)] \[[PDF](https://arxiv.org/abs/2208.07491)]                                                                                                                                                                                                                                              |
+| Federated Learning on Non-IID Graphs via Structural Knowledge Sharing                                                                 | AAAI :mortar\_board:                                   | 2023 | \[[PDF](https://arxiv.org/abs/2211.13009)] \[[CODE](https://github.com/yuetan031/fedstar) ⭐ 70 \| 🐛 4 \| 🌐 Python \| 📅 2022-11-24]                                                                                                                                                                                                          |
+| FedGS: Federated Graph-based Sampling with Arbitrary Client Availability                                                              | AAAI :mortar\_board:                                   | 2023 | \[[PDF](https://arxiv.org/abs/2211.13975)] \[[CODE](https://github.com/wwzzz/fedgs) ⭐ 17 \| 🐛 0 \| 🌐 Python \| 📅 2023-01-04]                                                                                                                                                                                                                |
+| An Information Theoretic Perspective for Heterogeneous Subgraph Federated Learning.                                                   | DASFAA                                                 | 2023 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_50)]                                                                                                                                                                                                                                                                       |
+| GraphCS: Graph-based client selection for heterogeneity in federated learning                                                         | J. Parallel Distributed Comput.                        | 2023 | \[[PUB](https://www.sciencedirect.com/science/article/abs/pii/S0743731523000394?via%3Dihub)]                                                                                                                                                                                                                                                   |
+| Towards On-Device Federated Learning: A Direct Acyclic Graph-based Blockchain Approach                                                | IEEE Trans. Neural Networks Learn. Syst.               | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/9524833)] \[[PDF](https://arxiv.org/abs/2104.13092)]                                                                                                                                                                                                                                              |
+| Short-Term Traffic Flow Prediction Based on Graph Convolutional Networks and Federated Learning                                       | IEEE Trans. Intell. Transp. Syst.                      | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/9794333)]                                                                                                                                                                                                                                                                                         |
+| Hyper-Graph Attention Based Federated Learning Methods for Use in Mental Health Detection.                                            | IEEE J. Biomed. Health Informatics                     | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/9767700)]                                                                                                                                                                                                                                                                                         |
+| Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural                                                            | IEEE Trans. Ind. Informatics                           | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/9873989)]                                                                                                                                                                                                                                                                                         |
+| Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical Federated Learning                                        | IEEE Trans. Comput. Soc. Syst.                         | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/9745270)] \[[PDF](https://arxiv.org/abs/2110.06468)] \[[CODE](https://github.com/hgh0545/graph-fraudster) ⭐ 14 \| 🐛 0 \| 🌐 Python \| 📅 2022-09-20]                                                                                                                                             |
+| ESA-FedGNN: Efficient secure aggregation for federated graph neural networks.                                                         | Peer Peer Netw. Appl.                                  | 2023 | \[[PUB](https://link.springer.com/article/10.1007/s12083-023-01472-2)]                                                                                                                                                                                                                                                                         |
+| FedCKE: Cross-Domain Knowledge Graph Embedding in Federated Learning                                                                  | IEEE Trans. Big Data                                   | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/9887815)]                                                                                                                                                                                                                                                                                         |
+| Asynchronous federated learning with directed acyclic graph-based blockchain in edge computing: Overview, design, and challenges.     | Expert Syst. Appl.                                     | 2023 | \[[PUB](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003974?via%3Dihub)]                                                                                                                                                                                                                                                   |
+| FedGR: Federated Graph Neural Network for Recommendation System                                                                       | Axioms                                                 | 2023 | \[[PUB](https://www.mdpi.com/2075-1680/12/2/170)]                                                                                                                                                                                                                                                                                              |
+| S-Glint: Secure Federated Graph Learning With Traffic Throttling and Flow Scheduling.                                                 | IEEE Trans. Green Commun. Netw.                        | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/9810521)]                                                                                                                                                                                                                                                                                         |
+| FedAGCN: A traffic flow prediction framework based on federated learning and Asynchronous Graph Convolutional Network                 | Appl. Soft Comput.                                     | 2023 | \[[PUB](https://www.sciencedirect.com/science/article/abs/pii/S156849462300193X?via%3Dihub)]                                                                                                                                                                                                                                                   |
+| GDFed: Dynamic Federated Learning for Heterogenous Device Using Graph Neural Network                                                  | ICOIN                                                  | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/10048926)] \[[CODE](https://github.com/IntelligentNetworkingLAB/Graph-Neural-Network-based-Federated-Learning-for-Heterogenous-Device-Network) ⭐ 13 \| 🐛 3 \| 🌐 Python \| 📅 2022-12-12]                                                                                                        |
+| Coordinated Scheduling and Decentralized Federated Learning Using Conflict Clustering Graphs in Fog-Assisted IoD Networks             | IEEE Trans. Veh. Technol.                              | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/9932020)]                                                                                                                                                                                                                                                                                         |
+| FedRule: Federated Rule Recommendation System with Graph Neural Networks                                                              | IoTDI                                                  | 2023 | \[[PUB](https://dl.acm.org/doi/10.1145/3576842.3582328)] \[[PDF](https://arxiv.org/abs/2211.06812)] \[[CODE](https://github.com/yh-yao/FedRule) ⭐ 14 \| 🐛 0 \| 🌐 Python \| 📅 2023-09-12]                                                                                                                                                    |
+| FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy                                      | KDD :mortar\_board:                                    | 2022 | \[[PUB](https://dl.acm.org/doi/10.1145/3534678.3539308)] \[[PDF](https://arxiv.org/abs/2205.15896)]                                                                                                                                                                                                                                            |
+| FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Platform for Federated Graph Learning :fire:                       | KDD (Best Paper Award) :mortar\_board:                 | 2022 | \[[PDF](https://arxiv.org/abs/2204.05562)] \[[CODE](https://github.com/alibaba/FederatedScope) ⭐ 1,545 \| 🐛 55 \| 🌐 Python \| 📅 2024-08-10] \[[PUB](https://dl.acm.org/doi/10.1145/3534678.3539112)]                                                                                                                                        |
+| Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning                              | ICML :mortar\_board:                                   | 2022 | \[[PUB](https://proceedings.mlr.press/v162/liu22k/liu22k.pdf)] \[[CODE](https://github.com/Thinklab-SJTU/GAMF) ⭐ 19 \| 🐛 0 \| 🌐 Python \| 📅 2023-02-15]                                                                                                                                                                                     |
+| Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting **`kg.`**                                   | IJCAI :mortar\_board:                                  | 2022 | \[[PUB](https://www.ijcai.org/proceedings/2022/273)] \[[PDF](https://doi.org/10.48550/arXiv.2205.04692)] \[[CODE](https://github.com/zjukg/maker) ⭐ 33 \| 🐛 0 \| 🌐 Python \| 📅 2022-07-24]                                                                                                                                                  |
+| Personalized Federated Learning With a Graph                                                                                          | IJCAI :mortar\_board:                                  | 2022 | \[[PUB](https://www.ijcai.org/proceedings/2022/357)] \[[PDF](https://arxiv.org/abs/2203.00829)] \[[CODE](https://github.com/dawenzi098/SFL-Structural-Federated-Learning) ⭐ 57 \| 🐛 3 \| 🌐 Python \| 📅 2023-05-27]                                                                                                                          |
+| Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification                                                  | IJCAI :mortar\_board:                                  | 2022 | \[[PUB](https://www.ijcai.org/proceedings/2022/272)] \[[PDF](https://arxiv.org/abs/2005.11903)]                                                                                                                                                                                                                                                |
+| SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data                                    | AAAI:mortar\_board:                                    | 2022 | \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/20643)] \[[PDF](https://arxiv.org/abs/2106.02743)] \[[CODE](https://github.com/FedML-AI/SpreadGNN) ⭐ 50 \| 🐛 2 \| 🌐 Python \| 📅 2022-08-24] \[[解读](https://zhuanlan.zhihu.com/p/429720860)]                                                                                        |
+| FedGraph: Federated Graph Learning with Intelligent Sampling                                                                          | TPDS :mortar\_board:                                   | 2022 | \[[PUB](https://ieeexplore.ieee.org/abstract/document/9606516/)] \[[CODE](https://github.com/cfh19980612/FedGraph)] \[[解读](https://zhuanlan.zhihu.com/p/442233479)]                                                                                                                                                                            |
+| Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications **`surv.`**                                      | SIGKDD Explor.                                         | 2022 | \[[PUB](https://dl.acm.org/doi/10.1145/3575637.3575644)] \[[PDF](https://arxiv.org/abs/2207.11812)]                                                                                                                                                                                                                                            |
+| Semantic Vectorization: Text- and Graph-Based Models.                                                                                 | Federated Learning                                     | 2022 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-030-96896-0_3)]                                                                                                                                                                                                                                                                        |
+| GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs                                             | ICDM                                                   | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/10027604)] \[[PDF](https://arxiv.org/abs/2012.04187)] \[[解读](https://zhuanlan.zhihu.com/p/431479904)]                                                                                                                                                                                             |
+| More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks                                                   | ACSAC                                                  | 2022 | \[[PUB](https://dl.acm.org/doi/10.1145/3564625.3567999)] \[[PDF](https://arxiv.org/abs/2202.03195)]                                                                                                                                                                                                                                            |
+| FedNI: Federated Graph Learning with Network Inpainting for Population-Based Disease Prediction                                       | TMI                                                    | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9815303)] \[[PDF](https://arxiv.org/abs/2112.10166)]                                                                                                                                                                                                                                              |
+| SemiGraphFL: Semi-supervised Graph Federated Learning for Graph Classification.                                                       | PPSN                                                   | 2022 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_33)]                                                                                                                                                                                                                                                                       |
+| Federated Spatio-Temporal Traffic Flow Prediction Based on Graph Convolutional Network                                                | WCSP                                                   | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/10039323)]                                                                                                                                                                                                                                                                                        |
+| A federated graph neural network framework for privacy-preserving personalization                                                     | Nature Communications                                  | 2022 | \[[PUB](https://www.nature.com/articles/s41467-022-30714-9)] \[[CODE](https://github.com/wuch15/FedPerGNN) ⭐ 95 \| 🐛 3 \| 🌐 Python \| 📅 2022-05-12] \[[解读](https://zhuanlan.zhihu.com/p/487383715)]                                                                                                                                         |
+| Malicious Transaction Identification in Digital Currency via Federated Graph Deep Learning                                            | INFOCOM Workshops                                      | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9797992/)]                                                                                                                                                                                                                                                                                        |
+| Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`**                      | EMNLP                                                  | 2022 | \[[PUB](https://aclanthology.org/2022.findings-emnlp.43/)] \[[PDF](https://arxiv.org/abs/2203.09553)] \[[CODE](https://github.com/taokz/FedR) ⭐ 24 \| 🐛 1 \| 🌐 Python \| 📅 2023-10-01]                                                                                                                                                      |
+| Power Allocation for Wireless Federated Learning using Graph Neural Networks                                                          | ICASSP                                                 | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9747764)] \[[PDF](https://arxiv.org/abs/2111.07480)] \[[CODE](https://github.com/bl166/wirelessfl-pdgnet) ⭐ 24 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2023-11-10]                                                                                                                                   |
+| Privacy-Preserving Federated Multi-Task Linear Regression: A One-Shot Linear Mixing Approach Inspired By Graph Regularization         | ICASSP                                                 | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9746007)] \[[PDF](https://www.math.ucla.edu/~harlin/papers/mtl.pdf)] \[[CODE](https://github.com/HarlinLee/multitask-fusion) ⭐ 1 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2021-09-25]                                                                                                                 |
+| Graph-regularized federated learning with shareable side information                                                                  | Knowl. Based Syst.                                     | 2022 | \[[PUB](https://www.sciencedirect.com/science/article/pii/S095070512201053X)]                                                                                                                                                                                                                                                                  |
+| Federated knowledge graph completion via embedding-contrastive learning **`kg.`**                                                     | Knowl. Based Syst.                                     | 2022 | \[[PUB](https://www.sciencedirect.com/science/article/abs/pii/S0950705122007316?via%3Dihub)]                                                                                                                                                                                                                                                   |
+| Federated Graph Learning with Periodic Neighbour Sampling                                                                             | IWQoS                                                  | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9812908)]                                                                                                                                                                                                                                                                                         |
+| FedGSL: Federated Graph Structure Learning for Local Subgraph Augmentation.                                                           | Big Data                                               | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/10020771/)]                                                                                                                                                                                                                                                                                       |
+| Domain-Aware Federated Social Bot Detection with Multi-Relational Graph Neural Networks.                                              | IJCNN                                                  | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9892366)]                                                                                                                                                                                                                                                                                         |
+| A Federated Multi-Server Knowledge Graph Embedding Framework For Link Prediction.                                                     | ICTAI                                                  | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/10097981)]                                                                                                                                                                                                                                                                                        |
+| A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy                                           | KSEM                                                   | 2022 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_14)] \[[PDF](https://arxiv.org/abs/2206.03492)]                                                                                                                                                                                                                            |
+| Clustered Graph Federated Personalized Learning.                                                                                      | IEEECONF                                               | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/10051979)]                                                                                                                                                                                                                                                                                        |
+| Investigating the Predictive Reproducibility of Federated Graph Neural Networks using Medical Datasets.                               | MICCAI Workshop                                        | 2022 | \[[PDF](https://arxiv.org/abs/2209.06032)] \[[CODE](https://github.com/basiralab/reproducibleFedGNN) ⭐ 9 \| 🐛 0 \| 🌐 Python \| 📅 2022-12-02]                                                                                                                                                                                                |
+| Peer-to-Peer Variational Federated Learning Over Arbitrary Graphs                                                                     | Int. J. Bio Inspired Comput.                           | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9825726/)]                                                                                                                                                                                                                                                                                        |
+| Federated Multi-task Graph Learning                                                                                                   | ACM Trans. Intell. Syst. Technol.                      | 2022 | \[[PUB](https://dl.acm.org/doi/10.1145/3527622)]                                                                                                                                                                                                                                                                                               |
+| Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning                                                        | WCNC                                                   | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9771883)]                                                                                                                                                                                                                                                                                         |
+| Federated meta-learning for spatial-temporal prediction                                                                               | Neural Comput. Appl.                                   | 2022 | \[[PUB](https://link.springer.com/article/10.1007/s00521-021-06861-3)] \[[CODE](https://github.com/lwz001/FML-ST) ⭐ 3 \| 🐛 0 \| 📅 2021-08-07]                                                                                                                                                                                                |
+| BiG-Fed: Bilevel Optimization Enhanced Graph-Aided Federated Learning                                                                 | IEEE Transactions on Big Data                          | 2022 | \[[PUB](https://ieeexplore.ieee.org/abstract/document/9832778)] \[[PDF](https://fl-icml.github.io/2021/papers/FL-ICML21_paper_74.pdf)]                                                                                                                                                                                                         |
+| Leveraging Spanning Tree to Detect Colluding Attackers in Federated Learning                                                          | INFCOM Workshops                                       | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9798077)]                                                                                                                                                                                                                                                                                         |
+| Federated learning of molecular properties with graph neural networks in a heterogeneous setting                                      | Patterns                                               | 2022 | \[[PUB](https://linkinghub.elsevier.com/retrieve/pii/S2666389922001180)] \[[PDF](https://arxiv.org/abs/2109.07258)] \[[CODE](https://doi.org/10.5281/zenodo.6485682)]                                                                                                                                                                          |
+| Graph Federated Learning for CIoT Devices in Smart Home Applications                                                                  | IEEE Internet Things J.                                | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9983539)] \[[PDF](https://arxiv.org/abs/2212.14395)] \[[CODE](https://github.com/FL-HAR/Graph-Federated-Learning-for-CIoT-Devices.git) ⭐ 5 \| 🐛 0 \| 🌐 Python \| 📅 2023-07-25]                                                                                                                 |
+| Multi-Level Federated Graph Learning and Self-Attention Based Personalized Wi-Fi Indoor Fingerprint Localization                      | IEEE Commun. Lett.                                     | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9734052)]                                                                                                                                                                                                                                                                                         |
+| Graph-Assisted Communication-Efficient Ensemble Federated Learning                                                                    | EUSIPCO                                                | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9909826)] \[[PDF](https://arxiv.org/abs/2202.13447)]                                                                                                                                                                                                                                              |
+| Decentralized Graph Federated Multitask Learning for Streaming Data                                                                   | CISS                                                   | 2022 | \[[PUB](https://doi.org/10.1109/CISS53076.2022.9751160)]                                                                                                                                                                                                                                                                                       |
+| Neural graph collaborative filtering for privacy preservation based on federated transfer learning                                    | Electron. Libr.                                        | 2022 | \[[PUB](https://www.emerald.com/insight/content/doi/10.1108/EL-06-2022-0141/full/html)]                                                                                                                                                                                                                                                        |
+| Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking in Healthcare Applications                            | JBHI                                                   | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9648036)]                                                                                                                                                                                                                                                                                         |
+| FedGCN: Federated Learning-Based Graph Convolutional Networks for Non-Euclidean Spatial Data                                          | Mathematics                                            | 2022 | \[[PUB](https://www.mdpi.com/2227-7390/10/6/1000)]                                                                                                                                                                                                                                                                                             |
+| Federated Dynamic Graph Neural Networks with Secure Aggregation for Video-based Distributed Surveillance                              | ACM Trans. Intell. Syst. Technol.                      | 2022 | \[[PUB](https://dl.acm.org/doi/10.1145/3501808)] \[[PDF](https://arxiv.org/abs/2009.07351)] \[[解读](https://zhuanlan.zhihu.com/p/441686576)]                                                                                                                                                                                                    |
+| Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms, and Implementation.                                         | INFOCOM :mortar\_board:                                | 2021 | \[[PUB](https://ieeexplore.ieee.org/document/9488906)] \[[PDF](https://arxiv.org/abs/2101.00787)]                                                                                                                                                                                                                                              |
+| Federated Graph Classification over Non-IID Graphs                                                                                    | NeurIPS :mortar\_board:                                | 2021 | \[[PUB](https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html)] \[[PDF](https://arxiv.org/abs/2106.13423)] \[[CODE](https://github.com/Oxfordblue7/GCFL) ⭐ 45 \| 🐛 1 \| 🌐 Python \| 📅 2023-06-08] \[[解读](https://zhuanlan.zhihu.com/p/430623053)]                                                           |
+| Subgraph Federated Learning with Missing Neighbor Generation                                                                          | NeurIPS :mortar\_board:                                | 2021 | \[[PUB](https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html)] \[[PDF](https://arxiv.org/abs/2106.13430)]                                                                                                                                                                                                  |
+| Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling                                                           | KDD :mortar\_board:                                    | 2021 | \[[PUB](https://dl.acm.org/doi/10.1145/3447548.3467371)] \[[PDF](https://arxiv.org/abs/2106.05223)] \[[CODE](https://github.com/mengcz13/KDD2021_CNFGNN) ⭐ 69 \| 🐛 3 \| 🌐 Jupyter Notebook \| 📅 2021-10-18] \[[解读](https://zhuanlan.zhihu.com/p/434839878)]                                                                                 |
+| Differentially Private Federated Knowledge Graphs Embedding **`kg.`**                                                                 | CIKM                                                   | 2021 | \[[PUB](https://dl.acm.org/doi/10.1145/3459637.3482252)] \[[PDF](https://arxiv.org/abs/2105.07615)] \[[CODE](https://github.com/HKUST-KnowComp/FKGE) ⭐ 33 \| 🐛 0 \| 🌐 Python \| 📅 2022-12-06] \[[解读](https://zhuanlan.zhihu.com/p/437895959)]                                                                                               |
+| Decentralized Federated Graph Neural Networks                                                                                         | IJCAI Workshop                                         | 2021 | \[[PDF](https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_20.pdf)]                                                                                                                                                                                                                                                                |
+| FedSGC: Federated Simple Graph Convolution for Node Classification                                                                    | IJCAI Workshop                                         | 2021 | \[[PDF](https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_5.pdf)]                                                                                                                                                                                                                                                                 |
+| FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule Drug Discovery: Special Session Paper                     | ICCAD                                                  | 2021 | \[[PUB](https://doi.org/10.1109/ICCAD51958.2021.9643440)]                                                                                                                                                                                                                                                                                      |
+| FASTGNN: A Topological Information Protected Federated Learning Approach for Traffic Speed Forecasting                                | IEEE Trans. Ind. Informatics                           | 2021 | \[[PUB](https://ieeexplore.ieee.org/document/9340313)]                                                                                                                                                                                                                                                                                         |
+| DAG-FL: Direct Acyclic Graph-based Blockchain Empowers On-Device Federated Learning                                                   | ICC                                                    | 2021 | \[[PUB](https://doi.org/10.1109/ICC42927.2021.9500737)] \[[PDF](https://arxiv.org/abs/2104.13092)]                                                                                                                                                                                                                                             |
+| FedE: Embedding Knowledge Graphs in Federated Setting **`kg.`**                                                                       | IJCKG                                                  | 2021 | \[[PUB](https://doi.org/10.1145/3502223.3502233)] \[[PDF](https://arxiv.org/abs/2010.12882)] \[[CODE](https://github.com/AnselCmy/FedE) ⭐ 24 \| 🐛 2 \| 🌐 Python \| 📅 2022-04-15]                                                                                                                                                            |
+| Federated Knowledge Graph Embeddings with Heterogeneous Data **`kg.`**                                                                | CCKS                                                   | 2021 | \[[PUB](https://doi.org/10.1007/978-981-16-6471-7_2)]                                                                                                                                                                                                                                                                                          |
+| A Graph Federated Architecture with Privacy Preserving Learning                                                                       | SPAWC                                                  | 2021 | \[[PUB](https://doi.org/10.1109/SPAWC51858.2021.9593148)] \[[PDF](https://arxiv.org/abs/2104.13215)] \[[解读](https://zhuanlan.zhihu.com/p/440809332)]                                                                                                                                                                                           |
+| Federated Social Recommendation with Graph Neural Network                                                                             | ACM TIST                                               | 2021 | \[[PUB](https://dl.acm.org/doi/abs/10.1145/3501815)] \[[PDF](https://arxiv.org/abs/2111.10778)] \[[CODE](https://github.com/YangLiangwei/FeSoG) ⭐ 28 \| 🐛 2 \| 🌐 Python \| 📅 2022-11-22]                                                                                                                                                    |
+| FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks :fire: **`surv.`**                                    | ICLR Workshop / MLSys Workshop                         | 2021 | \[[PDF](https://arxiv.org/abs/2104.07145)] \[[CODE](https://github.com/FedML-AI/FedGraphNN) ⭐ 184 \| 🐛 8 \| 📅 2023-12-19] \[[解读](https://zhuanlan.zhihu.com/p/429220636)]                                                                                                                                                                    |
+| A Federated Multigraph Integration Approach for Connectional Brain Template Learning                                                  | MICCAI Workshop                                        | 2021 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-030-89847-2_4)] \[[CODE](https://github.com/basiralab/Fed-CBT) ⭐ 4 \| 🐛 0 \| 🌐 Python \| 📅 2021-12-28]                                                                                                                                                                              |
+| Cluster-driven Graph Federated Learning over Multiple Domains                                                                         | CVPR Workshop                                          | 2021 | \[[PDF](https://arxiv.org/abs/2104.14628)] \[[解读](https://zhuanlan.zhihu.com/p/440527314)]                                                                                                                                                                                                                                                     |
+| FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation                                                          | ICML workshop                                          | 2021 | \[[PDF](https://arxiv.org/abs/2102.04925)] \[[解读](https://zhuanlan.zhihu.com/p/428783383)]                                                                                                                                                                                                                                                     |
+| Decentralized federated learning of deep neural networks on non-iid data                                                              | ICML workshop                                          | 2021 | \[[PDF](https://arxiv.org/abs/2107.08517)] \[[CODE](https://github.com/guskarls/dfl-pens)]                                                                                                                                                                                                                                                     |
+| Glint: Decentralized Federated Graph Learning with Traffic Throttling and Flow Scheduling                                             | IWQoS                                                  | 2021 | \[[PUB](https://doi.org/10.1109/IWQOS52092.2021.9521331)]                                                                                                                                                                                                                                                                                      |
+| Federated Graph Neural Network for Cross-graph Node Classification                                                                    | CCIS                                                   | 2021 | \[[PUB](https://doi.org/10.1109/CCIS53392.2021.9754598)]                                                                                                                                                                                                                                                                                       |
+| GraFeHTy: Graph Neural Network using Federated Learning for Human Activity Recognition                                                | ICMLA                                                  | 2021 | \[[PUB](https://doi.org/10.1109/ICMLA52953.2021.00184)]                                                                                                                                                                                                                                                                                        |
+| Distributed Training of Graph Convolutional Networks                                                                                  | TSIPN                                                  | 2021 | \[[PUB](https://ieeexplore.ieee.org/document/9303371)] \[[PDF](https://arxiv.org/abs/2007.06281)] \[[解读](https://zhuanlan.zhihu.com/p/433329525)]                                                                                                                                                                                              |
+| Decentralized federated learning for electronic health records                                                                        | NeurIPS Workshop / CISS                                | 2020 | \[[PUB](https://ieeexplore.ieee.org/abstract/document/9086196)] \[[PDF](https://arxiv.org/abs/1912.01792)] \[[解读](https://zhuanlan.zhihu.com/p/448738120)]                                                                                                                                                                                     |
+| ASFGNN: Automated Separated-Federated Graph Neural Network                                                                            | PPNA                                                   | 2020 | \[[PUB](https://doi.org/10.1007/s12083-021-01074-w)] \[[PDF](https://arxiv.org/abs/2011.03248)] \[[解读](https://zhuanlan.zhihu.com/p/431283541)]                                                                                                                                                                                                |
+| Decentralized federated learning via sgd over wireless d2d networks                                                                   | SPAWC                                                  | 2020 | \[[PUB](https://ieeexplore.ieee.org/document/9154332)] \[[PDF](https://arxiv.org/abs/2002.12507)]                                                                                                                                                                                                                                              |
+| SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure                                                    | BigData                                                | 2019 | \[[PUB](https://ieeexplore.ieee.org/document/9005983)] \[[PDF](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)] |
+| Towards Federated Graph Learning for Collaborative Financial Crimes Detection                                                         | NeurIPS Workshop                                       | 2019 | \[[PDF](https://arxiv.org/abs/1909.12946)]                                                                                                                                                                                                                                                                                                     |
+| Federated learning of predictive models from federated Electronic Health Records :star:                                               | Int. J. Medical Informatics                            | 2018 | \[[PUB](https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub)]                                                                                                                                                                                                                                                   |
+| FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks.                                                                | preprint                                               | 2023 | \[[PDF](https://arxiv.org/abs/2305.09729)] \[[CODE](https://github.com/cynricfu/FedHGN) ⭐ 23 \| 🐛 0 \| 🌐 Python \| 📅 2023-09-15]                                                                                                                                                                                                            |
+| Graph-guided Personalization for Federated Recommendation.                                                                            | preprint                                               | 2023 | \[[PDF](https://arxiv.org/abs/2305.07866)]                                                                                                                                                                                                                                                                                                     |
+| GraphGANFed: A Federated Generative Framework for Graph-Structured Molecules Towards Efficient Drug Discovery.                        | preprint                                               | 2023 | \[[PDF](https://arxiv.org/abs/2304.05498)]                                                                                                                                                                                                                                                                                                     |
+| GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data                              | preprint                                               | 2023 | \[[PDF](https://arxiv.org/abs/2303.09531)]                                                                                                                                                                                                                                                                                                     |
+| Vertical Federated Graph Neural Network for Recommender System                                                                        | preprint                                               | 2023 | \[[PDF](https://arxiv.org/abs/2303.05786)] \[[CODE](https://github.com/maiph123/verticalgnn) ⭐ 8 \| 🐛 1 \| 🌐 Python \| 📅 2023-07-27]                                                                                                                                                                                                        |
+| Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices                                                        | preprint                                               | 2023 | \[[PDF](https://arxiv.org/abs/2303.00492)]                                                                                                                                                                                                                                                                                                     |
+| Securing IoT Communication using Physical Sensor Data - Graph Layer Security  with Federated Multi-Agent Deep Reinforcement Learning. | preprint                                               | 2023 | \[[PDF](https://arxiv.org/abs/2302.12592)]                                                                                                                                                                                                                                                                                                     |
+| Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.                                                            | preprint                                               | 2023 | \[[PDF](https://arxiv.org/abs/2302.02069)]                                                                                                                                                                                                                                                                                                     |
+| Uplink Scheduling in Federated Learning: an Importance-Aware Approach via Graph Representation Learning                               | preprint                                               | 2023 | \[[PDF](https://arxiv.org/abs/2301.11903)]                                                                                                                                                                                                                                                                                                     |
+| Graph Federated Learning with Hidden Representation Sharing                                                                           | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2212.12158)]                                                                                                                                                                                                                                                                                                     |
+| M3FGM:a node masking and multi-granularity message passing-based federated graph model for spatial-temporal data prediction           | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2210.16193)]                                                                                                                                                                                                                                                                                                     |
+| Federated Graph-based Networks with Shared Embedding                                                                                  | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2210.01803)]                                                                                                                                                                                                                                                                                                     |
+| Privacy-preserving Decentralized Federated Learning over Time-varying Communication Graph                                             | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2210.00325)]                                                                                                                                                                                                                                                                                                     |
+| Heterogeneous Federated Learning on a Graph.                                                                                          | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2209.08737)]                                                                                                                                                                                                                                                                                                     |
+| FedEgo: Privacy-preserving Personalized Federated Graph Learning with Ego-graphs                                                      | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2208.13685)] \[[CODE](https://github.com/fedego/fedego) ⭐ 17 \| 🐛 0 \| 🌐 Python \| 📅 2024-08-05]                                                                                                                                                                                                              |
+| Federated Graph Contrastive Learning                                                                                                  | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2207.11836)]                                                                                                                                                                                                                                                                                                     |
+| FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR                              | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2207.05750)]                                                                                                                                                                                                                                                                                                     |
+| Privacy-preserving Graph Analytics: Secure Generation and Federated Learning                                                          | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2207.00048)]                                                                                                                                                                                                                                                                                                     |
+| Federated Graph Attention Network for Rumor Detection                                                                                 | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2206.05713)] \[[CODE](https://github.com/baichuanzheng1/fedgat)]                                                                                                                                                                                                                                                 |
+| FedRel: An Adaptive Federated Relevance Framework for Spatial Temporal Graph Learning                                                 | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2206.03420)]                                                                                                                                                                                                                                                                                                     |
+| Privatized Graph Federated Learning                                                                                                   | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2203.07105)]                                                                                                                                                                                                                                                                                                     |
+| Federated Graph Neural Networks: Overview, Techniques and Challenges **`surv.`**                                                      | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2202.07256)]                                                                                                                                                                                                                                                                                                     |
+| Decentralized event-triggered federated learning with heterogeneous communication thresholds.                                         | preprint                                               | 2022 | \[[PDF](https://github.com/ShahryarBQ/EF_HC) ⭐ 4 \| 🐛 0 \| 🌐 Python \| 📅 2022-04-12]                                                                                                                                                                                                                                                        |
+| Federated Learning with Heterogeneous Architectures using Graph HyperNetworks                                                         | preprint                                               | 2022 | \[[PDF](https://arxiv.org/abs/2201.08459)]                                                                                                                                                                                                                                                                                                     |
+| STFL: A Temporal-Spatial Federated Learning Framework for Graph Neural Networks                                                       | preprint                                               | 2021 | \[[PDF](https://arxiv.org/abs/2111.06750)] \[[CODE](https://github.com/jw9msjwjnpdrlfw/tsfl) ⭐ 9 \| 🐛 0 \| 🌐 Python \| 📅 2022-03-10]                                                                                                                                                                                                        |
+| PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method                                                  | preprint                                               | 2021 | \[[PDF](https://arxiv.org/abs/2110.12906)]                                                                                                                                                                                                                                                                                                     |
+| Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in Digital Libraries **`kg.`**                                  | preprint                                               | 2021 | \[[PDF](https://arxiv.org/abs/2107.05447)]                                                                                                                                                                                                                                                                                                     |
+| Federated Myopic Community Detection with One-shot Communication                                                                      | preprint                                               | 2021 | \[[PDF](https://arxiv.org/abs/2106.07255)]                                                                                                                                                                                                                                                                                                     |
+| Federated Graph Learning -- A Position Paper **`surv.`**                                                                              | preprint                                               | 2021 | \[[PDF](https://arxiv.org/abs/2105.11099)]                                                                                                                                                                                                                                                                                                     |
+| A Vertical Federated Learning Framework for Graph Convolutional Network                                                               | preprint                                               | 2021 | \[[PDF](https://arxiv.org/abs/2106.11593)]                                                                                                                                                                                                                                                                                                     |
+| FedGL: Federated Graph Learning Framework with Global Self-Supervision                                                                | preprint                                               | 2021 | \[[PDF](https://arxiv.org/abs/2105.03170)]                                                                                                                                                                                                                                                                                                     |
+| FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search                                               | preprint                                               | 2021 | \[[PDF](https://arxiv.org/abs/2104.04141)]                                                                                                                                                                                                                                                                                                     |
+| A New Look and Convergence Rate of Federated Multi-Task Learning with Laplacian Regularization                                        | preprint                                               | 2021 | \[[PDF](https://arxiv.org/abs/2102.07148)] \[[CODE](https://github.com/dual-grp/fedu_fmtl) ⭐ 17 \| 🐛 1 \| 🌐 Python \| 📅 2021-02-14]                                                                                                                                                                                                         |
+| Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty **`kg.`**                                         | preprint                                               | 2020 | \[[PDF](https://arxiv.org/abs/2011.11369)]                                                                                                                                                                                                                                                                                                     |
+| GraphFederator: Federated Visual Analysis for Multi-party Graphs                                                                      | preprint                                               | 2020 | \[[PDF](https://arxiv.org/abs/2008.11989)]                                                                                                                                                                                                                                                                                                     |
+| Privacy-Preserving Graph Neural Network for Node Classification                                                                       | preprint                                               | 2020 | \[[PDF](https://arxiv.org/abs/2005.11903)]                                                                                                                                                                                                                                                                                                     |
+| Peer-to-peer federated learning on graphs                                                                                             | preprint                                               | 2019 | \[[PDF](https://arxiv.org/abs/1901.11173)] \[[解读](https://zhuanlan.zhihu.com/p/441944011)]                                                                                                                                                                                                                                                     |
+
+<!-- END:fl-on-graph-data-and-graph-neural-network -->
+
+</details>
+
+### Private Graph Neural Networks (todo)
+
+* \[Arxiv 2021] Privacy-Preserving Graph Convolutional Networks for Text Classification. [\[PDF\]](https://arxiv.org/abs/2102.09604)
+* \[Arxiv 2021] GraphMI: Extracting Private Graph Data from Graph Neural Networks. [\[PDF\]](https://arxiv.org/abs/2106.02820)
+* \[Arxiv 2021] Towards Representation Identical Privacy-Preserving Graph Neural Network via Split Learning. [\[PDF\]](https://arxiv.org/abs/2107.05917)
+* \[Arxiv 2020] Locally Private Graph Neural Networks. [\[PDF\]](https://arxiv.org/abs/2006.05535)
+
+<details open>
+<summary>Private Graph Neural Networks (todo)</summary>
+<!-- START:private-graph-neural-networks -->
+
+<!-- END:private-graph-neural-networks -->
+
+</details>
+
+## fl on tabular data
+
+[![dblp](https://img.shields.io/badge/dynamic/json?label=dblp\&query=%24.result.hits\[%27%40total%27\]\&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%257CXGBoost%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest%7CXGBoost)
+
+This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest) search engine.
+
+<details open>
+<summary>fl on tabular data</summary>
+
+<!-- START:fl-on-tabular-data -->
+
+| Title                                                                                                                                                     | Venue                                                 | Year | Materials                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SGBoost: An Efficient and Privacy-Preserving Vertical Federated Tree Boosting Framework                                                                   | IEEE Trans. Inf. Forensics Secur. :mortar\_board:     | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/10002374)] \[[CODE](https://github.com/nds2022/SGBoost) ⭐ 6 \| 🐛 0 \| 📅 2022-06-02]                                                                                                                                                                                                                                                                                                                                                            |
+| Incentive-boosted Federated Crowdsourcing                                                                                                                 | AAAI :mortar\_board:                                  | 2023 | \[[PDF](https://arxiv.org/abs/2211.14439)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Explaining predictions and attacks in federated learning via random forests                                                                               | Appl. Intell.                                         | 2023 | \[[PUB](https://link.springer.com/article/10.1007/s10489-022-03435-1)] \[[CODE](https://github.com/RamiHaf/Explainable-Federated-Learning-via-Random-Forests) ⭐ 6 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2021-02-01]                                                                                                                                                                                                                                                                            |
+| Boosting Accuracy of Differentially Private Federated Learning in Industrial IoT With Sparse Responses                                                    | IEEE Trans. Ind. Informatics                          | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/9743613)]                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Driver Drowsiness EEG Detection Based on Tree Federated Learning and Interpretable Network.                                                               | Int. J. Neural Syst.                                  | 2023 | \[[PUB](https://www.worldscientific.com/doi/10.1142/S0129065723500090)]                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| FDPBoost: Federated differential privacy gradient boosting decision trees.                                                                                | J. Inf. Secur. Appl.                                  | 2023 | \[[PUB](https://www.sciencedirect.com/science/article/abs/pii/S2214212623000522?via%3Dihub)]                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Gradient-less Federated Gradient Boosting Trees with Learnable Learning Rates.                                                                            | EuroMLSys                                             | 2023 | \[[PUB](https://dl.acm.org/doi/10.1145/3578356.3592579)] \[[PDF](https://arxiv.org/abs/2304.07537)]                                                                                                                                                                                                                                                                                                                                                                                           |
+| HT-Fed-GAN: Federated Generative Model for Decentralized Tabular Data Synthesis                                                                           | Entropy                                               | 2023 | \[[PUB](https://www.mdpi.com/1099-4300/25/1/88)]                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Blockchain-Based Swarm Learning for the Mitigation of Gradient Leakage in Federated Learning                                                              | IEEE Access                                           | 2023 | \[[PUB](https://ieeexplore.ieee.org/document/10047894)]                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization                                                           | Proc. VLDB Endow. :mortar\_board:                     | 2022 | \[[PUB](https://www.vldb.org/pvldb/volumes/16/paper/OpBoost%3A%20A%20Vertical%20Federated%20Tree%20Boosting%20Framework%20Based%20on%20Order-Preserving%20Desensitization)] \[[PDF](https://arxiv.org/abs/2210.01318)] \[[CODE](https://github.com/alibaba-edu/mpc4j/tree/main/mpc4j-sml-opboost) ⭐ 261 \| 🐛 4 \| 🌐 Java \| 📅 2026-04-02]                                                                                                                                                  |
+| RevFRF: Enabling Cross-Domain Random Forest Training With Revocable Federated Learning                                                                    | IEEE Trans. Dependable Secur. Comput. :mortar\_board: | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9514457)] \[[PDF](https://arxiv.org/abs/1911.03242)]                                                                                                                                                                                                                                                                                                                                                                                             |
+| A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources                                        | ICML :mortar\_board:                                  | 2022 | \[[PUB](https://proceedings.mlr.press/v162/tan22a.html)] \[[PDF](https://arxiv.org/abs/2103.06261)] \[[CODE](https://github.com/ellenxtan/ifedtree) ⭐ 14 \| 🐛 0 \| 🌐 R \| 📅 2023-03-23]                                                                                                                                                                                                                                                                                                    |
+| Federated Boosted Decision Trees with Differential Privacy                                                                                                | CCS :mortar\_board:                                   | 2022 | \[[PUB](https://dl.acm.org/doi/10.1145/3548606.3560687)] \[[PDF](https://arxiv.org/abs/2210.02910)] \[[CODE](https://github.com/Samuel-Maddock/federated-boosted-dp-trees) ⭐ 58 \| 🐛 2 \| 🌐 Python \| 📅 2023-10-19]                                                                                                                                                                                                                                                                        |
+| Federated Functional Gradient Boosting                                                                                                                    | AISTATS :mortar\_board:                               | 2022 | \[[PUB](https://proceedings.mlr.press/v151/shen22a.html)] \[[PDF](https://arxiv.org/abs/2103.06972)] \[[CODE](https://github.com/shenzebang/Federated-Learning-Pytorch) ⭐ 40 \| 🐛 4 \| 🌐 Python \| 📅 2023-09-25]                                                                                                                                                                                                                                                                           |
+| Tree-Based Models for Federated Learning Systems.                                                                                                         | Federated Learning                                    | 2022 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-030-96896-0_2)]                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Federated Learning for Tabular Data using TabNet: A Vehicular Use-Case                                                                                    | ICCP                                                  | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/10053975)]                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Federated Learning for Tabular Data: Exploring Potential Risk to Privacy                                                                                  | ISSRE                                                 | 2022 | \[[PDF](https://arxiv.org/abs/2210.06856)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Federated Random Forests can improve local performance of predictive models for various healthcare applications                                           | Bioinform.                                            | 2022 | \[[PUB](https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214)] \[[CODE](https://featurecloud.ai/)]                                                                                                                                                                                                                                                                                                                                                                      |
+| FLForest: Byzantine-robust Federated Learning through Isolated Forest                                                                                     | ICPADS                                                | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/10077947)]                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Boosting the Federation: Cross-Silo Federated Learning without Gradient Descent.                                                                          | IJCNN                                                 | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9892284)] \[[CODE](https://github.com/ml-unito/federation_boosting) ⭐ 7 \| 🐛 1 \| 🌐 Python \| 📅 2023-05-15]                                                                                                                                                                                                                                                                                                                                   |
+| Federated Forest                                                                                                                                          | TBD                                                   | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9088965)] \[[PDF](https://arxiv.org/abs/1905.10053)]                                                                                                                                                                                                                                                                                                                                                                                             |
+| Sliding Focal Loss for Class Imbalance Classification in Federated XGBoost.                                                                               | ISPA/BDCloud/SocialCom/SustainCom                     | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/10070688)]                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Neural gradient boosting in federated learning for hemodynamic instability  prediction: towards a distributed and scalable deep learning-based  solution. | AMIA                                                  | 2022 | \[[PUB](https://knowledge.amia.org/76677-amia-1.4637602/f006-1.4642154/f006-1.4642155/917-1.4642324/604-1.4642321?qr=1)]                                                                                                                                                                                                                                                                                                                                                                      |
+| Fed-GBM: a cost-effective federated gradient boosting tree for non-intrusive load monitoring                                                              | e-Energy                                              | 2022 | \[[PUB](https://dl.acm.org/doi/10.1145/3538637.3538840)]                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Verifiable Privacy-Preserving Scheme Based on Vertical Federated Random Forest                                                                            | IEEE Internet Things J.                               | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9461157)]                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Statistical Detection of Adversarial examples in Blockchain-based Federated Forest In-vehicle Network Intrusion Detection Systems                         | IEEE Access                                           | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9912427)] \[[PDF](https://arxiv.org/abs/2207.04843)]                                                                                                                                                                                                                                                                                                                                                                                             |
+| BOFRF: A Novel Boosting-Based Federated Random Forest Algorithm on Horizontally Partitioned Data                                                          | IEEE Access                                           | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9867984/)]                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees                                                                              | IEEE Access                                           | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9761890)]                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| An Efficient Learning Framework for Federated XGBoost Using Secret Sharing and Distributed Optimization                                                   | ACM Trans. Intell. Syst. Technol.                     | 2022 | \[[PUB](https://dl.acm.org/doi/10.1145/3523061)] \[[PDF](https://arxiv.org/abs/2105.05717)] \[[CODE](https://github.com/HikariX/MP-FedXGB) ⭐ 32 \| 🐛 0 \| 🌐 Python \| 📅 2025-03-08]                                                                                                                                                                                                                                                                                                        |
+| An optional splitting extraction based gain-AUPRC balanced strategy in  federated XGBoost for mitigating imbalanced credit card fraud detection           | Int. J. Bio Inspired Comput.                          | 2022 | \[[PUB](https://www.inderscience.com/offer.php?id=126793)]                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Random Forest Based on Federated Learning for Intrusion Detection                                                                                         | AIAI                                                  | 2022 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-031-08333-4_11)]                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Cross-silo federated learning based decision trees                                                                                                        | SAC                                                   | 2022 | \[[PUB](https://dl.acm.org/doi/10.1145/3477314.3507149)]                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Leveraging Spanning Tree to Detect Colluding Attackers in Federated Learning                                                                              | INFCOM Workshops                                      | 2022 | \[[PUB](https://ieeexplore.ieee.org/document/9798077)]                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning                                                                    | SIGMOD :mortar\_board:                                | 2021 | \[[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241)]                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Boosting with Multiple Sources                                                                                                                            | NeurIPS:mortar\_board:                                | 2021 | \[[PUB](https://openreview.net/forum?id=1oP1duoZxx)]                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| SecureBoost: A Lossless Federated Learning Framework :fire:                                                                                               | IEEE Intell. Syst.                                    | 2021 | \[[PUB](https://ieeexplore.ieee.org/document/9440789/)] \[[PDF](https://arxiv.org/abs/1901.08755)] \[[SLIDE](https://fate.readthedocs.io/en/latest/resources/SecureBoost-ijcai2019-workshop.pdf)] \[[CODE](https://github.com/FederatedAI/FATE/tree/master/python/federatedml/ensemble/secureboost) ⭐ 6,100 \| 🐛 17 \| 🌐 Python \| 📅 2024-11-19] \[[解读](https://zhuanlan.zhihu.com/p/545739311)] \[[UC](https://github.com/Koukyosyumei/AIJack) ⭐ 429 \| 🐛 10 \| 🌐 C++ \| 📅 2026-05-30] |
+| A Blockchain-Based Federated Forest for SDN-Enabled In-Vehicle Network Intrusion Detection System                                                         | IEEE Access                                           | 2021 | \[[PUB](https://ieeexplore.ieee.org/document/9471858)]                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Research on privacy protection of multi source data based on improved gbdt federated ensemble method with different metrics                               | Phys. Commun.                                         | 2021 | \[[PUB](https://www.sciencedirect.com/science/article/pii/S1874490721000847)]                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Fed-EINI: An Efficient and Interpretable Inference Framework for Decision Tree Ensembles in Vertical Federated Learning                                   | IEEE BigData                                          | 2021 | \[[PUB](https://ieeexplore.ieee.org/document/9671749)] \[[PDF](https://arxiv.org/abs/2105.09540)]                                                                                                                                                                                                                                                                                                                                                                                             |
+| Gradient Boosting Forest: a Two-Stage Ensemble Method Enabling Federated Learning of GBDTs                                                                | ICONIP                                                | 2021 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_7)]                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| A k-Anonymised Federated Learning Framework with Decision Trees                                                                                           | DPM/CBT @ESORICS                                      | 2021 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-030-93944-1_7)]                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| AF-DNDF: Asynchronous Federated Learning of Deep Neural Decision Forests                                                                                  | SEAA                                                  | 2021 | \[[PUB](https://ieeexplore.ieee.org/document/9582575)]                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Compression Boosts Differentially Private Federated Learning                                                                                              | EuroS\&P                                              | 2021 | \[[PUB](https://ieeexplore.ieee.org/document/9581200)] \[[PDF](https://arxiv.org/abs/2011.05578)]                                                                                                                                                                                                                                                                                                                                                                                             |
+| Practical Federated Gradient Boosting Decision Trees                                                                                                      | AAAI :mortar\_board:                                  | 2020 | \[[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/5895)] \[[PDF](https://arxiv.org/abs/1911.04206)] \[[CODE](https://github.com/Xtra-Computing/SimFL) ⭐ 18 \| 🐛 1 \| 🌐 C++ \| 📅 2023-05-10]                                                                                                                                                                                                                                                                                         |
+| Privacy Preserving Vertical Federated Learning for Tree-based Models                                                                                      | VLDB :mortar\_board:                                  | 2020 | \[[PUB](http://vldb.org/pvldb/vol13/p2090-wu.pdf)] \[[PDF](https://arxiv.org/abs/2008.06170)] \[[VIDEO](https://www.youtube.com/watch?v=sjii8oVCqiY)] \[[CODE](https://github.com/nusdbsystem/pivot) ⭐ 31 \| 🐛 0 \| 🌐 C++ \| 📅 2021-11-11]                                                                                                                                                                                                                                                 |
+| Boosting Privately: Federated Extreme Gradient Boosting for Mobile Crowdsensing                                                                           | ICDCS                                                 | 2020 | \[[PUB](https://ieeexplore.ieee.org/document/9355600)] \[[PDF](https://arxiv.org/abs/1907.10218)]                                                                                                                                                                                                                                                                                                                                                                                             |
+| FedCluster: Boosting the Convergence of Federated Learning via Cluster-Cycling                                                                            | IEEE BigData                                          | 2020 | \[[PUB](https://ieeexplore.ieee.org/document/9377960)] \[[PDF](https://arxiv.org/abs/2009.10748)]                                                                                                                                                                                                                                                                                                                                                                                             |
+| New Approaches to Federated XGBoost Learning for Privacy-Preserving Data Analysis                                                                         | ICONIP                                                | 2020 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_47)]                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Bandwidth Slicing to Boost Federated Learning Over Passive Optical Networks                                                                               | IEEE Communications Letters                           | 2020 | \[[PUB](https://ieeexplore.ieee.org/document/9044640)]                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| DFedForest: Decentralized Federated Forest                                                                                                                | Blockchain                                            | 2020 | \[[PUB](https://ieeexplore.ieee.org/document/9284805/)]                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Straggler Remission for Federated Learning via Decentralized Redundant Cayley Tree                                                                        | LATINCOM                                              | 2020 | \[[PUB](https://ieeexplore.ieee.org/document/9282334)]                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Federated Soft Gradient Boosting Machine for Streaming Data                                                                                               | Federated Learning                                    | 2020 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_7)] \[[解读](https://www.leiphone.com/category/academic/4tVdYDuYTA293NCy.html)]                                                                                                                                                                                                                                                                                                                                             |
+| Federated Learning of Deep Neural Decision Forests                                                                                                        | LOD                                                   | 2019 | \[[PUB](https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58)]                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables.                                                    | preprint                                              | 2023 | \[[PDF](https://arxiv.org/abs/2305.12652)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection.                                       | preprint                                              | 2023 | \[[PDF](https://arxiv.org/abs/2305.11654)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| GTV: Generating Tabular Data via Vertical Federated Learning                                                                                              | preprint                                              | 2023 | \[[PDF](https://arxiv.org/abs/2302.01706)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Federated Survival Forests                                                                                                                                | preprint                                              | 2023 | \[[PDF](https://arxiv.org/abs/2302.02807)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data                                                                                              | preprint                                              | 2022 | \[[PDF](https://arxiv.org/abs/2211.13116)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Data Leakage in Tabular Federated Learning                                                                                                                | preprint                                              | 2022 | \[[PDF](https://arxiv.org/abs/2210.01785)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Boost Decentralized Federated Learning in Vehicular Networks by Diversifying Data Sources                                                                 | preprint                                              | 2022 | \[[PDF](https://arxiv.org/abs/2209.01750)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Federated XGBoost on Sample-Wise Non-IID Data                                                                                                             | preprint                                              | 2022 | \[[PDF](https://arxiv.org/abs/2209.01340)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Hercules: Boosting the Performance of Privacy-preserving Federated Learning                                                                               | preprint                                              | 2022 | \[[PDF](https://arxiv.org/abs/2207.04620)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| FedGBF: An efficient vertical federated learning framework via gradient boosting and bagging                                                              | preprint                                              | 2022 | \[[PDF](https://arxiv.org/abs/2204.00976)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| A Fair and Efficient Hybrid Federated Learning Framework based on XGBoost for Distributed Power Prediction.                                               | preprint                                              | 2022 | \[[PDF](https://arxiv.org/abs/2201.02783)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| An Efficient and Robust System for Vertically Federated Random Forest                                                                                     | preprint                                              | 2022 | \[[PDF](https://arxiv.org/abs/2201.10761)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Efficient Batch Homomorphic Encryption for Vertically Federated XGBoost.                                                                                  | preprint                                              | 2021 | \[[PDF](https://arxiv.org/abs/2112.04261)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Guess what? You can boost Federated Learning for free                                                                                                     | preprint                                              | 2021 | \[[PDF](https://arxiv.org/abs/2110.11486)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| SecureBoost+ : A High Performance Gradient Boosting Tree Framework for Large Scale Vertical Federated Learning :fire:                                     | preprint                                              | 2021 | \[[PDF](https://arxiv.org/abs/2110.10927)] \[[CODE](https://github.com/FederatedAI/FATE) ⭐ 6,100 \| 🐛 17 \| 🌐 Python \| 📅 2024-11-19]                                                                                                                                                                                                                                                                                                                                                      |
+| Fed-TGAN: Federated Learning Framework for Synthesizing Tabular Data                                                                                      | preprint                                              | 2021 | \[[PDF](https://arxiv.org/abs/2108.07927)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| FedXGBoost: Privacy-Preserving XGBoost for Federated Learning                                                                                             | preprint                                              | 2021 | \[[PDF](https://arxiv.org/abs/2106.10662)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Adaptive Histogram-Based Gradient Boosted Trees for Federated Learning                                                                                    | preprint                                              | 2020 | \[[PDF](https://arxiv.org/abs/2012.06670)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| FederBoost: Private Federated Learning for GBDT                                                                                                           | preprint                                              | 2020 | \[[PDF](https://arxiv.org/abs/2011.02796)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Privacy Preserving Text Recognition with Gradient-Boosting for Federated Learning                                                                         | preprint                                              | 2020 | \[[PDF](https://arxiv.org/abs/2007.07296)] \[[CODE](https://github.com/rand2ai/fedboost) ⭐ 7 \| 🐛 1 \| 🌐 Python \| 📅 2023-12-13]                                                                                                                                                                                                                                                                                                                                                           |
+| Cloud-based Federated Boosting for Mobile Crowdsensing                                                                                                    | preprint                                              | 2020 | \[[ARXIV](https://arxiv.org/abs/2005.05304)]                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Federated Extra-Trees with Privacy Preserving                                                                                                             | preprint                                              | 2020 | \[[PDF](https://arxiv.org/abs/2002.07323.pdf)]                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Bandwidth Slicing to Boost Federated Learning in Edge Computing                                                                                           | preprint                                              | 2019 | \[[PDF](https://arxiv.org/abs/1911.07615)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Revocable Federated Learning: A Benchmark of Federated Forest                                                                                             | preprint                                              | 2019 | \[[PDF](https://arxiv.org/abs/1911.03242)]                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost                                                                    | preprint                                              | 2019 | \[[PDF](https://arxiv.org/abs/1907.07157)] \[[CODE](https://github.com/Raymw/Federated-XGBoost) ⭐ 46 \| 🐛 8 \| 🌐 C++ \| 📅 2019-10-13]                                                                                                                                                                                                                                                                                                                                                      |
+
+<!-- END:fl-on-tabular-data -->
+
+</details>
+
+# framework
+
+## federated learning framework
+
+### table
+
+*Note: **SG** means Support for Graph data and algorithms, **ST** means Support for Tabular data and algorithms.*
+
+<details open>
+<summary>federated learning framework</summary>
+
+<!-- START:federated-learning-framework -->
+
+| Platform                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Papers                                                                                                                                                                                     | Affiliations                                                                                   | SG                                       | ST                                       | Materials                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [PySyft](https://github.com/OpenMined/PySyft) ⭐ 10,040 \| 🐛 31 \| 🌐 Python \| 📅 2026-10-05<br />[![Stars](https://img.shields.io/github/stars/OpenMined/PySyft.svg?color=red)](https://github.com/OpenMined/PySyft/stargazers) ⭐ 10,040 \| 🐛 31 \| 🌐 Python \| 📅 2026-10-05<br />![](https://img.shields.io/github/last-commit/OpenMined/PySyft)                                                                                                                                                             | [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017)                                                                                               | [OpenMined](https://www.openmined.org/)                                                        |                                          |                                          | \[[DOC](https://pysyft.readthedocs.io/en/latest/installing.html)]                                                                                                                                                                                                                                                                               |
+| [Flower](https://github.com/adap/flower) ⭐ 7,156 \| 🐛 397 \| 🌐 Python \| 📅 2026-10-03<br />[![Stars](https://img.shields.io/github/stars/adap/flower.svg?color=red)](https://github.com/adap/flower/stargazers) ⭐ 7,156 \| 🐛 397 \| 🌐 Python \| 📅 2026-10-03<br />![](https://img.shields.io/github/last-commit/adap/flower)                                                                                                                                                                                 | [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2104.03042.pdf)                                                                                           | [flower.ai](https://flower.ai/)                                                                |                                          |                                          | \[[DOC](https://flower.ai/docs/)]                                                                                                                                                                                                                                                                                                               |
+| [FATE](https://github.com/FederatedAI/FATE) ⭐ 6,100 \| 🐛 17 \| 🌐 Python \| 📅 2024-11-19<br />[![Stars](https://img.shields.io/github/stars/FederatedAI/FATE.svg?color=red)](https://github.com/FederatedAI/FATE/stargazers) ⭐ 6,100 \| 🐛 17 \| 🌐 Python \| 📅 2024-11-19<br />![](https://img.shields.io/github/last-commit/FederatedAI/FATE)                                                                                                                                                                 | [FATE: An Industrial Grade Platform for Collaborative Learning With Data Protection](https://www.jmlr.org/papers/volume22/20-815/20-815.pdf)                                               | [WeBank](https://fedai.org/)                                                                   |                                          | :white\_check\_mark::white\_check\_mark: | \[[DOC](https://fate.readthedocs.io/en/latest/)] \[[DOC(ZH)](https://fate.readthedocs.io/en/latest/zh/)]                                                                                                                                                                                                                                        |
+| [FedML](https://github.com/FedML-AI/FedML) ⭐ 4,069 \| 🐛 147 \| 🌐 Python \| 📅 2025-10-28<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedML.svg?color=red)](https://github.com/FedML-AI/FedML/stargazers) ⭐ 4,069 \| 🐛 147 \| 🌐 Python \| 📅 2025-10-28<br />![](https://img.shields.io/github/last-commit/FedML-AI/FedML)                                                                                                                                                                      | [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518)                                                                                 | [FedML](https://fedml.ai/)                                                                     | :white\_check\_mark::white\_check\_mark: | :white\_check\_mark:                     | \[[DOC](https://doc.fedml.ai/)]                                                                                                                                                                                                                                                                                                                 |
+| [TFF(Tensorflow-Federated)](https://github.com/tensorflow/federated) ⭐ 2,454 \| 🐛 292 \| 🌐 Python \| 📅 2026-10-05 <br />[![Stars](https://img.shields.io/github/stars/tensorflow/federated.svg?color=red)](https://github.com/tensorflow/federated/stargazers) ⭐ 2,454 \| 🐛 292 \| 🌐 Python \| 📅 2026-10-05<br />![](https://img.shields.io/github/last-commit/tensorflow/federated)                                                                                                                         | [Towards Federated Learning at Scale: System Design](https://proceedings.mlsys.org/paper_files/paper/2019/hash/7b770da633baf74895be22a8807f1a8f-Abstract.html)                             | Google                                                                                         |                                          |                                          | \[[DOC](https://www.tensorflow.org/federated)] \[[PAGE](https://www.tensorflow.org/federated)]                                                                                                                                                                                                                                                  |
+| [SecretFlow](https://github.com/secretflow/secretflow) ⭐ 2,714 \| 🐛 92 \| 🌐 Python \| 📅 2026-04-24 <br />[![Stars](https://img.shields.io/github/stars/secretflow/secretflow.svg?color=red)](https://github.com/secretflow/secretflow/stargazers) ⭐ 2,714 \| 🐛 92 \| 🌐 Python \| 📅 2026-04-24<br />![](https://img.shields.io/github/last-commit/secretflow/secretflow)                                                                                                                                      |                                                                                                                                                                                            | [Ant group](https://www.antgroup.com/)                                                         |                                          | :white\_check\_mark:                     | \[[DOC](https://secretflow.readthedocs.io/en/latest/getting_started/index.html)]                                                                                                                                                                                                                                                                |
+| [PFLlib](https://github.com/TsingZ0/PFLlib) ⭐ 2,168 \| 🐛 7 \| 🌐 Python \| 📅 2026-01-25<br />[![Stars](https://img.shields.io/github/stars/TsingZ0/PFLlib.svg?color=blue)](https://github.com/TsingZ0/PFLlib/stargazers) ⭐ 2,168 \| 🐛 7 \| 🌐 Python \| 📅 2026-01-25<br />![](https://img.shields.io/github/last-commit/TsingZ0/PFLlib)                                                                                                                                                                        | [PFLlib: Personalized Federated Learning Algorithm Library](https://arxiv.org/abs/2312.04992)                                                                                              | SJTU                                                                                           |                                          |                                          | \[[PAGE](http://www.pfllib.com/)]                                                                                                                                                                                                                                                                                                               |
+| [FederatedScope](https://github.com/alibaba/FederatedScope) ⭐ 1,545 \| 🐛 55 \| 🌐 Python \| 📅 2024-08-10<br />[![Stars](https://img.shields.io/github/stars/alibaba/FederatedScope.svg?color=blue)](https://github.com/alibaba/FederatedScope/stargazers) ⭐ 1,545 \| 🐛 55 \| 🌐 Python \| 📅 2024-08-10<br />![](https://img.shields.io/github/last-commit/alibaba/FederatedScope)                                                                                                                              | [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)                                                                  | [Alibaba DAMO Academy](https://damo.alibaba.com/labs/data-analytics-and-intelligence)          | :white\_check\_mark::white\_check\_mark: |                                          | \[[DOC](https://federatedscope.io/refs/index)] \[[PAGE](https://federatedscope.io/)]                                                                                                                                                                                                                                                            |
+| [Primihub](https://github.com/primihub/primihub) ⭐ 1,408 \| 🐛 5 \| 🌐 C++ \| 📅 2025-10-22<br />[![Stars](https://img.shields.io/github/stars/primihub/primihub.svg?color=blue)](https://github.com/primihub/primihub/stargazers) ⭐ 1,408 \| 🐛 5 \| 🌐 C++ \| 📅 2025-10-22<br />![](https://img.shields.io/github/last-commit/primihub/primihub)                                                                                                                                                                |                                                                                                                                                                                            | [primihub](https://github.com/primihub)                                                        |                                          |                                          | \[[DOC]()]                                                                                                                                                                                                                                                                                                                                      |
+| [NVFlare](https://github.com/NVIDIA/NVFlare) ⭐ 981 \| 🐛 57 \| 🌐 Python \| 📅 2026-10-05<br />[![Stars](https://img.shields.io/github/stars/NVIDIA/NVFlare.svg?color=blue)](https://github.com/NVIDIA/NVFlare/stargazers) ⭐ 981 \| 🐛 57 \| 🌐 Python \| 📅 2026-10-05<br />![](https://img.shields.io/github/last-commit/NVIDIA/NVFlare)                                                                                                                                                                         | [NVIDIA FLARE: Federated Learning from Simulation to Real-World](http://sites.computer.org/debull/A23mar/p170.pdf)                                                                         | [NVIDIA](https://github.com/NVIDIA)                                                            |                                          |                                          | \[[DOC](https://nvflare.readthedocs.io/en/2.1.1/)]                                                                                                                                                                                                                                                                                              |
+| [Fedlearner](https://github.com/bytedance/fedlearner) ⭐ 901 \| 🐛 79 \| 🌐 Python \| 📅 2026-07-06<br />[![Stars](https://img.shields.io/github/stars/bytedance/fedlearner.svg?color=blue)](https://github.com/bytedance/fedlearner/stargazers) ⭐ 901 \| 🐛 79 \| 🌐 Python \| 📅 2026-07-06<br />![](https://img.shields.io/github/last-commit/bytedance/fedlearner)                                                                                                                                              |                                                                                                                                                                                            | [Bytedance](https://github.com/bytedance)                                                      |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [LEAF](https://github.com/TalwalkarLab/leaf) ⭐ 911 \| 🐛 36 \| 🌐 Python \| 📅 2023-03-24<br />[![Stars](https://img.shields.io/github/stars/TalwalkarLab/leaf.svg?color=blue)](https://github.com/TalwalkarLab/leaf/stargazers) ⭐ 911 \| 🐛 36 \| 🌐 Python \| 📅 2023-03-24<br />![](https://img.shields.io/github/last-commit/TalwalkarLab/leaf)                                                                                                                                                                | [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097.pdf)                                                                                                           | [CMU](https://leaf.cmu.edu/)                                                                   |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [OpenFL](https://github.com/intel/openfl) ⭐ 843 \| 🐛 82 \| 🌐 Python \| 📅 2026-08-25<br />[![Stars](https://img.shields.io/github/stars/intel/openfl.svg?color=blue)](https://github.com/intel/openfl/stargazers) ⭐ 843 \| 🐛 82 \| 🌐 Python \| 📅 2026-08-25<br />![](https://img.shields.io/github/last-commit/intel/openfl)                                                                                                                                                                                  | [OpenFL: An open-source framework for Federated Learning](https://arxiv.org/abs/2105.06413)                                                                                                | [Intel](https://github.com/intel)                                                              |                                          |                                          | \[[DOC](https://openfl.readthedocs.io/en/latest/install.html)]                                                                                                                                                                                                                                                                                  |
+| [Fedlab](https://github.com/SMILELab-FL/FedLab) ⭐ 828 \| 🐛 8 \| 🌐 Jupyter Notebook \| 📅 2025-10-20<br />[![Stars](https://img.shields.io/github/stars/SMILELab-FL/FedLab.svg?color=blue)](https://github.com/SMILELab-FL/FedLab/stargazers) ⭐ 828 \| 🐛 8 \| 🌐 Jupyter Notebook \| 📅 2025-10-20<br />![](https://img.shields.io/github/last-commit/SMILELab-FL/FedLab)                                                                                                                                        | [FedLab: A Flexible Federated Learning Framework](https://jmlr.org/papers/v24/22-0440.html)                                                                                                | [SMILELab](https://github.com/SMILELab-FL/)                                                    |                                          |                                          | \[[DOC](https://fedlab.readthedocs.io/en/master/)] \[[DOC(ZH)](https://fedlab.readthedocs.io/zh_CN/latest/)] \[[PAGE](https://github.com/SMILELab-FL/FedLab-benchmarks) ⭐ 154 \| 🐛 3 \| 🌐 Jupyter Notebook \| 📅 2024-01-29]                                                                                                                  |
+| [Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 727 \| 🐛 11 \| 🌐 Jupyter Notebook \| 📅 2025-04-26<br />[![Stars](https://img.shields.io/github/stars/privacytrustlab/ml_privacy_meter.svg?color=blue)](https://github.com/PaddlePaddle/privacytrustlab/ml_privacy_meter)<br />![](https://img.shields.io/github/last-commit/privacytrustlab/ml_privacy_meter)                                                                                                                            | [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://ieeexplore.ieee.org/document/8835245) | University of Massachusetts Amherst                                                            |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [NIID-Bench](https://github.com/Xtra-Computing/NIID-Bench) ⭐ 618 \| 🐛 1 \| 🌐 Python \| 📅 2024-02-26<br />[![Stars](https://img.shields.io/github/stars/Xtra-Computing/NIID-Bench.svg?color=blue)](https://github.com/Xtra-Computing/NIID-Bench/stargazers) ⭐ 618 \| 🐛 1 \| 🌐 Python \| 📅 2024-02-26<br />![](https://img.shields.io/github/last-commit/Xtra-Computing/NIID-Bench)                                                                                                                            | [Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079.pdf)                                                                                    | [Xtra Computing Group](https://github.com/Xtra-Computing)                                      |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [FLGo](https://github.com/WwZzz/easyFL) ⭐ 634 \| 🐛 30 \| 🌐 Jupyter Notebook \| 📅 2025-06-04<br />[![Stars](https://img.shields.io/github/stars/WwZzz/easyFL.svg?color=blue)](https://github.com/WwZzz/easyFL/stargazers) ⭐ 634 \| 🐛 30 \| 🌐 Jupyter Notebook \| 📅 2025-06-04<br />![](https://img.shields.io/github/last-commit/WwZzz/easyFL)                                                                                                                                                                | [Federated Learning with Fair Averaging](https://www.ijcai.org/proceedings/2021/223)<br />[FLGo: A Fully Customizable Federated Learning Platform](https://arxiv.org/abs/2306.12079)       | XMU                                                                                            |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) ⭐ 551 \| 🐛 6 \| 🌐 C++ \| 📅 2022-04-26<br />[![Stars](https://img.shields.io/github/stars/LatticeX-Foundation/Rosetta.svg?color=blue)](https://github.com/LatticeX-Foundation/Rosetta/stargazers) ⭐ 551 \| 🐛 6 \| 🌐 C++ \| 📅 2022-04-26<br />![](https://img.shields.io/github/last-commit/LatticeX-Foundation/Rosetta)                                                                                                                             |                                                                                                                                                                                            | [matrixelements](https://www.matrixelements.com/product/rosetta)                               |                                          |                                          | \[[DOC](https://github.com/LatticeX-Foundation/Rosetta/blob/master/doc/DEPLOYMENT.md) ⭐ 551 \| 🐛 6 \| 🌐 C++ \| 📅 2022-04-26] \[[PAGE](https://github.com/LatticeX-Foundation/Rosetta) ⭐ 551 \| 🐛 6 \| 🌐 C++ \| 📅 2022-04-26]                                                                                                              |
+| [IBM Federated Learning](https://github.com/IBM/federated-learning-lib) ⚠️ Archived<br />[![Stars](https://img.shields.io/github/stars/IBM/federated-learning-lib.svg?color=blue)](https://github.com/IBM/federated-learning-lib/stargazers) ⚠️ Archived<br />![](https://img.shields.io/github/last-commit/IBM/federated-learning-lib)                                                                                                                                                                            | [IBM Federated Learning: an Enterprise Framework White Paper](https://arxiv.org/abs/2007.10987.pdf)                                                                                        | [IBM](https://github.com/IBM)                                                                  |                                          | :white\_check\_mark:                     | \[[PAPERS](https://github.com/IBM/federated-learning-lib/blob/main/docs/papers.md) ⚠️ Archived]                                                                                                                                                                                                                                                 |
+| [PaddleFL](https://github.com/PaddlePaddle/PaddleFL) ⭐ 512 \| 🐛 56 \| 🌐 Python \| 📅 2023-07-26<br />[![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleFL.svg?color=blue)](https://github.com/PaddlePaddle/PaddleFL/stargazers) ⭐ 512 \| 🐛 56 \| 🌐 Python \| 📅 2023-07-26<br />![](https://img.shields.io/github/last-commit/PaddlePaddle/PaddleFL)                                                                                                                                            |                                                                                                                                                                                            | Baidu                                                                                          |                                          |                                          | \[[DOC](https://paddlefl.readthedocs.io/en/latest/index.html)]                                                                                                                                                                                                                                                                                  |
+| [KubeFATE](https://github.com/FederatedAI/KubeFATE) ⭐ 435 \| 🐛 83 \| 🌐 Go \| 📅 2024-10-31<br />[![Stars](https://img.shields.io/github/stars/FederatedAI/KubeFATE.svg?color=blue)](https://github.com/FederatedAI/KubeFATE/stargazers) ⭐ 435 \| 🐛 83 \| 🌐 Go \| 📅 2024-10-31<br />![](https://img.shields.io/github/last-commit/FederatedAI/KubeFATE)                                                                                                                                                        |                                                                                                                                                                                            | [WeBank](https://fedai.org/)                                                                   |                                          |                                          | \[[WIKI](https://github.com/FederatedAI/KubeFATE/wiki/#faqs) ⭐ 435 \| 🐛 83 \| 🌐 Go \| 📅 2024-10-31]                                                                                                                                                                                                                                          |
+| [FedScale](https://github.com/SymbioticLab/FedScale) ⭐ 421 \| 🐛 45 \| 🌐 Python \| 📅 2023-12-18<br />[![Stars](https://img.shields.io/github/stars/SymbioticLab/FedScale.svg?color=blue)](https://github.com/SymbioticLab/FedScale/stargazers) ⭐ 421 \| 🐛 45 \| 🌐 Python \| 📅 2023-12-18<br />![](https://img.shields.io/github/last-commit/SymbioticLab/FedScale)                                                                                                                                            | [FedScale: Benchmarking Model and System Performance of Federated Learning at Scale](https://arxiv.org/abs/2105.11367.pdf)                                                                 | [SymbioticLab(U-M)](https://symbioticlab.org/)                                                 |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [PersonalizedFL](https://github.com/microsoft/PersonalizedFL) ⭐ 413 \| 🐛 6 \| 🌐 Python \| 📅 2023-10-04<br />[![Stars](https://img.shields.io/github/stars/microsoft/PersonalizedFL.svg?color=blue)](https://github.com/microsoft/PersonalizedFL/stargazers) ⭐ 413 \| 🐛 6 \| 🌐 Python \| 📅 2023-10-04<br />![img](https://img.shields.io/github/last-commit/microsoft/PersonalizedFL)                                                                                                                         |                                                                                                                                                                                            | microsoft                                                                                      |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [plato](https://github.com/TL-System/plato) ⭐ 400 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-04<br />[![Stars](https://img.shields.io/github/stars/TL-System/plato.svg?color=blue)](https://github.com/TL-System/plato/stargazers) ⭐ 400 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-04<br />![](https://img.shields.io/github/last-commit/TL-System/plato)                                                                                                                                                                         | [Plato: An Open-Source Research Framework for Production Federated Learning](https://dl.acm.org/doi/10.1145/3603165.3607364)                                                               | UofT                                                                                           |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [Differentially Private Federated Learning: A Client-level Perspective](https://github.com/SAP-samples/machine-learning-diff-private-federated-learning) ⚠️ Archived <br />[![Stars](https://img.shields.io/github/stars/SAP-samples/machine-learning-diff-private-federated-learning.svg?color=blue)](https://github.comSAP-samples/machine-learning-diff-private-federated-learning/stargazers)<br />![](https://img.shields.io/github/last-commit/SAP-samples/machine-learning-diff-private-federated-learning) | [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557)                                                                                  | [SAP-samples](https://github.com/SAP-samples)                                                  |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [Backdoors 101](https://github.com/ebagdasa/backdoors101) ⭐ 386 \| 🐛 3 \| 🌐 Python \| 📅 2023-02-05<br />[![Stars](https://img.shields.io/github/stars/ebagdasa/backdoors101.svg?color=blue)](https://github.com/ebagdasa/backdoors101/stargazers) ⭐ 386 \| 🐛 3 \| 🌐 Python \| 📅 2023-02-05<br />![](https://img.shields.io/github/last-commit/ebagdasa/backdoors101)                                                                                                                                         | [Blind Backdoors in Deep Learning Models](https://arxiv.org/abs/2005.03823)                                                                                                                | Cornell Tech                                                                                   |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [SWARM LEARNING](https://github.com/HewlettPackard/swarm-learning) ⭐ 354 \| 🐛 11 \| 🌐 Python \| 📅 2026-07-27 <br />[![Stars](https://img.shields.io/github/stars/HewlettPackard/swarm-learning.svg?color=blue)](https://github.com/HewlettPackard/swarm-learning/stargazers) ⭐ 354 \| 🐛 11 \| 🌐 Python \| 📅 2026-07-27<br />![](https://img.shields.io/github/last-commit/HewlettPackard/swarm-learning)                                                                                                     | [Swarm Learning for decentralized and confidential clinical machine learning](https://www.nature.com/articles/s41586-021-03583-3)                                                          |                                                                                                |                                          |                                          | \[[VIDEO](https://github.com/HewlettPackard/swarm-learning/blob/master/docs/videos.md) ⭐ 354 \| 🐛 11 \| 🌐 Python \| 📅 2026-07-27]                                                                                                                                                                                                            |
+| [EasyFL](https://github.com/EasyFL-AI/EasyFL) ⭐ 26 \| 🐛 0 \| 📅 2023-08-23<br />[![Stars](https://img.shields.io/github/stars/EasyFL-AI/EasyFL.svg?color=blue)](https://github.com/EasyFL-AI/EasyFL/stargazers) ⭐ 26 \| 🐛 0 \| 📅 2023-08-23<br />![](https://img.shields.io/github/last-commit/EasyFL-AI/EasyFL)                                                                                                                                                                                                | [EasyFL: A Low-code Federated Learning Platform For Dummies](https://ieeexplore.ieee.org/abstract/document/9684558)                                                                        | NTU                                                                                            |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [Breaching](https://github.com/JonasGeiping/breaching) ⭐ 324 \| 🐛 0 \| 🌐 Python \| 📅 2026-01-24<br />[![Stars](https://img.shields.io/github/stars/JonasGeiping/breaching.svg?color=blue)](https://github.com/JonasGeiping/breaching/stargazers) ⭐ 324 \| 🐛 0 \| 🌐 Python \| 📅 2026-01-24<br />![](https://img.shields.io/github/last-commit/JonasGeiping/breaching)                                                                                                                                         | A Framework for Attacks against Privacy in Federated Learning ([papers](https://github.com/JonasGeiping/breaching) ⭐ 324 \| 🐛 0 \| 🌐 Python \| 📅 2026-01-24)                            |                                                                                                |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [substra](https://github.com/Substra/substra) ⭐ 278 \| 🐛 2 \| 🌐 Python \| 📅 2024-10-14 <br />[![Stars](https://img.shields.io/github/stars/Substra/substra.svg?color=blue)](https://github.com/Substra/substra/stargazers) ⭐ 278 \| 🐛 2 \| 🌐 Python \| 📅 2024-10-14<br />![](https://img.shields.io/github/last-commit/Substra/substra)                                                                                                                                                                      |                                                                                                                                                                                            | [Substra](https://github.com/Substra)                                                          |                                          |                                          | \[[DOC](https://doc.substra.ai/index.html)]                                                                                                                                                                                                                                                                                                     |
+| [FedJAX](https://github.com/google/fedjax) ⭐ 272 \| 🐛 12 \| 🌐 Python \| 📅 2026-10-05<br />[![Stars](https://img.shields.io/github/stars/google/fedjax.svg?color=blue)](https://github.com/google/fedjax/stargazers) ⭐ 272 \| 🐛 12 \| 🌐 Python \| 📅 2026-10-05<br />![](https://img.shields.io/github/last-commit/google/fedjax)                                                                                                                                                                              | [FEDJAX: Federated learning simulation with JAX](https://arxiv.org/abs/2108.02117.pdf)                                                                                                     | [Google](https://ai.googleblog.com/2021/10/fedjax-federated-learning-simulation.html)          |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [FLSim](https://github.com/facebookresearch/FLSim) ⚠️ Archived<br />[![Stars](https://img.shields.io/github/stars/facebookresearch/FLSim.svg?color=blue)](https://github.com/facebookresearch/FLSim/stargazers) ⚠️ Archived<br />![](https://img.shields.io/github/last-commit/facebookresearch/FLSim)                                                                                                                                                                                                             |                                                                                                                                                                                            | [facebook research ](https://github.com/facebookresearch)                                      |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [Galaxy Federated Learning](https://github.com/GalaxyLearning/GFL) ⭐ 253 \| 🐛 3 \| 🌐 Python \| 📅 2023-01-14<br />[![Stars](https://img.shields.io/github/stars/GalaxyLearning/GFL.svg?color=blue)](https://github.com/GalaxyLearning/GFL/stargazers) ⭐ 253 \| 🐛 3 \| 🌐 Python \| 📅 2023-01-14<br />![](https://img.shields.io/github/last-commit/GalaxyLearning/GFL)                                                                                                                                         | [GFL: A Decentralized Federated Learning Framework Based On Blockchain](https://arxiv.org/abs/2010.10996.pdf)                                                                              | ZJU                                                                                            |                                          |                                          | \[[DOC](http://galaxylearning.github.io/)]                                                                                                                                                                                                                                                                                                      |
+| [FedNLP](https://github.com/FedML-AI/FedNLP) ⭐ 223 \| 🐛 16 \| 📅 2022-08-01<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedNLP.svg?color=blue)](https://github.com/FedML-AI/FedNLP/stargazers) ⭐ 223 \| 🐛 16 \| 📅 2022-08-01<br />![](https://img.shields.io/github/last-commit/FedML-AI/FedNLP)                                                                                                                                                                                                | [FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks](https://arxiv.org/abs/2104.08815)                                                                  | [FedML](https://fedml.ai/)                                                                     |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [PyVertical ](https://github.com/OpenMined/PyVertical) ⭐ 222 \| 🐛 20 \| 🌐 Python \| 📅 2023-06-01<br />[![Stars](https://img.shields.io/github/stars/OpenMined/PyVertical.svg?color=blue)](https://github.com/OpenMined/PyVertical/stargazers) ⭐ 222 \| 🐛 20 \| 🌐 Python \| 📅 2023-06-01<br />![](https://img.shields.io/github/last-commit/OpenMined/PyVertical)                                                                                                                                             | [PyVertical: A Vertical Federated Learning Framework for Multi-headed SplitNN](https://arxiv.org/abs/2104.00489.pdf)                                                                       | [OpenMined](https://www.openmined.org/)                                                        |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [FLSim](https://github.com/iQua/flsim) ⭐ 206 \| 🐛 7 \| 🌐 Python \| 📅 2022-04-09 <br />[![Stars](https://img.shields.io/github/stars/iQua/flsim.svg?color=blue)](https://github.com/iQua/flsim/stargazers) ⭐ 206 \| 🐛 7 \| 🌐 Python \| 📅 2022-04-09<br />![](https://img.shields.io/github/last-commit/iQua/flsim)                                                                                                                                                                                            | [Optimizing Federated Learning on Non-IID Data with Reinforcement Learning](https://ieeexplore.ieee.org/document/9155494/)                                                                 | University of Toronto                                                                          |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [Xaynet](https://github.com/xaynetwork/xaynet) ⚠️ Archived<br />[![Stars](https://img.shields.io/github/stars/xaynetwork/xaynet.svg?color=blue)](https://github.com/xaynetwork/xaynet/stargazers) ⚠️ Archived<br />![](https://img.shields.io/github/last-commit/xaynetwork/xaynet)                                                                                                                                                                                                                                |                                                                                                                                                                                            | [XayNet](https://www.xayn.com/)                                                                |                                          |                                          | \[[PAGE](https://www.xaynet.dev/)] \[[DOC](https://docs.rs/xaynet)] \[[WHITEPAPER](https://uploads-ssl.webflow.com/5f0c5c0bb18a279f0a62919e/5f157004da6585f299fa542b_XayNet%20Whitepaper%202.1.pdf)] \[[LEGAL REVIEW](https://uploads-ssl.webflow.com/5f0c5c0bb18a279f0a62919e/5fcfa8e3389ecc84a9309513_XAIN%20Legal%20Review%202020%20v1.pdf)] |
+| [SyferText](https://github.com/OpenMined/SyferText) ⭐ 198 \| 🐛 2 \| 🌐 Python \| 📅 2023-05-14<br />[![Stars](https://img.shields.io/github/stars/OpenMined/SyferText.svg?color=blue)](https://github.com/OpenMined/SyferText/stargazers) ⭐ 198 \| 🐛 2 \| 🌐 Python \| 📅 2023-05-14<br />![](https://img.shields.io/github/last-commit/OpenMined/SyferText)                                                                                                                                                     |                                                                                                                                                                                            | [OpenMined](https://www.openmined.org/)                                                        |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [FedTorch](https://github.com/MLOPTPSU/FedTorch) ⭐ 193 \| 🐛 6 \| 🌐 Python \| 📅 2025-04-11 <br />[![Stars](https://img.shields.io/github/stars/MLOPTPSU/FedTorch.svg?color=blue)](https://github.com/MLOPTPSU/FedTorch/stargazers) ⭐ 193 \| 🐛 6 \| 🌐 Python \| 📅 2025-04-11<br />![](https://img.shields.io/github/last-commit/MLOPTPSU/FedTorch)                                                                                                                                                             | [Distributionally Robust Federated Averaging](https://papers.nips.cc/paper/2020/file/ac450d10e166657ec8f93a1b65ca1b14-Paper.pdf)                                                           | Penn State                                                                                     |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [FLUTE](https://github.com/microsoft/msrflute) ⚠️ Archived<br />[![Stars](https://img.shields.io/github/stars/microsoft/msrflute.svg?color=blue)](https://github.com/microsoft/msrflute/stargazers) ⚠️ Archived<br />![](https://img.shields.io/github/last-commit/microsoft/msrflute)                                                                                                                                                                                                                             | [FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations](https://arxiv.org/abs/2203.13789)                                                            | microsoft                                                                                      |                                          |                                          | \[[DOC](https://microsoft.github.io/msrflute/)]                                                                                                                                                                                                                                                                                                 |
+| [FedGraphNN](https://github.com/FedML-AI/FedGraphNN) ⭐ 184 \| 🐛 8 \| 📅 2023-12-19<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedGraphNN.svg?color=blue)](https://github.com/FedML-AI/FedGraphNN/stargazers) ⭐ 184 \| 🐛 8 \| 📅 2023-12-19<br />![](https://img.shields.io/github/last-commit/FedML-AI/FedGraphNN)                                                                                                                                                                              | [FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/abs/2104.07145)                                                                        | [FedML](https://fedml.ai/)                                                                     | :white\_check\_mark::white\_check\_mark: |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [FEDn](https://github.com/scaleoutsystems/fedn) ⭐ 170 \| 🐛 2 \| 🌐 Python \| 📅 2026-09-22<br />[![Stars](https://img.shields.io/github/stars/scaleoutsystems/fedn.svg?color=blue)](https://github.com/scaleoutsystems/fedn/stargazers) ⭐ 170 \| 🐛 2 \| 🌐 Python \| 📅 2026-09-22<br />![](https://img.shields.io/github/last-commit/scaleoutsystems/fedn)                                                                                                                                                      | [Scalable federated machine learning with FEDn](https://ieeexplore.ieee.org/document/9826069/)                                                                                             | [scaleoutsystems](http://www.scaleoutsystems.com)                                              |                                          |                                          | \[[DOC](https://scaleoutsystems.github.io/fedn/)]                                                                                                                                                                                                                                                                                               |
+| [FedTree](https://github.com/Xtra-Computing/FedTree) ⭐ 152 \| 🐛 7 \| 🌐 C++ \| 📅 2025-01-20<br />[![Stars](https://img.shields.io/github/stars/Xtra-Computing/FedTree.svg?color=blue)](https://github.com/Xtra-Computing/FedTree/stargazers) ⭐ 152 \| 🐛 7 \| 🌐 C++ \| 📅 2025-01-20<br />![](https://img.shields.io/github/last-commit/Xtra-Computing/FedTree)                                                                                                                                                 | [FedTree: A Federated Learning System For Trees](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3430e7055936cb8e26451ed49fce84a6-Abstract-mlsys2023.html)                       | [Xtra Computing Group](https://github.com/Xtra-Computing)                                      |                                          | :white\_check\_mark::white\_check\_mark: | \[[DOC](https://fedtree.readthedocs.io/en/latest/index.html)]                                                                                                                                                                                                                                                                                   |
+| [PhotoLabeller](https://github.com/mccorby/PhotoLabeller) ⭐ 149 \| 🐛 2 \| 🌐 Kotlin \| 📅 2019-03-18<br />[![Stars](https://img.shields.io/github/stars/mccorby/PhotoLabeller.svg?color=blue)](https://github.com/mccorby/PhotoLabeller/stargazers) ⭐ 149 \| 🐛 2 \| 🌐 Kotlin \| 📅 2019-03-18<br />![](https://img.shields.io/github/last-commit/mccorby/PhotoLabeller)                                                                                                                                         |                                                                                                                                                                                            |                                                                                                |                                          |                                          | \[[BLOG](https://proandroiddev.com/federated-learning-e79e054c33ef)]                                                                                                                                                                                                                                                                            |
+| [FATE-Serving](https://github.com/FederatedAI/FATE-Serving) ⭐ 143 \| 🐛 24 \| 🌐 Java \| 📅 2024-12-19 <br />[![Stars](https://img.shields.io/github/stars/FederatedAI/FATE-Serving.svg?color=blue)](https://github.com/FederatedAI/FATE-Serving/stargazers) ⭐ 143 \| 🐛 24 \| 🌐 Java \| 📅 2024-12-19<br />![](https://img.shields.io/github/last-commit/FederatedAI/FATE-Serving)                                                                                                                               |                                                                                                                                                                                            | [WeBank](https://fedai.org/)                                                                   |                                          |                                          | \[[DOC](https://fate-serving.readthedocs.io/en/develop/)]                                                                                                                                                                                                                                                                                       |
+| [PriMIA](https://github.com/gkaissis/PriMIA) ⚠️ Archived<br />[![Stars](https://img.shields.io/github/stars/gkaissis/PriMIA.svg?color=blue)](https://github.com/gkaissis/PriMIA/stargazers) ⚠️ Archived<br />![](https://img.shields.io/github/last-commit/gkaissis/PriMIA)                                                                                                                                                                                                                                        | [End-to-end privacy preserving deep learning on multi-institutional medical imaging](https://www.nature.com/articles/s42256-021-00337-8)                                                   | [TUM](https://www.tum.de/en/); Imperial College London; [OpenMined](https://www.openmined.org) |                                          |                                          | \[[DOC](https://g-k.ai/PriMIA/)]                                                                                                                                                                                                                                                                                                                |
+| [9nfl](https://github.com/jd-9n/9nfl) ⭐ 113 \| 🐛 7 \| 🌐 Java \| 📅 2025-05-16<br />[![Stars](https://img.shields.io/github/stars/jd-9n/9nfl.svg?color=blue)](https://github.com/jd-9n/9nfl/stargazers) ⭐ 113 \| 🐛 7 \| 🌐 Java \| 📅 2025-05-16<br />![](https://img.shields.io/github/last-commit/jd-9n/9nfl)                                                                                                                                                                                                  |                                                                                                                                                                                            | JD                                                                                             |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [APPFL](https://github.com/APPFL/APPFL) ⭐ 186 \| 🐛 17 \| 🌐 Python \| 📅 2026-10-05<br />[![Stars](https://img.shields.io/github/stars/APPFL/APPFL.svg?color=blue)](https://github.com/APPFL/APPFL/stargazers) ⭐ 186 \| 🐛 17 \| 🌐 Python \| 📅 2026-10-05<br />![](https://img.shields.io/github/last-commit/APPFL/APPFL)                                                                                                                                                                                       | [APPFL: open-source software framework for privacy-preserving federated learning](https://ieeexplore.ieee.org/document/9835407/)                                                           |                                                                                                |                                          |                                          | \[[DOC](https://appfl.readthedocs.io/en/stable/)]                                                                                                                                                                                                                                                                                               |
+| [FedLearn](https://github.com/fedlearnAI/fedlearn-algo) ⭐ 92 \| 🐛 3 \| 🌐 Python \| 📅 2022-04-23<br />[![Stars](https://img.shields.io/github/stars/fedlearnAI/fedlearn-algo.svg?color=blue)](https://github.com/fedlearnAI/fedlearn-algo/stargazers) ⭐ 92 \| 🐛 3 \| 🌐 Python \| 📅 2022-04-23<br />![](https://img.shields.io/github/last-commit/fedlearnAI/fedlearn-algo)                                                                                                                                    | [Fedlearn-Algo: A flexible open-source privacy-preserving machine learning platform](https://arxiv.org/abs/2107.04129)                                                                     | JD                                                                                             |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [FeTS](https://github.com/FETS-AI/Front-End) ⭐ 95 \| 🐛 7 \| 🌐 C++ \| 📅 2024-02-28<br />[![Stars](https://img.shields.io/github/stars/FETS-AI/Front-End.svg?color=blue)](https://github.com/FETS-AI/Front-End/stargazers) ⭐ 95 \| 🐛 7 \| 🌐 C++ \| 📅 2024-02-28<br />![](https://img.shields.io/github/last-commit/FETS-AI/Front-End)                                                                                                                                                                          | [The federated tumor segmentation (FeTS) tool: an open-source solution to further solid tumor research](http://iopscience.iop.org/article/10.1088/1361-6560/ac9449)                        | [Federated Tumor Segmentation (FeTS) initiative](https://www.med.upenn.edu/cbica/fets/)        |                                          |                                          | \[[DOC](https://fets-ai.github.io/Front-End/)]                                                                                                                                                                                                                                                                                                  |
+| [FedCV](https://github.com/FedML-AI/FedCV) ⭐ 66 \| 🐛 8 \| 📅 2024-06-25<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedCV.svg?color=blue)](https://github.com/FedML-AI/FedCV/stargazers) ⭐ 66 \| 🐛 8 \| 📅 2024-06-25<br />![](https://img.shields.io/github/last-commit/FedML-AI/FedCV)                                                                                                                                                                                                         | [FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks](https://arxiv.org/abs/2111.11066)                                                                                | FedML                                                                                          |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [MPLC](https://github.com/LabeliaLabs/distributed-learning-contributivity) ⭐ 57 \| 🐛 37 \| 🌐 Jupyter Notebook \| 📅 2023-03-25<br />[![Stars](https://img.shields.io/github/stars/LabeliaLabs/distributed-learning-contributivity.svg?color=blue)](https://github.com/LabeliaLabs/distributed-learning-contributivity/stargazers) ⭐ 57 \| 🐛 37 \| 🌐 Jupyter Notebook \| 📅 2023-03-25<br />![](https://img.shields.io/github/last-commit/LabeliaLabs/distributed-learning-contributivity)                      |                                                                                                                                                                                            | [LabeliaLabs](https://github.com/LabeliaLabs)                                                  |                                          |                                          | \[[PAGE](https://www.labelia.org)]                                                                                                                                                                                                                                                                                                              |
+| [Flame](https://github.com/cisco-open/flame) ⭐ 59 \| 🐛 9 \| 🌐 Python \| 📅 2025-11-06<br />[![Stars](https://img.shields.io/github/stars/cisco-open/flame.svg?color=blue)](https://github.com/cisco-open/flame/stargazers) ⭐ 59 \| 🐛 9 \| 🌐 Python \| 📅 2025-11-06<br />![](https://img.shields.io/github/last-commit/cisco-open/flame)                                                                                                                                                                       | [Flame: Simplifying Topology Extension in Federated Learning](https://dl.acm.org/doi/10.1145/3620678.3624665)                                                                              | Cisco                                                                                          |                                          |                                          | \[[DOC](https://fedsim.varnio.com/en/latest/)]                                                                                                                                                                                                                                                                                                  |
+| [FlexCFL](https://github.com/morningD/FlexCFL) ⭐ 54 \| 🐛 0 \| 🌐 Python \| 📅 2022-11-16<br />[![Stars](https://img.shields.io/github/stars/morningD/FlexCFL.svg?color=blue)](https://github.com/morningD/FlexCFL/stargazers) ⭐ 54 \| 🐛 0 \| 🌐 Python \| 📅 2022-11-16<br />![](https://img.shields.io/github/last-commit/morningD/FlexCFL)                                                                                                                                                                     | [Flexible Clustered Federated Learning for Client-Level Data Distribution Shift](https://arxiv.org/abs/2108.09749)                                                                         | Chongqing University                                                                           |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [FedGroup](https://github.com/morningD/GrouProx) ⭐ 42 \| 🐛 0 \| 🌐 Python \| 📅 2021-12-02<br />[![Stars](https://img.shields.io/github/stars/morningD/GrouProx.svg?color=blue)](https://github.com/morningD/GrouProx/stargazers) ⭐ 42 \| 🐛 0 \| 🌐 Python \| 📅 2021-12-02<br />![](https://img.shields.io/github/last-commit/morningD/GrouProx)                                                                                                                                                                | [FedGroup: Efficient Clustered Federated Learning via Decomposed Data-Driven Measure](https://arxiv.org/abs/2010.06870)                                                                    | Chongqing University                                                                           |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [FedEval](https://github.com/Di-Chai/FedEval) ⭐ 47 \| 🐛 11 \| 🌐 C++ \| 📅 2024-04-26<br />[![Stars](https://img.shields.io/github/stars/Di-Chai/FedEval.svg?color=blue)](https://github.com/Di-Chai/FedEval/stargazers) ⭐ 47 \| 🐛 11 \| 🌐 C++ \| 📅 2024-04-26<br />![](https://img.shields.io/github/last-commit/Di-Chai/FedEval)                                                                                                                                                                             | [FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/abs/2011.09655)                                                               | HKU                                                                                            |                                          |                                          | \[[DOC](https://di-chai.github.io/FedEval/)]                                                                                                                                                                                                                                                                                                    |
+| [GOLF](https://github.com/IntelligentSystemsLab/generic_and_open_learning_federator) ⭐ 37 \| 🐛 0 \| 🌐 Python \| 📅 2025-04-21 <br />[![Stars](https://img.shields.io/github/stars/IntelligentSystemsLab/generic_and_open_learning_federator.svg?color=blue)](https://github.com/IntelligentSystemsLab/generic_and_open_learning_federator/stargazers) ⭐ 37 \| 🐛 0 \| 🌐 Python \| 📅 2025-04-21<br />![](https://img.shields.io/github/last-commit/IntelligentSystemsLab/generic_and_open_learning_federator)   |                                                                                                                                                                                            | SYSU                                                                                           |                                          |                                          | \[[DOC](https://generic-and-open-learning-federator.readthedocs.io/en/latest/)]                                                                                                                                                                                                                                                                 |
+| [UCADI](https://github.com/HUST-EIC-AI-LAB/UCADI) ⭐ 34 \| 🐛 4 \| 🌐 Python \| 📅 2022-12-08 <br />[![Stars](https://img.shields.io/github/stars/HUST-EIC-AI-LAB/UCADI.svg?color=blue)](https://github.com/HUST-EIC-AI-LAB/UCADI/stargazers) ⭐ 34 \| 🐛 4 \| 🌐 Python \| 📅 2022-12-08<br />![](https://img.shields.io/github/last-commit/HUST-EIC-AI-LAB/UCADI)                                                                                                                                                  | [Advancing COVID-19 diagnosis with privacy-preserving collaboration in artificial intelligence](https://www.nature.com/articles/s42256-021-00421-z)                                        | Huazhong University of Science and Technology                                                  |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [OpenFed](https://github.com/FederalLab/OpenFed/) ⚠️ Archived<br />[![Stars](https://img.shields.io/github/stars/FederalLab/OpenFed.svg?color=blue)](https://github.com/FederalLab/OpenFed/stargazers) ⚠️ Archived<br />![](https://img.shields.io/github/last-commit/FederalLab/OpenFed)                                                                                                                                                                                                                          | [OpenFed: A Comprehensive and Versatile Open-Source Federated Learning Framework](https://arxiv.org/abs/2109.07852)                                                                        |                                                                                                |                                          |                                          | \[[DOC](https://openfed.readthedocs.io/README.html)]                                                                                                                                                                                                                                                                                            |
+| [FedSim](https://github.com/varnio/fedsim) ⭐ 7 \| 🐛 4 \| 🌐 Python \| 📅 2023-03-03<br />[![Stars](https://img.shields.io/github/stars/varnio/fedsim.svg?color=blue)](https://github.com/varnio/fedsim/stargazers) ⭐ 7 \| 🐛 4 \| 🌐 Python \| 📅 2023-03-03<br />![](https://img.shields.io/github/last-commit/varnio/fedsim)                                                                                                                                                                                    |                                                                                                                                                                                            |                                                                                                |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+| [Federated-Learning-source](https://github.com/MTC-ETH/Federated-Learning-source) ⭐ 4 \| 🐛 28 \| 🌐 Python \| 📅 2022-12-08 <br />[![Stars](https://img.shields.io/github/stars/MTC-ETH/Federated-Learning-source.svg?color=blue)](https://github.com/MTC-ETH/Federated-Learning-source/stargazers) ⭐ 4 \| 🐛 28 \| 🌐 Python \| 📅 2022-12-08<br />![](https://img.shields.io/github/last-commit/MTC-ETH/Federated-Learning-source)                                                                              | [A Practical Federated Learning Framework for Small Number of Stakeholders](https://dl.acm.org/doi/10.1145/3437963.3441702)                                                                | ETH Zürich                                                                                     |                                          |                                          | \[[DOC](https://github.com/MTC-ETH/Federated-Learning-source/blob/master/dashboard/README.md) ⭐ 4 \| 🐛 28 \| 🌐 Python \| 📅 2022-12-08]                                                                                                                                                                                                       |
+| [FedRS-Bench](https://fedrs-bench.github.io/) <br />[![Stars](https://img.shields.io/github/stars/dongdongzhaoUP/FedRS-Bench.svg?color=blue)](https://github.com/dongdongzhaoUP/FedRS-Bench/stargazers) ⭐ 10 \| 🐛 0 \| 🌐 Python \| 📅 2025-05-16<br />![](https://img.shields.io/github/last-commit/dongdongzhaoUP/FedRS-Bench)                                                                                                                                                                                  | [A Practical Federated Learning Framework for realistic Remote Sensing](https://arxiv.org/abs/2505.08325)                                                                                  | SJTU                                                                                           |                                          |                                          | \[[DOC](https://github.com/dongdongzhaoUP/FedRS-Bench) ⭐ 10 \| 🐛 0 \| 🌐 Python \| 📅 2025-05-16]                                                                                                                                                                                                                                              |
+| [Clara](https://developer.nvidia.com/clara)                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                            | NVIDIA                                                                                         |                                          |                                          |                                                                                                                                                                                                                                                                                                                                                 |
+
+<!-- END:federated-learning-framework -->
+
+</details>
+
+### benchmark
+
+* UniFed leaderboard
+
+Here's a really great Benchmark for the federated learning open source framework :+1: [UniFed leaderboard](https://unifedbenchmark.github.io/leaderboard/index.html), which present both qualitative and quantitative evaluation results of existing popular open-sourced FL frameworks, from the perspectives of **functionality, usability, and system performance**.
+
+![workflow-design](https://unifedbenchmark.github.io/images/workflow-design.png)
+
+![UniFed\_framework\_benchmark](./assets/UniFed_framework_benchmark.png)
+
+For more results, please refer to [Framework Functionality Support](https://unifedbenchmark.github.io/leaderboard/index.html)
+
+# datasets
+
+## fl graph datasets
+
+* [Wyze Rule Dataset](https://huggingface.co/datasets/wyzelabs/RuleRecommendation)
+
+## tabular datasets
+
+## fl datasets
+
+* [LEAF](https://leaf.cmu.edu/)
+
+* [Federated AI Dataset](https://dataset.fedai.org/#/)
+
+* [FedRS](https://fedrs-bench.github.io/)
+
+# surveys
+
+This section partially refers to repository [Federated-Learning](https://github.com/lokinko/Federated-Learning) ⭐ 1,153 | 🐛 4 | 📅 2023-03-14 and [FederatedAI research](https://github.com/FederatedAI/research#survey) ⭐ 179 | 🐛 4 | 🌐 Python | 📅 2024-10-24 , the order of the surveys is arranged in reverse order according to the time of first submission (the latest being placed at the top)
+
+* \[2025] Vertical Federated Learning in Practice: The Good, the Bad, and the Ugly [PDF](https://arxiv.org/abs/2502.08160)
+* \[Ad Hoc Networks 2024] Privacy Computing Meets Metaverse: Necessity, Taxonomy and Challenges [PUB](https://www.sciencedirect.com/science/article/abs/pii/S1570870524000684) [PDF](https://arxiv.org/pdf/2304.11643.pdf) [CODE](https://github.com/6lyc/Awesome-Privacy-Computing-in-Metaverse) ⭐ 7 | 🐛 0 | 📅 2024-02-23
+* \[SIGKDD Explor. 2022] Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [PUB](https://dl.acm.org/doi/10.1145/3575637.3575644) [PDF](https://arxiv.org/abs/2207.11812)
+* \[ACM Trans. Interact. Intell. Syst.] Toward Responsible AI: An Overview of Federated Learning for User-centered Privacy-preserving Computing [PUB](https://dl.acm.org/doi/abs/10.1145/3485875)
+* \[ICML Workshop 2020] SECure: A Social and Environmental Certificate for AI Systems [PDF](https://arxiv.org/abs/2006.06217)
+* \[IEEE Commun. Mag. 2020] From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks [PDF](https://arxiv.org/abs/2006.03594) \[[PUB](https://ieeexplore.ieee.org/document/9311906)]
+* \[China Communications 2020] Federated Learning for 6G Communications: Challenges, Methods, and Future Directions [PDF](https://arxiv.org/abs/2006.02931) [PUB](https://ieeexplore.ieee.org/document/9205981)
+* \[Federated Learning Systems] A Review of Privacy Preserving Federated Learning for Private IoT Analytics [PDF](https://arxiv.org/abs/2004.11794) \[[PUB](https://link.springer.com/chapter/10.1007/978-3-030-70604-3_2)]
+* \[WorldS4 2020] Survey of Personalization Techniques for Federated Learning [PDF](https://arxiv.org/abs/2003.08673) [PUB](https://ieeexplore.ieee.org/document/9210355)
+* Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective [PDF](https://arxiv.org/abs/2002.11545)
+* \[IEEE Internet Things J. 2022] A Survey on Federated Learning for Resource-Constrained IoT Devices [PDF](https://arxiv.org/abs/2002.10610) [PUB](https://ieeexplore.ieee.org/document/9475501/)
+* \[IEEE Communications Surveys & Tutorials 2020] Communication-Efficient Edge AI: Algorithms and Systems [PDF](http://arxiv.org/abs/2002.09668) [PUB](https://ieeexplore.ieee.org/document/9134426)
+* \[IEEE Communications Surveys & Tutorials 2020] Federated Learning in Mobile Edge Networks: A Comprehensive Survey [PDF](https://arxiv.org/abs/1909.11875) [PUB](https://ieeexplore.ieee.org/document/9060868)
+* \[IEEE Signal Process. Mag. 2020] Federated Learning: Challenges, Methods, and Future Directions [PDF](https://arxiv.org/abs/1908.07873) \[[PUB](https://ieeexplore.ieee.org/document/9084352)]
+* \[IEEE Commun. Mag. 2020] Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges [PDF](https://arxiv.org/abs/1908.06847) [PUB](https://ieeexplore.ieee.org/document/9141214)
+* \[IEEE TKDE 2021] A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection [PDF](https://arxiv.org/abs/1907.09693) [PUB](https://ieeexplore.ieee.org/document/9599369)
+* \[IJCAI Workshop 2020] Threats to Federated Learning: A Survey [PDF](https://arxiv.org/abs/2003.02133)
+* \[Foundations and Trends in Machine Learning 2021] Advances and Open Problems in Federated Learning [PDF](https://arxiv.org/abs/1912.04977) [PUB](https://www.nowpublishers.com/article/Details/MAL-083)
+* Privacy-Preserving Blockchain Based Federated Learning with Differential Data Sharing [PDF](https://arxiv.org/abs/1912.04859)
+* An Introduction to Communication Efficient Edge Machine Learning [PDF](https://arxiv.org/abs/1912.01554)
+* \[IEEE Communications Surveys & Tutorials 2020] Convergence of Edge Computing and Deep Learning: A Comprehensive Survey [PDF](https://arxiv.org/abs/1907.08349) [PUB](https://ieeexplore.ieee.org/document/8976180)
+* \[IEEE TIST 2019] Federated Machine Learning: Concept and Applications [PDF](https://arxiv.org/abs/1902.04885) \[[PUB](https://dl.acm.org/doi/10.1145/3298981)]
+* \[J. Heal. Informatics Res. 2021] Federated Learning for Healthcare Informatics [PDF](https://arxiv.org/abs/1911.06270) [PUB](https://link.springer.com/article/10.1007/s41666-020-00082-4)
+* Federated Learning for Coalition Operations [PDF](https://arxiv.org/abs/1910.06799)
+* No Peek: A Survey of private distributed deep learning [PDF](https://arxiv.org/abs/1812.03288)
+
+# tutorials and courses
+
+## tutorials
+
+* [联邦学习入门教程参考](https://docs.qq.com/doc/DVUxDVkd4b0FXdUpK)
+
+* \[NeurIPS 2020] Federated Learning Tutorial \[[Web\]](https://sites.google.com/view/fl-tutorial/) \[[Slides\]](https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view) \[[Video\]](https://slideslive.com/38935813/federated-learning-tutorial)
+
+* [Federated Learning on MNIST using a CNN](https://colab.research.google.com/drive/1dRG3yNAlDar3tll4VOkmoU-aLslhUS8d), AI6101, 2020 ([Demo Video](https://www.youtube.com/watch?v=XKQi-CUqCsM))
+
+* \[AAAI 2019] [Federated Learning: User Privacy, Data Security and Confidentiality in Machine Learning](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)
+
+* [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)
+
+* [A Brief Introduction to Differential Privacy](https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b)
+
+* [Deep Learning with Differential Privacy.](http://doi.acm.org/10.1145/2976749.2978318)
+
+* [Building Safe A.I.](http://iamtrask.github.io/2017/03/17/safe-ai/)
+  * A Tutorial for Encrypted Deep Learning
+  * Use Homomorphic Encryption (HE)
+
+* [Private Image Analysis with MPC](https://mortendahl.github.io/2017/09/19/private-image-analysis-with-mpc/)
+  * Training CNNs on Sensitive Data
+  * Use SPDZ as MPC protocol
+
+* [Private Deep Learning with MPC](https://mortendahl.github.io/2017/04/17/private-deep-learning-with-mpc/)
+  * A Simple Tutorial from Scratch
+  * Use Multiparty Compuation (MPC)
+
+## course
+
+### secret sharing
+
+* [Simple Introduction to Sharmir's Secret Sharing and Lagrange Interpolation](https://www.youtube.com/watch?v=kkMps3X_tEE)
+* Secret Sharing
+  * [ Part 1](https://mortendahl.github.io/2017/06/04/secret-sharing-part1/): Shamir's Secret Sharing & Packed Variant
+  * [Part 2](https://mortendahl.github.io/2017/06/24/secret-sharing-part2/): Improve efficiency
+  * [Part 3](https://mortendahl.github.io/2017/08/13/secret-sharing-part3/): Robust Reconstruction
+
+# key conferences/workshops/journals
+
+This section partially refers to [The Federated Learning Portal](https://federated-learning.org/).
+
+## workshops
+
+* \[[FL@FM-IJCAI'24](https://federated-learning.org/fl@fm-ijcai-2024/)], International Workshop on Federated Learning in the Age of Foundation Models   In Conjunction with IJCAI 2024, Jeju Island, South Korea
+* \[[FL@FM-ICME'24](https://federated-learning.org/fl@fm-icme-2024/)],International Workshop on Federated Learning and Foundation Models for Multi-Media, Niagara Falls, ON, Canada
+* \[[FL@FM-TheWebConf'24](https://federated-learning.org/fl@fm-www-2024/)], International Workshop on Federated Foundation Models for the Web 2024 , Singapore
+* \[[FL@FM-Singapore'24](https://federated-learning.org/fl@fm-singapore-2024/)], Federated Learning in the Age of Foundation Models, Summer School @ Singapore 2024, Singapore
+* \[[TTIC Chicago Summer Workshop](https://sites.google.com/view/tticfl-summerworkshop2023/home)] New Frontiers in Federated Learning (Recent Theoretical Advances & Practice), TTIC Chicago, USA
+* \[[Federated and Collaborative Learning](https://simons.berkeley.edu/workshops/federated-collaborative-learning)] Calvin Lab Auditorium
+* \[[FL@FM-NeurIPS'23](https://federated-learning.org/fl@fm-neurips-2023/)],International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023(FL\@FM-NeurIPS’23), New Orleans, LA, USA
+* \[[2nd MBZUAI Workshop](https://mbzuai-cl.github.io/2023/)] 2nd MBZUAI Workshop on Collaborative Learning: Empowering Sustainable Futures, Abu Dhabi, UAE
+* \[[FL-CVPR'23](https://fedvision.github.io/fedvision-workshop/)], 2nd Workshop on Federated Learning for Computer Vision
+* \[[FL@FM-AJCAI'23](https://federated-learning.org/fl@fm-ajcai-2023/)], Workshop on Federated Learning in Australasia: When FL meets Foundation Models in Conjunction with AJCAI 2023, Brisbane, Australia
+* \[[FL-IJCAI'23](https://federated-learning.org/fl-ijcai-2023/)], International Workshop on Trustworthy Federated Learning  in Conjunction with IJCAI 2023 (FL-IJCAI'23), Macau
+* \[[FL-KDD'23](https://fl4data-mining.github.io/)], International Workshop on Federated Learning for Distributed Data Mining Co-located with the 29th ACM SIGKDD Conference (KDD 2023), Long Beach, CA, USA
+* \[[FL-ICML'23](https://fl-icml2023.github.io/)],Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023, Honolulu, HI, USA
+* \[[FLIRT-SIGIR'23](https://sites.google.com/view/flirt-sigir23/)],1st Workshop on Federated Learning for Information ReTrieval, Taipei, Taiwan
+* \[[FLSys'23](https://flsys.github.io/)], the Federated Learning Systems (FLSys) Workshop @ MLSys 2023, Miami, FL, USA
+* \[[FLW@TheWebConf'23](https://flw.di.unito.it/)], 1st Workshop on Federated Learning Technologies, Austin, TX, USA
+* \[[CIKM'22](https://sites.google.com/view/fedgraph2022/home)] The 1st International Workshop on Federated Learning with Graph Data (FedGraph), Atlanta, GA, USA
+* \[[AI Technology School 2022](https://aitechnologyschool.github.io/)] Trustable, Verifiable and Auditable Artificial Intelligence, Singapore
+* \[[FL-CVPR'22](https://sites.google.com/view/fedvision)] First International Workshop on Federated Learning for Computer Vision (FedVision)
+* \[[FL-NeurIPS'22](http://federated-learning.org/fl-neurips-2022/)] International Workshop on Federated Learning: Recent Advances and New Challenges  in Conjunction with NeurIPS 2022 , New Orleans, LA, USA
+* \[[FL-IJCAI'22](http://federated-learning.org/fl-ijcai-2022/)] International Workshop on Trustworthy Federated Learning  in Conjunction with IJCAI 2022, Vienna, Austria
+* \[[FL-AAAI-22](http://federated-learning.org/fl-aaai-2022/)] International Workshop on Trustable, Verifiable and Auditable Federated Learning in Conjunction with AAAI 2022, Vancouver, BC, Canada (Virtual)
+* \[[FL-MobiCom'22](https://fededge2022.github.io/)]  FedEdge 2022, 1st ACM Workshop on Data Privacy and Federated Learning Technologies for Mobile Edge Network -Research Track, Sydney, Australia
+* \[[FL-NeurIPS'21](https://neurips2021workshopfl.github.io/NFFL-2021/)] New Frontiers in Federated Learning:  Privacy, Fairness, Robustness, Personalization and Data Ownership, (Virtual)
+* \[[The Federated Learning Workshop, 2021](https://sites.google.com/view/federatedlearning-workshop/home)] , Paris, France (Hybrid)
+* \[[PDFL-EMNLP'21](https://pdfl.iais.fraunhofer.de/)] Workshop on Parallel, Distributed, and Federated Learning, Bilbao, Spain (Virtual)
+* \[[FTL-IJCAI'21](https://federated-learning.org/fl-ijcai-2021/)] International Workshop on Federated and Transfer Learning for Data Sparsity and Confidentiality in Conjunction with IJCAI 2021, Montreal, QB, Canada (Virtual)
+* \[[DeepIPR-IJCAI'21](http://federated-learning.org/DeepIPR-IJCAI-2021/)] Toward Intellectual Property Protection on Deep Learning as a Services, Montreal, QB, Canada (Virtual)
+* \[[FL-ICML'21](http://federated-learning.org/fl-icml-2021/)]  International Workshop on Federated Learning for User Privacy and Data Confidentiality, (Virtual)
+* \[[RSEML-AAAI-21](http://federated-learning.org/rseml2021)]  Towards Robust, Secure and Efficient Machine Learning, (Virtual)
+* \[[NeurIPS-SpicyFL'20](http://icfl.cc/SpicyFL/2020)] Workshop on Scalability, Privacy, and Security in Federated Learning, Vancouver, BC, Canada (Virtual)
+* \[[FL-IJCAI'20](http://fl-ijcai20.federated-learning.org/)] International Workshop on Federated Learning for User Privacy and Data Confidentiality, Yokohama, Japan (Virtual)
+* \[[FL-ICML'20](http://federated-learning.org/fl-icml-2020/)] International Workshop on Federated Learning for User Privacy and Data Confidentiality, Vienna, Austria (Virtual)
+* \[[FL-IBM'20](https://federated-learning.bitbucket.io/ibm2020/)] Workshop on Federated Learning and Analytics, New York, NY, USA
+* \[[FL-NeurIPS'19](http://federated-learning.org/fl-neurips-2019/)] Workshop on Federated Learning for Data Privacy and Confidentiality (in Conjunction with NeurIPS 2019), Vancouver, BC, Canada
+* \[[FL-IJCAI'19](http://federated-learning.org/fl-ijcai-2019/)] International Workshop on Federated Learning for User Privacy and Data Confidentiality
+  in Conjunction with IJCAI 2019, Macau
+* \[[FL-Google'19](https://sites.google.com/view/federated-learning-2019/home)] Workshop on Federated Learning and Analytics, Seattle, WA, USA
+
+## journal special issues
+
+* [Special Issue on Trustworthy Federated Learning](https://cis.ieee.org/images/files/Publications/TNNLS/special-issues/IEEE_TNNLS_Special_Issue_on_Trustworthy_Federated_Learning_CFP.pdf), *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2023.
+* [Special Issue on Trustable, Verifiable, and Auditable Federated Learning](https://www.computer.org/digital-library/journals/bd/call-for-papers-special-issue-on-trustable-verifiable-and-auditable-federated-learning), *IEEE Transactions on Big Data (TBD)*, 2022.
+* [Special Issue on Federated Learning: Algorithms, Systems, and Applications](https://dl.acm.org/pb-assets/static_journal_pages/tist/cfps/tist-si-cfp-12-2020-federated-learning-extended2-1617161513293.pdf), *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2021.
+* [Special Issue on Federated Machine Learning](https://www.computer.org/digital-library/magazines/ex/call-for-papers-federated-machine-learning), *IEEE Intelligent Systems (IS)*, 2019.
+
+## conference special tracks
+
+* "Federated Learning" included as a new keyword in [IJCAI'20](https://ijcai20.org/), Yokohama, Japan
+* [Special Track on Federated Machine Learning](http://federated-learning.org/fl-ieeebigdata-2019/), *IEEE BigData'19*, Los Angeles, CA, USA
+
+## update log
+
+![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
+
+* *2022/07/14 - give a list of papers in the field of federated learning in top ML/CV/AI/DM conferences from  [innovation-cat](https://github.com/innovation-cat)‘s [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) ⭐ 2,098 | 🐛 7 | 📅 2024-05-30 and find :fire:  papers(code is available & stars >= 100)*
+* 2026/05/20 - major update: supplement **976** historical and recent papers from [FL-Papers.md](https://github.com/youngfish42/FL-paper-update-tracker/) ⭐ 61 | 🐛 28 | 🌐 Python | 📅 2026-08-25, covering AI (AAAI, AISTATS, IJCAI, ALT, AI), ML (NeurIPS, ICML, ICLR, JMLR, COLT, UAI, TPAMI), DM (KDD, WSDM), Secure (S\&P, CCS, NDSS, USENIX Security), CV (CVPR, ICCV, ECCV, MM, IJCV), NLP (ACL, EMNLP, NAACL, COLING), IR (SIGIR), DB (SIGMOD, VLDB, ICDE), Network (INFOCOM, MobiCom, NSDI, SIGCOMM, WWW), System (MLSys, EuroSys, OSDI, SOSP, TC, TPDS, TCAD, DAC, TOS, ISCA), and Others (ICSE, STOC). Also added **88** missing CODE links and updated **13** mismatched CODE links based on FL-Papers.md.
+* 2026/05/12 - add AAAI, AI, ML, KDD, TPAMI, NDSS, WWW, EUROSYS, TPDS, TCAD, TC 2026 AND JMLR, CCS, USENIX Security, MM, EMNLP, SIGMOD, MOBICOM, MLSYS,  2025 papers
+* 2026/04/13 - Simplify forms to reduce the burden of subsequent maintenance.
+* 2025/10/05 - add IJCAI, AISTATS, UAI, ICDE, SIGCOMM, DAC 2025 papers
+* 2025/08/03 - add S\&P, CVPR, IJCV, ICML, ICSE, ACL, COLING, SIGIR, VLDB, INFOCOM 2025 papers
+* 2025/05/31 - add AI, ML 2025 papers
+* 2025/05/01 - add WWW, NSDI 2025 papers
+* 2025/04/24 - add AAAI, KDD, ICLR 2025 papers
+* 2025/04/04 - add UAI 2024, WSDM, NDSS, COLING, TPDS, ML 2025 papers
+* 2024/12/30 - add CCS 2024 papers
+* 2024/12/10 - add NeurIPS 2024 papers
+* 2024/12/08 - add IJCV, IJCAI, MM, EMNLP, DAC 2024 papers
+* 2024/12/05 - add TPDS, TCAD, ECCV 2024 papers
+* 2024/09/30 - add JMLR, KDD, S\&P, NDSS, NAACL, INFOCOM, ISCA, TC, ICML 2024 papers
+* 2024/07/14 - add CVPR, MLSys, MobiCom, SIGIR 2024 papers
+* *2024/05/20 - add WWW 2024 papers*
+* *2024/05/12 - add AISTATS, EuroSys 2024 papers*
+* *2024/04/15 - add TPAMI,  VLDB 2024 papers*
+* *2024/04/10 - add WSDM, Mach Learn 2024 papers*
+* *2024/03/28 - add AAAI, TC, TPAMI, TPDS, VLDB 2024 papers*
+* *2024/03/08 - add TPAMI, TC, TCAD 2024 papers*
+* *2024/02/23 - add ICLR 2024 papers*
+* *2024/01/02 - add NeurIPS 2023 papers*
+* *2023/12/13 - add MM, CCS, EMNLP 2023 papers and update VLDB, TC, TCAD papers*
+* *2023/10/07 - add ICCV 2023 papers*
+* *2023/09/18 - add INFOCOM, S\&P 2023 papers*
+* *2023/08/18 - add COLT 2023 paper*
+* *2023/08/16 - refresh KDD, IJCAI 2023 papers*
+* *2023/08/02 - refresh ICML 2023 information*
+* *2023/07/31 - add MobiCom, ICDE, EuroSys, USENIX Security 2023 papers*
+* *2023/07/24 - add SIGIR, UAI, ICSE 2023 papers and information on CVPR workshops*
+* *2023/07/03 - add Events for different conferences and journals like [ACL](https://aclanthology.org/)*
+* *2023/07/01 - add AAAI, ICML, IJCAI, SIGIR, KDD, ACL 2023 papers*
+* *2023/06/28 - add AISTATS, MLsys, JMLR, Machine Learning, ALT, FOCS, STOC papers*
+* *2023/06/06 - remove 'tldr information' and change this repo from "Awesome-Federated-Learning-on-Graph-and-Tabular-Data" into "Awesome-FL".* :chart\_with\_upwards\_trend:
+* *2023/05/23 - add CVPR 2023 papers*
+* *2023/05/07 - add workshops and WWW 2023 papers*
+* *2023/04/02 - add NDSS 2023 papers and fix some typos*
+* *2023/02/19 -  add INFOCOM 2023 papers*
+* *2023/02/14 -  add EMNLP 2022 papers*
+* *2023/02/13 -  add ICLR 2023 papers*
+* *2023/01/14 -  add UAI 2022 papers, refresh system (TCAD +1, TPDS+8), ML (TPAMI +1,UAI +6), network(MobiCom +3) fields papers*
+* *2022/11/24 -  refresh NeurIPS 2022,2021 and ICLR 2022 papers*
+* *2022/11/06-  add S\&P 2023 papers*
+* *2022/10/29 -  add WSDM 2023 paper*
+* *2022/10/20 -  add CCS, MM, ECCV 2022 papers*
+* *2022/10/16 -  add AI, JMLR, TPAMI, IJCV, TOCS, TOS, TCAD, TC papers*
+* *2022/10/13 -  add DAC papers*
+* *2022/10/09 -  add MobiCom 2022 paper*
+* *2022/09/19 -  add NeurIPS 2022 papers*
+* *2022/09/16 -  repository is online with [Github Pages](https://youngfish42.github.io/Awesome-FL/)*
+* *2022/09/06 -  add information about FL on Tabular and Graph data*
+* *2022/09/05 -  add some information about top journals and add TPDS papers*
+* *2022/08/31 - all papers (including 400+ papers from top conferences and top journals and 100+ papers with graph and tabular data) have been comprehensively sorted out, and information such as publication addresses, links to preprints and source codes of these papers have been compiled. The source code of 280+ papers has been obtained. We hope it can help those who use this project.*  :smiley:
+* *2022/07/31 -  add VLDB papers*
+* *2022/07/30 -  add top-tier system conferences papers and add COLT,UAI,OSDI, SOSP, ISCA, MLSys, AISTATS,WSDM papers*
+* *2022/07/28 -  add a list of top-tier conferences papers and add IJCAI,SIGIR,SIGMOD,ICDE,WWW,SIGCOMM.INFOCOM,WWW papers*
+* *2022/07/27 -  add some ECCV 2022 papers*
+* *2022/07/22 -  add CVPR 2022 and MM 2020,2021 papers*
+* *2022/07/21 - give TL;DR and interpret information(解读) of papers. And add KDD 2022 papers*
+* *2022/07/15 - give a list of papers in the field of federated learning in top NLP/Secure conferences. And add ICML 2022 papers*
+* *2022/07/12 - added information about the last commit time of the federated learning open source framework (can be used to determine the maintenance of the code base)*
+* *2022/07/12 - give a list of papers in the field of federated learning in top journals*
+* *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
+* *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
+* *2022/05/24 - complete the paper and code lists of FL on graph data and Graph Neural Networks*
+* *2022/05/23 - add the paper list of FL on graph data and Graph Neural Networks*
+* *2022/05/21 - update all of Federated Learning Framework*
+
+## acknowledgments
+
+Many thanks :heart: to the other awesome list:
+
+* Federated Learning
+
+  * [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) ⭐ 2,098 | 🐛 7 | 📅 2024-05-30
+  * [Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) ⭐ 2,022 | 🐛 3 | 📅 2022-09-03
+  * [Federated-Learning](https://github.com/lokinko/Federated-Learning) ⭐ 1,153 | 🐛 4 | 📅 2023-03-14
+  * [awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning) ⭐ 738 | 🐛 0 | 🌐 Shell | 📅 2025-11-16
+  * [awesome-privacy-chinese](https://github.com/international-explore/awesome-privacy-chinese) ⭐ 482 | 🐛 2 | 🌐 HTML | 📅 2026-10-05
+  * [Awesome-GNN-Research](https://github.com/XunKaiLi/Awesome-GNN-Research) ⭐ 411 | 🐛 2 | 📅 2023-06-10
+  * [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) ⭐ 345 | 🐛 2 | 📅 2024-02-21
+  * [FederatedAI research](https://github.com/FederatedAI/research) ⭐ 179 | 🐛 4 | 🌐 Python | 📅 2024-10-24
+  * [FLsystem-paper](https://github.com/AmberLJC/FLsystem-paper) ⭐ 75 | 🐛 1 | 📅 2024-02-07
+  * [Federated Learning Framework Benchmark (UniFed)](https://github.com/AI-secure/FLBenchmark-toolkit) ⭐ 48 | 🐛 5 | 🌐 Python | 📅 2023-06-14
+* Other fields
+
+  * [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,406 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+  * [awesome-image-registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) ⭐ 1,549 | 🐛 0 | 📅 2026-07-23
+
+## citation
+
+```text
+@misc{Awesome-FL,
+    title = {Awesome-FL},
+    author = {Yuwen Yang and Bingjie Yan and Xuefeng Jiang and Hongcheng Li and Jian Wang and Jiao Chen and Xiangmou Qu and Chang Liu and others},
+    year = {2022},
+    url = {https://github.com/youngfish42/Awesome-FL}
+}
+```
+
+[![map](https://rf.revolvermaps.com/h/m/a/0/ff0000/80/35/5zw06d5f905.png)](https://www.revolvermaps.com/livestats/5zw06d5f905/)
+
+<!-- START:reference-section -->
+
+<!-- END:reference-section -->
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
