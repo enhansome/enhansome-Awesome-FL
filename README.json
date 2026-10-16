@@ -1459,7 +1459,7 @@
                             "open_issues": 1,
                             "owner": "PhD-TaoLiu",
                             "repo": "FCBA",
-                            "stars": 22,
+                            "stars": 23,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -3340,7 +3340,7 @@
                             "open_issues": 30,
                             "owner": "WwZzz",
                             "repo": "easyFL",
-                            "stars": 635,
+                            "stars": 636,
                             "topics": [
                               "deep-learning",
                               "distributed-computing",
@@ -3368,7 +3368,7 @@
                             "open_issues": 30,
                             "owner": "WwZzz",
                             "repo": "easyFL",
-                            "stars": 635,
+                            "stars": 636,
                             "topics": [
                               "deep-learning",
                               "distributed-computing",
@@ -10523,7 +10523,7 @@
                             "open_issues": 5,
                             "owner": "AI-secure",
                             "repo": "DBA",
-                            "stars": 206,
+                            "stars": 207,
                             "topics": [
                               "federated-learning"
                             ]
@@ -14510,8 +14510,8 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-15T14:11:41Z",
-                            "open_issues": 46,
+                            "last_commit": "2026-10-16T14:41:02Z",
+                            "open_issues": 49,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 981,
@@ -15005,8 +15005,8 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-15T14:11:41Z",
-                            "open_issues": 46,
+                            "last_commit": "2026-10-16T14:41:02Z",
+                            "open_issues": 49,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 981,
@@ -15538,7 +15538,7 @@
                             "open_issues": 0,
                             "owner": "yasar-rehman",
                             "repo": "FEDVSSL",
-                            "stars": 26,
+                            "stars": 25,
                             "topics": []
                           },
                           "first_seen": "2026-10-06T10:31:18.942Z"
@@ -16151,7 +16151,7 @@
                             "open_issues": 7,
                             "owner": "FederatedAI",
                             "repo": "FATE-LLM",
-                            "stars": 271,
+                            "stars": 272,
                             "topics": [
                               "llms",
                               "slms"
@@ -16175,7 +16175,7 @@
                             "open_issues": 7,
                             "owner": "FederatedAI",
                             "repo": "FATE-LLM",
-                            "stars": 271,
+                            "stars": 272,
                             "topics": [
                               "llms",
                               "slms"
@@ -21578,8 +21578,8 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-15T13:43:59Z",
-                        "open_issues": 12,
+                        "last_commit": "2026-10-16T13:29:25Z",
+                        "open_issues": 11,
                         "owner": "OpenMined",
                         "repo": "PySyft",
                         "stars": 10044,
@@ -21609,11 +21609,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-15T15:34:51Z",
-                        "open_issues": 410,
+                        "last_commit": "2026-10-16T15:19:29Z",
+                        "open_issues": 413,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7163,
+                        "stars": 7167,
                         "topics": [
                           "ai",
                           "android",
@@ -21735,7 +21735,7 @@
                         "open_issues": 92,
                         "owner": "secretflow",
                         "repo": "secretflow",
-                        "stars": 2715,
+                        "stars": 2716,
                         "topics": [
                           "confidential-computing",
                           "data-analysis",
@@ -21859,8 +21859,8 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-15T14:11:41Z",
-                        "open_issues": 46,
+                        "last_commit": "2026-10-16T14:41:02Z",
+                        "open_issues": 49,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
                         "stars": 981,
@@ -22077,7 +22077,7 @@
                         "open_issues": 30,
                         "owner": "WwZzz",
                         "repo": "easyFL",
-                        "stars": 635,
+                        "stars": 636,
                         "topics": [
                           "deep-learning",
                           "distributed-computing",
@@ -22849,8 +22849,8 @@
                         "id": 279604276,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-22T22:57:31Z",
-                        "open_issues": 2,
+                        "last_commit": "2026-10-16T14:59:33Z",
+                        "open_issues": 3,
                         "owner": "scaleoutsystems",
                         "repo": "scaleout-client",
                         "stars": 170,
@@ -22939,7 +22939,7 @@
                         "open_issues": 24,
                         "owner": "FederatedAI",
                         "repo": "FATE-Serving",
-                        "stars": 143,
+                        "stars": 144,
                         "topics": [
                           "federated-learning",
                           "inference",
@@ -23004,7 +23004,7 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-13T21:22:55Z",
+                        "last_commit": "2026-10-16T03:55:54Z",
                         "open_issues": 17,
                         "owner": "APPFL",
                         "repo": "APPFL",
@@ -23441,7 +23441,7 @@
                 "open_issues": 7,
                 "owner": "innovation-cat",
                 "repo": "Awesome-Federated-Machine-Learning",
-                "stars": 2102,
+                "stars": 2103,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -23510,7 +23510,7 @@
                     "open_issues": 7,
                     "owner": "innovation-cat",
                     "repo": "Awesome-Federated-Machine-Learning",
-                    "stars": 2102,
+                    "stars": 2103,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -23865,7 +23865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:35:40.233Z",
+    "last_updated": "2026-10-16T15:22:42.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -23877,7 +23877,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2018,
+      "stars": 2019,
       "topics": [
         "artificial-intelligence",
         "awesome",
