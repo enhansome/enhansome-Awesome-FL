@@ -3877,6 +3877,293 @@
                       "children": [
                         {
                           "node_type": "item",
+                          "title": "Converge Faster, Talk Less: Hessian-Informed Federated Zeroth-Order Optimization. [PUB",
+                          "description": "ZidongLiu/DeComFL",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[ICLR 2025] Achieving Dimension-Free Communication in Federated Learning via Zeroth-Order Optimization",
+                            "homepage": "https://arxiv.org/abs/2405.15861",
+                            "id": 779399162,
+                            "language": "Jupyter Notebook",
+                            "license": "Apache-2.0",
+                            "last_commit": "2026-01-27T20:50:28Z",
+                            "open_issues": 10,
+                            "owner": "ZidongLiu",
+                            "repo": "DeComFL",
+                            "stars": 30,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking. [PUB",
+                          "description": "Littleor/ExpertMerging",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "Source codes for the paper \"Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking\"",
+                            "homepage": null,
+                            "id": 1063880008,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-04-14T15:53:18Z",
+                            "open_issues": 0,
+                            "owner": "Littleor",
+                            "repo": "ExpertMerging",
+                            "stars": 9,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Towards Privacy-Guaranteed Label Unlearning in Vertical Federated Learning: Few-Shot Forgetting Without Disclosure. [PUB",
+                          "description": "bryanhx/Towards-Privacy-Guaranteed-Label-Unlearning-in-Vertical-Federated-Learning",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[ICLR2026] Official implementation of the paper \"Towards Privacy-Guaranteed Label Unlearning in Vertical Federated Learning: Few-Shot Forgetting Without Disclosure",
+                            "homepage": null,
+                            "id": 1151971604,
+                            "language": "Python",
+                            "license": "NOASSERTION",
+                            "last_commit": "2026-02-13T06:34:54Z",
+                            "open_issues": 1,
+                            "owner": "bryanhx",
+                            "repo": "Towards-Privacy-Guaranteed-Label-Unlearning-in-Vertical-Federated-Learning",
+                            "stars": 8,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity. [PUB",
+                          "description": "zihuanqiu/NUFILT",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
+                            "homepage": null,
+                            "id": 1195344604,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-03-31T16:25:24Z",
+                            "open_issues": 0,
+                            "owner": "zihuanqiu",
+                            "repo": "NUFILT",
+                            "stars": 8,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Heterogeneous Federated Fine-Tuning with Parallel One-Rank Adaptation. [PUB",
+                          "description": "TNI-playground/Fed-PLoRA",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[ICLR 2026] Heterogeneous Federated Fine-Tuning with Parallel One-Rank Adaptation",
+                            "homepage": null,
+                            "id": 1158161820,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-05-17T23:02:46Z",
+                            "open_issues": 0,
+                            "owner": "TNI-playground",
+                            "repo": "Fed-PLoRA",
+                            "stars": 4,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "ICLR"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2026"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness. [PUB",
+                          "description": "AuroraZengfh/RobustMerge",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[NeurIPS'25 Spotlight🔥] Official Implementation of RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness",
+                            "homepage": "https://openreview.net/forum?id=U7RZ9cC73S",
+                            "id": 964541746,
+                            "language": "Python",
+                            "license": "MIT",
+                            "last_commit": "2026-06-24T12:27:51Z",
+                            "open_issues": 1,
+                            "owner": "AuroraZengfh",
+                            "repo": "RobustMerge",
+                            "stars": 67,
+                            "topics": [
+                              "model-merging",
+                              "multi-modal-large-language-model",
+                              "multi-task-learnning",
+                              "parameter-efficient-tuning"
+                            ]
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Accurate and Efficient Low-Rank Model Merging in Core Space. [PUB",
+                          "description": "apanariello4/core-space-merging",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "Pytorch code for NeurIPS 2025 paper \"Accurate and Efficient Low-Rank Model Merging in Core Space\"",
+                            "homepage": null,
+                            "id": 1052748475,
+                            "language": "Python",
+                            "license": "Apache-2.0",
+                            "last_commit": "2026-02-02T10:40:59Z",
+                            "open_issues": 2,
+                            "owner": "apanariello4",
+                            "repo": "core-space-merging",
+                            "stars": 42,
+                            "topics": [
+                              "model-merging",
+                              "neurips",
+                              "neurips-2025",
+                              "pytorch"
+                            ]
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping. [PUB",
+                          "description": "apple-aiml-research/ml-pfl4asr",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "Private Federated Learning for Speech Recognition",
+                            "homepage": "https://machinelearning.apple.com/research/fed-learning-diff-privacy",
+                            "id": 1036272591,
+                            "language": "Python",
+                            "license": "NOASSERTION",
+                            "last_commit": "2026-09-11T16:03:37Z",
+                            "open_issues": 1,
+                            "owner": "apple-aiml-research",
+                            "repo": "ml-pfl4asr",
+                            "stars": 21,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "DETree: DEtecting Human-AI Collaborative Texts via Tree-Structured Hierarchical Representation Learning. [PUB",
+                          "description": "heyongxin233/DETree",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[NeurIPS 2025]  DETree: DEtecting Human-AI Collaborative Texts via Tree-Structured Hierarchical Representation Learning",
+                            "homepage": "https://arxiv.org/abs/2510.17489",
+                            "id": 1059917498,
+                            "language": "Python",
+                            "license": "MIT",
+                            "last_commit": "2025-11-07T12:53:50Z",
+                            "open_issues": 1,
+                            "owner": "heyongxin233",
+                            "repo": "DETree",
+                            "stars": 20,
+                            "topics": [
+                              "ai-text-detection",
+                              "human-ai-collaboration",
+                              "neurips-2025"
+                            ]
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "FedRTS: Federated Robust Pruning via Combinatorial Thompson Sampling. [PUB",
+                          "description": "Little0o0/FedRTS",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[NeurIPS 2025] FedRTS: Federated Robust Pruning via Combinatorial Thompson Sampling",
+                            "homepage": null,
+                            "id": 922762467,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-10-16T03:26:59Z",
+                            "open_issues": 0,
+                            "owner": "Little0o0",
+                            "repo": "FedRTS",
+                            "stars": 10,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Gains: Fine-grained Federated Domain Adaptation in Open Set. [PUB",
+                          "description": "Zhong-Zhengyi/Gains",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 982841947,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-05-16T08:04:24Z",
+                            "open_issues": 0,
+                            "owner": "Zhong-Zhengyi",
+                            "repo": "Gains",
+                            "stars": 2,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Towards Straggler-Resilient Split Federated Learning: An Unbalanced Update Approach. [PUB",
+                          "description": "Johnny-Zip/MU-SplitFed",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 1073404248,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-10-30T17:50:37Z",
+                            "open_issues": 0,
+                            "owner": "Johnny-Zip",
+                            "repo": "MU-SplitFed",
+                            "stars": 1,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "NeurIPS"
+                    },
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
                           "title": "Efficient federated unlearning under plausible deniability. [PUB",
                           "description": "Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability",
                           "children": [],
@@ -5491,7 +5778,7 @@
                             "open_issues": 6,
                             "owner": "FLAIR-THU",
                             "repo": "VFLAIR",
-                            "stars": 106,
+                            "stars": 107,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -11062,6 +11349,136 @@
                       "children": [
                         {
                           "node_type": "item",
+                          "title": "Collaborative Deterministic-Probabilistic Learning for Real-World Spatiotemporal Dynamics. [PUB",
+                          "description": "tsinghua-fib-lab/CoST",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "CoST: Collaborative Deterministic-Diffusion Model for Probabilistic  Spatiotemporal Prediction",
+                            "homepage": null,
+                            "id": 1150266170,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-02-05T04:58:10Z",
+                            "open_issues": 0,
+                            "owner": "tsinghua-fib-lab",
+                            "repo": "CoST",
+                            "stars": 16,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "PoL-BFL: Towards Trustworthy Federated Learning with Zero-Knowledge Proofs and Verifiable Incentives. [PUB",
+                          "description": "weixiubo/PoL-BFL",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "Blockchain-assisted federated learning with Proof-of-Learning verification, zero-knowledge proofs, robust aggregation, and Sybil defense.",
+                            "homepage": null,
+                            "id": 1249088178,
+                            "language": "Python",
+                            "license": "MIT",
+                            "last_commit": "2026-10-17T06:38:58Z",
+                            "open_issues": 0,
+                            "owner": "weixiubo",
+                            "repo": "PoL-BFL",
+                            "stars": 1,
+                            "topics": [
+                              "blockchain",
+                              "federated-learning",
+                              "proof-of-learning",
+                              "pytorch",
+                              "sybil-defense",
+                              "zero-knowledge-proofs"
+                            ]
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Federated Nonlinear Causal Discovery via Divide-and-Conquer Learning. [PUB",
+                          "description": "Xianjie-Guo/DC-FNCD",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "Federated Nonlinear Causal Discovery via Divide-and-Conquer Learning",
+                            "homepage": null,
+                            "id": 1257100161,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-06-02T11:16:20Z",
+                            "open_issues": 0,
+                            "owner": "Xianjie-Guo",
+                            "repo": "DC-FNCD",
+                            "stars": 0,
+                            "topics": [
+                              "causal-discovery",
+                              "federated-learning",
+                              "nonlinear-causal-discovery"
+                            ]
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "FedFST: Mitigating Spectral Catastrophic Forgetting in Federated Graph Continual Learning. [PUB",
+                          "description": "YunQi572/FedFST",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 1153510161,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-08-03T15:51:14Z",
+                            "open_issues": 0,
+                            "owner": "YunQi572",
+                            "repo": "FedFST",
+                            "stars": 0,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Beyond Instance-Level Alignment and Uniformity: Semantic Factor Learning for Collaborative Filtering. [PUB",
+                          "description": "MysticRealm/SaFeAU",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 1250217834,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-05-26T13:15:57Z",
+                            "open_issues": 0,
+                            "owner": "MysticRealm",
+                            "repo": "SaFeAU",
+                            "stars": 0,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "KDD"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2026"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
                           "title": "HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark. [PUB",
                           "description": "TsingZ0/HtFLlib",
                           "children": [],
@@ -11573,7 +11990,7 @@
                             "open_issues": 2,
                             "owner": "usc-sail",
                             "repo": "fed-multimodal",
-                            "stars": 148,
+                            "stars": 149,
                             "topics": [
                               "action-recognition",
                               "emotion-recognition",
@@ -12810,6 +13227,223 @@
           "children": [
             {
               "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "FedBPrompt: Federated Domain Generalization Person Re-Identification via Body Distribution Aware Visual Prompts. [PUB",
+                          "description": "leavlong/FedBPrompt",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 1168163770,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-09-08T04:24:36Z",
+                            "open_issues": 2,
+                            "owner": "leavlong",
+                            "repo": "FedBPrompt",
+                            "stars": 8,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Learning Mutual View Information Graph for Adaptive Adversarial Collaborative Perception. [PUB",
+                          "description": "yihangtao/MVIG",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[CVPR 2026] This is the official implenmentation of \"Learning Mutual View Information Graph for Adaptive Adversarial Collaborative Perception\"",
+                            "homepage": null,
+                            "id": 1244397362,
+                            "language": "Python",
+                            "license": "MIT",
+                            "last_commit": "2026-06-01T07:13:40Z",
+                            "open_issues": 0,
+                            "owner": "yihangtao",
+                            "repo": "MVIG",
+                            "stars": 5,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Model Merging in the Essential Subspace. [PUB",
+                          "description": "kiddo127/ESM",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "Model Merging in the Essential Subspace (CVPR 2026)",
+                            "homepage": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_Model_Merging_in_the_Essential_Subspace_CVPR_2026_paper.html",
+                            "id": 1270220028,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-10-13T13:25:01Z",
+                            "open_issues": 0,
+                            "owner": "kiddo127",
+                            "repo": "ESM",
+                            "stars": 5,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "FedRAC: Rolling Submodel Allocation for Collaborative Fairness in Federated Learning. [PUB",
+                          "description": "wangzihuixmu/FedSAC",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 806056916,
+                            "language": null,
+                            "license": null,
+                            "last_commit": "2025-05-07T01:45:22Z",
+                            "open_issues": 4,
+                            "owner": "wangzihuixmu",
+                            "repo": "FedSAC",
+                            "stars": 4,
+                            "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning. [PUB",
+                          "description": "shihaohou/FedPuReL",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 1177927704,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-03-10T14:16:30Z",
+                            "open_issues": 0,
+                            "owner": "shihaohou",
+                            "repo": "FedPuReL",
+                            "stars": 2,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Federated Active Learning Under Extreme Non-IID and Global Class Imbalance. [PUB",
+                          "description": "chenchenzong/FairFAL",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "Official Implementation of CVPR'26 paper \"Federated Active Learning Under Extreme Non-IID and Global Class Imbalance\"",
+                            "homepage": null,
+                            "id": 1169724642,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-03-01T05:29:19Z",
+                            "open_issues": 1,
+                            "owner": "chenchenzong",
+                            "repo": "FairFAL",
+                            "stars": 1,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "CVPR"
+                    },
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "Stay Unique, Stay Efficient: Preserving Model Personality in Multi-task Merging. [PUB",
+                          "description": "krumpguo/DTS",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "The code of paper \"Stay Unique, Stay Efficient: Preserving Model Personality in Multi-Task Merging\".",
+                            "homepage": null,
+                            "id": 1107400579,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-12-01T05:12:24Z",
+                            "open_issues": 1,
+                            "owner": "krumpguo",
+                            "repo": "DTS",
+                            "stars": 6,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "On the Vulnerability of Parameter-Level Defenses to Model Merging. [PUB",
+                          "description": "krumpguo/secure-merge-attack",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "The code of paper \"On the Vulnerability of Parameter-Level Defenses to Model Merging\".",
+                            "homepage": null,
+                            "id": 1278999532,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-06-24T11:54:08Z",
+                            "open_issues": 1,
+                            "owner": "krumpguo",
+                            "repo": "secure-merge-attack",
+                            "stars": 4,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "ECCV"
+                    },
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "FedPD++: Enhanced Federated Open-Set Recognition with Parameter Disentanglement. [PUB",
+                          "description": "CUHK-AIM-Group/FedPD",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[ICCV' 23] FedPD: Federated Open Set Recognition with Parameter Disentanglement",
+                            "homepage": null,
+                            "id": 806367904,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2024-06-12T04:22:14Z",
+                            "open_issues": 1,
+                            "owner": "CUHK-AIM-Group",
+                            "repo": "FedPD",
+                            "stars": 2,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "ijcv"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2026"
+                },
                 {
                   "children": [
                     {
@@ -14510,7 +15144,7 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-16T14:41:02Z",
+                            "last_commit": "2026-10-16T23:56:08Z",
                             "open_issues": 49,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
@@ -15005,7 +15639,7 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-16T14:41:02Z",
+                            "last_commit": "2026-10-16T23:56:08Z",
                             "open_issues": 49,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
@@ -16137,6 +16771,62 @@
                       "children": [
                         {
                           "node_type": "item",
+                          "title": "FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems. [PUB",
+                          "description": "wwh0411/FedGUI",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[ACL 2026 Findings] FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, Sources, and Operating Systems.",
+                            "homepage": null,
+                            "id": 1125790323,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-04-08T04:08:36Z",
+                            "open_issues": 1,
+                            "owner": "wwh0411",
+                            "repo": "FedGUI",
+                            "stars": 7,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "PlaM: Training-Free Plateau-Guided Model Merging for Better Visual Grounding in MLLMs. [PUB",
+                          "description": "wzj1718/PlaM",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 1128360383,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-01-05T16:51:03Z",
+                            "open_issues": 1,
+                            "owner": "wzj1718",
+                            "repo": "PlaM",
+                            "stars": 1,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "ACL"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2026"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
                           "title": "FedCoT: Federated Chain-of-Thought Distillation for Large Language Models. [PUB",
                           "description": "FederatedAI/FATE-LLM",
                           "children": [],
@@ -17010,6 +17700,62 @@
                       "children": [
                         {
                           "node_type": "item",
+                          "title": "Tool-Star: Empowering Multi-Tool Collaborative Web Agent via Reinforcement Learning. [PUB",
+                          "description": "RUC-NLPIR/Tool-Star",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "🔧Tool-Star: Empowering LLM-brained Multi-Tool Reasoner via Reinforcement Learning",
+                            "homepage": null,
+                            "id": 981604316,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-04-03T06:54:03Z",
+                            "open_issues": 0,
+                            "owner": "RUC-NLPIR",
+                            "repo": "Tool-Star",
+                            "stars": 422,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation. [PUB",
+                          "description": "yliuaa/DECOR",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[SIGIR 26] PyTorch implementation for Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation",
+                            "homepage": null,
+                            "id": 1030414668,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-01-22T16:01:08Z",
+                            "open_issues": 0,
+                            "owner": "yliuaa",
+                            "repo": "DECOR",
+                            "stars": 4,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "SIGIR"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2026"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
                           "title": "FedCIA: Federated Collaborative Information Aggregation for Privacy-Preserving Recommendation. [PUB",
                           "description": "Mingzhe-Han/FedCIA",
                           "children": [],
@@ -17256,6 +18002,41 @@
           "children": [
             {
               "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "AdaFedRec: Adaptive Heterogeneous Federated Recommender Systems Across Multi-Device Users. [PUB",
+                          "description": "Iridescentttttt/AdaFedRec",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 1004006834,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-07-14T07:33:40Z",
+                            "open_issues": 0,
+                            "owner": "Iridescentttttt",
+                            "repo": "AdaFedRec",
+                            "stars": 0,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        }
+                      ],
+                      "description": null,
+                      "node_type": "group",
+                      "title": "ICDE"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2026"
+                },
                 {
                   "children": [
                     {
@@ -19866,27 +20647,6 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "Privacy vs. Efficiency: Achieving Both Through Adaptive Hierarchical Federated Learning. [PUB",
-                          "description": "Guoyeting/AHFL",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": null,
-                            "homepage": null,
-                            "id": 500417157,
-                            "language": "Python",
-                            "license": "Apache-2.0",
-                            "last_commit": "2022-06-06T12:24:58Z",
-                            "open_issues": 1,
-                            "owner": "Guoyeting",
-                            "repo": "AHFL",
-                            "stars": 6,
-                            "topics": []
-                          },
-                          "first_seen": "2026-10-06T10:31:18.942Z"
-                        },
-                        {
-                          "node_type": "item",
                           "title": "Scheduling Algorithms for Federated Learning With Minimal Energy Consumption. [PUB",
                           "description": "] [PDF] [CODE]",
                           "children": [],
@@ -19901,6 +20661,27 @@
                             "open_issues": 0,
                             "owner": "llpilla",
                             "repo": "energy-optimal-federated-learning",
+                            "stars": 7,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-06T10:31:18.942Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Privacy vs. Efficiency: Achieving Both Through Adaptive Hierarchical Federated Learning. [PUB",
+                          "description": "Guoyeting/AHFL",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 500417157,
+                            "language": "Python",
+                            "license": "Apache-2.0",
+                            "last_commit": "2022-06-06T12:24:58Z",
+                            "open_issues": 1,
+                            "owner": "Guoyeting",
+                            "repo": "AHFL",
                             "stars": 6,
                             "topics": []
                           },
@@ -21609,11 +22390,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-16T15:19:29Z",
+                        "last_commit": "2026-10-16T17:28:27Z",
                         "open_issues": 413,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7167,
+                        "stars": 7168,
                         "topics": [
                           "ai",
                           "android",
@@ -21830,7 +22611,7 @@
                         "open_issues": 5,
                         "owner": "primihub",
                         "repo": "primihub",
-                        "stars": 1411,
+                        "stars": 1412,
                         "topics": [
                           "federated-learning",
                           "fl",
@@ -21859,7 +22640,7 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-16T14:41:02Z",
+                        "last_commit": "2026-10-16T23:56:08Z",
                         "open_issues": 49,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
@@ -23004,8 +23785,8 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-16T03:55:54Z",
-                        "open_issues": 17,
+                        "last_commit": "2026-10-17T01:16:37Z",
+                        "open_issues": 24,
                         "owner": "APPFL",
                         "repo": "APPFL",
                         "stars": 186,
@@ -23438,7 +24219,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-05-30T21:21:42Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "innovation-cat",
                 "repo": "Awesome-Federated-Machine-Learning",
                 "stars": 2103,
@@ -23458,6 +24239,32 @@
             },
             {
               "node_type": "item",
+              "title": "2026/10/17 - supplement 455 historical and recent papers from FL-Papers.md",
+              "description": ", covering ML (205), CV (86), Network (58), DM (35), NLP (32), System (15), DB (12), IR (8), and Secure (4), including ICLR 2026, NeurIPS 2025, CVPR 2026, KDD 2026, ACL 2026, and INFOCOM 2026.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Track Federated Learning Papers",
+                "homepage": null,
+                "id": 679690920,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-15T03:59:44Z",
+                "open_issues": 0,
+                "owner": "youngfish42",
+                "repo": "FL-paper-update-tracker",
+                "stars": 61,
+                "topics": [
+                  "academic",
+                  "automatic-api",
+                  "federated-learning",
+                  "papers"
+                ]
+              },
+              "first_seen": "2026-10-06T10:31:18.942Z"
+            },
+            {
+              "node_type": "item",
               "title": "2026/05/20 - major update: supplement 976 historical and recent papers from FL-Papers.md",
               "description": ", covering AI (AAAI, AISTATS, IJCAI, ALT, AI), ML (NeurIPS, ICML, ICLR, JMLR, COLT, UAI, TPAMI), DM (KDD, WSDM), Secure (S&P, CCS, NDSS, USENIX Security), CV (CVPR, ICCV, ECCV, MM, IJCV), NLP (ACL, EMNLP, NAACL, COLING), IR (SIGIR), DB (SIGMOD, VLDB, ICDE), Network (INFOCOM, MobiCom, NSDI, SIGCOMM, WWW), System (MLSys, EuroSys, OSDI, SOSP, TC, TPDS, TCAD, DAC, TOS, ISCA), and Others (ICSE, STOC). Also added 88 missing CODE links and updated 13 mismatched CODE links based on FL-Papers.md.",
               "children": [],
@@ -23469,7 +24276,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-15T03:59:44Z",
-                "open_issues": 30,
+                "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "FL-paper-update-tracker",
                 "stars": 61,
@@ -23507,7 +24314,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2024-05-30T21:21:42Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "innovation-cat",
                     "repo": "Awesome-Federated-Machine-Learning",
                     "stars": 2103,
@@ -23538,7 +24345,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2022-09-03T20:03:02Z",
-                    "open_issues": 3,
+                    "open_issues": 5,
                     "owner": "chaoyanghe",
                     "repo": "Awesome-Federated-Learning",
                     "stars": 2022,
@@ -23798,7 +24605,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9412,
+                    "stars": 9414,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -23833,7 +24640,7 @@
                     "id": 218470804,
                     "language": null,
                     "license": "CC-BY-SA-4.0",
-                    "last_commit": "2026-07-23T06:17:17Z",
+                    "last_commit": "2026-10-17T08:26:41Z",
                     "open_issues": 0,
                     "owner": "Awesome-Image-Registration-Organization",
                     "repo": "awesome-image-registration",
@@ -23865,7 +24672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T15:22:42.808Z",
+    "last_updated": "2026-10-17T14:13:09.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -23873,11 +24680,11 @@
       "id": 494658282,
       "language": "Python",
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-10-03T04:00:05Z",
-      "open_issues": 0,
+      "last_commit": "2026-10-17T09:06:03Z",
+      "open_issues": 1,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2019,
+      "stars": 2020,
       "topics": [
         "artificial-intelligence",
         "awesome",
@@ -23901,7 +24708,7 @@
         "tabular-data"
       ]
     },
-    "original_repository_sha": "781e9961129d034e530ff7776f9c2643fe159a40",
+    "original_repository_sha": "ea5006ffed176d84315daa7d115dbd99939c33b9",
     "enhanced_repository": "enhansome/enhansome-Awesome-FL",
     "enhanced_repository_description": null,
     "title": "Awesome Federated Learning Resources with stars"
