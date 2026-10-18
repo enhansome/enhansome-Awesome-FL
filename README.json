@@ -3447,7 +3447,7 @@
                             "open_issues": 7,
                             "owner": "TsingZ0",
                             "repo": "PFLlib",
-                            "stars": 2177,
+                            "stars": 2176,
                             "topics": [
                               "attack",
                               "differential-privacy",
@@ -4478,27 +4478,6 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "Does One-shot Give the Best Shot? Mitigating Model Inconsistency in One-shot Federated Learning. [PUB",
-                          "description": "zenghui9977/FAFI_ICML25",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": null,
-                            "homepage": null,
-                            "id": 979422421,
-                            "language": "Python",
-                            "license": null,
-                            "last_commit": "2025-05-07T13:58:26Z",
-                            "open_issues": 0,
-                            "owner": "zenghui9977",
-                            "repo": "FAFI_ICML25",
-                            "stars": 11,
-                            "topics": []
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
                           "title": "Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning. [PUB",
                           "description": "Hongyao-Chen/HybridBN",
                           "children": [],
@@ -4513,6 +4492,27 @@
                             "open_issues": 2,
                             "owner": "Hongyao-Chen",
                             "repo": "HybridBN",
+                            "stars": 10,
+                            "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Does One-shot Give the Best Shot? Mitigating Model Inconsistency in One-shot Federated Learning. [PUB",
+                          "description": "zenghui9977/FAFI_ICML25",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 979422421,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-05-07T13:58:26Z",
+                            "open_issues": 0,
+                            "owner": "zenghui9977",
+                            "repo": "FAFI_ICML25",
                             "stars": 10,
                             "topics": []
                           },
@@ -10889,7 +10889,7 @@
                             "open_issues": 148,
                             "owner": "FedML-AI",
                             "repo": "FedML",
-                            "stars": 4070,
+                            "stars": 4069,
                             "topics": [
                               "ai-agent",
                               "deep-learning",
@@ -11713,7 +11713,7 @@
                             "open_issues": 24,
                             "owner": "rui-ye",
                             "repo": "OpenFedLLM",
-                            "stars": 479,
+                            "stars": 478,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -13829,7 +13829,7 @@
                             "open_issues": 0,
                             "owner": "ZHUANGHP",
                             "repo": "Analytic-federated-learning",
-                            "stars": 73,
+                            "stars": 72,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14283,7 +14283,7 @@
                             "open_issues": 0,
                             "owner": "NaiboWang",
                             "repo": "FedELMY",
-                            "stars": 8,
+                            "stars": 7,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14311,30 +14311,6 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "One-shot-but-not-degraded Federated Learning. [PUB",
-                          "description": "zenghui9977/IntactOFL",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": null,
-                            "homepage": null,
-                            "id": 833503623,
-                            "language": "Python",
-                            "license": null,
-                            "last_commit": "2024-08-22T02:13:47Z",
-                            "open_issues": 0,
-                            "owner": "zenghui9977",
-                            "repo": "IntactOFL",
-                            "stars": 5,
-                            "topics": [
-                              "federated-learning",
-                              "one-shot-federated-learning"
-                            ]
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
                           "title": "Overcoming Spatial-Temporal Catastrophic Forgetting for Federated Class-Incremental Learning. [PUB",
                           "description": "SkyOfBeginning/FedCBC",
                           "children": [],
@@ -14351,6 +14327,30 @@
                             "repo": "FedCBC",
                             "stars": 5,
                             "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "One-shot-but-not-degraded Federated Learning. [PUB",
+                          "description": "zenghui9977/IntactOFL",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 833503623,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2024-08-22T02:13:47Z",
+                            "open_issues": 0,
+                            "owner": "zenghui9977",
+                            "repo": "IntactOFL",
+                            "stars": 4,
+                            "topics": [
+                              "federated-learning",
+                              "one-shot-federated-learning"
+                            ]
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
                         }
@@ -22462,7 +22462,7 @@
                         "open_issues": 148,
                         "owner": "FedML-AI",
                         "repo": "FedML",
-                        "stars": 4070,
+                        "stars": 4069,
                         "topics": [
                           "ai-agent",
                           "deep-learning",
@@ -22549,7 +22549,7 @@
                         "open_issues": 7,
                         "owner": "TsingZ0",
                         "repo": "PFLlib",
-                        "stars": 2177,
+                        "stars": 2176,
                         "topics": [
                           "attack",
                           "differential-privacy",
@@ -23785,8 +23785,8 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-17T01:16:37Z",
-                        "open_issues": 24,
+                        "last_commit": "2026-10-18T13:19:08Z",
+                        "open_issues": 25,
                         "owner": "APPFL",
                         "repo": "APPFL",
                         "stars": 186,
@@ -24605,7 +24605,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9414,
+                    "stars": 9418,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -24672,7 +24672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:13:09.134Z",
+    "last_updated": "2026-10-18T14:34:57.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -24680,8 +24680,8 @@
       "id": 494658282,
       "language": "Python",
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-10-17T09:06:03Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-18T01:59:24Z",
+      "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
       "stars": 2020,
@@ -24708,7 +24708,7 @@
         "tabular-data"
       ]
     },
-    "original_repository_sha": "ea5006ffed176d84315daa7d115dbd99939c33b9",
+    "original_repository_sha": "d12ed2c5a5f852c45d098f26182a25c7e8179aa7",
     "enhanced_repository": "enhansome/enhansome-Awesome-FL",
     "enhanced_repository_description": null,
     "title": "Awesome Federated Learning Resources with stars"
