@@ -111,7 +111,7 @@
                     "id": 702268730,
                     "language": "Jupyter Notebook",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-06-26T05:16:56Z",
+                    "last_commit": "2026-10-21T06:15:43Z",
                     "open_issues": 0,
                     "owner": "jlianglab",
                     "repo": "Ark",
@@ -3807,7 +3807,7 @@
                             "open_issues": 7,
                             "owner": "ebagdasa",
                             "repo": "backdoor_federated_learning",
-                            "stars": 315,
+                            "stars": 316,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -3912,6 +3912,27 @@
                             "open_issues": 0,
                             "owner": "Littleor",
                             "repo": "ExpertMerging",
+                            "stars": 10,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-17T14:13:09.134Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity. [PUB",
+                          "description": "zihuanqiu/NUFILT",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
+                            "homepage": null,
+                            "id": 1195344604,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2026-03-31T16:25:24Z",
+                            "open_issues": 0,
+                            "owner": "zihuanqiu",
+                            "repo": "NUFILT",
                             "stars": 9,
                             "topics": []
                           },
@@ -3933,27 +3954,6 @@
                             "open_issues": 1,
                             "owner": "bryanhx",
                             "repo": "Towards-Privacy-Guaranteed-Label-Unlearning-in-Vertical-Federated-Learning",
-                            "stars": 8,
-                            "topics": []
-                          },
-                          "first_seen": "2026-10-17T14:13:09.134Z"
-                        },
-                        {
-                          "node_type": "item",
-                          "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity. [PUB",
-                          "description": "zihuanqiu/NUFILT",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
-                            "homepage": null,
-                            "id": 1195344604,
-                            "language": "Python",
-                            "license": null,
-                            "last_commit": "2026-03-31T16:25:24Z",
-                            "open_issues": 0,
-                            "owner": "zihuanqiu",
-                            "repo": "NUFILT",
                             "stars": 8,
                             "topics": []
                           },
@@ -4006,7 +4006,7 @@
                             "id": 964541746,
                             "language": "Python",
                             "license": "MIT",
-                            "last_commit": "2026-06-24T12:27:51Z",
+                            "last_commit": "2026-10-20T16:13:31Z",
                             "open_issues": 1,
                             "owner": "AuroraZengfh",
                             "repo": "RobustMerge",
@@ -4303,7 +4303,7 @@
                             "open_issues": 1,
                             "owner": "wenboluu",
                             "repo": "ToMA",
-                            "stars": 21,
+                            "stars": 22,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9737,7 +9737,7 @@
                             "open_issues": 0,
                             "owner": "diaoenmao",
                             "repo": "HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients",
-                            "stars": 184,
+                            "stars": 183,
                             "topics": [
                               "deep-learning",
                               "distributed-machine-learning",
@@ -10254,7 +10254,7 @@
                             "open_issues": 1,
                             "owner": "omarfoq",
                             "repo": "FedEM",
-                            "stars": 163,
+                            "stars": 162,
                             "topics": [
                               "deep-learning",
                               "federated-learning",
@@ -10886,7 +10886,7 @@
                             "language": "Python",
                             "license": "Apache-2.0",
                             "last_commit": "2025-10-28T12:44:12Z",
-                            "open_issues": 148,
+                            "open_issues": 149,
                             "owner": "FedML-AI",
                             "repo": "FedML",
                             "stars": 4069,
@@ -15144,11 +15144,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-19T22:44:57Z",
-                            "open_issues": 54,
+                            "last_commit": "2026-10-20T23:16:03Z",
+                            "open_issues": 58,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 980,
+                            "stars": 982,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -15639,11 +15639,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-19T22:44:57Z",
-                            "open_issues": 54,
+                            "last_commit": "2026-10-20T23:16:03Z",
+                            "open_issues": 58,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 980,
+                            "stars": 982,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -16841,7 +16841,7 @@
                             "open_issues": 7,
                             "owner": "FederatedAI",
                             "repo": "FATE-LLM",
-                            "stars": 272,
+                            "stars": 273,
                             "topics": [
                               "llms",
                               "slms"
@@ -16865,7 +16865,7 @@
                             "open_issues": 7,
                             "owner": "FederatedAI",
                             "repo": "FATE-LLM",
-                            "stars": 272,
+                            "stars": 273,
                             "topics": [
                               "llms",
                               "slms"
@@ -20096,7 +20096,7 @@
                             "open_issues": 7,
                             "owner": "iQua",
                             "repo": "flsim",
-                            "stars": 206,
+                            "stars": 205,
                             "topics": [
                               "federated-learning",
                               "pytorch"
@@ -22359,7 +22359,7 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-20T13:46:02Z",
+                        "last_commit": "2026-10-21T15:54:48Z",
                         "open_issues": 10,
                         "owner": "OpenMined",
                         "repo": "PySyft",
@@ -22390,11 +22390,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-20T15:35:05Z",
+                        "last_commit": "2026-10-21T15:57:40Z",
                         "open_issues": 407,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7169,
+                        "stars": 7173,
                         "topics": [
                           "ai",
                           "android",
@@ -22459,7 +22459,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2025-10-28T12:44:12Z",
-                        "open_issues": 148,
+                        "open_issues": 149,
                         "owner": "FedML-AI",
                         "repo": "FedML",
                         "stars": 4069,
@@ -22491,8 +22491,8 @@
                         "id": 161556784,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-20T15:22:52Z",
-                        "open_issues": 300,
+                        "last_commit": "2026-10-21T15:36:31Z",
+                        "open_issues": 301,
                         "owner": "google-parfait",
                         "repo": "tensorflow-federated",
                         "stars": 2453,
@@ -22611,7 +22611,7 @@
                         "open_issues": 5,
                         "owner": "primihub",
                         "repo": "primihub",
-                        "stars": 1412,
+                        "stars": 1413,
                         "topics": [
                           "federated-learning",
                           "fl",
@@ -22640,11 +22640,11 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-19T22:44:57Z",
-                        "open_issues": 54,
+                        "last_commit": "2026-10-20T23:16:03Z",
+                        "open_issues": 58,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 980,
+                        "stars": 982,
                         "topics": [
                           "decentralized",
                           "federated-analytics",
@@ -22772,7 +22772,7 @@
                         "open_issues": 3,
                         "owner": "SMILELab-FL",
                         "repo": "FedLab-benchmarks",
-                        "stars": 154,
+                        "stars": 153,
                         "topics": [
                           "deep-learning",
                           "federated-learning",
@@ -23462,7 +23462,7 @@
                         "open_issues": 7,
                         "owner": "iQua",
                         "repo": "flsim",
-                        "stars": 206,
+                        "stars": 205,
                         "topics": [
                           "federated-learning",
                           "pytorch"
@@ -23785,7 +23785,7 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-19T19:27:05Z",
+                        "last_commit": "2026-10-20T21:14:02Z",
                         "open_issues": 27,
                         "owner": "APPFL",
                         "repo": "APPFL",
@@ -24348,7 +24348,7 @@
                     "open_issues": 5,
                     "owner": "chaoyanghe",
                     "repo": "Awesome-Federated-Learning",
-                    "stars": 2023,
+                    "stars": 2022,
                     "topics": [
                       "adversarial-attack-and-defense",
                       "communication-efficiency",
@@ -24390,7 +24390,7 @@
                     "open_issues": 4,
                     "owner": "lokinko",
                     "repo": "Federated-Learning",
-                    "stars": 1155,
+                    "stars": 1156,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:18.942Z"
@@ -24411,7 +24411,7 @@
                     "open_issues": 0,
                     "owner": "weimingwill",
                     "repo": "awesome-federated-learning",
-                    "stars": 738,
+                    "stars": 737,
                     "topics": [
                       "communication-efficiency",
                       "data-privacy",
@@ -24605,7 +24605,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9419,
+                    "stars": 9420,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -24672,7 +24672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:39:24.112Z",
+    "last_updated": "2026-10-21T15:57:44.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
