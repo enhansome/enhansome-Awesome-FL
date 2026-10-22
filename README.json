@@ -2892,7 +2892,7 @@
                             "open_issues": 1,
                             "owner": "pengyang7881187",
                             "repo": "FedRL",
-                            "stars": 65,
+                            "stars": 66,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -3447,7 +3447,7 @@
                             "open_issues": 7,
                             "owner": "TsingZ0",
                             "repo": "PFLlib",
-                            "stars": 2177,
+                            "stars": 2178,
                             "topics": [
                               "attack",
                               "differential-privacy",
@@ -5145,7 +5145,7 @@
                             "open_issues": 2,
                             "owner": "Pengxin-Guo",
                             "repo": "FedSA-LoRA",
-                            "stars": 68,
+                            "stars": 70,
                             "topics": [
                               "federated-learning",
                               "llm",
@@ -7173,7 +7173,7 @@
                             "open_issues": 2,
                             "owner": "MediaBrain-SJTU",
                             "repo": "pFedGraph",
-                            "stars": 39,
+                            "stars": 40,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -14533,7 +14533,7 @@
                             "open_issues": 3,
                             "owner": "HongxiaLee",
                             "repo": "FedOTP",
-                            "stars": 53,
+                            "stars": 54,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -15144,11 +15144,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-20T23:16:03Z",
-                            "open_issues": 58,
+                            "last_commit": "2026-10-21T21:45:18Z",
+                            "open_issues": 61,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 982,
+                            "stars": 987,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -15639,11 +15639,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-20T23:16:03Z",
-                            "open_issues": 58,
+                            "last_commit": "2026-10-21T21:45:18Z",
+                            "open_issues": 61,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 982,
+                            "stars": 987,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -20829,7 +20829,7 @@
                             "open_issues": 4,
                             "owner": "ElvisShaoYumeng",
                             "repo": "BLADE-FL",
-                            "stars": 32,
+                            "stars": 33,
                             "topics": []
                           },
                           "first_seen": "2026-10-06T10:31:18.942Z"
@@ -22193,7 +22193,7 @@
                     "open_issues": 17,
                     "owner": "FederatedAI",
                     "repo": "FATE",
-                    "stars": 6107,
+                    "stars": 6108,
                     "topics": [
                       "algorithm",
                       "fate",
@@ -22262,7 +22262,7 @@
                     "open_issues": 17,
                     "owner": "FederatedAI",
                     "repo": "FATE",
-                    "stars": 6107,
+                    "stars": 6108,
                     "topics": [
                       "algorithm",
                       "fate",
@@ -22359,11 +22359,11 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-21T15:54:48Z",
+                        "last_commit": "2026-10-22T15:32:32Z",
                         "open_issues": 10,
                         "owner": "OpenMined",
                         "repo": "PySyft",
-                        "stars": 10046,
+                        "stars": 10045,
                         "topics": [
                           "cryptography",
                           "deep-learning",
@@ -22390,11 +22390,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-21T15:57:40Z",
-                        "open_issues": 407,
+                        "last_commit": "2026-10-22T15:48:35Z",
+                        "open_issues": 405,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7173,
+                        "stars": 7174,
                         "topics": [
                           "ai",
                           "android",
@@ -22435,7 +22435,7 @@
                         "open_issues": 17,
                         "owner": "FederatedAI",
                         "repo": "FATE",
-                        "stars": 6107,
+                        "stars": 6108,
                         "topics": [
                           "algorithm",
                           "fate",
@@ -22491,11 +22491,11 @@
                         "id": 161556784,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-21T15:36:31Z",
-                        "open_issues": 301,
+                        "last_commit": "2026-10-21T21:55:28Z",
+                        "open_issues": 297,
                         "owner": "google-parfait",
                         "repo": "tensorflow-federated",
-                        "stars": 2453,
+                        "stars": 2452,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:31:18.942Z"
@@ -22516,7 +22516,7 @@
                         "open_issues": 92,
                         "owner": "secretflow",
                         "repo": "secretflow",
-                        "stars": 2716,
+                        "stars": 2717,
                         "topics": [
                           "confidential-computing",
                           "data-analysis",
@@ -22549,7 +22549,7 @@
                         "open_issues": 7,
                         "owner": "TsingZ0",
                         "repo": "PFLlib",
-                        "stars": 2177,
+                        "stars": 2178,
                         "topics": [
                           "attack",
                           "differential-privacy",
@@ -22640,11 +22640,11 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-20T23:16:03Z",
-                        "open_issues": 58,
+                        "last_commit": "2026-10-21T21:45:18Z",
+                        "open_issues": 61,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 982,
+                        "stars": 987,
                         "topics": [
                           "decentralized",
                           "federated-analytics",
@@ -23747,7 +23747,7 @@
                         "open_issues": 4,
                         "owner": "gkaissis",
                         "repo": "PriMIA",
-                        "stars": 139,
+                        "stars": 138,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:31:18.942Z"
@@ -23785,7 +23785,7 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-20T21:14:02Z",
+                        "last_commit": "2026-10-22T04:43:24Z",
                         "open_issues": 27,
                         "owner": "APPFL",
                         "repo": "APPFL",
@@ -24249,8 +24249,8 @@
                 "id": 679690920,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T03:59:44Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-22T04:17:53Z",
+                "open_issues": 1,
                 "owner": "youngfish42",
                 "repo": "FL-paper-update-tracker",
                 "stars": 61,
@@ -24275,8 +24275,8 @@
                 "id": 679690920,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T03:59:44Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-22T04:17:53Z",
+                "open_issues": 1,
                 "owner": "youngfish42",
                 "repo": "FL-paper-update-tracker",
                 "stars": 61,
@@ -24672,7 +24672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T15:57:44.125Z",
+    "last_updated": "2026-10-22T15:53:00.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
