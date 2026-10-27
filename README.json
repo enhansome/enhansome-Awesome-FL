@@ -402,7 +402,7 @@
                     "open_issues": 3,
                     "owner": "wuch15",
                     "repo": "FedPerGNN",
-                    "stars": 95,
+                    "stars": 96,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -6168,31 +6168,6 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "Adaptive Test-Time Personalization for Federated Learning. [PUB",
-                          "description": "] [PDF] [CODE]",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "[NeurIPS 2023] Adaptive Test-Time Personalization for Federated Learning. Wenxuan Bao, Tianxin Wei, Haohan Wang, Jingrui He.",
-                            "homepage": null,
-                            "id": 695370467,
-                            "language": "Python",
-                            "license": null,
-                            "last_commit": "2023-12-25T20:37:36Z",
-                            "open_issues": 0,
-                            "owner": "baowenxuan",
-                            "repo": "ATP",
-                            "stars": 25,
-                            "topics": [
-                              "federated-learning",
-                              "personalized-federated-learning",
-                              "test-time-adaptation"
-                            ]
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
                           "title": "Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning. [PUB",
                           "description": "google-parfait/dataset_grouper",
                           "children": [],
@@ -6238,6 +6213,31 @@
                             "repo": "fedl2p",
                             "stars": 24,
                             "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Adaptive Test-Time Personalization for Federated Learning. [PUB",
+                          "description": "] [PDF] [CODE]",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[NeurIPS 2023] Adaptive Test-Time Personalization for Federated Learning. Wenxuan Bao, Tianxin Wei, Haohan Wang, Jingrui He.",
+                            "homepage": null,
+                            "id": 695370467,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2023-12-25T20:37:36Z",
+                            "open_issues": 0,
+                            "owner": "baowenxuan",
+                            "repo": "ATP",
+                            "stars": 24,
+                            "topics": [
+                              "federated-learning",
+                              "personalized-federated-learning",
+                              "test-time-adaptation"
+                            ]
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
                         },
@@ -10352,7 +10352,7 @@
                             "open_issues": 2,
                             "owner": "ml-postech",
                             "repo": "gradient-inversion-generative-image-prior",
-                            "stars": 52,
+                            "stars": 59,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10840,7 +10840,7 @@
                             "open_issues": 5,
                             "owner": "kiddyboots216",
                             "repo": "CommEfficient",
-                            "stars": 79,
+                            "stars": 80,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10889,7 +10889,7 @@
                             "open_issues": 149,
                             "owner": "FedML-AI",
                             "repo": "FedML",
-                            "stars": 4070,
+                            "stars": 4071,
                             "topics": [
                               "ai-agent",
                               "deep-learning",
@@ -15144,11 +15144,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-26T15:41:10Z",
+                            "last_commit": "2026-10-27T15:08:16Z",
                             "open_issues": 86,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 996,
+                            "stars": 998,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -15639,11 +15639,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-26T15:41:10Z",
+                            "last_commit": "2026-10-27T15:08:16Z",
                             "open_issues": 86,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 996,
+                            "stars": 998,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -16889,7 +16889,7 @@
                             "open_issues": 0,
                             "owner": "ml-postech",
                             "repo": "CoPL",
-                            "stars": 11,
+                            "stars": 22,
                             "topics": []
                           },
                           "first_seen": "2026-10-06T10:31:18.942Z"
@@ -19296,7 +19296,7 @@
                             "open_issues": 2,
                             "owner": "xmouyang",
                             "repo": "ADMarker",
-                            "stars": 19,
+                            "stars": 20,
                             "topics": []
                           },
                           "first_seen": "2026-10-06T10:31:18.942Z"
@@ -21542,7 +21542,7 @@
                     "open_issues": 3,
                     "owner": "wuch15",
                     "repo": "FedPerGNN",
-                    "stars": 95,
+                    "stars": 96,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -21923,7 +21923,7 @@
                     "open_issues": 0,
                     "owner": "FedEgo",
                     "repo": "FedEgo",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:18.942Z"
@@ -22359,11 +22359,11 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-26T16:02:44Z",
-                        "open_issues": 7,
+                        "last_commit": "2026-10-27T15:54:27Z",
+                        "open_issues": 13,
                         "owner": "OpenMined",
                         "repo": "PySyft",
-                        "stars": 10045,
+                        "stars": 10046,
                         "topics": [
                           "cryptography",
                           "deep-learning",
@@ -22390,11 +22390,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-26T17:08:27Z",
-                        "open_issues": 414,
+                        "last_commit": "2026-10-27T15:12:39Z",
+                        "open_issues": 412,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7184,
+                        "stars": 7186,
                         "topics": [
                           "ai",
                           "android",
@@ -22462,7 +22462,7 @@
                         "open_issues": 149,
                         "owner": "FedML-AI",
                         "repo": "FedML",
-                        "stars": 4070,
+                        "stars": 4071,
                         "topics": [
                           "ai-agent",
                           "deep-learning",
@@ -22491,7 +22491,7 @@
                         "id": 161556784,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-26T11:09:07Z",
+                        "last_commit": "2026-10-27T15:40:53Z",
                         "open_issues": 297,
                         "owner": "google-parfait",
                         "repo": "tensorflow-federated",
@@ -22640,11 +22640,11 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-26T15:41:10Z",
+                        "last_commit": "2026-10-27T15:08:16Z",
                         "open_issues": 86,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 996,
+                        "stars": 998,
                         "topics": [
                           "decentralized",
                           "federated-analytics",
@@ -23005,7 +23005,7 @@
                         "open_issues": 83,
                         "owner": "FederatedAI",
                         "repo": "KubeFATE",
-                        "stars": 435,
+                        "stars": 436,
                         "topics": [
                           "cloudnative",
                           "deployment",
@@ -23031,7 +23031,7 @@
                         "open_issues": 83,
                         "owner": "FederatedAI",
                         "repo": "KubeFATE",
-                        "stars": 435,
+                        "stars": 436,
                         "topics": [
                           "cloudnative",
                           "deployment",
@@ -23785,7 +23785,7 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-26T13:41:05Z",
+                        "last_commit": "2026-10-27T01:27:01Z",
                         "open_issues": 27,
                         "owner": "APPFL",
                         "repo": "APPFL",
@@ -24249,7 +24249,7 @@
                 "id": 679690920,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T03:39:59Z",
+                "last_commit": "2026-10-27T14:21:22Z",
                 "open_issues": 2,
                 "owner": "youngfish42",
                 "repo": "FL-paper-update-tracker",
@@ -24275,7 +24275,7 @@
                 "id": 679690920,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T03:39:59Z",
+                "last_commit": "2026-10-27T14:21:22Z",
                 "open_issues": 2,
                 "owner": "youngfish42",
                 "repo": "FL-paper-update-tracker",
@@ -24672,7 +24672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T17:23:24.750Z",
+    "last_updated": "2026-10-27T16:40:02.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
