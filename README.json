@@ -115,7 +115,7 @@
                     "open_issues": 0,
                     "owner": "jlianglab",
                     "repo": "Ark",
-                    "stars": 119,
+                    "stars": 120,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
@@ -3447,7 +3447,7 @@
                             "open_issues": 7,
                             "owner": "TsingZ0",
                             "repo": "PFLlib",
-                            "stars": 2178,
+                            "stars": 2179,
                             "topics": [
                               "attack",
                               "differential-privacy",
@@ -11751,7 +11751,7 @@
                             "id": 785548909,
                             "language": "Python",
                             "license": null,
-                            "last_commit": "2024-09-24T01:13:07Z",
+                            "last_commit": "2026-10-28T11:42:29Z",
                             "open_issues": 0,
                             "owner": "wu1hong",
                             "repo": "SCCF",
@@ -13962,6 +13962,27 @@
                         },
                         {
                           "node_type": "item",
+                          "title": "Model Poisoning Attacks to Federated Learning via Multi-Round Consistency. [PUB",
+                          "description": "xyq7/PoisonedFL",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "CVPR 2025, Model Poisoning Attacks to Federated Learning via Multi-Round Consistency",
+                            "homepage": null,
+                            "id": 948690005,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-03-14T19:34:33Z",
+                            "open_issues": 3,
+                            "owner": "xyq7",
+                            "repo": "PoisonedFL",
+                            "stars": 20,
+                            "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
                           "title": "Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection. [PUB",
                           "description": "JiiahaoXU/AlignIns",
                           "children": [],
@@ -13977,27 +13998,6 @@
                             "owner": "JiiahaoXU",
                             "repo": "AlignIns",
                             "stars": 20,
-                            "topics": []
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
-                          "title": "Model Poisoning Attacks to Federated Learning via Multi-Round Consistency. [PUB",
-                          "description": "xyq7/PoisonedFL",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "CVPR 2025, Model Poisoning Attacks to Federated Learning via Multi-Round Consistency",
-                            "homepage": null,
-                            "id": 948690005,
-                            "language": "Python",
-                            "license": null,
-                            "last_commit": "2025-03-14T19:34:33Z",
-                            "open_issues": 3,
-                            "owner": "xyq7",
-                            "repo": "PoisonedFL",
-                            "stars": 19,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -15144,11 +15144,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-27T15:08:16Z",
-                            "open_issues": 86,
+                            "last_commit": "2026-10-28T16:40:48Z",
+                            "open_issues": 88,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 998,
+                            "stars": 999,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -15639,11 +15639,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-27T15:08:16Z",
-                            "open_issues": 86,
+                            "last_commit": "2026-10-28T16:40:48Z",
+                            "open_issues": 88,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 998,
+                            "stars": 999,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -22359,7 +22359,7 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-27T15:54:27Z",
+                        "last_commit": "2026-10-28T16:41:46Z",
                         "open_issues": 13,
                         "owner": "OpenMined",
                         "repo": "PySyft",
@@ -22390,11 +22390,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-27T15:12:39Z",
+                        "last_commit": "2026-10-28T16:35:59Z",
                         "open_issues": 412,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7186,
+                        "stars": 7189,
                         "topics": [
                           "ai",
                           "android",
@@ -22549,7 +22549,7 @@
                         "open_issues": 7,
                         "owner": "TsingZ0",
                         "repo": "PFLlib",
-                        "stars": 2178,
+                        "stars": 2179,
                         "topics": [
                           "attack",
                           "differential-privacy",
@@ -22640,11 +22640,11 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-27T15:08:16Z",
-                        "open_issues": 86,
+                        "last_commit": "2026-10-28T16:40:48Z",
+                        "open_issues": 88,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 998,
+                        "stars": 999,
                         "topics": [
                           "decentralized",
                           "federated-analytics",
@@ -23785,8 +23785,8 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-27T01:27:01Z",
-                        "open_issues": 27,
+                        "last_commit": "2026-10-28T16:21:01Z",
+                        "open_issues": 26,
                         "owner": "APPFL",
                         "repo": "APPFL",
                         "stars": 186,
@@ -24446,7 +24446,7 @@
                     "open_issues": 2,
                     "owner": "international-explore",
                     "repo": "awesome-privacy-chinese",
-                    "stars": 484,
+                    "stars": 485,
                     "topics": [
                       "awesome",
                       "compliance",
@@ -24605,7 +24605,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9431,
+                    "stars": 9433,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -24644,7 +24644,7 @@
                     "open_issues": 0,
                     "owner": "Awesome-Image-Registration-Organization",
                     "repo": "awesome-image-registration",
-                    "stars": 1552,
+                    "stars": 1553,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -24672,7 +24672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T16:40:02.209Z",
+    "last_updated": "2026-10-28T17:10:22.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -24684,7 +24684,7 @@
       "open_issues": 1,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2022,
+      "stars": 2020,
       "topics": [
         "artificial-intelligence",
         "awesome",
