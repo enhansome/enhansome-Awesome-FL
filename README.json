@@ -3447,7 +3447,7 @@
                             "open_issues": 7,
                             "owner": "TsingZ0",
                             "repo": "PFLlib",
-                            "stars": 2179,
+                            "stars": 2180,
                             "topics": [
                               "attack",
                               "differential-privacy",
@@ -10810,7 +10810,7 @@
                             "open_issues": 5,
                             "owner": "AI-secure",
                             "repo": "DBA",
-                            "stars": 207,
+                            "stars": 206,
                             "topics": [
                               "federated-learning"
                             ]
@@ -11713,7 +11713,7 @@
                             "open_issues": 24,
                             "owner": "rui-ye",
                             "repo": "OpenFedLLM",
-                            "stars": 480,
+                            "stars": 481,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -13247,7 +13247,7 @@
                             "open_issues": 2,
                             "owner": "leavlong",
                             "repo": "FedBPrompt",
-                            "stars": 8,
+                            "stars": 9,
                             "topics": []
                           },
                           "first_seen": "2026-10-17T14:13:09.134Z"
@@ -15144,8 +15144,8 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-29T17:00:23Z",
-                            "open_issues": 96,
+                            "last_commit": "2026-10-30T04:03:23Z",
+                            "open_issues": 101,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 1000,
@@ -15639,8 +15639,8 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-29T17:00:23Z",
-                            "open_issues": 96,
+                            "last_commit": "2026-10-30T04:03:23Z",
+                            "open_issues": 101,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 1000,
@@ -22193,7 +22193,7 @@
                     "open_issues": 17,
                     "owner": "FederatedAI",
                     "repo": "FATE",
-                    "stars": 6110,
+                    "stars": 6111,
                     "topics": [
                       "algorithm",
                       "fate",
@@ -22262,7 +22262,7 @@
                     "open_issues": 17,
                     "owner": "FederatedAI",
                     "repo": "FATE",
-                    "stars": 6110,
+                    "stars": 6111,
                     "topics": [
                       "algorithm",
                       "fate",
@@ -22359,8 +22359,8 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-29T16:51:42Z",
-                        "open_issues": 10,
+                        "last_commit": "2026-10-30T16:43:40Z",
+                        "open_issues": 11,
                         "owner": "OpenMined",
                         "repo": "PySyft",
                         "stars": 10047,
@@ -22390,11 +22390,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-29T17:14:02Z",
-                        "open_issues": 419,
+                        "last_commit": "2026-10-30T16:28:34Z",
+                        "open_issues": 415,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7192,
+                        "stars": 7194,
                         "topics": [
                           "ai",
                           "android",
@@ -22435,7 +22435,7 @@
                         "open_issues": 17,
                         "owner": "FederatedAI",
                         "repo": "FATE",
-                        "stars": 6110,
+                        "stars": 6111,
                         "topics": [
                           "algorithm",
                           "fate",
@@ -22491,8 +22491,8 @@
                         "id": 161556784,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-29T00:00:26Z",
-                        "open_issues": 298,
+                        "last_commit": "2026-10-29T21:37:30Z",
+                        "open_issues": 299,
                         "owner": "google-parfait",
                         "repo": "tensorflow-federated",
                         "stars": 2453,
@@ -22549,7 +22549,7 @@
                         "open_issues": 7,
                         "owner": "TsingZ0",
                         "repo": "PFLlib",
-                        "stars": 2179,
+                        "stars": 2180,
                         "topics": [
                           "attack",
                           "differential-privacy",
@@ -22640,8 +22640,8 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-29T17:00:23Z",
-                        "open_issues": 96,
+                        "last_commit": "2026-10-30T04:03:23Z",
+                        "open_issues": 101,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
                         "stars": 1000,
@@ -24605,7 +24605,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9432,
+                    "stars": 9433,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -24672,7 +24672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:26:12.578Z",
+    "last_updated": "2026-10-30T17:01:10.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
