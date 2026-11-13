@@ -1459,7 +1459,7 @@
                             "open_issues": 1,
                             "owner": "PhD-TaoLiu",
                             "repo": "FCBA",
-                            "stars": 23,
+                            "stars": 22,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -3447,7 +3447,7 @@
                             "open_issues": 10,
                             "owner": "TsingZ0",
                             "repo": "PFLlib",
-                            "stars": 2181,
+                            "stars": 2182,
                             "topics": [
                               "attack",
                               "differential-privacy",
@@ -3484,7 +3484,7 @@
                             "open_issues": 0,
                             "owner": "balanced-fl",
                             "repo": "Addressing-Class-Imbalance-FL",
-                            "stars": 87,
+                            "stars": 86,
                             "topics": [
                               "class-imbalance",
                               "federated-learning",
@@ -4378,7 +4378,7 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
-                            "description": "[ICML 2025] EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification",
+                            "description": null,
                             "homepage": null,
                             "id": 884122573,
                             "language": "Python",
@@ -6098,28 +6098,7 @@
                             "open_issues": 1,
                             "owner": "sail-research",
                             "repo": "iba",
-                            "stars": 40,
-                            "topics": []
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
-                          "title": "A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning. [PUB",
-                          "description": "] [SUPP] [CODE]",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": null,
-                            "homepage": null,
-                            "id": 703160607,
-                            "language": "Python",
-                            "license": "GPL-3.0",
-                            "last_commit": "2023-10-10T18:47:19Z",
-                            "open_issues": 2,
-                            "owner": "qzzqzzb",
-                            "repo": "A3FL",
-                            "stars": 32,
+                            "stars": 38,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -6140,6 +6119,27 @@
                             "open_issues": 0,
                             "owner": "git-disl",
                             "repo": "Lockdown",
+                            "stars": 31,
+                            "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning. [PUB",
+                          "description": "] [SUPP] [CODE]",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 703160607,
+                            "language": "Python",
+                            "license": "GPL-3.0",
+                            "last_commit": "2023-10-10T18:47:19Z",
+                            "open_issues": 2,
+                            "owner": "qzzqzzb",
+                            "repo": "A3FL",
                             "stars": 31,
                             "topics": []
                           },
@@ -7016,7 +7016,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1542,
+                            "stars": 1541,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -7900,40 +7900,6 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning. [PUB",
-                          "description": "] [PDF] [CODE]",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "[ICLR 2023, Best Paper Award at ECCV’22 AROW Workshop] FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning",
-                            "homepage": "https://kaiyuanzhang.com",
-                            "id": 596362495,
-                            "language": "Python",
-                            "license": "MIT",
-                            "last_commit": "2024-12-11T22:28:06Z",
-                            "open_issues": 1,
-                            "owner": "KaiyuanZh",
-                            "repo": "FLIP",
-                            "stars": 61,
-                            "topics": [
-                              "backdoor",
-                              "backdoor-attacks",
-                              "backdoor-defense",
-                              "byzantine",
-                              "computer-vision",
-                              "defense",
-                              "distributed-computing",
-                              "federated-learning",
-                              "privacy",
-                              "python",
-                              "pytorch",
-                              "security"
-                            ]
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
                           "title": "FedFA: Federated Feature Augmentation. [PUB",
                           "description": "] [PDF] [CODE]",
                           "children": [],
@@ -7956,6 +7922,40 @@
                               "medical-image-analysis",
                               "probabilistic",
                               "prostate-mri-segmentation"
+                            ]
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning. [PUB",
+                          "description": "] [PDF] [CODE]",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "[ICLR 2023, Best Paper Award at ECCV’22 AROW Workshop] FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning",
+                            "homepage": "https://kaiyuanzhang.com",
+                            "id": 596362495,
+                            "language": "Python",
+                            "license": "MIT",
+                            "last_commit": "2024-12-11T22:28:06Z",
+                            "open_issues": 1,
+                            "owner": "KaiyuanZh",
+                            "repo": "FLIP",
+                            "stars": 60,
+                            "topics": [
+                              "backdoor",
+                              "backdoor-attacks",
+                              "backdoor-defense",
+                              "byzantine",
+                              "computer-vision",
+                              "defense",
+                              "distributed-computing",
+                              "federated-learning",
+                              "privacy",
+                              "python",
+                              "pytorch",
+                              "security"
                             ]
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -8803,7 +8803,7 @@
                             "open_issues": 7,
                             "owner": "jhcknzzm",
                             "repo": "Federated-Learning-Backdoor",
-                            "stars": 84,
+                            "stars": 83,
                             "topics": [
                               "backdoor-attacks",
                               "federated-learning"
@@ -9366,7 +9366,7 @@
                             "open_issues": 0,
                             "owner": "illidanlab",
                             "repo": "SplitMix",
-                            "stars": 46,
+                            "stars": 47,
                             "topics": [
                               "federated-learning",
                               "heterofl",
@@ -10768,7 +10768,7 @@
                             "open_issues": 5,
                             "owner": "AI-secure",
                             "repo": "DBA",
-                            "stars": 205,
+                            "stars": 204,
                             "topics": [
                               "federated-learning"
                             ]
@@ -10843,7 +10843,7 @@
                             "id": 281519510,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-11T01:04:00Z",
+                            "last_commit": "2026-11-12T22:35:52Z",
                             "open_issues": 150,
                             "owner": "FedML-AI",
                             "repo": "FedML",
@@ -11625,7 +11625,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1542,
+                            "stars": 1541,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -11650,7 +11650,7 @@
                             "open_issues": 24,
                             "owner": "rui-ye",
                             "repo": "OpenFedLLM",
-                            "stars": 481,
+                            "stars": 482,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -11902,7 +11902,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1542,
+                            "stars": 1541,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -12163,7 +12163,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1542,
+                            "stars": 1541,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -12188,7 +12188,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1542,
+                            "stars": 1541,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -12822,7 +12822,7 @@
                             "open_issues": 8,
                             "owner": "haoyangliASTAPLE",
                             "repo": "3DFed",
-                            "stars": 55,
+                            "stars": 54,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -13082,7 +13082,7 @@
                             "open_issues": 11,
                             "owner": "privacytrustlab",
                             "repo": "ml_privacy_meter",
-                            "stars": 730,
+                            "stars": 731,
                             "topics": [
                               "data-privacy",
                               "data-protection",
@@ -13794,6 +13794,48 @@
                         },
                         {
                           "node_type": "item",
+                          "title": "FedMIA: An Effective Membership Inference Attack Exploiting \"All for One\" Principle in Federated Learning. [PUB",
+                          "description": "Liar-Mask/FedMIA",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 740764751,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-01-26T14:26:36Z",
+                            "open_issues": 1,
+                            "owner": "Liar-Mask",
+                            "repo": "FedMIA",
+                            "stars": 23,
+                            "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "FedMIA: An Effective Membership Inference Attack Exploiting \"All for One\" Principle in Federated Learning. [PUB",
+                          "description": "Liar-Mask/FedMIA",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 740764751,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-01-26T14:26:36Z",
+                            "open_issues": 1,
+                            "owner": "Liar-Mask",
+                            "repo": "FedMIA",
+                            "stars": 23,
+                            "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
                           "title": "Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch. [PUB",
                           "description": "Jay-Codeman/SAGE",
                           "children": [],
@@ -13829,48 +13871,6 @@
                             "open_issues": 3,
                             "owner": "xyq7",
                             "repo": "PoisonedFL",
-                            "stars": 22,
-                            "topics": []
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
-                          "title": "FedMIA: An Effective Membership Inference Attack Exploiting \"All for One\" Principle in Federated Learning. [PUB",
-                          "description": "Liar-Mask/FedMIA",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": null,
-                            "homepage": null,
-                            "id": 740764751,
-                            "language": "Python",
-                            "license": null,
-                            "last_commit": "2025-01-26T14:26:36Z",
-                            "open_issues": 1,
-                            "owner": "Liar-Mask",
-                            "repo": "FedMIA",
-                            "stars": 22,
-                            "topics": []
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
-                          "title": "FedMIA: An Effective Membership Inference Attack Exploiting \"All for One\" Principle in Federated Learning. [PUB",
-                          "description": "Liar-Mask/FedMIA",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": null,
-                            "homepage": null,
-                            "id": 740764751,
-                            "language": "Python",
-                            "license": null,
-                            "last_commit": "2025-01-26T14:26:36Z",
-                            "open_issues": 1,
-                            "owner": "Liar-Mask",
-                            "repo": "FedMIA",
                             "stars": 22,
                             "topics": []
                           },
@@ -15081,11 +15081,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-12T18:15:52Z",
-                            "open_issues": 111,
+                            "last_commit": "2026-11-13T18:13:29Z",
+                            "open_issues": 110,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 1014,
+                            "stars": 1016,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -15580,11 +15580,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-12T18:15:52Z",
-                            "open_issues": 111,
+                            "last_commit": "2026-11-13T18:13:29Z",
+                            "open_issues": 110,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 1014,
+                            "stars": 1016,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -17086,7 +17086,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1542,
+                            "stars": 1541,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -17181,7 +17181,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1542,
+                            "stars": 1541,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -18296,7 +18296,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1542,
+                            "stars": 1541,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -18321,7 +18321,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1542,
+                            "stars": 1541,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -18346,7 +18346,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1542,
+                            "stars": 1541,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -21357,7 +21357,7 @@
                     "open_issues": 56,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1542,
+                    "stars": 1541,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -22283,8 +22283,8 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-12T13:43:50Z",
-                        "open_issues": 20,
+                        "last_commit": "2026-11-13T17:15:05Z",
+                        "open_issues": 30,
                         "owner": "OpenMined",
                         "repo": "PySyft",
                         "stars": 10056,
@@ -22314,11 +22314,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-12T18:16:39Z",
-                        "open_issues": 402,
+                        "last_commit": "2026-11-13T18:04:47Z",
+                        "open_issues": 403,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7204,
+                        "stars": 7206,
                         "topics": [
                           "ai",
                           "android",
@@ -22382,7 +22382,7 @@
                         "id": 281519510,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-11T01:04:00Z",
+                        "last_commit": "2026-11-12T22:35:52Z",
                         "open_issues": 150,
                         "owner": "FedML-AI",
                         "repo": "FedML",
@@ -22415,8 +22415,8 @@
                         "id": 161556784,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-12T15:05:16Z",
-                        "open_issues": 293,
+                        "last_commit": "2026-11-13T15:35:51Z",
+                        "open_issues": 294,
                         "owner": "google-parfait",
                         "repo": "tensorflow-federated",
                         "stars": 2451,
@@ -22473,7 +22473,7 @@
                         "open_issues": 10,
                         "owner": "TsingZ0",
                         "repo": "PFLlib",
-                        "stars": 2181,
+                        "stars": 2182,
                         "topics": [
                           "attack",
                           "differential-privacy",
@@ -22510,7 +22510,7 @@
                         "open_issues": 56,
                         "owner": "alibaba",
                         "repo": "FederatedScope",
-                        "stars": 1542,
+                        "stars": 1541,
                         "topics": [
                           "federated-learning",
                           "machine-learning",
@@ -22564,11 +22564,11 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-12T18:15:52Z",
-                        "open_issues": 111,
+                        "last_commit": "2026-11-13T18:13:29Z",
+                        "open_issues": 110,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 1014,
+                        "stars": 1016,
                         "topics": [
                           "decentralized",
                           "federated-analytics",
@@ -22726,7 +22726,7 @@
                         "open_issues": 11,
                         "owner": "privacytrustlab",
                         "repo": "ml_privacy_meter",
-                        "stars": 730,
+                        "stars": 731,
                         "topics": [
                           "data-privacy",
                           "data-protection",
@@ -23516,8 +23516,8 @@
                         "id": 279604276,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-11T11:18:52Z",
-                        "open_issues": 1,
+                        "last_commit": "2026-11-13T11:21:58Z",
+                        "open_issues": 0,
                         "owner": "scaleoutsystems",
                         "repo": "scaleout-client",
                         "stars": 170,
@@ -23671,7 +23671,7 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-11T07:25:23Z",
+                        "last_commit": "2026-11-13T08:49:21Z",
                         "open_issues": 33,
                         "owner": "APPFL",
                         "repo": "APPFL",
@@ -24123,11 +24123,11 @@
                         "id": 1236311506,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-10T08:31:01Z",
+                        "last_commit": "2026-11-13T11:37:19Z",
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalWorkspace",
-                        "stars": 9219,
+                        "stars": 9216,
                         "topics": [
                           "compute-orchestration",
                           "distributed-systems",
@@ -24155,11 +24155,11 @@
                         "id": 1236313235,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-09T19:20:48Z",
+                        "last_commit": "2026-11-13T11:36:55Z",
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4974,
+                        "stars": 4973,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24188,11 +24188,11 @@
                         "id": 1236313235,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-09T19:20:48Z",
+                        "last_commit": "2026-11-13T11:36:55Z",
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4974,
+                        "stars": 4973,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24416,7 +24416,7 @@
                     "open_issues": 5,
                     "owner": "lokinko",
                     "repo": "Federated-Learning",
-                    "stars": 1155,
+                    "stars": 1154,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:18.942Z"
@@ -24472,7 +24472,7 @@
                     "open_issues": 2,
                     "owner": "international-explore",
                     "repo": "awesome-privacy-chinese",
-                    "stars": 487,
+                    "stars": 488,
                     "topics": [
                       "awesome",
                       "compliance",
@@ -24631,7 +24631,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9449,
+                    "stars": 9450,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -24670,7 +24670,7 @@
                     "open_issues": 0,
                     "owner": "Awesome-Image-Registration-Organization",
                     "repo": "awesome-image-registration",
-                    "stars": 1556,
+                    "stars": 1557,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -24698,7 +24698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T18:56:41.084Z",
+    "last_updated": "2026-11-13T18:31:20.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -24710,7 +24710,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2018,
+      "stars": 2019,
       "topics": [
         "artificial-intelligence",
         "awesome",
