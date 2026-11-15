@@ -1459,7 +1459,7 @@
                             "open_issues": 1,
                             "owner": "PhD-TaoLiu",
                             "repo": "FCBA",
-                            "stars": 22,
+                            "stars": 23,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -3447,7 +3447,7 @@
                             "open_issues": 10,
                             "owner": "TsingZ0",
                             "repo": "PFLlib",
-                            "stars": 2182,
+                            "stars": 2185,
                             "topics": [
                               "attack",
                               "differential-privacy",
@@ -7844,7 +7844,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 328,
+                            "stars": 329,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -8720,7 +8720,7 @@
                             "open_issues": 46,
                             "owner": "SymbioticLab",
                             "repo": "FedScale",
-                            "stars": 421,
+                            "stars": 422,
                             "topics": [
                               "benchmark",
                               "dataset",
@@ -8754,7 +8754,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 328,
+                            "stars": 329,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -9313,7 +9313,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 328,
+                            "stars": 329,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -15082,10 +15082,10 @@
                             "language": "Python",
                             "license": "Apache-2.0",
                             "last_commit": "2026-11-13T22:07:26Z",
-                            "open_issues": 115,
+                            "open_issues": 117,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 1016,
+                            "stars": 1017,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -15581,10 +15581,10 @@
                             "language": "Python",
                             "license": "Apache-2.0",
                             "last_commit": "2026-11-13T22:07:26Z",
-                            "open_issues": 115,
+                            "open_issues": 117,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 1016,
+                            "stars": 1017,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -20079,7 +20079,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 328,
+                            "stars": 329,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -20983,7 +20983,7 @@
                             "open_issues": 46,
                             "owner": "SymbioticLab",
                             "repo": "FedScale",
-                            "stars": 421,
+                            "stars": 422,
                             "topics": [
                               "benchmark",
                               "dataset",
@@ -21174,7 +21174,7 @@
                     "open_issues": 0,
                     "owner": "JavadAliakbari",
                     "repo": "FedStruct",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": [
                       "graph-neural-networks",
                       "subgraph-federated-learning"
@@ -22473,7 +22473,7 @@
                         "open_issues": 10,
                         "owner": "TsingZ0",
                         "repo": "PFLlib",
-                        "stars": 2182,
+                        "stars": 2185,
                         "topics": [
                           "attack",
                           "differential-privacy",
@@ -22535,7 +22535,7 @@
                         "open_issues": 5,
                         "owner": "primihub",
                         "repo": "primihub",
-                        "stars": 1415,
+                        "stars": 1416,
                         "topics": [
                           "federated-learning",
                           "fl",
@@ -22565,10 +22565,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-13T22:07:26Z",
-                        "open_issues": 115,
+                        "open_issues": 117,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 1016,
+                        "stars": 1017,
                         "topics": [
                           "decentralized",
                           "federated-analytics",
@@ -22943,7 +22943,7 @@
                         "open_issues": 46,
                         "owner": "SymbioticLab",
                         "repo": "FedScale",
-                        "stars": 421,
+                        "stars": 422,
                         "topics": [
                           "benchmark",
                           "dataset",
@@ -23025,7 +23025,7 @@
                         "open_issues": 2,
                         "owner": "SAP-archive",
                         "repo": "machine-learning-diff-private-federated-learning",
-                        "stars": 393,
+                        "stars": 394,
                         "topics": [
                           "differential-privacy",
                           "federated-learning",
@@ -23053,7 +23053,7 @@
                         "open_issues": 3,
                         "owner": "ebagdasa",
                         "repo": "backdoors101",
-                        "stars": 387,
+                        "stars": 388,
                         "topics": [
                           "adversarial",
                           "adversarial-machine-learning",
@@ -23167,7 +23167,7 @@
                         "open_issues": 0,
                         "owner": "JonasGeiping",
                         "repo": "breaching",
-                        "stars": 328,
+                        "stars": 329,
                         "topics": [
                           "decentralized-learning",
                           "federated-learning",
@@ -24082,7 +24082,7 @@
                         "language": "Python",
                         "license": null,
                         "last_commit": "2026-11-09T09:43:37Z",
-                        "open_issues": 2,
+                        "open_issues": 3,
                         "owner": "roger-federated",
                         "repo": "roger-federated",
                         "stars": 6,
@@ -24103,7 +24103,7 @@
                         "language": "Python",
                         "license": null,
                         "last_commit": "2026-11-09T09:43:37Z",
-                        "open_issues": 2,
+                        "open_issues": 3,
                         "owner": "roger-federated",
                         "repo": "roger-federated",
                         "stars": 6,
@@ -24127,7 +24127,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalWorkspace",
-                        "stars": 9212,
+                        "stars": 9204,
                         "topics": [
                           "compute-orchestration",
                           "distributed-systems",
@@ -24159,7 +24159,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4971,
+                        "stars": 4966,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24192,7 +24192,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4971,
+                        "stars": 4966,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24472,7 +24472,7 @@
                     "open_issues": 2,
                     "owner": "international-explore",
                     "repo": "awesome-privacy-chinese",
-                    "stars": 488,
+                    "stars": 489,
                     "topics": [
                       "awesome",
                       "compliance",
@@ -24698,7 +24698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:09:17.363Z",
+    "last_updated": "2026-11-15T17:42:53.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
