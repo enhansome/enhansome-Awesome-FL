@@ -3447,7 +3447,7 @@
                             "open_issues": 10,
                             "owner": "TsingZ0",
                             "repo": "PFLlib",
-                            "stars": 2185,
+                            "stars": 2186,
                             "topics": [
                               "attack",
                               "differential-privacy",
@@ -3888,7 +3888,7 @@
                             "language": "Jupyter Notebook",
                             "license": "Apache-2.0",
                             "last_commit": "2026-01-27T20:50:28Z",
-                            "open_issues": 10,
+                            "open_issues": 11,
                             "owner": "ZidongLiu",
                             "repo": "DeComFL",
                             "stars": 30,
@@ -4352,27 +4352,6 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "Private Federated Learning using Preference-Optimized Synthetic Data. [PUB",
-                          "description": "meiyuw/POPri",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": null,
-                            "homepage": null,
-                            "id": 955496271,
-                            "language": "Python",
-                            "license": null,
-                            "last_commit": "2025-08-21T16:31:12Z",
-                            "open_issues": 1,
-                            "owner": "meiyuw",
-                            "repo": "POPri",
-                            "stars": 14,
-                            "topics": []
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
                           "title": "EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification. [PUB",
                           "description": "ZitongShi/EAGLES",
                           "children": [],
@@ -4408,6 +4387,27 @@
                             "open_issues": 0,
                             "owner": "PaddiHunter",
                             "repo": "FIMCFG",
+                            "stars": 13,
+                            "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Private Federated Learning using Preference-Optimized Synthetic Data. [PUB",
+                          "description": "meiyuw/POPri",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": null,
+                            "homepage": null,
+                            "id": 955496271,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-08-21T16:31:12Z",
+                            "open_issues": 1,
+                            "owner": "meiyuw",
+                            "repo": "POPri",
                             "stars": 13,
                             "topics": []
                           },
@@ -5145,7 +5145,7 @@
                             "open_issues": 2,
                             "owner": "Pengxin-Guo",
                             "repo": "FedSA-LoRA",
-                            "stars": 72,
+                            "stars": 71,
                             "topics": [
                               "federated-learning",
                               "llm",
@@ -11555,6 +11555,27 @@
                         },
                         {
                           "node_type": "item",
+                          "title": "FedMetro: Efficient Metro Passenger Flow Prediction via Federated Graph Learning. [PUB",
+                          "description": "AlexMufeng/FedMetro",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "KDD2025",
+                            "homepage": null,
+                            "id": 926166046,
+                            "language": "Python",
+                            "license": null,
+                            "last_commit": "2025-02-19T08:18:07Z",
+                            "open_issues": 0,
+                            "owner": "AlexMufeng",
+                            "repo": "FedMetro",
+                            "stars": 1,
+                            "topics": []
+                          },
+                          "first_seen": "2026-11-18T19:24:15.131Z"
+                        },
+                        {
+                          "node_type": "item",
                           "title": "PraFFL: A Preference-Aware Scheme in Fair Federated Learning. [PUB",
                           "description": "rG223/PraFFL",
                           "children": [],
@@ -15081,11 +15102,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-17T10:14:25Z",
-                            "open_issues": 126,
+                            "last_commit": "2026-11-18T19:05:00Z",
+                            "open_issues": 128,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 1018,
+                            "stars": 1019,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -15580,11 +15601,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-17T10:14:25Z",
-                            "open_issues": 126,
+                            "last_commit": "2026-11-18T19:05:00Z",
+                            "open_issues": 128,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 1018,
+                            "stars": 1019,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -17827,7 +17848,7 @@
                             "open_issues": 11,
                             "owner": "alibaba",
                             "repo": "Elastic-Federated-Learning-Solution",
-                            "stars": 142,
+                            "stars": 143,
                             "topics": []
                           },
                           "first_seen": "2026-10-06T10:31:18.942Z"
@@ -18860,7 +18881,7 @@
                             "open_issues": 1,
                             "owner": "koums24",
                             "repo": "WinFLoRA",
-                            "stars": 5,
+                            "stars": 4,
                             "topics": []
                           },
                           "first_seen": "2026-10-06T10:31:18.942Z"
@@ -21059,7 +21080,7 @@
                             "open_issues": 12,
                             "owner": "litian96",
                             "repo": "FedProx",
-                            "stars": 733,
+                            "stars": 734,
                             "topics": [
                               "distributed-optimization",
                               "federated-optimization",
@@ -22283,11 +22304,11 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-17T18:32:44Z",
-                        "open_issues": 33,
+                        "last_commit": "2026-11-18T18:49:55Z",
+                        "open_issues": 19,
                         "owner": "OpenMined",
                         "repo": "PySyft",
-                        "stars": 10058,
+                        "stars": 10060,
                         "topics": [
                           "cryptography",
                           "deep-learning",
@@ -22314,11 +22335,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-17T18:48:57Z",
+                        "last_commit": "2026-11-18T19:09:40Z",
                         "open_issues": 415,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7214,
+                        "stars": 7215,
                         "topics": [
                           "ai",
                           "android",
@@ -22415,11 +22436,11 @@
                         "id": 161556784,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-17T18:38:05Z",
-                        "open_issues": 294,
+                        "last_commit": "2026-11-18T13:58:58Z",
+                        "open_issues": 293,
                         "owner": "google-parfait",
                         "repo": "tensorflow-federated",
-                        "stars": 2452,
+                        "stars": 2453,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:31:18.942Z"
@@ -22473,7 +22494,7 @@
                         "open_issues": 10,
                         "owner": "TsingZ0",
                         "repo": "PFLlib",
-                        "stars": 2185,
+                        "stars": 2186,
                         "topics": [
                           "attack",
                           "differential-privacy",
@@ -22564,11 +22585,11 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-17T10:14:25Z",
-                        "open_issues": 126,
+                        "last_commit": "2026-11-18T19:05:00Z",
+                        "open_issues": 128,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 1018,
+                        "stars": 1019,
                         "topics": [
                           "decentralized",
                           "federated-analytics",
@@ -23671,8 +23692,8 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-17T05:54:00Z",
-                        "open_issues": 28,
+                        "last_commit": "2026-11-18T07:18:57Z",
+                        "open_issues": 25,
                         "owner": "APPFL",
                         "repo": "APPFL",
                         "stars": 186,
@@ -24127,7 +24148,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalWorkspace",
-                        "stars": 9200,
+                        "stars": 9196,
                         "topics": [
                           "compute-orchestration",
                           "distributed-systems",
@@ -24159,7 +24180,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4965,
+                        "stars": 4962,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24192,7 +24213,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4965,
+                        "stars": 4962,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24631,7 +24652,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9453,
+                    "stars": 9454,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -24698,7 +24719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:51:21.892Z",
+    "last_updated": "2026-11-18T19:24:15.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
