@@ -3158,7 +3158,7 @@
                             "open_issues": 7,
                             "owner": "chandra2thapa",
                             "repo": "SplitFed-When-Federated-Learning-Meets-Split-Learning",
-                            "stars": 185,
+                            "stars": 184,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -3447,7 +3447,7 @@
                             "open_issues": 10,
                             "owner": "TsingZ0",
                             "repo": "PFLlib",
-                            "stars": 2186,
+                            "stars": 2185,
                             "topics": [
                               "attack",
                               "differential-privacy",
@@ -3807,7 +3807,7 @@
                             "open_issues": 7,
                             "owner": "ebagdasa",
                             "repo": "backdoor_federated_learning",
-                            "stars": 316,
+                            "stars": 315,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -7016,7 +7016,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1540,
+                            "stars": 1538,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -7844,7 +7844,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 329,
+                            "stars": 328,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -8720,7 +8720,7 @@
                             "open_issues": 46,
                             "owner": "SymbioticLab",
                             "repo": "FedScale",
-                            "stars": 422,
+                            "stars": 421,
                             "topics": [
                               "benchmark",
                               "dataset",
@@ -8754,7 +8754,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 329,
+                            "stars": 328,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -9313,7 +9313,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 329,
+                            "stars": 328,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -10847,7 +10847,7 @@
                             "open_issues": 150,
                             "owner": "FedML-AI",
                             "repo": "FedML",
-                            "stars": 4069,
+                            "stars": 4068,
                             "topics": [
                               "ai-agent",
                               "deep-learning",
@@ -11646,7 +11646,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1540,
+                            "stars": 1538,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -11923,7 +11923,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1540,
+                            "stars": 1538,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -12184,7 +12184,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1540,
+                            "stars": 1538,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -12209,7 +12209,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1540,
+                            "stars": 1538,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -13103,7 +13103,7 @@
                             "open_issues": 11,
                             "owner": "privacytrustlab",
                             "repo": "ml_privacy_meter",
-                            "stars": 730,
+                            "stars": 729,
                             "topics": [
                               "data-privacy",
                               "data-protection",
@@ -13552,7 +13552,7 @@
                             "open_issues": 0,
                             "owner": "krumpguo",
                             "repo": "FedCoPL",
-                            "stars": 4,
+                            "stars": 5,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -15102,11 +15102,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-19T19:14:28Z",
-                            "open_issues": 129,
+                            "last_commit": "2026-11-20T17:58:32Z",
+                            "open_issues": 134,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 1018,
+                            "stars": 1017,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -15601,11 +15601,11 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-19T19:14:28Z",
-                            "open_issues": 129,
+                            "last_commit": "2026-11-20T17:58:32Z",
+                            "open_issues": 134,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
-                            "stars": 1018,
+                            "stars": 1017,
                             "topics": [
                               "decentralized",
                               "federated-analytics",
@@ -17107,7 +17107,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1540,
+                            "stars": 1538,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -17202,7 +17202,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1540,
+                            "stars": 1538,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -18317,7 +18317,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1540,
+                            "stars": 1538,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -18342,7 +18342,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1540,
+                            "stars": 1538,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -18367,7 +18367,7 @@
                             "open_issues": 56,
                             "owner": "alibaba",
                             "repo": "FederatedScope",
-                            "stars": 1540,
+                            "stars": 1538,
                             "topics": [
                               "federated-learning",
                               "machine-learning",
@@ -20100,7 +20100,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 329,
+                            "stars": 328,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -21004,7 +21004,7 @@
                             "open_issues": 46,
                             "owner": "SymbioticLab",
                             "repo": "FedScale",
-                            "stars": 422,
+                            "stars": 421,
                             "topics": [
                               "benchmark",
                               "dataset",
@@ -21378,7 +21378,7 @@
                     "open_issues": 56,
                     "owner": "alibaba",
                     "repo": "FederatedScope",
-                    "stars": 1540,
+                    "stars": 1538,
                     "topics": [
                       "federated-learning",
                       "machine-learning",
@@ -22138,7 +22138,7 @@
                     "open_issues": 20,
                     "owner": "FederatedAI",
                     "repo": "FATE",
-                    "stars": 6112,
+                    "stars": 6110,
                     "topics": [
                       "algorithm",
                       "fate",
@@ -22207,7 +22207,7 @@
                     "open_issues": 20,
                     "owner": "FederatedAI",
                     "repo": "FATE",
-                    "stars": 6112,
+                    "stars": 6110,
                     "topics": [
                       "algorithm",
                       "fate",
@@ -22304,11 +22304,11 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-19T16:54:21Z",
-                        "open_issues": 16,
+                        "last_commit": "2026-11-20T16:30:28Z",
+                        "open_issues": 10,
                         "owner": "OpenMined",
                         "repo": "PySyft",
-                        "stars": 10061,
+                        "stars": 10062,
                         "topics": [
                           "cryptography",
                           "deep-learning",
@@ -22335,8 +22335,8 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-19T19:14:56Z",
-                        "open_issues": 407,
+                        "last_commit": "2026-11-20T18:44:01Z",
+                        "open_issues": 413,
                         "owner": "flwrlabs",
                         "repo": "flower",
                         "stars": 7216,
@@ -22380,7 +22380,7 @@
                         "open_issues": 20,
                         "owner": "FederatedAI",
                         "repo": "FATE",
-                        "stars": 6112,
+                        "stars": 6110,
                         "topics": [
                           "algorithm",
                           "fate",
@@ -22407,7 +22407,7 @@
                         "open_issues": 150,
                         "owner": "FedML-AI",
                         "repo": "FedML",
-                        "stars": 4069,
+                        "stars": 4068,
                         "topics": [
                           "ai-agent",
                           "deep-learning",
@@ -22440,7 +22440,7 @@
                         "open_issues": 293,
                         "owner": "google-parfait",
                         "repo": "tensorflow-federated",
-                        "stars": 2453,
+                        "stars": 2452,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:31:18.942Z"
@@ -22461,7 +22461,7 @@
                         "open_issues": 92,
                         "owner": "secretflow",
                         "repo": "secretflow",
-                        "stars": 2719,
+                        "stars": 2718,
                         "topics": [
                           "confidential-computing",
                           "data-analysis",
@@ -22494,7 +22494,7 @@
                         "open_issues": 10,
                         "owner": "TsingZ0",
                         "repo": "PFLlib",
-                        "stars": 2186,
+                        "stars": 2185,
                         "topics": [
                           "attack",
                           "differential-privacy",
@@ -22531,7 +22531,7 @@
                         "open_issues": 56,
                         "owner": "alibaba",
                         "repo": "FederatedScope",
-                        "stars": 1540,
+                        "stars": 1538,
                         "topics": [
                           "federated-learning",
                           "machine-learning",
@@ -22556,7 +22556,7 @@
                         "open_issues": 5,
                         "owner": "primihub",
                         "repo": "primihub",
-                        "stars": 1416,
+                        "stars": 1415,
                         "topics": [
                           "federated-learning",
                           "fl",
@@ -22585,11 +22585,11 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-19T19:14:28Z",
-                        "open_issues": 129,
+                        "last_commit": "2026-11-20T17:58:32Z",
+                        "open_issues": 134,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
-                        "stars": 1018,
+                        "stars": 1017,
                         "topics": [
                           "decentralized",
                           "federated-analytics",
@@ -22664,7 +22664,7 @@
                         "open_issues": 84,
                         "owner": "securefederatedai",
                         "repo": "openfederatedlearning",
-                        "stars": 846,
+                        "stars": 845,
                         "topics": [
                           "federated-analytics",
                           "federated-evaluation",
@@ -22747,7 +22747,7 @@
                         "open_issues": 11,
                         "owner": "privacytrustlab",
                         "repo": "ml_privacy_meter",
-                        "stars": 730,
+                        "stars": 729,
                         "topics": [
                           "data-privacy",
                           "data-protection",
@@ -22912,7 +22912,7 @@
                         "open_issues": 85,
                         "owner": "FederatedAI",
                         "repo": "KubeFATE",
-                        "stars": 437,
+                        "stars": 436,
                         "topics": [
                           "cloudnative",
                           "deployment",
@@ -22938,7 +22938,7 @@
                         "open_issues": 85,
                         "owner": "FederatedAI",
                         "repo": "KubeFATE",
-                        "stars": 437,
+                        "stars": 436,
                         "topics": [
                           "cloudnative",
                           "deployment",
@@ -22964,7 +22964,7 @@
                         "open_issues": 46,
                         "owner": "SymbioticLab",
                         "repo": "FedScale",
-                        "stars": 422,
+                        "stars": 421,
                         "topics": [
                           "benchmark",
                           "dataset",
@@ -23046,7 +23046,7 @@
                         "open_issues": 2,
                         "owner": "SAP-archive",
                         "repo": "machine-learning-diff-private-federated-learning",
-                        "stars": 394,
+                        "stars": 393,
                         "topics": [
                           "differential-privacy",
                           "federated-learning",
@@ -23074,7 +23074,7 @@
                         "open_issues": 3,
                         "owner": "ebagdasa",
                         "repo": "backdoors101",
-                        "stars": 388,
+                        "stars": 387,
                         "topics": [
                           "adversarial",
                           "adversarial-machine-learning",
@@ -23188,7 +23188,7 @@
                         "open_issues": 0,
                         "owner": "JonasGeiping",
                         "repo": "breaching",
-                        "stars": 329,
+                        "stars": 328,
                         "topics": [
                           "decentralized-learning",
                           "federated-learning",
@@ -23692,8 +23692,8 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-18T07:18:57Z",
-                        "open_issues": 25,
+                        "last_commit": "2026-11-20T17:47:11Z",
+                        "open_issues": 23,
                         "owner": "APPFL",
                         "repo": "APPFL",
                         "stars": 185,
@@ -24148,7 +24148,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalWorkspace",
-                        "stars": 9195,
+                        "stars": 9192,
                         "topics": [
                           "compute-orchestration",
                           "distributed-systems",
@@ -24180,7 +24180,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4962,
+                        "stars": 4959,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24213,7 +24213,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4962,
+                        "stars": 4959,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24269,7 +24269,7 @@
                 "open_issues": 9,
                 "owner": "innovation-cat",
                 "repo": "Awesome-Federated-Machine-Learning",
-                "stars": 2103,
+                "stars": 2102,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -24364,7 +24364,7 @@
                     "open_issues": 9,
                     "owner": "innovation-cat",
                     "repo": "Awesome-Federated-Machine-Learning",
-                    "stars": 2103,
+                    "stars": 2102,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -24395,7 +24395,7 @@
                     "open_issues": 5,
                     "owner": "chaoyanghe",
                     "repo": "Awesome-Federated-Learning",
-                    "stars": 2022,
+                    "stars": 2021,
                     "topics": [
                       "adversarial-attack-and-defense",
                       "communication-efficiency",
@@ -24522,7 +24522,7 @@
                     "open_issues": 2,
                     "owner": "xkLi-Allen",
                     "repo": "Awesome-GNN-Research",
-                    "stars": 412,
+                    "stars": 411,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:18.942Z"
@@ -24652,7 +24652,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9456,
+                    "stars": 9455,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -24719,7 +24719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:29:25.670Z",
+    "last_updated": "2026-11-20T19:06:23.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -24731,7 +24731,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2020,
+      "stars": 2019,
       "topics": [
         "artificial-intelligence",
         "awesome",
