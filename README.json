@@ -91,7 +91,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-09T20:51:44Z",
-                    "open_issues": 29,
+                    "open_issues": 31,
                     "owner": "mlcommons",
                     "repo": "medperf",
                     "stars": 172,
@@ -161,6 +161,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:26:34.829Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Data-driven federated learning in drug discovery with knowledge distillation",
+                  "description": "Nat. Mach. Intell. 2025 [PUB] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code to support the first FLuID publication.",
+                    "homepage": null,
+                    "id": 604196028,
+                    "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-12-19T13:55:05Z",
+                    "open_issues": 1,
+                    "owner": "LhasaLimited",
+                    "repo": "FLuID_POC",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-23T22:39:16.283Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +301,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-09T20:51:44Z",
-                    "open_issues": 29,
+                    "open_issues": 31,
                     "owner": "mlcommons",
                     "repo": "medperf",
                     "stars": 172,
@@ -3912,7 +3933,7 @@
                             "open_issues": 1,
                             "owner": "zihuanqiu",
                             "repo": "NUFILT",
-                            "stars": 11,
+                            "stars": 12,
                             "topics": []
                           },
                           "first_seen": "2026-10-17T14:13:09.134Z"
@@ -4583,6 +4604,27 @@
                         },
                         {
                           "node_type": "item",
+                          "title": "Differentially Private Federated $k$-Means Clustering with Server-Side Data. [PUB",
+                          "description": "jonnyascott/fed-dp-kmeans",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "Official Implementation for \"Differentially Private Federated k-Means Clustering with Server-Side Data\" [ICML 2025]",
+                            "homepage": null,
+                            "id": 994649236,
+                            "language": "Python",
+                            "license": "Apache-2.0",
+                            "last_commit": "2025-07-02T09:21:30Z",
+                            "open_issues": 0,
+                            "owner": "jonnyascott",
+                            "repo": "fed-dp-kmeans",
+                            "stars": 7,
+                            "topics": []
+                          },
+                          "first_seen": "2026-08-28T21:26:34.829Z"
+                        },
+                        {
+                          "node_type": "item",
                           "title": "FSL-SAGE: Accelerating Federated Split Learning via Smashed Activation Gradient Estimation. [PUB",
                           "description": "srijith1996/FSL-SAGE",
                           "children": [],
@@ -4624,27 +4666,6 @@
                             "owner": "Tracesource",
                             "repo": "EFIMVC",
                             "stars": 7,
-                            "topics": []
-                          },
-                          "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
-                          "title": "Differentially Private Federated $k$-Means Clustering with Server-Side Data. [PUB",
-                          "description": "jonnyascott/fed-dp-kmeans",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "Official Implementation for \"Differentially Private Federated k-Means Clustering with Server-Side Data\" [ICML 2025]",
-                            "homepage": null,
-                            "id": 994649236,
-                            "language": "Python",
-                            "license": "Apache-2.0",
-                            "last_commit": "2025-07-02T09:21:30Z",
-                            "open_issues": 0,
-                            "owner": "jonnyascott",
-                            "repo": "fed-dp-kmeans",
-                            "stars": 6,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -6010,7 +6031,7 @@
                             "open_issues": 4,
                             "owner": "prateeky2806",
                             "repo": "ties-merging",
-                            "stars": 224,
+                            "stars": 225,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -7041,7 +7062,7 @@
                             "open_issues": 17,
                             "owner": "google-research",
                             "repo": "federated",
-                            "stars": 765,
+                            "stars": 766,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -7844,7 +7865,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 328,
+                            "stars": 329,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -8699,7 +8720,7 @@
                             "open_issues": 17,
                             "owner": "google-research",
                             "repo": "federated",
-                            "stars": 765,
+                            "stars": 766,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -8754,7 +8775,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 328,
+                            "stars": 329,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -9271,7 +9292,7 @@
                             "open_issues": 17,
                             "owner": "google-research",
                             "repo": "federated",
-                            "stars": 765,
+                            "stars": 766,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9292,7 +9313,7 @@
                             "open_issues": 17,
                             "owner": "google-research",
                             "repo": "federated",
-                            "stars": 765,
+                            "stars": 766,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9313,7 +9334,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 328,
+                            "stars": 329,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -9653,7 +9674,7 @@
                             "open_issues": 17,
                             "owner": "google-research",
                             "repo": "federated",
-                            "stars": 765,
+                            "stars": 766,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -9880,7 +9901,7 @@
                             "open_issues": 17,
                             "owner": "google-research",
                             "repo": "federated",
-                            "stars": 765,
+                            "stars": 766,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10149,7 +10170,7 @@
                             "open_issues": 17,
                             "owner": "google-research",
                             "repo": "federated",
-                            "stars": 765,
+                            "stars": 766,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10170,7 +10191,7 @@
                             "open_issues": 17,
                             "owner": "google-research",
                             "repo": "federated",
-                            "stars": 765,
+                            "stars": 766,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10191,7 +10212,7 @@
                             "open_issues": 17,
                             "owner": "google-research",
                             "repo": "federated",
-                            "stars": 765,
+                            "stars": 766,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10212,7 +10233,7 @@
                             "open_issues": 1,
                             "owner": "Princeton-SysML",
                             "repo": "GradAttack",
-                            "stars": 206,
+                            "stars": 207,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -10696,7 +10717,7 @@
                             "open_issues": 17,
                             "owner": "google-research",
                             "repo": "federated",
-                            "stars": 765,
+                            "stars": 766,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -11448,7 +11469,7 @@
                             "language": "Python",
                             "license": "Apache-2.0",
                             "last_commit": "2026-04-23T04:56:47Z",
-                            "open_issues": 1,
+                            "open_issues": 2,
                             "owner": "TsingZ0",
                             "repo": "HtFLlib",
                             "stars": 249,
@@ -11552,27 +11573,6 @@
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
-                        },
-                        {
-                          "node_type": "item",
-                          "title": "FedMetro: Efficient Metro Passenger Flow Prediction via Federated Graph Learning. [PUB",
-                          "description": "AlexMufeng/FedMetro",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "KDD2025",
-                            "homepage": null,
-                            "id": 926166046,
-                            "language": "Python",
-                            "license": null,
-                            "last_commit": "2025-02-19T08:18:07Z",
-                            "open_issues": 0,
-                            "owner": "AlexMufeng",
-                            "repo": "FedMetro",
-                            "stars": 1,
-                            "topics": []
-                          },
-                          "first_seen": "2026-11-18T19:24:15.131Z"
                         },
                         {
                           "node_type": "item",
@@ -13829,7 +13829,7 @@
                             "open_issues": 1,
                             "owner": "Liar-Mask",
                             "repo": "FedMIA",
-                            "stars": 23,
+                            "stars": 24,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -13850,7 +13850,7 @@
                             "open_issues": 1,
                             "owner": "Liar-Mask",
                             "repo": "FedMIA",
-                            "stars": 23,
+                            "stars": 24,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -15102,8 +15102,8 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-21T23:24:44Z",
-                            "open_issues": 133,
+                            "last_commit": "2026-11-23T18:21:27Z",
+                            "open_issues": 135,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 1017,
@@ -15601,8 +15601,8 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-21T23:24:44Z",
-                            "open_issues": 133,
+                            "last_commit": "2026-11-23T18:21:27Z",
+                            "open_issues": 135,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 1017,
@@ -16332,7 +16332,7 @@
                             "open_issues": 3,
                             "owner": "gaoliang13",
                             "repo": "FedDC",
-                            "stars": 90,
+                            "stars": 91,
                             "topics": []
                           },
                           "first_seen": "2026-10-06T10:31:18.942Z"
@@ -17845,7 +17845,7 @@
                             "language": "Python",
                             "license": "Apache-2.0",
                             "last_commit": "2026-02-04T08:43:28Z",
-                            "open_issues": 11,
+                            "open_issues": 10,
                             "owner": "alibaba",
                             "repo": "Elastic-Federated-Learning-Solution",
                             "stars": 143,
@@ -18581,7 +18581,7 @@
                             "open_issues": 1,
                             "owner": "Xtra-Computing",
                             "repo": "NIID-Bench",
-                            "stars": 619,
+                            "stars": 620,
                             "topics": [
                               "benchmark",
                               "feature-imbalance",
@@ -20061,7 +20061,7 @@
                             "id": 246057012,
                             "language": "C++",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-19T08:13:38Z",
+                            "last_commit": "2026-11-23T07:38:31Z",
                             "open_issues": 0,
                             "owner": "zeyu-zh",
                             "repo": "TrustFL",
@@ -20100,7 +20100,7 @@
                             "open_issues": 0,
                             "owner": "JonasGeiping",
                             "repo": "breaching",
-                            "stars": 328,
+                            "stars": 329,
                             "topics": [
                               "decentralized-learning",
                               "federated-learning",
@@ -22134,7 +22134,7 @@
                     "id": 167349656,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2024-11-19T08:19:11Z",
+                    "last_commit": "2026-11-23T14:32:27Z",
                     "open_issues": 20,
                     "owner": "FederatedAI",
                     "repo": "FATE",
@@ -22203,7 +22203,7 @@
                     "id": 167349656,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2024-11-19T08:19:11Z",
+                    "last_commit": "2026-11-23T14:32:27Z",
                     "open_issues": 20,
                     "owner": "FederatedAI",
                     "repo": "FATE",
@@ -22304,11 +22304,11 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-21T00:36:14Z",
-                        "open_issues": 11,
+                        "last_commit": "2026-11-23T13:30:22Z",
+                        "open_issues": 6,
                         "owner": "OpenMined",
                         "repo": "PySyft",
-                        "stars": 10063,
+                        "stars": 10064,
                         "topics": [
                           "cryptography",
                           "deep-learning",
@@ -22335,11 +22335,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-22T16:24:12Z",
-                        "open_issues": 413,
+                        "last_commit": "2026-11-23T21:54:08Z",
+                        "open_issues": 414,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7216,
+                        "stars": 7218,
                         "topics": [
                           "ai",
                           "android",
@@ -22376,7 +22376,7 @@
                         "id": 167349656,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2024-11-19T08:19:11Z",
+                        "last_commit": "2026-11-23T14:32:27Z",
                         "open_issues": 20,
                         "owner": "FederatedAI",
                         "repo": "FATE",
@@ -22436,8 +22436,8 @@
                         "id": 161556784,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-22T15:04:47Z",
-                        "open_issues": 295,
+                        "last_commit": "2026-11-23T22:07:17Z",
+                        "open_issues": 294,
                         "owner": "google-parfait",
                         "repo": "tensorflow-federated",
                         "stars": 2452,
@@ -22556,7 +22556,7 @@
                         "open_issues": 5,
                         "owner": "primihub",
                         "repo": "primihub",
-                        "stars": 1415,
+                        "stars": 1416,
                         "topics": [
                           "federated-learning",
                           "fl",
@@ -22585,8 +22585,8 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-21T23:24:44Z",
-                        "open_issues": 133,
+                        "last_commit": "2026-11-23T18:21:27Z",
+                        "open_issues": 135,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
                         "stars": 1017,
@@ -22780,7 +22780,7 @@
                         "open_issues": 1,
                         "owner": "Xtra-Computing",
                         "repo": "NIID-Bench",
-                        "stars": 619,
+                        "stars": 620,
                         "topics": [
                           "benchmark",
                           "feature-imbalance",
@@ -23188,7 +23188,7 @@
                         "open_issues": 0,
                         "owner": "JonasGeiping",
                         "repo": "breaching",
-                        "stars": 328,
+                        "stars": 329,
                         "topics": [
                           "decentralized-learning",
                           "federated-learning",
@@ -23692,7 +23692,7 @@
                         "id": 414722606,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-20T17:47:11Z",
+                        "last_commit": "2026-11-23T21:55:22Z",
                         "open_issues": 23,
                         "owner": "APPFL",
                         "repo": "APPFL",
@@ -24148,7 +24148,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalWorkspace",
-                        "stars": 9190,
+                        "stars": 9187,
                         "topics": [
                           "compute-orchestration",
                           "distributed-systems",
@@ -24180,7 +24180,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4959,
+                        "stars": 4956,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24213,7 +24213,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4959,
+                        "stars": 4956,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24652,7 +24652,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9459,
+                    "stars": 9460,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -24719,7 +24719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:30:41.454Z",
+    "last_updated": "2026-11-23T22:39:16.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -24731,7 +24731,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2020,
+      "stars": 2021,
       "topics": [
         "artificial-intelligence",
         "awesome",
