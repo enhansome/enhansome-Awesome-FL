@@ -486,7 +486,7 @@
                     "open_issues": 12,
                     "owner": "HewlettPackard",
                     "repo": "swarm-learning",
-                    "stars": 354,
+                    "stars": 355,
                     "topics": [
                       "deep-learning",
                       "distributed-computing",
@@ -5385,7 +5385,7 @@
                             "open_issues": 0,
                             "owner": "Chen-Junbao",
                             "repo": "FedCCFA",
-                            "stars": 19,
+                            "stars": 20,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -7816,7 +7816,7 @@
                             "open_issues": 3,
                             "owner": "purp1eHaze",
                             "repo": "FedIPR",
-                            "stars": 41,
+                            "stars": 42,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -15102,8 +15102,8 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-23T18:21:27Z",
-                            "open_issues": 135,
+                            "last_commit": "2026-11-24T20:42:05Z",
+                            "open_issues": 129,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 1017,
@@ -15601,8 +15601,8 @@
                             "id": 388876833,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-23T18:21:27Z",
-                            "open_issues": 135,
+                            "last_commit": "2026-11-24T20:42:05Z",
+                            "open_issues": 129,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 1017,
@@ -16807,7 +16807,7 @@
                             "open_issues": 7,
                             "owner": "FederatedAI",
                             "repo": "FATE-LLM",
-                            "stars": 273,
+                            "stars": 274,
                             "topics": [
                               "llms",
                               "slms"
@@ -16831,7 +16831,7 @@
                             "open_issues": 7,
                             "owner": "FederatedAI",
                             "repo": "FATE-LLM",
-                            "stars": 273,
+                            "stars": 274,
                             "topics": [
                               "llms",
                               "slms"
@@ -22138,7 +22138,7 @@
                     "open_issues": 20,
                     "owner": "FederatedAI",
                     "repo": "FATE",
-                    "stars": 6110,
+                    "stars": 6111,
                     "topics": [
                       "algorithm",
                       "fate",
@@ -22207,7 +22207,7 @@
                     "open_issues": 20,
                     "owner": "FederatedAI",
                     "repo": "FATE",
-                    "stars": 6110,
+                    "stars": 6111,
                     "topics": [
                       "algorithm",
                       "fate",
@@ -22304,7 +22304,7 @@
                         "id": 97641933,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-23T13:30:22Z",
+                        "last_commit": "2026-11-24T19:52:16Z",
                         "open_issues": 6,
                         "owner": "OpenMined",
                         "repo": "PySyft",
@@ -22335,11 +22335,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-23T21:54:08Z",
-                        "open_issues": 414,
+                        "last_commit": "2026-11-24T21:08:29Z",
+                        "open_issues": 406,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7218,
+                        "stars": 7220,
                         "topics": [
                           "ai",
                           "android",
@@ -22380,7 +22380,7 @@
                         "open_issues": 20,
                         "owner": "FederatedAI",
                         "repo": "FATE",
-                        "stars": 6110,
+                        "stars": 6111,
                         "topics": [
                           "algorithm",
                           "fate",
@@ -22436,11 +22436,11 @@
                         "id": 161556784,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-23T22:07:17Z",
-                        "open_issues": 294,
+                        "last_commit": "2026-11-24T19:28:52Z",
+                        "open_issues": 292,
                         "owner": "google-parfait",
                         "repo": "tensorflow-federated",
-                        "stars": 2452,
+                        "stars": 2453,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:31:18.942Z"
@@ -22585,8 +22585,8 @@
                         "id": 388876833,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-23T18:21:27Z",
-                        "open_issues": 135,
+                        "last_commit": "2026-11-24T20:42:05Z",
+                        "open_issues": 129,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
                         "stars": 1017,
@@ -23074,7 +23074,7 @@
                         "open_issues": 3,
                         "owner": "ebagdasa",
                         "repo": "backdoors101",
-                        "stars": 387,
+                        "stars": 388,
                         "topics": [
                           "adversarial",
                           "adversarial-machine-learning",
@@ -23109,7 +23109,7 @@
                         "open_issues": 12,
                         "owner": "HewlettPackard",
                         "repo": "swarm-learning",
-                        "stars": 354,
+                        "stars": 355,
                         "topics": [
                           "deep-learning",
                           "distributed-computing",
@@ -23138,7 +23138,7 @@
                         "open_issues": 12,
                         "owner": "HewlettPackard",
                         "repo": "swarm-learning",
-                        "stars": 354,
+                        "stars": 355,
                         "topics": [
                           "deep-learning",
                           "distributed-computing",
@@ -24148,7 +24148,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalWorkspace",
-                        "stars": 9187,
+                        "stars": 9188,
                         "topics": [
                           "compute-orchestration",
                           "distributed-systems",
@@ -24180,7 +24180,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4956,
+                        "stars": 4957,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24213,7 +24213,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalCore",
-                        "stars": 4956,
+                        "stars": 4957,
                         "topics": [
                           "backend",
                           "fedavg",
@@ -24719,7 +24719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:39:16.283Z",
+    "last_updated": "2026-11-24T21:11:33.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -24731,7 +24731,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2021,
+      "stars": 2022,
       "topics": [
         "artificial-intelligence",
         "awesome",
