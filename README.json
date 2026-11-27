@@ -3361,7 +3361,7 @@
                             "open_issues": 30,
                             "owner": "WwZzz",
                             "repo": "easyFL",
-                            "stars": 636,
+                            "stars": 635,
                             "topics": [
                               "deep-learning",
                               "distributed-computing",
@@ -3389,7 +3389,7 @@
                             "open_issues": 30,
                             "owner": "WwZzz",
                             "repo": "easyFL",
-                            "stars": 636,
+                            "stars": 635,
                             "topics": [
                               "deep-learning",
                               "distributed-computing",
@@ -4031,7 +4031,7 @@
                             "open_issues": 1,
                             "owner": "AuroraZengfh",
                             "repo": "RobustMerge",
-                            "stars": 68,
+                            "stars": 67,
                             "topics": [
                               "model-merging",
                               "multi-modal-large-language-model",
@@ -4057,7 +4057,7 @@
                             "open_issues": 2,
                             "owner": "apanariello4",
                             "repo": "core-space-merging",
-                            "stars": 42,
+                            "stars": 41,
                             "topics": [
                               "model-merging",
                               "neurips",
@@ -5145,7 +5145,7 @@
                             "open_issues": 4,
                             "owner": "gstoica27",
                             "repo": "KnOTS",
-                            "stars": 98,
+                            "stars": 97,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -6031,7 +6031,7 @@
                             "open_issues": 4,
                             "owner": "prateeky2806",
                             "repo": "ties-merging",
-                            "stars": 225,
+                            "stars": 224,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T21:26:34.829Z"
@@ -8681,7 +8681,7 @@
                             "language": "Python",
                             "license": "MIT",
                             "last_commit": "2026-07-07T09:58:03Z",
-                            "open_issues": 27,
+                            "open_issues": 31,
                             "owner": "owkin",
                             "repo": "FLamby",
                             "stars": 246,
@@ -15103,7 +15103,7 @@
                             "language": "Python",
                             "license": "Apache-2.0",
                             "last_commit": "2026-11-26T04:57:01Z",
-                            "open_issues": 121,
+                            "open_issues": 123,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 1017,
@@ -15602,7 +15602,7 @@
                             "language": "Python",
                             "license": "Apache-2.0",
                             "last_commit": "2026-11-26T04:57:01Z",
-                            "open_issues": 121,
+                            "open_issues": 123,
                             "owner": "NVIDIA",
                             "repo": "NVFlare",
                             "stars": 1017,
@@ -16637,7 +16637,7 @@
                             "open_issues": 0,
                             "owner": "fanq15",
                             "repo": "GCoNet",
-                            "stars": 53,
+                            "stars": 52,
                             "topics": []
                           },
                           "first_seen": "2026-10-06T10:31:18.942Z"
@@ -22335,11 +22335,11 @@
                         "id": 241095326,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-26T16:31:22Z",
-                        "open_issues": 408,
+                        "last_commit": "2026-11-27T18:06:55Z",
+                        "open_issues": 409,
                         "owner": "flwrlabs",
                         "repo": "flower",
-                        "stars": 7225,
+                        "stars": 7226,
                         "topics": [
                           "ai",
                           "android",
@@ -22461,7 +22461,7 @@
                         "open_issues": 92,
                         "owner": "secretflow",
                         "repo": "secretflow",
-                        "stars": 2719,
+                        "stars": 2720,
                         "topics": [
                           "confidential-computing",
                           "data-analysis",
@@ -22586,7 +22586,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-26T04:57:01Z",
-                        "open_issues": 121,
+                        "open_issues": 123,
                         "owner": "NVIDIA",
                         "repo": "NVFlare",
                         "stars": 1017,
@@ -22807,7 +22807,7 @@
                         "open_issues": 30,
                         "owner": "WwZzz",
                         "repo": "easyFL",
-                        "stars": 636,
+                        "stars": 635,
                         "topics": [
                           "deep-learning",
                           "distributed-computing",
@@ -24148,7 +24148,7 @@
                         "open_issues": 0,
                         "owner": "Fractal-Compute-Orchestrations",
                         "repo": "FractalWorkspace",
-                        "stars": 9176,
+                        "stars": 9174,
                         "topics": [
                           "compute-orchestration",
                           "distributed-systems",
@@ -24652,7 +24652,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9463,
+                    "stars": 9464,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -24719,7 +24719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T20:11:24.127Z",
+    "last_updated": "2026-11-27T19:57:38.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
@@ -24731,7 +24731,7 @@
       "open_issues": 0,
       "owner": "youngfish42",
       "repo": "Awesome-FL",
-      "stars": 2022,
+      "stars": 2021,
       "topics": [
         "artificial-intelligence",
         "awesome",
